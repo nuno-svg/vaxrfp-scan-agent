@@ -39,6 +39,7 @@
       <option value="">All</option>
       <option value="new">New</option>
       <option value="reviewing">Reviewing</option>
+      <option value="watch">Watch list</option>
       <option value="applied">Applied</option>
       <option value="dismissed">Dismissed</option>
     </select>
@@ -59,16 +60,23 @@
   <label>Search: <input type="text" id="f-search" placeholder="title or country…"></label>
 </section>
 
+<section id="actions-bar">
+  <button id="btn-export-csv" type="button">Export CSV</button>
+  <span id="export-count"></span>
+</section>
+
 <table id="rfp-table">
   <thead>
     <tr>
-      <th>Title</th>
-      <th>Country</th>
-      <th>Top area</th>
-      <th>Fit</th>
-      <th>Source</th>
-      <th>Closes</th>
+      <th data-sort="title">Title</th>
+      <th data-sort="country">Country</th>
+      <th data-sort="area">Top area</th>
+      <th data-sort="fit">Fit</th>
+      <th data-sort="source">Source</th>
+      <th data-sort="published">Published</th>
+      <th data-sort="closes">Closes</th>
       <th>Status</th>
+      <th>Notes</th>
       <th>Action</th>
     </tr>
   </thead>

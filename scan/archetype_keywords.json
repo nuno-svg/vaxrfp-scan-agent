@@ -163,7 +163,7 @@
   },
 
   "publisher_boosts": {
-    "_comment": "Add a small boost when publisher is uniquely aligned with an expertise area.",
+    "_comment": "Bonus weight added when publisher is uniquely aligned with an expertise area. ONLY APPLIED WHEN THE AREA ALREADY HAS A KEYWORD MATCH (score > 0). This prevents the boost from inflating noise — a GAVI RFP about a Chair appointment will NOT get a procurement boost just because GAVI does procurement work.",
     "GAVI": {"procurement": 1, "manufacturing": 1, "cold_chain": 1},
     "UNITAID": {"manufacturing": 1, "procurement": 1},
     "Africa CDC": {"manufacturing": 1, "procurement": 1, "regulatory": 1},

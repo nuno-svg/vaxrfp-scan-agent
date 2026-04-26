@@ -12,7 +12,10 @@ keyword scoring filter further to keep only vaccine supply-chain consulting.
 """
 
 import requests
-from urllib.parse import quote
+
+import sys, os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from filters.countries import normalise_country_code
 
 API_URL = "https://api.ted.europa.eu/v3/notices/search"
 
@@ -34,7 +37,11 @@ CPV_CODES = [
 def _build_query() -> str:
     cpv_clause = " OR ".join(f'classification-cpv="{c}"' for c in CPV_CODES)
     notice_clause = '(notice-type="cn-standard" OR notice-type="cn-social")'
-    return f"{notice_clause} AND ({cpv_clause})"
+    # Restrict to notices published in the last 60 days — older notices
+    # are almost certainly closed even if they still appear under scope=ACTIVE.
+    # TED expects YYYYMMDD format or today(±N) for relative dates.
+    date_clause = 'publication-date>=today(-60)'
+    return f"{notice_clause} AND ({cpv_clause}) AND {date_clause}"
 
 
 def fetch() -> list[dict]:
@@ -86,7 +93,7 @@ def fetch() -> list[dict]:
 
         # Place of performance is a list of country/region codes
         pop = n.get("place-of-performance") or []
-        country = _normalise_country(pop[0]) if pop else None
+        country = normalise_country_code(pop[0]) if pop else None
 
         # Deadline (first lot's deadline if multiple)
         dl = n.get("deadline-receipt-tender-date-lot") or []
@@ -126,40 +133,4 @@ def _pick_lang(field) -> str | None:
         for v in field.values():
             if v:
                 return v[0] if isinstance(v, list) else v
-    return None
-
-
-# TED uses ISO 3166-1 alpha-3 codes, sometimes NUTS regions
-_ISO3_TO_ISO2 = {
-    "AGO": "AO", "BEN": "BJ", "BWA": "BW", "BFA": "BF", "BDI": "BI",
-    "CMR": "CM", "CPV": "CV", "CAF": "CF", "TCD": "TD", "COM": "KM",
-    "COG": "CG", "COD": "CD", "CIV": "CI", "DJI": "DJ", "EGY": "EG",
-    "GNQ": "GQ", "ERI": "ER", "SWZ": "SZ", "ETH": "ET", "GAB": "GA",
-    "GMB": "GM", "GHA": "GH", "GIN": "GN", "GNB": "GW", "KEN": "KE",
-    "LSO": "LS", "LBR": "LR", "LBY": "LY", "MDG": "MG", "MWI": "MW",
-    "MLI": "ML", "MRT": "MR", "MUS": "MU", "MAR": "MA", "MOZ": "MZ",
-    "NAM": "NA", "NER": "NE", "NGA": "NG", "RWA": "RW", "STP": "ST",
-    "SEN": "SN", "SYC": "SC", "SLE": "SL", "SOM": "SO", "ZAF": "ZA",
-    "SSD": "SS", "SDN": "SD", "TZA": "TZ", "TGO": "TG", "TUN": "TN",
-    "UGA": "UG", "ZMB": "ZM", "ZWE": "ZW",
-    "CHE": "CH", "DEU": "DE", "FRA": "FR", "GBR": "GB", "BEL": "BE",
-    "ITA": "IT", "ESP": "ES", "PRT": "PT", "NLD": "NL", "AUT": "AT",
-    "SWE": "SE", "DNK": "DK", "FIN": "FI", "NOR": "NO", "ISL": "IS",
-    "ARE": "AE", "BHR": "BH", "IRN": "IR", "IRQ": "IQ", "ISR": "IL",
-    "JOR": "JO", "KWT": "KW", "LBN": "LB", "OMN": "OM", "PSE": "PS",
-    "QAT": "QA", "SAU": "SA", "SYR": "SY", "TUR": "TR", "YEM": "YE",
-}
-
-
-def _normalise_country(code: str) -> str | None:
-    if not code or not isinstance(code, str):
-        return None
-    code = code.upper().strip()
-    if len(code) == 2:
-        return code
-    if len(code) == 3:
-        return _ISO3_TO_ISO2.get(code, code)
-    # NUTS regions like "BE10" — keep first 2 chars (country prefix)
-    if len(code) >= 4 and code[:2].isalpha():
-        return code[:2]
     return None

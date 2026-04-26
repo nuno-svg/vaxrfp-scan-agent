@@ -3,6 +3,7 @@
 // persists per-opportunity status (new/reviewing/applied/dismissed) in localStorage.
 
 const STORAGE_KEY = "vaxrfp.status.v1";
+const NOTES_KEY = "vaxrfp.notes.v1";
 const AREA_LABELS = {
   cold_chain: "Cold chain",
   manufacturing: "Manufacturing",
@@ -13,7 +14,8 @@ const AREA_LABELS = {
 
 let RAW = [];      // all opportunities loaded from JSON
 let META = {};     // meta.json content
-let STATUS = loadStatus();  // {id: 'new'|'reviewing'|'applied'|'dismissed'}
+let STATUS = loadStatus();  // {id: 'new'|'reviewing'|'watch'|'applied'|'dismissed'}
+let NOTES = loadNotes();    // {id: 'free text note'}
 
 // ---------- localStorage helpers ----------
 
@@ -39,6 +41,164 @@ function setStatus(id, value) {
   saveStatus();
 }
 
+function loadNotes() {
+  try {
+    return JSON.parse(localStorage.getItem(NOTES_KEY) || "{}");
+  } catch {
+    return {};
+  }
+}
+
+function saveNotes() {
+  localStorage.setItem(NOTES_KEY, JSON.stringify(NOTES));
+}
+
+function getNote(id) {
+  return NOTES[id] || "";
+}
+
+function setNote(id, value) {
+  const trimmed = (value || "").trim();
+  if (trimmed === "") delete NOTES[id];
+  else NOTES[id] = trimmed;
+  saveNotes();
+}
+
+// ---------- helpers ----------
+
+let SORT = { col: "fit", desc: true };  // default sort: highest fit first
+
+function relativeDate(iso) {
+  if (!iso) return null;
+  try {
+    const d = new Date(iso);
+    if (isNaN(d.getTime())) return null;
+    const now = new Date();
+    const diffMs = now - d;
+    const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+    if (diffDays < 0) return d.toISOString().slice(0, 10);
+    if (diffDays === 0) return "today";
+    if (diffDays === 1) return "yesterday";
+    if (diffDays < 30) return `${diffDays}d ago`;
+    if (diffDays < 365) return `${Math.floor(diffDays / 30)}mo ago`;
+    return d.toISOString().slice(0, 10);
+  } catch {
+    return null;
+  }
+}
+
+function getPublishedISO(r) {
+  // Manufacturer signals carry pubDate in raw.published
+  if (r.raw && r.raw.published) return r.raw.published;
+  // World Bank notices carry noticedate (DD-MMM-YYYY format)
+  if (r.raw && r.raw.wb_notice_type && r.noticedate) return r.noticedate;
+  // Otherwise fall back to first_seen if present
+  return r.first_seen || null;
+}
+
+// Dedup signals — multiple news articles about the same event from different
+// outlets get grouped under the highest-fit representative.
+function dedupSignals(rows) {
+  const groups = new Map();  // key -> {primary, dupes}
+  const out = [];
+  for (const r of rows) {
+    if (!r.source || !r.source.startsWith("Signal:")) {
+      out.push(r);
+      continue;
+    }
+    // Group key: manufacturer + first 5 significant words of title (lowercased)
+    const mfr = r.source.replace("Signal:", "").trim();
+    const titleNorm = (r.title || "")
+      .toLowerCase()
+      .replace(/[^a-z0-9 ]/g, " ")
+      .split(/\s+/)
+      .filter(w => w.length > 3)
+      .slice(0, 4)
+      .sort()
+      .join(" ");
+    const key = `${mfr}::${titleNorm}`;
+    if (!groups.has(key)) {
+      groups.set(key, { primary: r, dupes: [] });
+    } else {
+      const g = groups.get(key);
+      // Keep the one with highest fit_total as primary
+      if ((r.fit_total || 0) > (g.primary.fit_total || 0)) {
+        g.dupes.push(g.primary);
+        g.primary = r;
+      } else {
+        g.dupes.push(r);
+      }
+    }
+  }
+  for (const { primary, dupes } of groups.values()) {
+    if (dupes.length > 0) {
+      primary._dupe_count = dupes.length;
+      primary._dupe_sources = dupes.map(d => d.url);
+    }
+    out.push(primary);
+  }
+  return out;
+}
+
+function sortRows(rows) {
+  const col = SORT.col;
+  const dir = SORT.desc ? -1 : 1;
+  return rows.slice().sort((a, b) => {
+    let av, bv;
+    switch (col) {
+      case "title":     av = (a.title || "").toLowerCase(); bv = (b.title || "").toLowerCase(); break;
+      case "country":   av = (a.country || "zzz").toLowerCase(); bv = (b.country || "zzz").toLowerCase(); break;
+      case "area":      av = a.fit_top_area || ""; bv = b.fit_top_area || ""; break;
+      case "fit":       av = a.fit_total || 0; bv = b.fit_total || 0; break;
+      case "source":    av = a.source || ""; bv = b.source || ""; break;
+      case "published": av = getPublishedISO(a) || ""; bv = getPublishedISO(b) || ""; break;
+      case "closes":    av = a.deadline || "9999-12-31"; bv = b.deadline || "9999-12-31"; break;
+      default:          av = a.fit_total || 0; bv = b.fit_total || 0;
+    }
+    if (av < bv) return -1 * dir;
+    if (av > bv) return  1 * dir;
+    return 0;
+  });
+}
+
+function exportCSV(rows) {
+  const headers = ["Title", "Country", "Top area", "Fit", "Source",
+                   "Published", "Deadline", "Status", "Notes", "URL"];
+  const lines = [headers.join(",")];
+  for (const r of rows) {
+    const fields = [
+      r.title || "",
+      r.country || "",
+      AREA_LABELS[r.fit_top_area] || r.fit_top_area || "",
+      (r.fit_total || 0).toFixed(1),
+      r.source || "",
+      getPublishedISO(r) ? getPublishedISO(r).slice(0, 10) : "",
+      r.deadline || "",
+      getStatus(r.id),
+      getNote(r.id),
+      r.url || "",
+    ];
+    lines.push(fields.map(csvEscape).join(","));
+  }
+  const csv = lines.join("\n");
+  const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  const stamp = new Date().toISOString().slice(0, 10);
+  a.href = url;
+  a.download = `vaxrfp-export-${stamp}.csv`;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+function csvEscape(v) {
+  const s = String(v);
+  if (s.includes(",") || s.includes('"') || s.includes("\n")) {
+    return `"${s.replace(/"/g, '""')}"`;
+  }
+  return s;
+}
+
 // ---------- data loading ----------
 
 async function loadData() {
@@ -51,7 +211,7 @@ async function loadData() {
     META = await metaRes.json();
   } catch (e) {
     document.getElementById("rfp-tbody").innerHTML =
-      `<tr><td colspan="8" id="empty-msg">Could not load data: ${e.message}</td></tr>`;
+      `<tr><td colspan="10" id="empty-msg">Could not load data: ${e.message}</td></tr>`;
     return;
   }
 
@@ -118,9 +278,14 @@ function applyFilters(rows) {
 // ---------- rendering ----------
 
 function applyAndRender() {
-  const filtered = applyFilters(RAW);
+  let filtered = applyFilters(RAW);
+  filtered = dedupSignals(filtered);
+  filtered = sortRows(filtered);
   renderKPIs(filtered);
   renderTable(filtered);
+  // Update export count badge
+  const ec = document.getElementById("export-count");
+  if (ec) ec.textContent = `(${filtered.length} rows)`;
 }
 
 function renderKPIs(filtered) {
@@ -139,7 +304,7 @@ function renderKPIs(filtered) {
 function renderTable(rows) {
   const tbody = document.getElementById("rfp-tbody");
   if (!rows.length) {
-    tbody.innerHTML = `<tr><td colspan="8" id="empty-msg">No opportunities match the current filters.</td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="10" id="empty-msg">No opportunities match the current filters.</td></tr>`;
     return;
   }
 
@@ -219,7 +384,28 @@ function renderRow(r) {
   // Source
   const tdSource = document.createElement("td");
   tdSource.textContent = r.source;
+  if (r._dupe_count) {
+    const badge = document.createElement("span");
+    badge.className = "dupe-badge";
+    badge.textContent = `+${r._dupe_count}`;
+    badge.title = `Also covered by ${r._dupe_count} other source${r._dupe_count > 1 ? "s" : ""}`;
+    tdSource.appendChild(document.createTextNode(" "));
+    tdSource.appendChild(badge);
+  }
   tr.appendChild(tdSource);
+
+  // Published (relative date)
+  const tdPub = document.createElement("td");
+  tdPub.className = "published-cell";
+  const pubISO = getPublishedISO(r);
+  if (pubISO) {
+    const rel = relativeDate(pubISO);
+    tdPub.textContent = rel || "—";
+    tdPub.title = pubISO;
+  } else {
+    tdPub.textContent = "—";
+  }
+  tr.appendChild(tdPub);
 
   // Closes (deadline)
   const tdClose = document.createElement("td");
@@ -245,7 +431,7 @@ function renderRow(r) {
   const tdStatus = document.createElement("td");
   const sel = document.createElement("select");
   sel.className = `status-select status-${getStatus(r.id)}`;
-  for (const opt of ["new", "reviewing", "applied", "dismissed"]) {
+  for (const opt of ["new", "reviewing", "watch", "applied", "dismissed"]) {
     const o = document.createElement("option");
     o.value = opt;
     o.textContent = opt;
@@ -259,6 +445,19 @@ function renderRow(r) {
   });
   tdStatus.appendChild(sel);
   tr.appendChild(tdStatus);
+
+  // Notes cell — free-text field saved to localStorage on blur
+  const tdNotes = document.createElement("td");
+  const noteInput = document.createElement("textarea");
+  noteInput.className = "note-input";
+  noteInput.rows = 1;
+  noteInput.placeholder = "add note…";
+  noteInput.value = getNote(r.id);
+  noteInput.addEventListener("blur", () => {
+    setNote(r.id, noteInput.value);
+  });
+  tdNotes.appendChild(noteInput);
+  tr.appendChild(tdNotes);
 
   // Action: open link
   const tdAction = document.createElement("td");
@@ -282,7 +481,47 @@ function wireFilters() {
   document.getElementById("f-search").addEventListener("input", applyAndRender);
 }
 
+function wireExport() {
+  const btn = document.getElementById("btn-export-csv");
+  if (!btn) return;
+  btn.addEventListener("click", () => {
+    let filtered = applyFilters(RAW);
+    filtered = dedupSignals(filtered);
+    filtered = sortRows(filtered);
+    if (filtered.length === 0) {
+      alert("Nothing to export — adjust filters first.");
+      return;
+    }
+    exportCSV(filtered);
+  });
+}
+
+function wireSorting() {
+  const headers = document.querySelectorAll("#rfp-table th[data-sort]");
+  for (const th of headers) {
+    th.style.cursor = "pointer";
+    th.addEventListener("click", () => {
+      const col = th.dataset.sort;
+      if (SORT.col === col) {
+        SORT.desc = !SORT.desc;
+      } else {
+        SORT.col = col;
+        // numeric/date columns default to desc (newest/highest first)
+        SORT.desc = ["fit", "published", "closes"].includes(col);
+      }
+      // Update visual indicator
+      for (const h of headers) {
+        h.classList.remove("sort-asc", "sort-desc");
+      }
+      th.classList.add(SORT.desc ? "sort-desc" : "sort-asc");
+      applyAndRender();
+    });
+  }
+}
+
 // ---------- init ----------
 
 wireFilters();
+wireExport();
+wireSorting();
 loadData();

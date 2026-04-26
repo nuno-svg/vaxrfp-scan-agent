@@ -19,20 +19,26 @@ def passes_gates(title: str, description: str, source: str = "",
 
     Returns (passes, reason_if_not).
 
-    TED notices already classified under CPV 33651600 (Vaccines) bypass the
-    domain gate — the CPV code is itself the proof of domain match.
+    Special cases:
+      - TED notices already classified under CPV 33651600 (Vaccines) bypass
+        the domain gate via text inference.
+      - Signal:* sources (manufacturer press releases) only need the domain
+        gate — they aren't formal RFPs, so the "consultancy/TA" service gate
+        doesn't apply. They surface as upstream signals of future opportunities.
     """
     text = f"{title} {description}".lower()
 
+    # Manufacturer signals: domain gate only
+    if source.startswith("Signal:"):
+        if _matches_any(text, CONFIG["domain_gate_keywords"]):
+            return True, ""
+        return False, "no_domain_match"
+
     # Structural domain match: TED CPV-classified vaccine notices skip text gate
     if source == "TED" and raw:
-        # The TED scraper doesn't currently include CPV in raw, but we keep
-        # the title prefix check ("Country-City: <subject>") fallback below.
-        # We accept TED notices that mention any health/medical service term.
         if any(kw in text for kw in ["vaccine", "vaccin", "pharmaceutical",
                                       "medicinal", "health service",
                                       "supply chain", "cold chain"]):
-            # Still require a service-type indicator
             if _matches_any(text, CONFIG["service_gate_keywords"]):
                 return True, ""
 
@@ -60,9 +66,13 @@ def compute_fit_scores(title: str, description: str, source: str) -> dict:
         for kw, weight in area_def["keywords"].items():
             if kw.lower() in text:
                 score += weight
-        # Apply publisher boost if applicable
-        boost = CONFIG.get("publisher_boosts", {}).get(source, {}).get(area_key, 0)
-        score += boost
+        # Apply publisher boost ONLY if there's already at least one keyword
+        # match in this area. Otherwise the boost would inflate noise — every
+        # RFP from a given publisher would score >0 in every "boosted" area
+        # regardless of actual relevance.
+        if score > 0:
+            boost = CONFIG.get("publisher_boosts", {}).get(source, {}).get(area_key, 0)
+            score += boost
         per_area[area_key] = min(score, 10)
 
     # Breadth bonus: number of areas with score >= 3, capped at 3

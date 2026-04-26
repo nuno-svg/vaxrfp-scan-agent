@@ -17,8 +17,12 @@ sys.path.insert(0, str(Path(__file__).parent))
 from filters.sanctions import check_sanctions
 from filters.keywords import passes_gates, compute_fit_scores
 from filters.eligibility import check_eligibility
+from filters.countries import detect_country, normalise_country_code
 
-from sources import reliefweb, gavi, unitaid, africacdc, ted_europa
+from sources import (
+    reliefweb, gavi, unitaid, africacdc, ted_europa,
+    manufacturer_signals, cepi, bmgf, worldbank,
+)
 
 # Active sources. Add new ones here as they are implemented.
 SOURCES = [
@@ -27,6 +31,10 @@ SOURCES = [
     ("UNITAID", unitaid.fetch),
     ("Africa CDC", africacdc.fetch),
     ("TED Europa", ted_europa.fetch),
+    ("CEPI", cepi.fetch),
+    ("BMGF", bmgf.fetch),
+    ("World Bank", worldbank.fetch),
+    ("Manufacturer Signals", manufacturer_signals.fetch),
 ]
 
 DATA_DIR = Path(__file__).parent.parent / "data"
@@ -36,7 +44,7 @@ HISTORY_DIR.mkdir(exist_ok=True)
 
 MIN_VALUE_USD = 50_000   # discard tiny contracts
 URGENT_DAYS = 7          # flag deadlines within this many days
-MIN_FIT_SCORE = 1        # discard zero-fit noise (matches gates but no area)
+MIN_FIT_SCORE = 0        # show all gate-passing items; expired still excluded
 
 
 def make_id(source: str, title: str, url: str) -> str:
@@ -65,6 +73,16 @@ def process_one(raw: dict) -> tuple[dict | None, dict | None]:
     source = raw.get("source", "unknown")
     country = raw.get("country")
     url = raw.get("url", "")
+
+    # Normalise country code from scraper (handles ISO-3, NUTS regions, etc.)
+    country = normalise_country_code(country)
+
+    # If scraper didn't identify a country, try detecting from title + description
+    if country is None or country == "_AU":
+        # Africa CDC defaults to _AU but we want a specific country if possible
+        detected = detect_country(f"{title} {description}")
+        if detected:
+            country = detected
 
     rid = make_id(source, title, url)
     free_text = f"{title} {description} {country or ''}"
@@ -114,7 +132,21 @@ def process_one(raw: dict) -> tuple[dict | None, dict | None]:
     # 4) Compute fit scores
     scores = compute_fit_scores(title, description, source)
 
-    # 4b) Min fit floor — exclude items that pass gates but have no area signal
+    # 4b) Hard exclude expired RFPs — they're noise regardless of fit
+    deadline_days = days_until(raw.get("deadline"))
+    if deadline_days is not None and deadline_days < 0:
+        return None, {
+            "id": rid,
+            "source": source,
+            "title": title,
+            "url": url,
+            "country": country,
+            "exclusion_reason": f"expired (deadline was {raw.get('deadline')}, {-deadline_days} days ago)",
+            "exclusion_type": "expired",
+            "excluded_at": datetime.now(timezone.utc).isoformat(),
+        }
+
+    # 4c) Min fit floor — exclude items that pass gates but have no area signal
     if scores["total"] < MIN_FIT_SCORE:
         return None, {
             "id": rid,
@@ -130,14 +162,13 @@ def process_one(raw: dict) -> tuple[dict | None, dict | None]:
     # 5) Eligibility check
     elig = check_eligibility(title, description, source)
 
-    # 6) Flags
-    deadline_days = days_until(raw.get("deadline"))
+    # 6) Flags (deadline_days already computed above in step 4b)
     flags = {
         "sanctioned": False,
         "requires_review_sanctions": sanc["requires_review"],
         "requires_review_eligibility": elig["requires_review"],
         "urgent_deadline": deadline_days is not None and 0 <= deadline_days <= URGENT_DAYS,
-        "expired": deadline_days is not None and deadline_days < 0,
+        "expired": False,  # never True here — expired items are excluded earlier
     }
 
     record = {
@@ -159,6 +190,7 @@ def process_one(raw: dict) -> tuple[dict | None, dict | None]:
             "sanctions": sanc["reason"],
             "eligibility": elig["reason"],
         },
+        "raw": raw.get("raw") or {},  # source-specific metadata (publish date, etc.)
         "fetched_at": datetime.now(timezone.utc).isoformat(),
     }
     return record, None
