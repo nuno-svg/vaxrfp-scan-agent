@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_run": "2026-04-26T05:46:59.300165+00:00",
-    "duration_seconds": 5.892121,
+    "last_run": "2026-04-26T06:03:51.653500+00:00",
+    "duration_seconds": 3.504957,
     "source_stats": {
       "ReliefWeb": {
         "fetched": 0,
@@ -12,7 +12,7 @@
         "errors": 0
       },
       "UNITAID": {
-        "fetched": 8,
+        "fetched": 0,
         "errors": 0
       },
       "Africa CDC": {
@@ -24,45 +24,12 @@
         "errors": 0
       }
     },
-    "total_kept": 9,
-    "total_excluded": 103,
+    "total_kept": 3,
+    "total_excluded": 101,
     "min_value_usd": 50000,
     "urgent_days_threshold": 7
   },
   "opportunities": [
-    {
-      "id": "d54e909f7fcd",
-      "source": "UNITAID",
-      "title": "INSPIRE – Improving National Supply Chains for Maternal and Newborn Health (MNH) Product Access and…",
-      "url": "https://unitaid.org/call-for-proposal/inspire-improving-national-supply-chains-for-maternal-and-newborn-health-mnh-product-access-and-resource-effectiveness/",
-      "country": null,
-      "deadline": null,
-      "deadline_days": null,
-      "value_usd": null,
-      "description": "",
-      "fit_per_area": {
-        "cold_chain": 3,
-        "manufacturing": 1,
-        "regulatory": 0,
-        "procurement": 1,
-        "mel": 0
-      },
-      "fit_total": 3,
-      "fit_top_area": "cold_chain",
-      "breadth_bonus": 0,
-      "flags": {
-        "sanctioned": false,
-        "requires_review_sanctions": false,
-        "requires_review_eligibility": false,
-        "urgent_deadline": false,
-        "expired": false
-      },
-      "flag_notes": {
-        "sanctions": "",
-        "eligibility": ""
-      },
-      "fetched_at": "2026-04-26T05:46:59.297234+00:00"
-    },
     {
       "id": "705d8c9763e8",
       "source": "TED",
@@ -94,7 +61,7 @@
         "sanctions": "",
         "eligibility": ""
       },
-      "fetched_at": "2026-04-26T05:46:59.299123+00:00"
+      "fetched_at": "2026-04-26T06:03:51.652712+00:00"
     },
     {
       "id": "221b84f69d69",
@@ -127,172 +94,7 @@
         "sanctions": "",
         "eligibility": ""
       },
-      "fetched_at": "2026-04-26T05:46:59.296995+00:00"
-    },
-    {
-      "id": "afe0d4735f6c",
-      "source": "UNITAID",
-      "title": "Accelerating Cervical Cancer Elimination through Secondary Prevention in Low- and Middle-Income Countries",
-      "url": "https://unitaid.org/call-for-proposal/accelerating-cervical-cancer-elimination-through-secondary-prevention-in-low-and-middle-income-countries/",
-      "country": null,
-      "deadline": null,
-      "deadline_days": null,
-      "value_usd": null,
-      "description": "",
-      "fit_per_area": {
-        "cold_chain": 0,
-        "manufacturing": 1,
-        "regulatory": 0,
-        "procurement": 1,
-        "mel": 0
-      },
-      "fit_total": 1,
-      "fit_top_area": "manufacturing",
-      "breadth_bonus": 0,
-      "flags": {
-        "sanctioned": false,
-        "requires_review_sanctions": false,
-        "requires_review_eligibility": false,
-        "urgent_deadline": false,
-        "expired": false
-      },
-      "flag_notes": {
-        "sanctions": "",
-        "eligibility": ""
-      },
-      "fetched_at": "2026-04-26T05:46:59.297075+00:00"
-    },
-    {
-      "id": "80b27eb0a07a",
-      "source": "UNITAID",
-      "title": "Cost-effective and high impact rollout of lenacapavir for HIV prevention",
-      "url": "https://unitaid.org/call-for-proposal/cost-effective-and-high-impact-rollout-of-lenacapavir-for-hiv-prevention/",
-      "country": null,
-      "deadline": null,
-      "deadline_days": null,
-      "value_usd": null,
-      "description": "",
-      "fit_per_area": {
-        "cold_chain": 0,
-        "manufacturing": 1,
-        "regulatory": 0,
-        "procurement": 1,
-        "mel": 0
-      },
-      "fit_total": 1,
-      "fit_top_area": "manufacturing",
-      "breadth_bonus": 0,
-      "flags": {
-        "sanctioned": false,
-        "requires_review_sanctions": false,
-        "requires_review_eligibility": false,
-        "urgent_deadline": false,
-        "expired": false
-      },
-      "flag_notes": {
-        "sanctions": "",
-        "eligibility": ""
-      },
-      "fetched_at": "2026-04-26T05:46:59.297376+00:00"
-    },
-    {
-      "id": "bad803272b61",
-      "source": "UNITAID",
-      "title": "Improving access to lifesaving tools for prevention, diagnosis, and management of pre-eclampsia and maternal anemia",
-      "url": "https://unitaid.org/call-for-proposal/improving-access-to-lifesaving-tools-for-prevention-diagnosis-and-management-of-pre-eclampsia-and-maternal-anemia/",
-      "country": null,
-      "deadline": null,
-      "deadline_days": null,
-      "value_usd": null,
-      "description": "Unitaid is pleased to announce this call for proposals aimed at improving access to medical…",
-      "fit_per_area": {
-        "cold_chain": 0,
-        "manufacturing": 1,
-        "regulatory": 0,
-        "procurement": 1,
-        "mel": 0
-      },
-      "fit_total": 1,
-      "fit_top_area": "manufacturing",
-      "breadth_bonus": 0,
-      "flags": {
-        "sanctioned": false,
-        "requires_review_sanctions": false,
-        "requires_review_eligibility": false,
-        "urgent_deadline": false,
-        "expired": false
-      },
-      "flag_notes": {
-        "sanctions": "",
-        "eligibility": ""
-      },
-      "fetched_at": "2026-04-26T05:46:59.297480+00:00"
-    },
-    {
-      "id": "892dfaffea7c",
-      "source": "UNITAID",
-      "title": "Enhancing and sustaining access to medical oxygen innovations",
-      "url": "https://unitaid.org/call-for-proposal/enhancing-and-sustaining-access-to-medical-oxygen-innovations/",
-      "country": null,
-      "deadline": null,
-      "deadline_days": null,
-      "value_usd": null,
-      "description": "Unitaid is pleased to announce this call for proposals aimed at improving access to medical…",
-      "fit_per_area": {
-        "cold_chain": 0,
-        "manufacturing": 1,
-        "regulatory": 0,
-        "procurement": 1,
-        "mel": 0
-      },
-      "fit_total": 1,
-      "fit_top_area": "manufacturing",
-      "breadth_bonus": 0,
-      "flags": {
-        "sanctioned": false,
-        "requires_review_sanctions": false,
-        "requires_review_eligibility": false,
-        "urgent_deadline": false,
-        "expired": false
-      },
-      "flag_notes": {
-        "sanctions": "",
-        "eligibility": ""
-      },
-      "fetched_at": "2026-04-26T05:46:59.297559+00:00"
-    },
-    {
-      "id": "6a9ad2c40cd2",
-      "source": "UNITAID",
-      "title": "Post-discharge malaria chemoprevention",
-      "url": "https://unitaid.org/call-for-proposal/post-discharge-malaria-chemoprevention/",
-      "country": null,
-      "deadline": null,
-      "deadline_days": null,
-      "value_usd": null,
-      "description": "Unitaid is pleased to announce this Call for Proposals aimed at catalyzing uptake of country-led…",
-      "fit_per_area": {
-        "cold_chain": 0,
-        "manufacturing": 1,
-        "regulatory": 0,
-        "procurement": 1,
-        "mel": 0
-      },
-      "fit_total": 1,
-      "fit_top_area": "manufacturing",
-      "breadth_bonus": 0,
-      "flags": {
-        "sanctioned": false,
-        "requires_review_sanctions": false,
-        "requires_review_eligibility": false,
-        "urgent_deadline": false,
-        "expired": false
-      },
-      "flag_notes": {
-        "sanctions": "",
-        "eligibility": ""
-      },
-      "fetched_at": "2026-04-26T05:46:59.297631+00:00"
+      "fetched_at": "2026-04-26T06:03:51.651443+00:00"
     },
     {
       "id": "20afca7622c8",
@@ -325,7 +127,7 @@
         "sanctions": "",
         "eligibility": ""
       },
-      "fetched_at": "2026-04-26T05:46:59.297716+00:00"
+      "fetched_at": "2026-04-26T06:03:51.651528+00:00"
     }
   ]
 }
