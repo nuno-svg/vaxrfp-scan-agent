@@ -16,11 +16,32 @@
   </p>
 </header>
 
-<section class="kpis">
-  <div class="kpi"><div class="kpi-num" id="kpi-total">—</div><div class="kpi-lab">Total in pipeline</div></div>
-  <div class="kpi"><div class="kpi-num" id="kpi-new">—</div><div class="kpi-lab">New to review</div></div>
-  <div class="kpi"><div class="kpi-num" id="kpi-applied">—</div><div class="kpi-lab">Applied</div></div>
-  <div class="kpi"><div class="kpi-num" id="kpi-top">—</div><div class="kpi-lab">Top fit score</div></div>
+<!-- View toggle: RFPs (formal opportunities) vs Signals (early-warning news) -->
+<nav class="view-tabs" role="tablist">
+  <button id="tab-rfps" class="view-tab active" role="tab" aria-selected="true">
+    RFPs <span class="tab-count" id="tab-count-rfps">—</span>
+  </button>
+  <button id="tab-signals" class="view-tab" role="tab" aria-selected="false">
+    Signals <span class="tab-count" id="tab-count-signals">—</span>
+  </button>
+  <p class="tab-help" id="tab-help">
+    Formal RFPs, EOIs, and CFPs scored against 5 expertise areas.
+  </p>
+</nav>
+
+<!-- KPIs change based on active view -->
+<section class="kpis" id="kpis-rfps">
+  <div class="kpi"><div class="kpi-num" id="kpi-rfps-total">—</div><div class="kpi-lab">RFPs in pipeline</div></div>
+  <div class="kpi"><div class="kpi-num" id="kpi-rfps-new">—</div><div class="kpi-lab">New to review</div></div>
+  <div class="kpi"><div class="kpi-num" id="kpi-rfps-applied">—</div><div class="kpi-lab">Applied</div></div>
+  <div class="kpi"><div class="kpi-num" id="kpi-rfps-top">—</div><div class="kpi-lab">Top fit score</div></div>
+</section>
+
+<section class="kpis hidden" id="kpis-signals">
+  <div class="kpi"><div class="kpi-num" id="kpi-signals-total">—</div><div class="kpi-lab">Signals (last 90d)</div></div>
+  <div class="kpi"><div class="kpi-num" id="kpi-signals-new">—</div><div class="kpi-lab">New since last visit</div></div>
+  <div class="kpi"><div class="kpi-num" id="kpi-signals-watch">—</div><div class="kpi-lab">On watch list</div></div>
+  <div class="kpi"><div class="kpi-num" id="kpi-signals-mfrs">—</div><div class="kpi-lab">Manufacturers active</div></div>
 </section>
 
 <section class="filters">
@@ -56,7 +77,7 @@
   <label>Source:
     <select id="f-source"><option value="">All</option></select>
   </label>
-  <label>Hide expired: <input type="checkbox" id="f-hide-expired" checked></label>
+  <label class="filter-hide-expired">Hide expired: <input type="checkbox" id="f-hide-expired" checked></label>
   <label>Search: <input type="text" id="f-search" placeholder="title or country…"></label>
 </section>
 
@@ -74,7 +95,7 @@
       <th data-sort="fit">Fit</th>
       <th data-sort="source">Source</th>
       <th data-sort="published">Published</th>
-      <th data-sort="closes">Closes</th>
+      <th data-sort="closes" class="col-closes">Closes</th>
       <th>Status</th>
       <th>Notes</th>
       <th>Action</th>
@@ -85,10 +106,17 @@
 
 <footer>
   <p>
-    Sources: ReliefWeb API (GAVI, UNITAID, GFATM, WHO, UNICEF, Africa CDC, IFC, EIB, BMGF, CEPI, MPP), GAVI direct, UNITAID direct, Africa CDC direct, UNGM public notices.
+    <strong>RFPs:</strong> ReliefWeb API, GAVI, UNITAID, Africa CDC, TED Europa, CEPI, BMGF, World Bank.
+    Goods/works tenders are excluded — the pipeline shows consultancy/TA opportunities only.
     Fit score = max expertise area score (0–10) + breadth bonus.
     Sanctions filter: UN/EU/OFAC hard exclusion list applied at source.
-    Status changes are stored in your browser (localStorage) — they do not sync across devices.
+  </p>
+  <p>
+    <strong>Signals:</strong> Google News RSS for vaccine manufacturer activity (Biovac, Afrigen, EVA Pharma, Aspen, Institut Pasteur Dakar, BioNTech Rwanda).
+    Signals are early-warning indicators of upstream procurement, not formal RFPs.
+  </p>
+  <p>
+    Status changes and notes are stored in your browser (localStorage) and do not sync across devices.
   </p>
 </footer>
 

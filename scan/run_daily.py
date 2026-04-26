@@ -11,7 +11,6 @@ import traceback
 from datetime import datetime, timezone
 from pathlib import Path
 
-# Make sibling packages importable when running as `python scan/run_daily.py`
 sys.path.insert(0, str(Path(__file__).parent))
 
 from filters.sanctions import check_sanctions
@@ -21,7 +20,8 @@ from filters.countries import detect_country, normalise_country_code
 
 from sources import (
     reliefweb, gavi, unitaid, africacdc, ted_europa,
-    manufacturer_signals, cepi, bmgf, worldbank,
+    manufacturer_signals, cepi, bmgf, worldbank, ungm,
+    donor_signals,
 )
 
 # Active sources. Add new ones here as they are implemented.
@@ -34,7 +34,9 @@ SOURCES = [
     ("CEPI", cepi.fetch),
     ("BMGF", bmgf.fetch),
     ("World Bank", worldbank.fetch),
+    ("UNGM", ungm.fetch),
     ("Manufacturer Signals", manufacturer_signals.fetch),
+    ("Donor Signals", donor_signals.fetch),
 ]
 
 DATA_DIR = Path(__file__).parent.parent / "data"
@@ -42,9 +44,9 @@ DATA_DIR.mkdir(exist_ok=True)
 HISTORY_DIR = DATA_DIR / "history"
 HISTORY_DIR.mkdir(exist_ok=True)
 
-MIN_VALUE_USD = 50_000   # discard tiny contracts
-URGENT_DAYS = 7          # flag deadlines within this many days
-MIN_FIT_SCORE = 0        # show all gate-passing items; expired still excluded
+MIN_VALUE_USD = 50_000
+URGENT_DAYS = 7
+MIN_FIT_SCORE = 0
 
 
 def make_id(source: str, title: str, url: str) -> str:
@@ -74,12 +76,9 @@ def process_one(raw: dict) -> tuple[dict | None, dict | None]:
     country = raw.get("country")
     url = raw.get("url", "")
 
-    # Normalise country code from scraper (handles ISO-3, NUTS regions, etc.)
     country = normalise_country_code(country)
 
-    # If scraper didn't identify a country, try detecting from title + description
     if country is None or country == "_AU":
-        # Africa CDC defaults to _AU but we want a specific country if possible
         detected = detect_country(f"{title} {description}")
         if detected:
             country = detected
@@ -91,27 +90,27 @@ def process_one(raw: dict) -> tuple[dict | None, dict | None]:
     sanc = check_sanctions(country, free_text)
     if sanc["sanctioned"]:
         return None, {
-            "id": rid,
-            "source": source,
-            "title": title,
-            "url": url,
+            "id": rid, "source": source, "title": title, "url": url,
             "country": country,
             "exclusion_reason": sanc["reason"],
             "exclusion_type": "sanctioned",
             "excluded_at": datetime.now(timezone.utc).isoformat(),
         }
 
-    # 2) Domain + service gates
+    # 2) Domain + service + goods + source-specific gates
     passes, gate_reason = passes_gates(title, description, source, raw.get("raw"))
     if not passes:
+        # Use a finer exclusion_type so we can audit goods rejections separately
+        excl_type = "gate"
+        if gate_reason.startswith("goods_tender"):
+            excl_type = "goods"
+        elif gate_reason == "bmgf_no_vaccine_in_head":
+            excl_type = "bmgf_strict"
         return None, {
-            "id": rid,
-            "source": source,
-            "title": title,
-            "url": url,
+            "id": rid, "source": source, "title": title, "url": url,
             "country": country,
             "exclusion_reason": gate_reason,
-            "exclusion_type": "gate",
+            "exclusion_type": excl_type,
             "excluded_at": datetime.now(timezone.utc).isoformat(),
         }
 
@@ -119,10 +118,7 @@ def process_one(raw: dict) -> tuple[dict | None, dict | None]:
     value_usd = raw.get("value_usd")
     if value_usd is not None and value_usd < MIN_VALUE_USD:
         return None, {
-            "id": rid,
-            "source": source,
-            "title": title,
-            "url": url,
+            "id": rid, "source": source, "title": title, "url": url,
             "country": country,
             "exclusion_reason": f"value_below_floor ({value_usd} < {MIN_VALUE_USD})",
             "exclusion_type": "value",
@@ -132,27 +128,21 @@ def process_one(raw: dict) -> tuple[dict | None, dict | None]:
     # 4) Compute fit scores
     scores = compute_fit_scores(title, description, source)
 
-    # 4b) Hard exclude expired RFPs — they're noise regardless of fit
+    # 4b) Hard exclude expired RFPs
     deadline_days = days_until(raw.get("deadline"))
     if deadline_days is not None and deadline_days < 0:
         return None, {
-            "id": rid,
-            "source": source,
-            "title": title,
-            "url": url,
+            "id": rid, "source": source, "title": title, "url": url,
             "country": country,
             "exclusion_reason": f"expired (deadline was {raw.get('deadline')}, {-deadline_days} days ago)",
             "exclusion_type": "expired",
             "excluded_at": datetime.now(timezone.utc).isoformat(),
         }
 
-    # 4c) Min fit floor — exclude items that pass gates but have no area signal
+    # 4c) Min fit floor
     if scores["total"] < MIN_FIT_SCORE:
         return None, {
-            "id": rid,
-            "source": source,
-            "title": title,
-            "url": url,
+            "id": rid, "source": source, "title": title, "url": url,
             "country": country,
             "exclusion_reason": f"fit_below_floor (total={scores['total']} < {MIN_FIT_SCORE})",
             "exclusion_type": "fit",
@@ -162,13 +152,13 @@ def process_one(raw: dict) -> tuple[dict | None, dict | None]:
     # 5) Eligibility check
     elig = check_eligibility(title, description, source)
 
-    # 6) Flags (deadline_days already computed above in step 4b)
+    # 6) Flags
     flags = {
         "sanctioned": False,
         "requires_review_sanctions": sanc["requires_review"],
         "requires_review_eligibility": elig["requires_review"],
         "urgent_deadline": deadline_days is not None and 0 <= deadline_days <= URGENT_DAYS,
-        "expired": False,  # never True here — expired items are excluded earlier
+        "expired": False,
     }
 
     record = {
@@ -190,7 +180,7 @@ def process_one(raw: dict) -> tuple[dict | None, dict | None]:
             "sanctions": sanc["reason"],
             "eligibility": elig["reason"],
         },
-        "raw": raw.get("raw") or {},  # source-specific metadata (publish date, etc.)
+        "raw": raw.get("raw") or {},
         "fetched_at": datetime.now(timezone.utc).isoformat(),
     }
     return record, None
@@ -234,7 +224,12 @@ def main():
         r["deadline_days"] if r["deadline_days"] is not None else 9999,
     ))
 
-    # Write outputs
+    # Per-exclusion-type stats for monitoring gate effectiveness
+    exclusion_breakdown = {}
+    for exc in excluded:
+        t = exc.get("exclusion_type", "unknown")
+        exclusion_breakdown[t] = exclusion_breakdown.get(t, 0) + 1
+
     finished = datetime.now(timezone.utc)
     meta = {
         "last_run": finished.isoformat(),
@@ -242,6 +237,7 @@ def main():
         "source_stats": source_stats,
         "total_kept": len(kept),
         "total_excluded": len(excluded),
+        "exclusion_breakdown": exclusion_breakdown,
         "min_value_usd": MIN_VALUE_USD,
         "urgent_days_threshold": URGENT_DAYS,
     }
@@ -253,7 +249,6 @@ def main():
     (DATA_DIR / "meta.json").write_text(
         json.dumps(meta, indent=2, ensure_ascii=False))
 
-    # Snapshot for history
     snapshot_name = finished.strftime("%Y-%m-%d") + ".json"
     (HISTORY_DIR / snapshot_name).write_text(
         json.dumps({"meta": meta, "opportunities": kept}, indent=2, ensure_ascii=False))
@@ -261,6 +256,9 @@ def main():
     print(f"\n=== Summary ===")
     print(f"Kept: {len(kept)}")
     print(f"Excluded: {len(excluded)}")
+    if exclusion_breakdown:
+        for t, n in sorted(exclusion_breakdown.items(), key=lambda x: -x[1]):
+            print(f"  {t}: {n}")
     print(f"Duration: {meta['duration_seconds']:.1f}s")
 
 

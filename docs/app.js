@@ -1,9 +1,14 @@
 // VaxRFP Pipeline dashboard
-// Fetches opportunities.json + meta.json, renders filterable table,
-// persists per-opportunity status (new/reviewing/applied/dismissed) in localStorage.
+// Splits opportunities into two views: RFPs (formal opportunities) and
+// Signals (manufacturer news). Each view has its own KPIs and filtering.
+// Persists per-opportunity status (new/reviewing/watch/applied/dismissed)
+// and free-text notes in localStorage.
 
 const STORAGE_KEY = "vaxrfp.status.v1";
 const NOTES_KEY = "vaxrfp.notes.v1";
+const VIEW_KEY = "vaxrfp.view.v1";
+const SEEN_SIGNALS_KEY = "vaxrfp.seen_signals.v1";
+
 const AREA_LABELS = {
   cold_chain: "Cold chain",
   manufacturing: "Manufacturing",
@@ -14,26 +19,23 @@ const AREA_LABELS = {
 
 let RAW = [];      // all opportunities loaded from JSON
 let META = {};     // meta.json content
-let STATUS = loadStatus();  // {id: 'new'|'reviewing'|'watch'|'applied'|'dismissed'}
-let NOTES = loadNotes();    // {id: 'free text note'}
+let STATUS = loadStatus();
+let NOTES = loadNotes();
+let VIEW = loadView();           // 'rfps' | 'signals'
+let SEEN_SIGNALS = loadSeenSignals();  // {id: true} — IDs marked as seen across visits
 
 // ---------- localStorage helpers ----------
 
 function loadStatus() {
-  try {
-    return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
-  } catch {
-    return {};
-  }
+  try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}"); }
+  catch { return {}; }
 }
 
 function saveStatus() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(STATUS));
 }
 
-function getStatus(id) {
-  return STATUS[id] || "new";
-}
+function getStatus(id) { return STATUS[id] || "new"; }
 
 function setStatus(id, value) {
   if (value === "new") delete STATUS[id];
@@ -42,20 +44,15 @@ function setStatus(id, value) {
 }
 
 function loadNotes() {
-  try {
-    return JSON.parse(localStorage.getItem(NOTES_KEY) || "{}");
-  } catch {
-    return {};
-  }
+  try { return JSON.parse(localStorage.getItem(NOTES_KEY) || "{}"); }
+  catch { return {}; }
 }
 
 function saveNotes() {
   localStorage.setItem(NOTES_KEY, JSON.stringify(NOTES));
 }
 
-function getNote(id) {
-  return NOTES[id] || "";
-}
+function getNote(id) { return NOTES[id] || ""; }
 
 function setNote(id, value) {
   const trimmed = (value || "").trim();
@@ -64,9 +61,42 @@ function setNote(id, value) {
   saveNotes();
 }
 
+function loadView() {
+  const v = localStorage.getItem(VIEW_KEY);
+  return v === "signals" ? "signals" : "rfps";
+}
+
+function saveView(v) {
+  VIEW = v;
+  localStorage.setItem(VIEW_KEY, v);
+}
+
+function loadSeenSignals() {
+  try { return JSON.parse(localStorage.getItem(SEEN_SIGNALS_KEY) || "{}"); }
+  catch { return {}; }
+}
+
+function saveSeenSignals() {
+  localStorage.setItem(SEEN_SIGNALS_KEY, JSON.stringify(SEEN_SIGNALS));
+}
+
+// ---------- view splitting ----------
+
+function isSignal(r) {
+  return !!(r.source && r.source.startsWith("Signal:"));
+}
+
+function rfpRows() {
+  return RAW.filter(r => !isSignal(r));
+}
+
+function signalRows() {
+  return RAW.filter(r => isSignal(r));
+}
+
 // ---------- helpers ----------
 
-let SORT = { col: "fit", desc: true };  // default sort: highest fit first
+let SORT = { col: "fit", desc: true };
 
 function relativeDate(iso) {
   if (!iso) return null;
@@ -74,39 +104,31 @@ function relativeDate(iso) {
     const d = new Date(iso);
     if (isNaN(d.getTime())) return null;
     const now = new Date();
-    const diffMs = now - d;
-    const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+    const diffDays = Math.floor((now - d) / (1000 * 60 * 60 * 24));
     if (diffDays < 0) return d.toISOString().slice(0, 10);
     if (diffDays === 0) return "today";
     if (diffDays === 1) return "yesterday";
     if (diffDays < 30) return `${diffDays}d ago`;
     if (diffDays < 365) return `${Math.floor(diffDays / 30)}mo ago`;
     return d.toISOString().slice(0, 10);
-  } catch {
-    return null;
-  }
+  } catch { return null; }
 }
 
 function getPublishedISO(r) {
-  // Manufacturer signals carry pubDate in raw.published
   if (r.raw && r.raw.published) return r.raw.published;
-  // World Bank notices carry noticedate (DD-MMM-YYYY format)
   if (r.raw && r.raw.wb_notice_type && r.noticedate) return r.noticedate;
-  // Otherwise fall back to first_seen if present
   return r.first_seen || null;
 }
 
-// Dedup signals — multiple news articles about the same event from different
-// outlets get grouped under the highest-fit representative.
+// Dedup signals — group multiple news articles about the same event.
 function dedupSignals(rows) {
-  const groups = new Map();  // key -> {primary, dupes}
+  const groups = new Map();
   const out = [];
   for (const r of rows) {
-    if (!r.source || !r.source.startsWith("Signal:")) {
+    if (!isSignal(r)) {
       out.push(r);
       continue;
     }
-    // Group key: manufacturer + first 5 significant words of title (lowercased)
     const mfr = r.source.replace("Signal:", "").trim();
     const titleNorm = (r.title || "")
       .toLowerCase()
@@ -121,7 +143,6 @@ function dedupSignals(rows) {
       groups.set(key, { primary: r, dupes: [] });
     } else {
       const g = groups.get(key);
-      // Keep the one with highest fit_total as primary
       if ((r.fit_total || 0) > (g.primary.fit_total || 0)) {
         g.dupes.push(g.primary);
         g.primary = r;
@@ -186,7 +207,7 @@ function exportCSV(rows) {
   const a = document.createElement("a");
   const stamp = new Date().toISOString().slice(0, 10);
   a.href = url;
-  a.download = `vaxrfp-export-${stamp}.csv`;
+  a.download = `vaxrfp-${VIEW}-${stamp}.csv`;
   a.click();
   URL.revokeObjectURL(url);
 }
@@ -217,10 +238,12 @@ async function loadData() {
 
   populateSourceFilter();
   renderMeta();
-  applyAndRender();
+  updateTabCounts();
+  applyView();           // sets visibility of KPI sections + initial render
 }
 
 function populateSourceFilter() {
+  // Show all sources but mark which are signals — user can filter within a view
   const sources = [...new Set(RAW.map(r => r.source))].sort();
   const sel = document.getElementById("f-source");
   for (const s of sources) {
@@ -237,6 +260,60 @@ function renderMeta() {
     : "unknown";
   document.getElementById("meta-line").textContent =
     `last run ${last} · ${META.total_kept || 0} kept · ${META.total_excluded || 0} excluded`;
+}
+
+function updateTabCounts() {
+  document.getElementById("tab-count-rfps").textContent = rfpRows().length;
+  // Dedup signals for accurate count
+  document.getElementById("tab-count-signals").textContent =
+    dedupSignals(signalRows()).length;
+}
+
+// ---------- view switching ----------
+
+function switchView(newView) {
+  if (newView === VIEW) return;
+
+  // Mark all currently-visible signals as seen when leaving signals view
+  if (VIEW === "signals") {
+    for (const r of dedupSignals(signalRows())) {
+      SEEN_SIGNALS[r.id] = true;
+    }
+    saveSeenSignals();
+  }
+
+  saveView(newView);
+  applyView();
+}
+
+function applyView() {
+  // Update tab UI
+  const tRfps = document.getElementById("tab-rfps");
+  const tSigs = document.getElementById("tab-signals");
+  tRfps.classList.toggle("active", VIEW === "rfps");
+  tSigs.classList.toggle("active", VIEW === "signals");
+  tRfps.setAttribute("aria-selected", VIEW === "rfps");
+  tSigs.setAttribute("aria-selected", VIEW === "signals");
+
+  // Swap KPI panels
+  document.getElementById("kpis-rfps").classList.toggle("hidden", VIEW !== "rfps");
+  document.getElementById("kpis-signals").classList.toggle("hidden", VIEW !== "signals");
+
+  // Update help text & filter visibility
+  const help = document.getElementById("tab-help");
+  if (VIEW === "rfps") {
+    help.textContent = "Formal RFPs, EOIs, and CFPs scored against 5 expertise areas.";
+  } else {
+    help.textContent = "Manufacturer news (Google News RSS) — early-warning indicators of upstream procurement, not formal RFPs.";
+  }
+
+  // Hide deadline-related controls in Signals view (signals have no deadlines)
+  document.querySelectorAll(".filter-hide-expired").forEach(el =>
+    el.classList.toggle("hidden", VIEW === "signals"));
+  document.querySelectorAll(".col-closes").forEach(el =>
+    el.classList.toggle("hidden", VIEW === "signals"));
+
+  applyAndRender();
 }
 
 // ---------- filtering ----------
@@ -257,9 +334,9 @@ function applyFilters(rows) {
   return rows.filter(r => {
     const status = getStatus(r.id);
     if (f.status && status !== f.status) return false;
-    if (!f.status && status === "dismissed") return false;  // hide dismissed by default
+    if (!f.status && status === "dismissed") return false;
     if (f.source && r.source !== f.source) return false;
-    if (f.hideExpired && r.flags && r.flags.expired) return false;
+    if (f.hideExpired && r.flags && r.flags.expired && VIEW === "rfps") return false;
 
     let score = r.fit_total || 0;
     if (f.area) {
@@ -278,33 +355,46 @@ function applyFilters(rows) {
 // ---------- rendering ----------
 
 function applyAndRender() {
-  let filtered = applyFilters(RAW);
-  filtered = dedupSignals(filtered);
+  const baseRows = VIEW === "rfps" ? rfpRows() : signalRows();
+  let filtered = applyFilters(baseRows);
+  if (VIEW === "signals") {
+    filtered = dedupSignals(filtered);
+  }
   filtered = sortRows(filtered);
   renderKPIs(filtered);
   renderTable(filtered);
-  // Update export count badge
+  updateTabCounts();
   const ec = document.getElementById("export-count");
   if (ec) ec.textContent = `(${filtered.length} rows)`;
 }
 
 function renderKPIs(filtered) {
-  document.getElementById("kpi-total").textContent = filtered.length;
-
-  const newCount = filtered.filter(r => getStatus(r.id) === "new").length;
-  document.getElementById("kpi-new").textContent = newCount;
-
-  const appliedCount = RAW.filter(r => getStatus(r.id) === "applied").length;
-  document.getElementById("kpi-applied").textContent = appliedCount;
-
-  const top = filtered.reduce((m, r) => Math.max(m, r.fit_total || 0), 0);
-  document.getElementById("kpi-top").textContent = filtered.length ? top.toFixed(1) : "—";
+  if (VIEW === "rfps") {
+    document.getElementById("kpi-rfps-total").textContent = filtered.length;
+    const newCount = filtered.filter(r => getStatus(r.id) === "new").length;
+    document.getElementById("kpi-rfps-new").textContent = newCount;
+    const appliedCount = rfpRows().filter(r => getStatus(r.id) === "applied").length;
+    document.getElementById("kpi-rfps-applied").textContent = appliedCount;
+    const top = filtered.reduce((m, r) => Math.max(m, r.fit_total || 0), 0);
+    document.getElementById("kpi-rfps-top").textContent = filtered.length ? top.toFixed(1) : "—";
+  } else {
+    document.getElementById("kpi-signals-total").textContent = filtered.length;
+    const newSinceLast = filtered.filter(r => !SEEN_SIGNALS[r.id]).length;
+    document.getElementById("kpi-signals-new").textContent = newSinceLast;
+    const watchCount = signalRows().filter(r => getStatus(r.id) === "watch").length;
+    document.getElementById("kpi-signals-watch").textContent = watchCount;
+    const mfrs = new Set(filtered.map(r => (r.source || "").replace("Signal:", "")));
+    document.getElementById("kpi-signals-mfrs").textContent = mfrs.size;
+  }
 }
 
 function renderTable(rows) {
   const tbody = document.getElementById("rfp-tbody");
   if (!rows.length) {
-    tbody.innerHTML = `<tr><td colspan="10" id="empty-msg">No opportunities match the current filters.</td></tr>`;
+    const msg = VIEW === "rfps"
+      ? "No RFPs match the current filters."
+      : "No signals match the current filters.";
+    tbody.innerHTML = `<tr><td colspan="10" id="empty-msg">${msg}</td></tr>`;
     return;
   }
 
@@ -316,6 +406,11 @@ function renderTable(rows) {
 
 function renderRow(r) {
   const tr = document.createElement("tr");
+
+  // Mark unseen signals visually
+  if (VIEW === "signals" && !SEEN_SIGNALS[r.id]) {
+    tr.classList.add("row-unseen");
+  }
 
   // Title cell
   const tdTitle = document.createElement("td");
@@ -332,7 +427,6 @@ function renderRow(r) {
     desc.textContent = (r.description || "").slice(0, 180) + (r.description.length > 180 ? "…" : "");
     tdTitle.appendChild(desc);
   }
-  // Inline flags
   if (r.flags) {
     if (r.flags.requires_review_sanctions) {
       const f = document.createElement("span"); f.className = "flag flag-review"; f.textContent = "review (sanctions)";
@@ -351,13 +445,11 @@ function renderRow(r) {
   }
   tr.appendChild(tdTitle);
 
-  // Country
   const tdCountry = document.createElement("td");
   tdCountry.className = "country-cell";
   tdCountry.textContent = r.country || "—";
   tr.appendChild(tdCountry);
 
-  // Top area
   const tdArea = document.createElement("td");
   if (r.fit_top_area) {
     const tag = document.createElement("span");
@@ -369,7 +461,6 @@ function renderRow(r) {
   }
   tr.appendChild(tdArea);
 
-  // Fit score
   const tdFit = document.createElement("td");
   const fit = r.fit_total || 0;
   const pill = document.createElement("span");
@@ -381,7 +472,6 @@ function renderRow(r) {
   tdFit.appendChild(pill);
   tr.appendChild(tdFit);
 
-  // Source
   const tdSource = document.createElement("td");
   tdSource.textContent = r.source;
   if (r._dupe_count) {
@@ -394,7 +484,6 @@ function renderRow(r) {
   }
   tr.appendChild(tdSource);
 
-  // Published (relative date)
   const tdPub = document.createElement("td");
   tdPub.className = "published-cell";
   const pubISO = getPublishedISO(r);
@@ -407,8 +496,9 @@ function renderRow(r) {
   }
   tr.appendChild(tdPub);
 
-  // Closes (deadline)
   const tdClose = document.createElement("td");
+  tdClose.classList.add("col-closes");
+  if (VIEW === "signals") tdClose.classList.add("hidden");
   if (r.deadline) {
     const days = r.deadline_days;
     let cls = "deadline-normal";
@@ -419,7 +509,7 @@ function renderRow(r) {
       else if (days <= 21) { cls = "deadline-soon"; text = `${days}d`; }
       else { text = `${days}d`; }
     }
-    tdClose.className = cls;
+    tdClose.classList.add(cls);
     tdClose.textContent = text;
     tdClose.title = r.deadline;
   } else {
@@ -427,7 +517,6 @@ function renderRow(r) {
   }
   tr.appendChild(tdClose);
 
-  // Status select
   const tdStatus = document.createElement("td");
   const sel = document.createElement("select");
   sel.className = `status-select status-${getStatus(r.id)}`;
@@ -441,12 +530,11 @@ function renderRow(r) {
   sel.addEventListener("change", () => {
     setStatus(r.id, sel.value);
     sel.className = `status-select status-${sel.value}`;
-    applyAndRender();   // re-filter (e.g. dismissed disappears)
+    applyAndRender();
   });
   tdStatus.appendChild(sel);
   tr.appendChild(tdStatus);
 
-  // Notes cell — free-text field saved to localStorage on blur
   const tdNotes = document.createElement("td");
   const noteInput = document.createElement("textarea");
   noteInput.className = "note-input";
@@ -459,7 +547,6 @@ function renderRow(r) {
   tdNotes.appendChild(noteInput);
   tr.appendChild(tdNotes);
 
-  // Action: open link
   const tdAction = document.createElement("td");
   const open = document.createElement("a");
   open.href = r.url;
@@ -472,7 +559,7 @@ function renderRow(r) {
   return tr;
 }
 
-// ---------- wire up filters ----------
+// ---------- wiring ----------
 
 function wireFilters() {
   for (const id of ["f-area", "f-status", "f-min", "f-source", "f-hide-expired"]) {
@@ -485,8 +572,9 @@ function wireExport() {
   const btn = document.getElementById("btn-export-csv");
   if (!btn) return;
   btn.addEventListener("click", () => {
-    let filtered = applyFilters(RAW);
-    filtered = dedupSignals(filtered);
+    const baseRows = VIEW === "rfps" ? rfpRows() : signalRows();
+    let filtered = applyFilters(baseRows);
+    if (VIEW === "signals") filtered = dedupSignals(filtered);
     filtered = sortRows(filtered);
     if (filtered.length === 0) {
       alert("Nothing to export — adjust filters first.");
@@ -506,10 +594,8 @@ function wireSorting() {
         SORT.desc = !SORT.desc;
       } else {
         SORT.col = col;
-        // numeric/date columns default to desc (newest/highest first)
         SORT.desc = ["fit", "published", "closes"].includes(col);
       }
-      // Update visual indicator
       for (const h of headers) {
         h.classList.remove("sort-asc", "sort-desc");
       }
@@ -519,9 +605,15 @@ function wireSorting() {
   }
 }
 
+function wireTabs() {
+  document.getElementById("tab-rfps").addEventListener("click", () => switchView("rfps"));
+  document.getElementById("tab-signals").addEventListener("click", () => switchView("signals"));
+}
+
 // ---------- init ----------
 
 wireFilters();
 wireExport();
 wireSorting();
+wireTabs();
 loadData();

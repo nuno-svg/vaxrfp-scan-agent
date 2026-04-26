@@ -22,6 +22,84 @@ header .sub {
   font-size: 13px;
 }
 
+/* Utility */
+.hidden { display: none !important; }
+
+/* ---------- View tabs (RFPs vs Signals) ---------- */
+
+.view-tabs {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 18px;
+  border-bottom: 2px solid #e5e5e5;
+  padding-bottom: 0;
+  flex-wrap: wrap;
+}
+
+.view-tab {
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  padding: 10px 18px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #666;
+  cursor: pointer;
+  margin-bottom: -2px;
+  font-family: inherit;
+  transition: color 0.15s, border-color 0.15s;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.view-tab:hover { color: #0366d6; }
+
+.view-tab.active {
+  color: #0366d6;
+  border-bottom-color: #0366d6;
+}
+
+.tab-count {
+  display: inline-block;
+  padding: 1px 8px;
+  font-size: 11px;
+  font-weight: 600;
+  background: #e8e8e8;
+  color: #555;
+  border-radius: 10px;
+  min-width: 24px;
+  text-align: center;
+}
+
+.view-tab.active .tab-count {
+  background: #0366d6;
+  color: white;
+}
+
+.tab-help {
+  margin: 0 0 0 auto;
+  padding: 0 4px;
+  font-size: 12px;
+  color: #888;
+  font-style: italic;
+  flex: 1 1 100%;
+  padding-bottom: 8px;
+  padding-top: 4px;
+}
+
+@media (min-width: 720px) {
+  .tab-help {
+    flex: 0 1 auto;
+    padding-bottom: 12px;
+    padding-top: 0;
+    margin-left: 16px;
+  }
+}
+
+/* ---------- KPIs ---------- */
+
 .kpis {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -49,6 +127,15 @@ header .sub {
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
+
+/* Distinct visual treatment for signals KPIs (lighter, more "intel" feel) */
+#kpis-signals .kpi {
+  background: #fafbff;
+  border-color: #d8dcef;
+}
+#kpis-signals .kpi-num { color: #2a3a8c; }
+
+/* ---------- Filters ---------- */
 
 .filters {
   display: flex;
@@ -81,6 +168,8 @@ header .sub {
 
 .filters input[type="text"] { min-width: 200px; }
 
+/* ---------- Table ---------- */
+
 #rfp-table {
   width: 100%;
   border-collapse: collapse;
@@ -109,6 +198,15 @@ header .sub {
 }
 
 #rfp-table tbody tr:hover { background: #fafbfc; }
+
+/* Mark unseen signal rows with a left-border accent */
+#rfp-table tbody tr.row-unseen {
+  background: #fffef5;
+}
+#rfp-table tbody tr.row-unseen td:first-child {
+  border-left: 3px solid #f0b400;
+  padding-left: 9px;
+}
 
 #rfp-table .title-cell {
   max-width: 420px;
@@ -197,7 +295,6 @@ header .sub {
   background: #fffbe6;
 }
 
-/* Actions bar (export button, etc.) */
 #actions-bar {
   margin: 12px 0 8px;
   display: flex;
@@ -222,7 +319,6 @@ header .sub {
   font-size: 12px;
 }
 
-/* Sort indicators on column headers */
 #rfp-table th[data-sort] {
   user-select: none;
   position: relative;
@@ -243,7 +339,6 @@ header .sub {
 #rfp-table th.sort-asc::after  { content: "▲"; }
 #rfp-table th.sort-desc::after { content: "▼"; }
 
-/* Dedup badge: "+3" when multiple sources cover the same signal */
 .dupe-badge {
   display: inline-block;
   padding: 1px 6px;
@@ -256,7 +351,6 @@ header .sub {
   vertical-align: middle;
 }
 
-/* Published column */
 .published-cell {
   font-size: 12px;
   color: #666;
@@ -286,7 +380,7 @@ footer {
   max-width: 900px;
 }
 
-footer p { margin: 0; }
+footer p { margin: 0 0 8px; }
 
 #empty-msg {
   text-align: center;
@@ -300,4 +394,5 @@ footer p { margin: 0; }
   .kpis { grid-template-columns: repeat(2, 1fr); }
   #rfp-table { font-size: 12px; }
   #rfp-table .title-cell { max-width: 200px; }
+  .view-tab { padding: 8px 12px; font-size: 13px; }
 }

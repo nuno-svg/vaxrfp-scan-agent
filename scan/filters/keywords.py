@@ -13,9 +13,52 @@ def _matches_any(text_lower: str, keywords: list[str]) -> bool:
     return any(kw.lower() in text_lower for kw in keywords)
 
 
+def _is_goods_tender(title: str, description: str) -> tuple[bool, str]:
+    """Detect goods/works tenders that should be excluded.
+
+    A tender is "goods" if its title or first 300 chars of description
+    contain a goods-exclusion keyword AND no consultancy override appears
+    in the same range. The override exists because some legitimate service
+    contracts mention "supply and delivery" alongside "with associated
+    technical assistance and training" — those should pass.
+
+    Returns (is_goods, matched_phrase).
+    """
+    head = f"{title} {(description or '')[:300]}".lower()
+
+    matched = None
+    for phrase in CONFIG.get("goods_exclusion_keywords", []):
+        if phrase.lower() in head:
+            matched = phrase
+            break
+    if not matched:
+        return False, ""
+
+    # Check overrides — if any consultancy keyword is in the same head text,
+    # the goods phrase is incidental, not the contract's substance.
+    for override in CONFIG.get("goods_exclusion_overrides", []):
+        if override.lower() in head:
+            return False, ""
+
+    return True, matched
+
+
+def _bmgf_passes_vaccine_gate(title: str, description: str) -> bool:
+    """BMGF Grand Challenges has many R&D grants unrelated to vaccines.
+
+    Require an explicit vaccine/immunization keyword in the title or first
+    300 chars of the description. Burying "vaccine" in paragraph 5 of a
+    diagnostic-tools grant doesn't make it a vaccine opportunity.
+    """
+    head = f"{title} {(description or '')[:300]}".lower()
+    return any(kw.lower() in head for kw in CONFIG.get("bmgf_strict_vaccine_keywords", []))
+
+
 def passes_gates(title: str, description: str, source: str = "",
                  raw: dict | None = None) -> tuple[bool, str]:
-    """Check domain gate (vaccine-related) and service gate (consulting-type).
+    """Check domain gate (vaccine-related), service gate (consulting-type),
+    goods exclusion gate (no equipment/works tenders), and source-specific
+    strict gates (BMGF requires vaccine keyword in head).
 
     Returns (passes, reason_if_not).
 
@@ -24,7 +67,8 @@ def passes_gates(title: str, description: str, source: str = "",
         the domain gate via text inference.
       - Signal:* sources (manufacturer press releases) only need the domain
         gate — they aren't formal RFPs, so the "consultancy/TA" service gate
-        doesn't apply. They surface as upstream signals of future opportunities.
+        doesn't apply. They also bypass the goods-exclusion gate (a press
+        release about supplying vaccines is still a useful market signal).
     """
     text = f"{title} {description}".lower()
 
@@ -34,18 +78,33 @@ def passes_gates(title: str, description: str, source: str = "",
             return True, ""
         return False, "no_domain_match"
 
+    # Goods/works exclusion — applied to all RFP sources before any other gate.
+    # We're a consultancy, not a supplier. "Supply and delivery of lab equipment"
+    # is rejected here regardless of how vaccine-relevant the equipment is.
+    is_goods, goods_phrase = _is_goods_tender(title, description)
+    if is_goods:
+        return False, f"goods_tender (matched: '{goods_phrase}')"
+
     # Structural domain match: TED CPV-classified vaccine notices skip text gate
     if source == "TED" and raw:
         if any(kw in text for kw in ["vaccine", "vaccin", "pharmaceutical",
                                       "medicinal", "health service",
                                       "supply chain", "cold chain"]):
             if _matches_any(text, CONFIG["service_gate_keywords"]):
+                # Still check BMGF gate (TED won't be BMGF, but be defensive)
+                if source == "BMGF" and not _bmgf_passes_vaccine_gate(title, description):
+                    return False, "bmgf_no_vaccine_in_head"
                 return True, ""
 
     if not _matches_any(text, CONFIG["domain_gate_keywords"]):
         return False, "no_domain_match"
     if not _matches_any(text, CONFIG["service_gate_keywords"]):
         return False, "no_service_match"
+
+    # BMGF-specific strict gate: vaccine keyword must be in title or head of description
+    if source == "BMGF" and not _bmgf_passes_vaccine_gate(title, description):
+        return False, "bmgf_no_vaccine_in_head"
+
     return True, ""
 
 

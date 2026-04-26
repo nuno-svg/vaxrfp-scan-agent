@@ -12,7 +12,7 @@ manufacturing OR partnership OR financing"), then filter to the last 90 days.
 These items are NOT formal RFPs — they're signals that a manufacturer just
 secured funding (= upcoming supply-chain procurement), signed a tech-transfer
 deal (= consultancy needs ahead), or opened a new facility (= validation/
-commissioning work). The dashboard will show them with status="signal".
+commissioning work). The dashboard routes them to the Signals tab.
 
 Items here have:
   - source = "Signal:<Manufacturer>"
@@ -22,12 +22,14 @@ Items here have:
 """
 
 import re
+import time
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 
 GOOGLE_NEWS_RSS = "https://news.google.com/rss/search"
+REQUEST_DELAY_SEC = 1.5  # polite spacing — Google News throttles burst queries
 
 # Manufacturers to monitor and their search queries
 MANUFACTURERS = [
@@ -61,17 +63,28 @@ def fetch() -> list[dict]:
                 headers={"User-Agent": "vaxrfp-scan-agent/1.0"},
                 timeout=20,
             )
+            # One retry on 5xx — Google News occasionally throttles bursts
+            if r.status_code in (429, 500, 502, 503, 504):
+                time.sleep(3)
+                r = requests.get(
+                    GOOGLE_NEWS_RSS, params=params,
+                    headers={"User-Agent": "vaxrfp-scan-agent/1.0"},
+                    timeout=20,
+                )
             if r.status_code != 200:
                 print(f"[signals:{label}] HTTP {r.status_code}")
+                time.sleep(REQUEST_DELAY_SEC)
                 continue
         except Exception as e:
             print(f"[signals:{label}] exception: {e}")
+            time.sleep(REQUEST_DELAY_SEC)
             continue
 
         try:
             root = ET.fromstring(r.text)
         except ET.ParseError as e:
             print(f"[signals:{label}] XML parse error: {e}")
+            time.sleep(REQUEST_DELAY_SEC)
             continue
 
         for item in root.findall(".//item"):
@@ -88,7 +101,6 @@ def fetch() -> list[dict]:
             if not title or not link or title in seen_titles:
                 continue
 
-            # Parse publication date
             pub_dt = None
             if pub_el is not None and pub_el.text:
                 try:
@@ -96,14 +108,12 @@ def fetch() -> list[dict]:
                 except (TypeError, ValueError):
                     pub_dt = None
 
-            # Skip stale signals
             if pub_dt and pub_dt < cutoff:
                 continue
 
             seen_titles.add(title)
 
             description = (desc_el.text or "").strip() if desc_el is not None else ""
-            # Strip HTML tags from description
             description = re.sub(r"<[^>]+>", " ", description)
             description = re.sub(r"\s+", " ", description).strip()
 
@@ -112,13 +122,16 @@ def fetch() -> list[dict]:
                 "title": title,
                 "url": link,
                 "description": description[:1500],
-                "country": None,  # detected downstream from text
-                "deadline": None,  # signals don't have deadlines
+                "country": None,
+                "deadline": None,
                 "value_usd": None,
                 "raw": {
                     "manufacturer": label,
                     "published": pub_dt.isoformat() if pub_dt else None,
+                    "signal_type": "manufacturer",
                 },
             })
+
+        time.sleep(REQUEST_DELAY_SEC)
 
     return out
