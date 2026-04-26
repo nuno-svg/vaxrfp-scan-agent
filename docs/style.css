@@ -1,0 +1,213 @@
+* { box-sizing: border-box; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 24px 32px 64px;
+  background: #fafafa;
+  color: #1a1a1a;
+  line-height: 1.4;
+  font-size: 14px;
+}
+
+header h1 {
+  margin: 0 0 4px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+header .sub {
+  margin: 0 0 24px;
+  color: #666;
+  font-size: 13px;
+}
+
+.kpis {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.kpi {
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+  padding: 16px 20px;
+}
+
+.kpi-num {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1.1;
+  margin-bottom: 4px;
+}
+
+.kpi-lab {
+  font-size: 12px;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 20px;
+  align-items: center;
+  margin-bottom: 16px;
+  padding: 14px 16px;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+}
+
+.filters label {
+  font-size: 13px;
+  color: #444;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.filters select,
+.filters input[type="text"] {
+  font-size: 13px;
+  padding: 4px 8px;
+  border: 1px solid #d0d0d0;
+  border-radius: 4px;
+  background: #fff;
+}
+
+.filters input[type="text"] { min-width: 200px; }
+
+#rfp-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+  overflow: hidden;
+  font-size: 13px;
+}
+
+#rfp-table th,
+#rfp-table td {
+  padding: 10px 12px;
+  text-align: left;
+  border-bottom: 1px solid #f0f0f0;
+  vertical-align: top;
+}
+
+#rfp-table th {
+  background: #f5f5f5;
+  font-weight: 600;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #555;
+}
+
+#rfp-table tbody tr:hover { background: #fafbfc; }
+
+#rfp-table .title-cell {
+  max-width: 420px;
+}
+
+#rfp-table .title-cell a {
+  color: #0366d6;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+#rfp-table .title-cell a:hover { text-decoration: underline; }
+
+#rfp-table .desc {
+  display: block;
+  color: #777;
+  font-size: 12px;
+  margin-top: 3px;
+  line-height: 1.35;
+}
+
+.fit-pill {
+  display: inline-block;
+  min-width: 28px;
+  text-align: center;
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.fit-9, .fit-10 { background: #1a7f37; color: white; }
+.fit-7, .fit-8  { background: #4ac26b; color: white; }
+.fit-5, .fit-6  { background: #fff8c5; color: #573a08; }
+.fit-3, .fit-4  { background: #ffd8b5; color: #6b3a00; }
+.fit-0, .fit-1, .fit-2 { background: #f0f0f0; color: #888; }
+
+.area-tag {
+  display: inline-block;
+  background: #ddf4ff;
+  color: #0550ae;
+  font-size: 11px;
+  padding: 1px 6px;
+  border-radius: 3px;
+}
+
+.deadline-urgent { color: #cf222e; font-weight: 600; }
+.deadline-soon   { color: #bf8700; }
+.deadline-normal { color: #555; }
+.deadline-expired{ color: #999; text-decoration: line-through; }
+
+.status-select {
+  font-size: 12px;
+  padding: 3px 6px;
+  border: 1px solid #d0d0d0;
+  border-radius: 3px;
+  background: #fff;
+}
+
+.status-new        { background: #fff; }
+.status-reviewing  { background: #fff8c5; }
+.status-applied    { background: #d4f4dd; }
+.status-dismissed  { background: #f0f0f0; color: #999; }
+
+.flag {
+  display: inline-block;
+  font-size: 10px;
+  padding: 1px 5px;
+  border-radius: 3px;
+  margin-left: 4px;
+  vertical-align: middle;
+}
+.flag-review  { background: #fff0c2; color: #6b4c00; }
+.flag-urgent  { background: #ffd6cc; color: #8b1a00; }
+.flag-elig    { background: #e0e7ff; color: #1e3a8a; }
+
+.country-cell { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; font-size: 12px; color: #555; }
+
+footer {
+  margin-top: 32px;
+  padding-top: 16px;
+  border-top: 1px solid #e5e5e5;
+  font-size: 12px;
+  color: #777;
+  max-width: 900px;
+}
+
+footer p { margin: 0; }
+
+#empty-msg {
+  text-align: center;
+  padding: 32px;
+  color: #888;
+  font-style: italic;
+}
+
+@media (max-width: 720px) {
+  body { padding: 16px; }
+  .kpis { grid-template-columns: repeat(2, 1fr); }
+  #rfp-table { font-size: 12px; }
+  #rfp-table .title-cell { max-width: 200px; }
+}

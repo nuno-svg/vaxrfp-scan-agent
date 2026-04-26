@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VaxRFP Pipeline</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>VaxRFP Pipeline</h1>
+  <p class="sub">
+    Vaccine supply chain consulting opportunities &middot;
+    scored against 5 expertise areas &middot;
+    <span id="meta-line">loading…</span>
+  </p>
+</header>
+
+<section class="kpis">
+  <div class="kpi"><div class="kpi-num" id="kpi-total">—</div><div class="kpi-lab">Total in pipeline</div></div>
+  <div class="kpi"><div class="kpi-num" id="kpi-new">—</div><div class="kpi-lab">New to review</div></div>
+  <div class="kpi"><div class="kpi-num" id="kpi-applied">—</div><div class="kpi-lab">Applied</div></div>
+  <div class="kpi"><div class="kpi-num" id="kpi-top">—</div><div class="kpi-lab">Top fit score</div></div>
+</section>
+
+<section class="filters">
+  <label>Expertise area:
+    <select id="f-area">
+      <option value="">All</option>
+      <option value="cold_chain">Cold chain &amp; logistics</option>
+      <option value="manufacturing">Manufacturing &amp; tech transfer</option>
+      <option value="regulatory">Regulatory affairs</option>
+      <option value="procurement">Procurement &amp; market shaping</option>
+      <option value="mel">M&amp;E and evaluation</option>
+    </select>
+  </label>
+  <label>Status:
+    <select id="f-status">
+      <option value="">All</option>
+      <option value="new">New</option>
+      <option value="reviewing">Reviewing</option>
+      <option value="applied">Applied</option>
+      <option value="dismissed">Dismissed</option>
+    </select>
+  </label>
+  <label>Min fit score:
+    <select id="f-min">
+      <option value="0">0 (all)</option>
+      <option value="3">≥ 3</option>
+      <option value="5" selected>≥ 5</option>
+      <option value="7">≥ 7</option>
+      <option value="9">≥ 9</option>
+    </select>
+  </label>
+  <label>Source:
+    <select id="f-source"><option value="">All</option></select>
+  </label>
+  <label>Hide expired: <input type="checkbox" id="f-hide-expired" checked></label>
+  <label>Search: <input type="text" id="f-search" placeholder="title or country…"></label>
+</section>
+
+<table id="rfp-table">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Country</th>
+      <th>Top area</th>
+      <th>Fit</th>
+      <th>Source</th>
+      <th>Closes</th>
+      <th>Status</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody id="rfp-tbody"></tbody>
+</table>
+
+<footer>
+  <p>
+    Sources: ReliefWeb API (GAVI, UNITAID, GFATM, WHO, UNICEF, Africa CDC, IFC, EIB, BMGF, CEPI, MPP), GAVI direct, UNITAID direct, Africa CDC direct, UNGM public notices.
+    Fit score = max expertise area score (0–10) + breadth bonus.
+    Sanctions filter: UN/EU/OFAC hard exclusion list applied at source.
+    Status changes are stored in your browser (localStorage) — they do not sync across devices.
+  </p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

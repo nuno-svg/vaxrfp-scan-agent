@@ -1,0 +1,51 @@
+name: daily-scan
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 06:00 UTC every day
+  workflow_dispatch: {}    # allow manual trigger
+
+permissions:
+  contents: write           # needed to commit data/*.json back to repo
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run daily scan
+        env:
+          # Optional: once you have an approved appname from ReliefWeb,
+          # add it as a GitHub Secret named RELIEFWEB_APPNAME.
+          # Until then this is empty and the ReliefWeb scraper will skip itself.
+          RELIEFWEB_APPNAME: ${{ secrets.RELIEFWEB_APPNAME }}
+        run: python scan/run_daily.py
+
+      - name: Copy data into docs/ for GitHub Pages
+        run: |
+          cp data/opportunities.json docs/opportunities.json
+          cp data/meta.json docs/meta.json
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "vaxrfp-bot"
+          git config user.email "actions@github.com"
+          git add data/ docs/opportunities.json docs/meta.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "scan: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

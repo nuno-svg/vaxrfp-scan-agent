@@ -1,0 +1,178 @@
+{
+  "_comment": "Each expertise area has weighted keywords. Score per area = sum of weights for matched keywords, capped at 10. Match is case-insensitive substring on title + description.",
+
+  "domain_gate_keywords": [
+    "vaccine", "vaccination", "vaccines", "immuni",
+    "biolog", "biopharma", "EPI", "PAVM", "AVMA",
+    "vacuna", "vacina", "vaccin",
+    "HPV", "cervical cancer", "HIV prevention", "PrEP", "lenacapavir",
+    "cold chain", "cold-chain", "supply chain", "supply-chain",
+    "WHO PQ", "prequalification",
+    "manufacturing capacity", "tech transfer", "technology transfer",
+    "fill and finish", "fill-and-finish", "drug substance",
+    "maternal and newborn", "maternal newborn", "maternal health",
+    "global health", "essential medicines", "health products",
+    "pharmaceutical", "biopharmaceutical", "antigen", "monoclonal",
+    "GMP", "good manufacturing practice",
+    "outbreak", "epidemic", "pandemic preparedness",
+    "Gavi", "Unitaid", "Global Fund", "Africa CDC", "PAHO",
+    "GFATM", "WHO", "UNICEF"
+  ],
+  "_domain_gate_note": "RFP must match at least one domain keyword to be considered. Otherwise excluded as off-topic.",
+
+  "service_gate_keywords": [
+    "technical assistance", "TA ", "consultancy", "consulting",
+    "advisory", "capacity building", "feasibility", "strategy",
+    "market shaping", "evaluation", "M&E", "MEL",
+    "monitoring evaluation", "programme management", "PMO",
+    "regulatory support", "training", "assessment",
+    "due diligence", "framework agreement", "expert services",
+    "call for proposal", "request for proposal", "RFP", "EOI",
+    "expression of interest", "request for information", "RFI",
+    "tender for services",
+    "implementer", "implementation", "implementing partner",
+    "grant", "funding", "proposal", "support to",
+    "improving", "improving access", "improving national",
+    "scale-up", "scale up", "rollout", "roll-out",
+    "elimination", "prevention", "intervention",
+    "strengthen", "strengthening", "build capacity",
+    "Health and social work services", "Health services",
+    "consultancy services", "professional services"
+  ],
+  "_service_gate_note": "RFP must match at least one service keyword. Goods/supply tenders are excluded.",
+
+  "expertise_areas": {
+    "cold_chain": {
+      "label": "Cold chain & logistics",
+      "keywords": {
+        "cold chain": 4,
+        "ultra-cold": 4,
+        "ultra cold": 4,
+        "last mile": 3,
+        "last-mile delivery": 3,
+        "supply chain": 3,
+        "logistics": 2,
+        "warehouse": 2,
+        "distribution": 2,
+        "temperature monitoring": 4,
+        "freezer": 3,
+        "transport": 1,
+        "shipping": 1,
+        "stock management": 2
+      }
+    },
+    "manufacturing": {
+      "label": "Manufacturing setup & tech transfer",
+      "keywords": {
+        "manufacturing": 4,
+        "tech transfer": 5,
+        "technology transfer": 5,
+        "fill and finish": 5,
+        "fill-and-finish": 5,
+        "drug substance": 4,
+        "production capacity": 3,
+        "GMP": 4,
+        "good manufacturing practice": 4,
+        "facility design": 3,
+        "scale-up": 3,
+        "scale up": 3,
+        "bioreactor": 4,
+        "single-use": 3,
+        "mRNA": 3,
+        "fermentation": 3,
+        "downstream processing": 4,
+        "upstream processing": 4,
+        "vaccine production": 4,
+        "local manufacturing": 4,
+        "regional manufacturing": 4
+      }
+    },
+    "regulatory": {
+      "label": "Regulatory affairs",
+      "keywords": {
+        "WHO PQ": 5,
+        "prequalification": 5,
+        "pre-qualification": 5,
+        "SAHPRA": 5,
+        "AMA": 3,
+        "African Medicines Agency": 5,
+        "regulatory": 3,
+        "marketing authorization": 4,
+        "marketing authorisation": 4,
+        "dossier": 3,
+        "CTD": 3,
+        "common technical document": 3,
+        "regulatory affairs": 4,
+        "regulatory strengthening": 4,
+        "national regulatory authority": 4,
+        "NRA": 2,
+        "pharmacovigilance": 3,
+        "AVAREF": 4,
+        "stringent regulatory authority": 3
+      }
+    },
+    "procurement": {
+      "label": "Procurement strategy & market shaping",
+      "keywords": {
+        "procurement strategy": 5,
+        "market shaping": 5,
+        "pooled procurement": 5,
+        "APPM": 4,
+        "vaccine procurement": 5,
+        "demand forecasting": 4,
+        "market intelligence": 3,
+        "supplier development": 3,
+        "supplier qualification": 4,
+        "tender support": 3,
+        "long-term agreement": 3,
+        "LTA": 2,
+        "framework contract": 3,
+        "self-procurement": 4,
+        "VPOP": 5,
+        "portfolio optimization": 4,
+        "portfolio optimisation": 4,
+        "market access": 3,
+        "vaccine financing": 4
+      }
+    },
+    "mel": {
+      "label": "M&E and programme evaluation",
+      "keywords": {
+        "monitoring and evaluation": 5,
+        "monitoring & evaluation": 5,
+        "M&E": 4,
+        "MEL": 4,
+        "evaluation": 3,
+        "end-of-grant": 5,
+        "mid-term review": 5,
+        "midterm review": 5,
+        "impact assessment": 4,
+        "impact evaluation": 4,
+        "programme evaluation": 5,
+        "program evaluation": 5,
+        "performance review": 3,
+        "outcome evaluation": 4,
+        "ex-post evaluation": 5,
+        "results framework": 3,
+        "theory of change": 3,
+        "logical framework": 3,
+        "logframe": 3,
+        "indicator": 1
+      }
+    }
+  },
+
+  "publisher_boosts": {
+    "_comment": "Add a small boost when publisher is uniquely aligned with an expertise area.",
+    "GAVI": {"procurement": 1, "manufacturing": 1, "cold_chain": 1},
+    "UNITAID": {"manufacturing": 1, "procurement": 1},
+    "Africa CDC": {"manufacturing": 1, "procurement": 1, "regulatory": 1},
+    "AUDA-NEPAD": {"regulatory": 1},
+    "MPP": {"manufacturing": 1, "regulatory": 1},
+    "BMGF": {"manufacturing": 1},
+    "CEPI": {"manufacturing": 1, "regulatory": 1},
+    "Biovac": {"manufacturing": 2, "cold_chain": 1, "regulatory": 1},
+    "Afrigen": {"manufacturing": 2, "regulatory": 1},
+    "EVA Pharma": {"manufacturing": 2}
+  }
+}
