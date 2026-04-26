@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_run": "2026-04-26T06:55:39.416066+00:00",
-    "duration_seconds": 31.229953,
+    "last_run": "2026-04-26T10:01:45.466225+00:00",
+    "duration_seconds": 84.953846,
     "source_stats": {
       "ReliefWeb": {
         "fetched": 0,
@@ -35,13 +35,28 @@
         "fetched": 56,
         "errors": 0
       },
+      "UNGM": {
+        "fetched": 96,
+        "errors": 0
+      },
       "Manufacturer Signals": {
         "fetched": 19,
         "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 2,
+        "errors": 0
       }
     },
-    "total_kept": 22,
-    "total_excluded": 163,
+    "total_kept": 25,
+    "total_excluded": 258,
+    "exclusion_breakdown": {
+      "goods": 16,
+      "sanctioned": 3,
+      "gate": 176,
+      "expired": 59,
+      "bmgf_strict": 4
+    },
     "min_value_usd": 50000,
     "urgent_days_threshold": 7
   },
@@ -79,9 +94,10 @@
       },
       "raw": {
         "manufacturer": "Biovac",
-        "published": "2026-04-16T15:37:24+00:00"
+        "published": "2026-04-16T15:37:24+00:00",
+        "signal_type": "manufacturer"
       },
-      "fetched_at": "2026-04-26T06:55:39.412005+00:00"
+      "fetched_at": "2026-04-26T10:01:45.461465+00:00"
     },
     {
       "id": "943b261bc1bd",
@@ -116,9 +132,48 @@
       },
       "raw": {
         "manufacturer": "BioNTech Rwanda",
-        "published": "2026-02-26T08:00:00+00:00"
+        "published": "2026-02-26T08:00:00+00:00",
+        "signal_type": "manufacturer"
       },
-      "fetched_at": "2026-04-26T06:55:39.416048+00:00"
+      "fetched_at": "2026-04-26T10:01:45.465423+00:00"
+    },
+    {
+      "id": "e605320efc1a",
+      "source": "Signal:AVMA",
+      "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - businessreport.co.za",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkRvRThBLWZBbl9oWmpzU1pmekNUc1ZqLWV3eFhCM0lUa1BnLXZSUDBDeVJyYTFaVjNQMlo4QU5VbDJ4M1hwWXRBbFVfRzc3QmJRWFRvRzBTbFB3VHRIYXgydkJaMi14cHVVMjV3UHljNzA1c2l2TEhUMkp3dC1zRWVIaE5XdUJZU09JXzFtdWREQzBzLTljY1VyYjNHYW1MaW9TQmY3a3h5LW1nRzYyU0xlNHI4LWNHMTQ0RGFnX0NoR0lHdkVydGYydw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity &nbsp;&nbsp; businessreport.co.za",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 7,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 7,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-04-16T15:37:24+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-04-26T10:01:45.465834+00:00"
     },
     {
       "id": "c528ecb8b5b8",
@@ -153,9 +208,10 @@
       },
       "raw": {
         "manufacturer": "Biovac",
-        "published": "2026-04-17T10:06:18+00:00"
+        "published": "2026-04-17T10:06:18+00:00",
+        "signal_type": "manufacturer"
       },
-      "fetched_at": "2026-04-26T06:55:39.411565+00:00"
+      "fetched_at": "2026-04-26T10:01:45.461046+00:00"
     },
     {
       "id": "a23db79775a4",
@@ -190,9 +246,10 @@
       },
       "raw": {
         "manufacturer": "Biovac",
-        "published": "2026-04-17T16:59:38+00:00"
+        "published": "2026-04-17T16:59:38+00:00",
+        "signal_type": "manufacturer"
       },
-      "fetched_at": "2026-04-26T06:55:39.412717+00:00"
+      "fetched_at": "2026-04-26T10:01:45.462169+00:00"
     },
     {
       "id": "20afca7622c8",
@@ -226,75 +283,7 @@
         "eligibility": ""
       },
       "raw": {},
-      "fetched_at": "2026-04-26T06:55:39.389211+00:00"
-    },
-    {
-      "id": "97e2688955c4",
-      "source": "Africa CDC",
-      "title": "Supply and Delivery of Essential Laboratory Supplies and Consumables to support the operational needs of the Africa CDC Reference Laboratory",
-      "url": "https://africacdc.org/opportunity/supply-and-delivery-of-essential-laboratory-supplies-and-consumables-to-support-the-operational-needs-of-the-africa-cdc-reference-laboratory/",
-      "country": "_AU",
-      "deadline": "2026-05-29",
-      "deadline_days": 33,
-      "value_usd": null,
-      "description": "3.         Bidding will be conducted through competitive procurement using a Request for Bids (RFB) as specified in the World Bank’s “Procurement Regulations for IPF Borrowers July 2016 Revised February 2025 (“Procurement Regulations”) and is open to all eligible Bidders as defined in the Procurement Regulations. 4.         Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5.         The bidding document in English may be requested by interested eligible Bidders upon the submission of a written application to the address below. The solicitation document will be sent by email upon request. 6.         Bids must be delivered to the address below on or before 29 May 2026 , 3: 00P.M Addis Ababa time. Electronic Bidding will not be permitted. Late Bids will be rejected. Bids will be publicly opened in the presence of the Bidders’ designated representatives and anyone who chooses to attend at the address below on 29 May 2026, 3:00P.M Local Time. 7.         All Bids must be accompanied by a “Bid-Securing Declaration,” 8.         Attention is drawn to the Procurement Regulations requiring the Borrower to disclose information on the successful bidder’s beneficial ownership, as part of the Contract Award Notice, using the Beneficial Ownership Disclosure Form as included in the bidding document. 9.         The address(es) referred to above",
-      "fit_per_area": {
-        "cold_chain": 3,
-        "manufacturing": 0,
-        "regulatory": 0,
-        "procurement": 0,
-        "mel": 0
-      },
-      "fit_total": 3,
-      "fit_top_area": "cold_chain",
-      "breadth_bonus": 0,
-      "flags": {
-        "sanctioned": false,
-        "requires_review_sanctions": false,
-        "requires_review_eligibility": false,
-        "urgent_deadline": false,
-        "expired": false
-      },
-      "flag_notes": {
-        "sanctions": "",
-        "eligibility": ""
-      },
-      "raw": {},
-      "fetched_at": "2026-04-26T06:55:39.390060+00:00"
-    },
-    {
-      "id": "963ac736f515",
-      "source": "Africa CDC",
-      "title": "Supply and Delivery of Electrical Vehicle (EV) for Africa CDC HQ and Regional Collaborative Centers (RCC)",
-      "url": "https://africacdc.org/opportunity/supply-and-delivery-of-electrical-vehicle-ev-for-africa-cdc-hq-and-regional-collaborative-centers-rcc/",
-      "country": "_AU",
-      "deadline": "2026-05-29",
-      "deadline_days": 33,
-      "value_usd": null,
-      "description": "3.         Bidding will be conducted through competitive procurement using a Request for Bids (RFB) as specified in the World Bank’s “Procurement Regulations for IPF Borrowers July 2016 Revised February 2025 (“Procurement Regulations”) and is open to all eligible Bidders as defined in the Procurement Regulations. 4.         Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5.         The bidding document in English may be requested by interested eligible Bidders upon the submission of a written application to the address below. The solicitation document will be sent by email upon request. 6.         Bids must be delivered to the address below on or before 29 May 2026 , 3: 00P.M Addis Ababa time. Electronic Bidding will not be permitted. Late Bids will be rejected. Bids will be publicly opened in the presence of the Bidders’ designated representatives and anyone who chooses to attend at the address below on 29 May 2026, 3:00P.M Local Time. 7.         All Bids must be accompanied by a “Bid-Securing Declaration,” 8.         Attention is drawn to the Procurement Regulations requiring the Borrower to disclose information on the successful bidder’s beneficial ownership, as part of the Contract Award Notice, using the Beneficial Ownership Disclosure Form as included in the bidding document. 9.         The address(es) referred to above",
-      "fit_per_area": {
-        "cold_chain": 3,
-        "manufacturing": 0,
-        "regulatory": 0,
-        "procurement": 0,
-        "mel": 0
-      },
-      "fit_total": 3,
-      "fit_top_area": "cold_chain",
-      "breadth_bonus": 0,
-      "flags": {
-        "sanctioned": false,
-        "requires_review_sanctions": false,
-        "requires_review_eligibility": false,
-        "urgent_deadline": false,
-        "expired": false
-      },
-      "flag_notes": {
-        "sanctions": "",
-        "eligibility": ""
-      },
-      "raw": {},
-      "fetched_at": "2026-04-26T06:55:39.390864+00:00"
+      "fetched_at": "2026-04-26T10:01:45.433905+00:00"
     },
     {
       "id": "99050d8d3f05",
@@ -329,9 +318,92 @@
       },
       "raw": {
         "manufacturer": "Afrigen",
-        "published": "2026-03-13T07:00:00+00:00"
+        "published": "2026-03-13T07:00:00+00:00",
+        "signal_type": "manufacturer"
       },
-      "fetched_at": "2026-04-26T06:55:39.413752+00:00"
+      "fetched_at": "2026-04-26T10:01:45.463183+00:00"
+    },
+    {
+      "id": "cf7eb6d69082",
+      "source": "UNICEF",
+      "title": "Routine Immunization vaccines and other health commodities requiring transportation at temperature ranges between +2°C to +8°C_DRIVE on LTA Basis",
+      "url": "https://www.ungm.org/Public/Notice/297452",
+      "country": "NI",
+      "deadline": "2026-05-01",
+      "deadline_days": 5,
+      "value_usd": null,
+      "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRFP-9203379. Matched query: vaccine.",
+      "fit_per_area": {
+        "cold_chain": 1,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "297452",
+        "ungm_agency": "UNICEF",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "LRFP-9203379",
+        "ungm_query": "vaccine",
+        "published": "2026-04-10"
+      },
+      "fetched_at": "2026-04-26T10:01:45.455107+00:00"
+    },
+    {
+      "id": "ad3a96fa4717",
+      "source": "UNOPS",
+      "title": "RFP Consultant Services Contract for Works - Health Facility Audit in Chimbu, Central and East Sepik Level 2 to 4 Health Facilities in Papua New Guinea",
+      "url": "https://www.ungm.org/Public/Notice/294253",
+      "country": "PA",
+      "deadline": "2026-05-06",
+      "deadline_days": 10,
+      "value_usd": null,
+      "description": "Agency: UNOPS. Type: Request for proposal. Reference: RFP/2026/61992. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "294253",
+        "ungm_agency": "UNOPS",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "RFP/2026/61992",
+        "ungm_query": "EPI",
+        "published": "2026-03-18"
+      },
+      "fetched_at": "2026-04-26T10:01:45.458790+00:00"
     },
     {
       "id": "f942ce0552b8",
@@ -369,7 +441,171 @@
         "wb_project_id": "P174402",
         "wb_reference": "PK-BOI-540618-CS-QCBS"
       },
-      "fetched_at": "2026-04-26T06:55:39.408658+00:00"
+      "fetched_at": "2026-04-26T10:01:45.453509+00:00"
+    },
+    {
+      "id": "dca818eb1882",
+      "source": "FAO",
+      "title": "GCP/SFS/009/ITA - Beekeeping Equipment",
+      "url": "https://www.ungm.org/Public/Notice/297622",
+      "country": "MO",
+      "deadline": "2026-04-27",
+      "deadline_days": 1,
+      "value_usd": null,
+      "description": "Agency: FAO. Type: Invitation to bid. Reference: 2026/FRMOZ/FRMOZ/136264. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "297622",
+        "ungm_agency": "FAO",
+        "ungm_notice_type": "Invitation to bid",
+        "ungm_reference": "2026/FRMOZ/FRMOZ/136264",
+        "ungm_query": "EPI",
+        "published": "2026-04-13"
+      },
+      "fetched_at": "2026-04-26T10:01:45.458400+00:00"
+    },
+    {
+      "id": "cc562027e6e0",
+      "source": "UNFPA",
+      "title": "Development and pilot implementation of Digital Safekeeping",
+      "url": "https://www.ungm.org/Public/Notice/296436",
+      "country": "UN",
+      "deadline": "2026-04-27",
+      "deadline_days": 1,
+      "value_usd": null,
+      "description": "Agency: UNFPA. Type: Request for proposal. Reference: UNFPA-HQ1-00001,1. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "296436",
+        "ungm_agency": "UNFPA",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "UNFPA-HQ1-00001,1",
+        "ungm_query": "EPI",
+        "published": "2026-03-31"
+      },
+      "fetched_at": "2026-04-26T10:01:45.458551+00:00"
+    },
+    {
+      "id": "1eca8c6d90ca",
+      "source": "UNICEF",
+      "title": "Procurement of Ebola Vaccines of assured quality for Stockpiling and Use, including stockpile management, storage, maintenance, replenishment, delivery and destruction of vaccines upon expiry",
+      "url": "https://www.ungm.org/Public/Notice/296247",
+      "country": "MU",
+      "deadline": "2026-05-01",
+      "deadline_days": 5,
+      "value_usd": null,
+      "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503904. Matched query: vaccine.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "296247",
+        "ungm_agency": "UNICEF",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "RFP-DAN-2026-503904",
+        "ungm_query": "vaccine",
+        "published": "2026-03-30"
+      },
+      "fetched_at": "2026-04-26T10:01:45.455264+00:00"
+    },
+    {
+      "id": "4fa1b1ff8481",
+      "source": "FAO",
+      "title": "Procurement of Beekeeping Training Materials to be delivered to Duzce, Turkiye",
+      "url": "https://www.ungm.org/Public/Notice/297992",
+      "country": "TÜ",
+      "deadline": "2026-05-03",
+      "deadline_days": 7,
+      "value_usd": null,
+      "description": "Agency: FAO. Type: Request for quotation. Reference: 2026/FETUR/FETUR/136472. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "297992",
+        "ungm_agency": "FAO",
+        "ungm_notice_type": "Request for quotation",
+        "ungm_reference": "2026/FETUR/FETUR/136472",
+        "ungm_query": "EPI",
+        "published": "2026-04-16"
+      },
+      "fetched_at": "2026-04-26T10:01:45.458297+00:00"
     },
     {
       "id": "221b84f69d69",
@@ -403,7 +639,48 @@
         "eligibility": ""
       },
       "raw": {},
-      "fetched_at": "2026-04-26T06:55:39.388548+00:00"
+      "fetched_at": "2026-04-26T10:01:45.433259+00:00"
+    },
+    {
+      "id": "d6c936e4406f",
+      "source": "UNGM (UN Secretariat)",
+      "title": "Long-term supply of petroleum, oil and lubricants and provision of associated services to the United Nations Peacekeeping Force in Cyprus (UNFICYP).)",
+      "url": "https://www.ungm.org/Public/Notice/298040",
+      "country": "CY",
+      "deadline": "2026-05-13",
+      "deadline_days": 17,
+      "value_usd": null,
+      "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24341. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "298040",
+        "ungm_agency": "UN Secretariat",
+        "ungm_notice_type": "Request for EOI",
+        "ungm_reference": "EOIUNPD24341",
+        "ungm_query": "EPI",
+        "published": "2026-04-16"
+      },
+      "fetched_at": "2026-04-26T10:01:45.458358+00:00"
     },
     {
       "id": "860b39073c83",
@@ -441,143 +718,7 @@
         "wb_project_id": "P174177",
         "wb_reference": "PE-INS-527241-CS-QCBS"
       },
-      "fetched_at": "2026-04-26T06:55:39.408452+00:00"
-    },
-    {
-      "id": "d5846ba7d422",
-      "source": "BMGF",
-      "title": "Innovations in Cost-Disruptive Tools for Diagnosis and Screening",
-      "url": "https://gcgh.grandchallenges.org/challenge/innovations-cost-disruptive-tools-diagnosis-and-screening",
-      "country": "_LMIC",
-      "deadline": null,
-      "deadline_days": null,
-      "value_usd": null,
-      "description": "Cost-Disruptive Tools for Diagnosis and Screening Gates Foundation Global Grand Challenges Grant Opportunities Innovations Innovations All Awards Past Challenges Champions Calestous Juma Fellows All Champions Partnerships Systems Overview About Grand Challenges Impact Search in Header SEARCH Search submit Search submit Innovations in Cost-Disruptive Tools for Diagnosis and Screening Before applying, applicants should familiarize themselves with the supporting documents for this Grand Challenge, including the terms and conditions of the Gates Foundation, the Rules and Guidelines , Application Instructions , and Frequently Asked Questions . If you are planning to apply to this RFP, we will be hosting a dedicated webinar on March 30, from 8:30-9:30 AM Pacific Time. This session will provide a comprehensive overview of the RFP details and an opportunity to have your questions answered. To participate in the webinar , please register and submit your questions in advance . If you cannot attend live, the webinar will be recorded and available on this challenge page after the session. Background Diagnostic Access and Affordability Limited access to affordable diagnosis is a significant barrier to disease control and equitable healthcare in low- and middle-income countries (LMICs). Nearly half of the global population lacks essential diagnostic tests, and access is almost nonexistent for up to 81% of people in the poorest settings, driving delayed or missed disease detection at scale.",
-      "fit_per_area": {
-        "cold_chain": 0,
-        "manufacturing": 0,
-        "regulatory": 0,
-        "procurement": 0,
-        "mel": 0
-      },
-      "fit_total": 0,
-      "fit_top_area": "cold_chain",
-      "breadth_bonus": 0,
-      "flags": {
-        "sanctioned": false,
-        "requires_review_sanctions": false,
-        "requires_review_eligibility": false,
-        "urgent_deadline": false,
-        "expired": false
-      },
-      "flag_notes": {
-        "sanctions": "",
-        "eligibility": ""
-      },
-      "raw": {},
-      "fetched_at": "2026-04-26T06:55:39.402903+00:00"
-    },
-    {
-      "id": "45823fb07aa4",
-      "source": "BMGF",
-      "title": "Artificial Intelligence (AI) to Accelerate Charitable Giving",
-      "url": "https://gcgh.grandchallenges.org/challenge/artificial-intelligence-ai-accelerate-charitable-giving",
-      "country": "_GLOBAL",
-      "deadline": null,
-      "deadline_days": null,
-      "value_usd": null,
-      "description": "Artificial Intelligence (AI) to Accelerate Charitable Giving Gates Foundation Global Grand Challenges Grant Opportunities Innovations Innovations All Awards Past Challenges Champions Calestous Juma Fellows All Champions Partnerships Systems Overview About Grand Challenges Impact Search in Header SEARCH Search submit Search submit Artificial Intelligence (AI) to Accelerate Charitable Giving Before applying to this Grand Challenges request for proposals (RFP), applicants should familiarize themselves with the supporting documents, including the terms and conditions of the Gates Foundation , the Rules and Guidelines , Application Instructions , and Frequently Asked Questions . If you are planning to apply to this RFP, we will be hosting a dedicated webinar on March 23, from 7:00-8:00 AM Pacific Time. This session will provide a comprehensive overview of the RFP details and an opportunity to have your questions answered. To participate in the webinar , please register and submit your questions in advance . If you cannot attend live, the webinar will be recorded and available on this challenge page after the session. Background The Gates Foundation's Philanthropic Partnerships Team (PPT) mobilizes resources and cultivates champions for global health and development (GH&D), ensuring that philanthropy helps the world's most vulnerable children survive and thrive. Many people want to make a difference but aren't always sure how to turn that intention into action. Our work helps donor",
-      "fit_per_area": {
-        "cold_chain": 0,
-        "manufacturing": 0,
-        "regulatory": 0,
-        "procurement": 0,
-        "mel": 0
-      },
-      "fit_total": 0,
-      "fit_top_area": "cold_chain",
-      "breadth_bonus": 0,
-      "flags": {
-        "sanctioned": false,
-        "requires_review_sanctions": false,
-        "requires_review_eligibility": false,
-        "urgent_deadline": false,
-        "expired": false
-      },
-      "flag_notes": {
-        "sanctions": "",
-        "eligibility": ""
-      },
-      "raw": {},
-      "fetched_at": "2026-04-26T06:55:39.403662+00:00"
-    },
-    {
-      "id": "89ab6944d259",
-      "source": "BMGF",
-      "title": "Novel Interventions Targeting Placental and Gut Inflammation to Improve Fetal Growth",
-      "url": "https://gcgh.grandchallenges.org/challenge/novel-interventions-targeting-placental-and-gut-inflammation-improve-fetal-growth",
-      "country": "_SSA",
-      "deadline": null,
-      "deadline_days": null,
-      "value_usd": null,
-      "description": "Novel Interventions Targeting Placental and Gut Inflammation Gates Foundation Global Grand Challenges Grant Opportunities Innovations Innovations All Awards Past Challenges Champions Calestous Juma Fellows All Champions Partnerships Systems Overview About Grand Challenges Impact Search in Header SEARCH Search submit Search submit Novel Interventions Targeting Placental and Gut Inflammation to Improve Fetal Growth Before applying, applicants should familiarize themselves with the supporting documents for this Grand Challenge request for proposals (RFP), including the terms and conditions of the Gates Foundation , the Rules and Guidelines , Application Instructions , and Frequently Asked Questions . If you are planning to apply to this RFP, we will be hosting a dedicated webinar on March 23, from 8:30-9:30 AM Pacific Time. This session will provide a comprehensive overview of the RFP details and an opportunity to have your questions answered. To participate in the webinar , please register and submit your questions in advance . If you cannot attend live, the webinar will be recorded and available on this challenge page after the session. This is a call for transformative innovation. We seek solutions that can accelerate identification and early validation of interventions (novel or repurposed), including drug-based, biologic, dietary, and microbiome-informed approaches, that modulate inflammatory and or oxidative stress processes in the placenta-maternal gut axis, with the pote",
-      "fit_per_area": {
-        "cold_chain": 0,
-        "manufacturing": 0,
-        "regulatory": 0,
-        "procurement": 0,
-        "mel": 0
-      },
-      "fit_total": 0,
-      "fit_top_area": "cold_chain",
-      "breadth_bonus": 0,
-      "flags": {
-        "sanctioned": false,
-        "requires_review_sanctions": false,
-        "requires_review_eligibility": false,
-        "urgent_deadline": false,
-        "expired": false
-      },
-      "flag_notes": {
-        "sanctions": "",
-        "eligibility": ""
-      },
-      "raw": {},
-      "fetched_at": "2026-04-26T06:55:39.404070+00:00"
-    },
-    {
-      "id": "5b08e54aeaa3",
-      "source": "BMGF",
-      "title": "Addressing Physiological Barriers to Micronutrient Absorption from Fortified Foods",
-      "url": "https://gcgh.grandchallenges.org/challenge/addressing-physiological-barriers-micronutrient-absorption-fortified-foods",
-      "country": null,
-      "deadline": null,
-      "deadline_days": null,
-      "value_usd": null,
-      "description": "Barriers to Micronutrient Absorption from Fortified Foods Gates Foundation Global Grand Challenges Grant Opportunities Innovations Innovations All Awards Past Challenges Champions Calestous Juma Fellows All Champions Partnerships Systems Overview About Grand Challenges Impact Search in Header SEARCH Search submit Search submit Addressing Physiological Barriers to Micronutrient Absorption from Fortified Foods Before applying to this Grand Challenges request for proposals (RFP), applicants should familiarize themselves with the supporting documents, including the terms and conditions of the Gates Foundation , the Rules and Guidelines , Application Instructions , and Frequently Asked Questions . If you are planning to apply to this RFP, we will be hosting a dedicated webinar on April 2, from 8:30-9:30 AM Pacific Time. This session will provide a comprehensive overview of the RFP details and an opportunity to have your questions answered. To participate in the webinar , please register and submit your questions in advance . If you cannot attend live, the webinar will be recorded and available on this challenge page after the session. Background Despite the proven potential of large-scale food fortification to address micronutrient deficiencies, biological constraints may limit its impact in high-burden settings. Chronic inflammation - driven by recurrent infections, environmental enteric dysfunction (EED), poor sanitation, metabolic disorders, or other systemic stressors - can im",
-      "fit_per_area": {
-        "cold_chain": 0,
-        "manufacturing": 0,
-        "regulatory": 0,
-        "procurement": 0,
-        "mel": 0
-      },
-      "fit_total": 0,
-      "fit_top_area": "cold_chain",
-      "breadth_bonus": 0,
-      "flags": {
-        "sanctioned": false,
-        "requires_review_sanctions": false,
-        "requires_review_eligibility": false,
-        "urgent_deadline": false,
-        "expired": false
-      },
-      "flag_notes": {
-        "sanctions": "",
-        "eligibility": ""
-      },
-      "raw": {},
-      "fetched_at": "2026-04-26T06:55:39.408024+00:00"
+      "fetched_at": "2026-04-26T10:01:45.453249+00:00"
     },
     {
       "id": "4db365511153",
@@ -612,9 +753,10 @@
       },
       "raw": {
         "manufacturer": "Biovac",
-        "published": "2026-04-20T13:31:56+00:00"
+        "published": "2026-04-20T13:31:56+00:00",
+        "signal_type": "manufacturer"
       },
-      "fetched_at": "2026-04-26T06:55:39.410190+00:00"
+      "fetched_at": "2026-04-26T10:01:45.459680+00:00"
     },
     {
       "id": "513dcaeaea68",
@@ -649,9 +791,10 @@
       },
       "raw": {
         "manufacturer": "Biovac",
-        "published": "2026-04-24T10:36:24+00:00"
+        "published": "2026-04-24T10:36:24+00:00",
+        "signal_type": "manufacturer"
       },
-      "fetched_at": "2026-04-26T06:55:39.410527+00:00"
+      "fetched_at": "2026-04-26T10:01:45.460028+00:00"
     },
     {
       "id": "16a3c0a1659d",
@@ -686,9 +829,10 @@
       },
       "raw": {
         "manufacturer": "Biovac",
-        "published": "2026-04-17T11:34:30+00:00"
+        "published": "2026-04-17T11:34:30+00:00",
+        "signal_type": "manufacturer"
       },
-      "fetched_at": "2026-04-26T06:55:39.410663+00:00"
+      "fetched_at": "2026-04-26T10:01:45.460164+00:00"
     },
     {
       "id": "5fa5a32d5033",
@@ -723,9 +867,10 @@
       },
       "raw": {
         "manufacturer": "Biovac",
-        "published": "2026-04-16T12:45:00+00:00"
+        "published": "2026-04-16T12:45:00+00:00",
+        "signal_type": "manufacturer"
       },
-      "fetched_at": "2026-04-26T06:55:39.411032+00:00"
+      "fetched_at": "2026-04-26T10:01:45.460507+00:00"
     },
     {
       "id": "a571e9d35662",
@@ -760,9 +905,10 @@
       },
       "raw": {
         "manufacturer": "Biovac",
-        "published": "2026-04-17T13:32:00+00:00"
+        "published": "2026-04-17T13:32:00+00:00",
+        "signal_type": "manufacturer"
       },
-      "fetched_at": "2026-04-26T06:55:39.411164+00:00"
+      "fetched_at": "2026-04-26T10:01:45.460635+00:00"
     },
     {
       "id": "9edcae8be231",
@@ -797,9 +943,10 @@
       },
       "raw": {
         "manufacturer": "Biovac",
-        "published": "2026-04-17T11:59:18+00:00"
+        "published": "2026-04-17T11:59:18+00:00",
+        "signal_type": "manufacturer"
       },
-      "fetched_at": "2026-04-26T06:55:39.413367+00:00"
+      "fetched_at": "2026-04-26T10:01:45.462792+00:00"
     },
     {
       "id": "93cfbed91b1f",
@@ -834,9 +981,48 @@
       },
       "raw": {
         "manufacturer": "Aspen Pharmacare",
-        "published": "2026-02-11T08:00:00+00:00"
+        "published": "2026-02-11T08:00:00+00:00",
+        "signal_type": "manufacturer"
       },
-      "fetched_at": "2026-04-26T06:55:39.415072+00:00"
+      "fetched_at": "2026-04-26T10:01:45.464464+00:00"
+    },
+    {
+      "id": "63fd7a182f4d",
+      "source": "Signal:AVMA",
+      "title": "Gavi, World Bank Boost Health Resilience, Vaccine Output - Mirage News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaHAxUUdKRDVEUjF1dDBQOC1xTnhtNW4yR0paYUdPNUQ0aWphUlRFaGdHWXdTXzZ4X1RoaDFBTmM2clpYU0ZkY1RRQkVyQXo5MTlXTDNsYWJzaXBFRTJWblRVbGR1d0hIYm1RSzF2NWh0TjlBTzJ4T0dudG1DT1dyRTFqLVZiZGsyS3I4?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Gavi, World Bank Boost Health Resilience, Vaccine Output &nbsp;&nbsp; Mirage News",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2025-12-06T08:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-04-26T10:01:45.466166+00:00"
     }
   ]
 }

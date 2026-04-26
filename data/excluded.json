@@ -1,5 +1,25 @@
 [
   {
+    "id": "97e2688955c4",
+    "source": "Africa CDC",
+    "title": "Supply and Delivery of Essential Laboratory Supplies and Consumables to support the operational needs of the Africa CDC Reference Laboratory",
+    "url": "https://africacdc.org/opportunity/supply-and-delivery-of-essential-laboratory-supplies-and-consumables-to-support-the-operational-needs-of-the-africa-cdc-reference-laboratory/",
+    "country": "_AU",
+    "exclusion_reason": "goods_tender (matched: 'supply and delivery')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.434377+00:00"
+  },
+  {
+    "id": "963ac736f515",
+    "source": "Africa CDC",
+    "title": "Supply and Delivery of Electrical Vehicle (EV) for Africa CDC HQ and Regional Collaborative Centers (RCC)",
+    "url": "https://africacdc.org/opportunity/supply-and-delivery-of-electrical-vehicle-ev-for-africa-cdc-hq-and-regional-collaborative-centers-rcc/",
+    "country": "_AU",
+    "exclusion_reason": "goods_tender (matched: 'supply and delivery')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.434810+00:00"
+  },
+  {
     "id": "1e821592e8ee",
     "source": "TED",
     "title": "Croatia – Medical equipments – 07. Nabava opreme za potrebe funkcioniranja središnjeg kompleksa (Medicinski i nemedicinski namještaj) - ponavljanje - grupa 4",
@@ -7,7 +27,7 @@
     "country": "HR",
     "exclusion_reason": "Hard sanctions (text match): Iran",
     "exclusion_type": "sanctioned",
-    "excluded_at": "2026-04-26T06:55:39.390881+00:00"
+    "excluded_at": "2026-04-26T10:01:45.434826+00:00"
   },
   {
     "id": "c115126595d3",
@@ -17,7 +37,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.390953+00:00"
+    "excluded_at": "2026-04-26T10:01:45.434914+00:00"
   },
   {
     "id": "bf73a7f04c43",
@@ -27,7 +47,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.391035+00:00"
+    "excluded_at": "2026-04-26T10:01:45.434998+00:00"
   },
   {
     "id": "86cb05b0a2fb",
@@ -37,7 +57,7 @@
     "country": "DE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.391326+00:00"
+    "excluded_at": "2026-04-26T10:01:45.435302+00:00"
   },
   {
     "id": "27136968d76c",
@@ -47,7 +67,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.391379+00:00"
+    "excluded_at": "2026-04-26T10:01:45.435369+00:00"
   },
   {
     "id": "f77c020ce337",
@@ -57,7 +77,7 @@
     "country": null,
     "exclusion_reason": "expired (deadline was 2026-04-09, 17 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-04-26T06:55:39.391966+00:00"
+    "excluded_at": "2026-04-26T10:01:45.435976+00:00"
   },
   {
     "id": "1fd7e8218b68",
@@ -67,7 +87,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.392034+00:00"
+    "excluded_at": "2026-04-26T10:01:45.436039+00:00"
   },
   {
     "id": "89497be17ba5",
@@ -77,7 +97,7 @@
     "country": "FR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.392075+00:00"
+    "excluded_at": "2026-04-26T10:01:45.436092+00:00"
   },
   {
     "id": "bf6e2340bc5b",
@@ -87,7 +107,7 @@
     "country": "AN",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.392109+00:00"
+    "excluded_at": "2026-04-26T10:01:45.436134+00:00"
   },
   {
     "id": "68f463b75993",
@@ -97,7 +117,7 @@
     "country": "ES",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.392163+00:00"
+    "excluded_at": "2026-04-26T10:01:45.436203+00:00"
   },
   {
     "id": "e859278a619b",
@@ -107,7 +127,7 @@
     "country": "PL",
     "exclusion_reason": "expired (deadline was 2026-03-06, 51 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-04-26T06:55:39.392437+00:00"
+    "excluded_at": "2026-04-26T10:01:45.436499+00:00"
   },
   {
     "id": "a16f9012ceb9",
@@ -117,7 +137,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.392479+00:00"
+    "excluded_at": "2026-04-26T10:01:45.436556+00:00"
   },
   {
     "id": "7ec52e4fdbab",
@@ -127,7 +147,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.392580+00:00"
+    "excluded_at": "2026-04-26T10:01:45.436678+00:00"
   },
   {
     "id": "8fdf1f705b81",
@@ -137,7 +157,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.392618+00:00"
+    "excluded_at": "2026-04-26T10:01:45.436728+00:00"
   },
   {
     "id": "2c1d9e01b0e3",
@@ -147,7 +167,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.392672+00:00"
+    "excluded_at": "2026-04-26T10:01:45.436801+00:00"
   },
   {
     "id": "ca5d0ff97d1e",
@@ -157,7 +177,7 @@
     "country": "ES",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.392724+00:00"
+    "excluded_at": "2026-04-26T10:01:45.436869+00:00"
   },
   {
     "id": "67568f1268f5",
@@ -167,7 +187,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.393183+00:00"
+    "excluded_at": "2026-04-26T10:01:45.437360+00:00"
   },
   {
     "id": "f9f7cfcac1c4",
@@ -177,7 +197,7 @@
     "country": "FR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.393271+00:00"
+    "excluded_at": "2026-04-26T10:01:45.437468+00:00"
   },
   {
     "id": "58933171b382",
@@ -187,7 +207,7 @@
     "country": "ES",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.393315+00:00"
+    "excluded_at": "2026-04-26T10:01:45.437527+00:00"
   },
   {
     "id": "4aab23c79b8d",
@@ -197,7 +217,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.393365+00:00"
+    "excluded_at": "2026-04-26T10:01:45.437593+00:00"
   },
   {
     "id": "d4d8e6ef5c55",
@@ -207,7 +227,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.393439+00:00"
+    "excluded_at": "2026-04-26T10:01:45.437683+00:00"
   },
   {
     "id": "51148d615ce8",
@@ -217,7 +237,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.393478+00:00"
+    "excluded_at": "2026-04-26T10:01:45.437733+00:00"
   },
   {
     "id": "b19d201fda66",
@@ -227,7 +247,7 @@
     "country": "BE",
     "exclusion_reason": "expired (deadline was 2026-03-13, 44 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-04-26T06:55:39.393572+00:00"
+    "excluded_at": "2026-04-26T10:01:45.437844+00:00"
   },
   {
     "id": "25ff9723b887",
@@ -237,7 +257,7 @@
     "country": "NO",
     "exclusion_reason": "expired (deadline was 2026-03-27, 30 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-04-26T06:55:39.393750+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438059+00:00"
   },
   {
     "id": "182cb849e5c3",
@@ -247,7 +267,7 @@
     "country": "FR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.393787+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438111+00:00"
   },
   {
     "id": "2598dd03856c",
@@ -257,7 +277,7 @@
     "country": "MR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.393826+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438169+00:00"
   },
   {
     "id": "12ea46a96aee",
@@ -267,7 +287,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.393920+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438320+00:00"
   },
   {
     "id": "da548f381b79",
@@ -277,7 +297,7 @@
     "country": "DE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.393971+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438394+00:00"
   },
   {
     "id": "05a0714d0ff5",
@@ -287,7 +307,7 @@
     "country": "ES",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394029+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438447+00:00"
   },
   {
     "id": "2cf8ebaea523",
@@ -297,7 +317,7 @@
     "country": "FR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394064+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438490+00:00"
   },
   {
     "id": "9b64e030ff4b",
@@ -307,7 +327,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394100+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438538+00:00"
   },
   {
     "id": "e6d5b44f496b",
@@ -317,7 +337,7 @@
     "country": "SE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394142+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438589+00:00"
   },
   {
     "id": "8473a2dafd65",
@@ -327,7 +347,7 @@
     "country": "FR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394167+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438622+00:00"
   },
   {
     "id": "6eda8e66e5c7",
@@ -337,7 +357,7 @@
     "country": "BE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394204+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438671+00:00"
   },
   {
     "id": "fb7869fa64f5",
@@ -347,7 +367,7 @@
     "country": "MK",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394252+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438730+00:00"
   },
   {
     "id": "de3d0160fde5",
@@ -357,7 +377,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394284+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438773+00:00"
   },
   {
     "id": "512c32a7a584",
@@ -367,7 +387,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394317+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438818+00:00"
   },
   {
     "id": "4e8e3c0c9dae",
@@ -377,7 +397,7 @@
     "country": "FR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394355+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438864+00:00"
   },
   {
     "id": "c98d92867a06",
@@ -387,7 +407,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394380+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438897+00:00"
   },
   {
     "id": "60ebd8070440",
@@ -397,7 +417,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394416+00:00"
+    "excluded_at": "2026-04-26T10:01:45.438974+00:00"
   },
   {
     "id": "f16bbf2250ec",
@@ -407,7 +427,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394522+00:00"
+    "excluded_at": "2026-04-26T10:01:45.439102+00:00"
   },
   {
     "id": "dde707837c6a",
@@ -417,7 +437,7 @@
     "country": "HR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394555+00:00"
+    "excluded_at": "2026-04-26T10:01:45.439149+00:00"
   },
   {
     "id": "19325a30fca6",
@@ -427,7 +447,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394704+00:00"
+    "excluded_at": "2026-04-26T10:01:45.439317+00:00"
   },
   {
     "id": "4c5ff60e6cb8",
@@ -437,7 +457,7 @@
     "country": "NO",
     "exclusion_reason": "expired (deadline was 2026-03-26, 31 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-04-26T06:55:39.394923+00:00"
+    "excluded_at": "2026-04-26T10:01:45.439554+00:00"
   },
   {
     "id": "69d969864d2c",
@@ -447,7 +467,7 @@
     "country": "NO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.394955+00:00"
+    "excluded_at": "2026-04-26T10:01:45.439598+00:00"
   },
   {
     "id": "9a973d96bdd9",
@@ -457,7 +477,7 @@
     "country": "SE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.395044+00:00"
+    "excluded_at": "2026-04-26T10:01:45.439679+00:00"
   },
   {
     "id": "7f3e84788b51",
@@ -467,7 +487,7 @@
     "country": "ES",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.395105+00:00"
+    "excluded_at": "2026-04-26T10:01:45.439758+00:00"
   },
   {
     "id": "a5bd021e2f1b",
@@ -477,7 +497,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.395157+00:00"
+    "excluded_at": "2026-04-26T10:01:45.439823+00:00"
   },
   {
     "id": "1c24a12dfc16",
@@ -487,7 +507,7 @@
     "country": "DK",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.395189+00:00"
+    "excluded_at": "2026-04-26T10:01:45.439866+00:00"
   },
   {
     "id": "a6f7f30b939a",
@@ -497,7 +517,7 @@
     "country": "EL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.395209+00:00"
+    "excluded_at": "2026-04-26T10:01:45.439894+00:00"
   },
   {
     "id": "5601a84537cb",
@@ -507,7 +527,7 @@
     "country": "DE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.395255+00:00"
+    "excluded_at": "2026-04-26T10:01:45.439968+00:00"
   },
   {
     "id": "9c276926070a",
@@ -517,7 +537,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.395336+00:00"
+    "excluded_at": "2026-04-26T10:01:45.440071+00:00"
   },
   {
     "id": "a1312cb475a5",
@@ -527,7 +547,7 @@
     "country": "HR",
     "exclusion_reason": "Hard sanctions (text match): Iran",
     "exclusion_type": "sanctioned",
-    "excluded_at": "2026-04-26T06:55:39.395350+00:00"
+    "excluded_at": "2026-04-26T10:01:45.440085+00:00"
   },
   {
     "id": "3d064b0c1e0c",
@@ -537,7 +557,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.395405+00:00"
+    "excluded_at": "2026-04-26T10:01:45.440156+00:00"
   },
   {
     "id": "ee023aa83f3f",
@@ -547,7 +567,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.395472+00:00"
+    "excluded_at": "2026-04-26T10:01:45.440238+00:00"
   },
   {
     "id": "e5e6b02b9f0b",
@@ -557,7 +577,7 @@
     "country": "DK",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.395627+00:00"
+    "excluded_at": "2026-04-26T10:01:45.440408+00:00"
   },
   {
     "id": "202924cf400c",
@@ -567,7 +587,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.395754+00:00"
+    "excluded_at": "2026-04-26T10:01:45.440551+00:00"
   },
   {
     "id": "c1fe93ba5569",
@@ -577,7 +597,7 @@
     "country": "DE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.395805+00:00"
+    "excluded_at": "2026-04-26T10:01:45.440616+00:00"
   },
   {
     "id": "70eceec10d29",
@@ -587,7 +607,7 @@
     "country": "NO",
     "exclusion_reason": "expired (deadline was 2026-03-04, 53 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-04-26T06:55:39.395880+00:00"
+    "excluded_at": "2026-04-26T10:01:45.440703+00:00"
   },
   {
     "id": "1d96a7efb3db",
@@ -597,7 +617,7 @@
     "country": "IS",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.395930+00:00"
+    "excluded_at": "2026-04-26T10:01:45.440769+00:00"
   },
   {
     "id": "905996f3f436",
@@ -607,7 +627,7 @@
     "country": "NL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.395972+00:00"
+    "excluded_at": "2026-04-26T10:01:45.440825+00:00"
   },
   {
     "id": "b1be64f4ea5c",
@@ -617,7 +637,7 @@
     "country": "FI",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.396059+00:00"
+    "excluded_at": "2026-04-26T10:01:45.440910+00:00"
   },
   {
     "id": "0b4151bcafec",
@@ -627,7 +647,7 @@
     "country": "FR",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.396116+00:00"
+    "excluded_at": "2026-04-26T10:01:45.440990+00:00"
   },
   {
     "id": "8adb81980388",
@@ -637,7 +657,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.396149+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441038+00:00"
   },
   {
     "id": "2e49ba3efd54",
@@ -647,7 +667,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.396179+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441080+00:00"
   },
   {
     "id": "64f72c7a4c38",
@@ -657,7 +677,7 @@
     "country": "SE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.396209+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441120+00:00"
   },
   {
     "id": "c2411376645f",
@@ -667,7 +687,7 @@
     "country": "DE",
     "exclusion_reason": "expired (deadline was 2026-04-01, 25 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-04-26T06:55:39.396281+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441205+00:00"
   },
   {
     "id": "3cc72bea66b1",
@@ -677,7 +697,7 @@
     "country": "EE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.396312+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441248+00:00"
   },
   {
     "id": "3a3e0e043e75",
@@ -687,7 +707,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.396342+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441287+00:00"
   },
   {
     "id": "664a5083dbf9",
@@ -697,7 +717,7 @@
     "country": "NL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.396379+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441338+00:00"
   },
   {
     "id": "3aef24280e2f",
@@ -707,7 +727,7 @@
     "country": "FI",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.396411+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441383+00:00"
   },
   {
     "id": "5c7daa0678cd",
@@ -717,7 +737,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.396534+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441523+00:00"
   },
   {
     "id": "93a420f514e1",
@@ -727,7 +747,7 @@
     "country": "IT",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.396599+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441612+00:00"
   },
   {
     "id": "e37f9a37c671",
@@ -737,7 +757,7 @@
     "country": "CZ",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.396661+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441688+00:00"
   },
   {
     "id": "12dffa29ccbb",
@@ -747,7 +767,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.396704+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441746+00:00"
   },
   {
     "id": "3d12735bb166",
@@ -757,7 +777,7 @@
     "country": "MK",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.396753+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441805+00:00"
   },
   {
     "id": "9052912fd2ff",
@@ -767,7 +787,7 @@
     "country": "SE",
     "exclusion_reason": "expired (deadline was 2026-03-30, 27 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-04-26T06:55:39.396808+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441870+00:00"
   },
   {
     "id": "73b58d707749",
@@ -777,7 +797,7 @@
     "country": "SE",
     "exclusion_reason": "expired (deadline was 2026-03-18, 39 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-04-26T06:55:39.396889+00:00"
+    "excluded_at": "2026-04-26T10:01:45.441979+00:00"
   },
   {
     "id": "56df6a65a166",
@@ -787,7 +807,7 @@
     "country": "FI",
     "exclusion_reason": "expired (deadline was 2026-04-07, 19 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-04-26T06:55:39.397137+00:00"
+    "excluded_at": "2026-04-26T10:01:45.442231+00:00"
   },
   {
     "id": "d26b189d35ae",
@@ -797,7 +817,7 @@
     "country": "BG",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.397184+00:00"
+    "excluded_at": "2026-04-26T10:01:45.442290+00:00"
   },
   {
     "id": "3329f817bbd5",
@@ -807,7 +827,7 @@
     "country": "FI",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.397252+00:00"
+    "excluded_at": "2026-04-26T10:01:45.442377+00:00"
   },
   {
     "id": "0193349d5435",
@@ -817,7 +837,7 @@
     "country": "LT",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.397288+00:00"
+    "excluded_at": "2026-04-26T10:01:45.442426+00:00"
   },
   {
     "id": "6dde5b0b4005",
@@ -827,7 +847,7 @@
     "country": "FI",
     "exclusion_reason": "expired (deadline was 2026-03-31, 26 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-04-26T06:55:39.397422+00:00"
+    "excluded_at": "2026-04-26T10:01:45.442575+00:00"
   },
   {
     "id": "907d8d5f0179",
@@ -837,7 +857,7 @@
     "country": "CZ",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.397471+00:00"
+    "excluded_at": "2026-04-26T10:01:45.442634+00:00"
   },
   {
     "id": "54a124a60f40",
@@ -847,7 +867,7 @@
     "country": "PL",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.397511+00:00"
+    "excluded_at": "2026-04-26T10:01:45.442681+00:00"
   },
   {
     "id": "20444d26d2f6",
@@ -857,7 +877,7 @@
     "country": "CZ",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.397549+00:00"
+    "excluded_at": "2026-04-26T10:01:45.442731+00:00"
   },
   {
     "id": "1ca4f416834c",
@@ -867,7 +887,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.397647+00:00"
+    "excluded_at": "2026-04-26T10:01:45.442852+00:00"
   },
   {
     "id": "73b2f4632716",
@@ -877,7 +897,7 @@
     "country": "CH",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.397690+00:00"
+    "excluded_at": "2026-04-26T10:01:45.442911+00:00"
   },
   {
     "id": "a4559fd7f68b",
@@ -887,7 +907,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.397764+00:00"
+    "excluded_at": "2026-04-26T10:01:45.443013+00:00"
   },
   {
     "id": "5dd3d294cfe7",
@@ -897,7 +917,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.397790+00:00"
+    "excluded_at": "2026-04-26T10:01:45.443051+00:00"
   },
   {
     "id": "ffaad74c129f",
@@ -907,7 +927,7 @@
     "country": "DE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.397847+00:00"
+    "excluded_at": "2026-04-26T10:01:45.443120+00:00"
   },
   {
     "id": "30b866b54539",
@@ -917,7 +937,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.397927+00:00"
+    "excluded_at": "2026-04-26T10:01:45.443216+00:00"
   },
   {
     "id": "50cc328373f0",
@@ -927,7 +947,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.398070+00:00"
+    "excluded_at": "2026-04-26T10:01:45.443363+00:00"
   },
   {
     "id": "dcb9d2632f3a",
@@ -937,7 +957,7 @@
     "country": "CZ",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.398126+00:00"
+    "excluded_at": "2026-04-26T10:01:45.443427+00:00"
   },
   {
     "id": "3ea64c719f2d",
@@ -947,7 +967,7 @@
     "country": "SE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.398196+00:00"
+    "excluded_at": "2026-04-26T10:01:45.443511+00:00"
   },
   {
     "id": "e5f3fcd62bc0",
@@ -957,7 +977,7 @@
     "country": "FR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.398224+00:00"
+    "excluded_at": "2026-04-26T10:01:45.443549+00:00"
   },
   {
     "id": "0b08ee29ba3c",
@@ -967,7 +987,7 @@
     "country": "HR",
     "exclusion_reason": "expired (deadline was 2026-03-27, 30 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-04-26T06:55:39.398373+00:00"
+    "excluded_at": "2026-04-26T10:01:45.443711+00:00"
   },
   {
     "id": "3e88719f9d82",
@@ -977,7 +997,7 @@
     "country": "DE",
     "exclusion_reason": "expired (deadline was 2026-03-20, 37 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-04-26T06:55:39.398625+00:00"
+    "excluded_at": "2026-04-26T10:01:45.443989+00:00"
   },
   {
     "id": "4fb51d0e1a5b",
@@ -987,7 +1007,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.398684+00:00"
+    "excluded_at": "2026-04-26T10:01:45.444068+00:00"
   },
   {
     "id": "9ee10f5aef1c",
@@ -997,7 +1017,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.398817+00:00"
+    "excluded_at": "2026-04-26T10:01:45.444218+00:00"
   },
   {
     "id": "4f02f078fe95",
@@ -1007,7 +1027,37 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.402433+00:00"
+    "excluded_at": "2026-04-26T10:01:45.447817+00:00"
+  },
+  {
+    "id": "d5846ba7d422",
+    "source": "BMGF",
+    "title": "Innovations in Cost-Disruptive Tools for Diagnosis and Screening",
+    "url": "https://gcgh.grandchallenges.org/challenge/innovations-cost-disruptive-tools-diagnosis-and-screening",
+    "country": "_LMIC",
+    "exclusion_reason": "bmgf_no_vaccine_in_head",
+    "exclusion_type": "bmgf_strict",
+    "excluded_at": "2026-04-26T10:01:45.448087+00:00"
+  },
+  {
+    "id": "45823fb07aa4",
+    "source": "BMGF",
+    "title": "Artificial Intelligence (AI) to Accelerate Charitable Giving",
+    "url": "https://gcgh.grandchallenges.org/challenge/artificial-intelligence-ai-accelerate-charitable-giving",
+    "country": "_GLOBAL",
+    "exclusion_reason": "bmgf_no_vaccine_in_head",
+    "exclusion_type": "bmgf_strict",
+    "excluded_at": "2026-04-26T10:01:45.448658+00:00"
+  },
+  {
+    "id": "89ab6944d259",
+    "source": "BMGF",
+    "title": "Novel Interventions Targeting Placental and Gut Inflammation to Improve Fetal Growth",
+    "url": "https://gcgh.grandchallenges.org/challenge/novel-interventions-targeting-placental-and-gut-inflammation-improve-fetal-growth",
+    "country": "_SSA",
+    "exclusion_reason": "bmgf_no_vaccine_in_head",
+    "exclusion_type": "bmgf_strict",
+    "excluded_at": "2026-04-26T10:01:45.448879+00:00"
   },
   {
     "id": "e31ca5f27ee3",
@@ -1017,7 +1067,17 @@
     "country": "_SSA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.404369+00:00"
+    "excluded_at": "2026-04-26T10:01:45.449196+00:00"
+  },
+  {
+    "id": "5b08e54aeaa3",
+    "source": "BMGF",
+    "title": "Addressing Physiological Barriers to Micronutrient Absorption from Fortified Foods",
+    "url": "https://gcgh.grandchallenges.org/challenge/addressing-physiological-barriers-micronutrient-absorption-fortified-foods",
+    "country": null,
+    "exclusion_reason": "bmgf_no_vaccine_in_head",
+    "exclusion_type": "bmgf_strict",
+    "excluded_at": "2026-04-26T10:01:45.452665+00:00"
   },
   {
     "id": "effd91f27df3",
@@ -1027,7 +1087,7 @@
     "country": "ET",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408055+00:00"
+    "excluded_at": "2026-04-26T10:01:45.452703+00:00"
   },
   {
     "id": "25f8acf33746",
@@ -1037,7 +1097,7 @@
     "country": "AN",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408086+00:00"
+    "excluded_at": "2026-04-26T10:01:45.452746+00:00"
   },
   {
     "id": "e65c89180ae8",
@@ -1047,7 +1107,7 @@
     "country": "UK",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408111+00:00"
+    "excluded_at": "2026-04-26T10:01:45.452779+00:00"
   },
   {
     "id": "399c76a10bb9",
@@ -1057,7 +1117,7 @@
     "country": "EA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408140+00:00"
+    "excluded_at": "2026-04-26T10:01:45.452820+00:00"
   },
   {
     "id": "fd103b78c27a",
@@ -1067,7 +1127,7 @@
     "country": "ET",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408162+00:00"
+    "excluded_at": "2026-04-26T10:01:45.452851+00:00"
   },
   {
     "id": "f849ffd7bd46",
@@ -1077,7 +1137,7 @@
     "country": "CA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408193+00:00"
+    "excluded_at": "2026-04-26T10:01:45.452894+00:00"
   },
   {
     "id": "c8a413c64386",
@@ -1087,7 +1147,7 @@
     "country": "GU",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408223+00:00"
+    "excluded_at": "2026-04-26T10:01:45.452951+00:00"
   },
   {
     "id": "d08703a2e56a",
@@ -1097,7 +1157,7 @@
     "country": "MA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408246+00:00"
+    "excluded_at": "2026-04-26T10:01:45.452984+00:00"
   },
   {
     "id": "8cec529a6031",
@@ -1107,7 +1167,7 @@
     "country": "ET",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408268+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453015+00:00"
   },
   {
     "id": "eae1d8e8ecbb",
@@ -1117,7 +1177,7 @@
     "country": "UK",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408315+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453079+00:00"
   },
   {
     "id": "fbdcbdb18ce4",
@@ -1127,7 +1187,7 @@
     "country": "MA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408350+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453127+00:00"
   },
   {
     "id": "1a24999af0e8",
@@ -1137,7 +1197,7 @@
     "country": "PA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408373+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453157+00:00"
   },
   {
     "id": "2d7903bf8808",
@@ -1147,7 +1207,7 @@
     "country": "CO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408494+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453303+00:00"
   },
   {
     "id": "a6403b7e822b",
@@ -1157,7 +1217,7 @@
     "country": "CE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408532+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453353+00:00"
   },
   {
     "id": "4105e5b16b21",
@@ -1167,7 +1227,7 @@
     "country": "RO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408569+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453402+00:00"
   },
   {
     "id": "e4bff912cd16",
@@ -1177,7 +1237,7 @@
     "country": "UK",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408593+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453433+00:00"
   },
   {
     "id": "4d608acebcf1",
@@ -1187,7 +1247,7 @@
     "country": "MO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408683+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453542+00:00"
   },
   {
     "id": "c04ff9a6b30f",
@@ -1197,7 +1257,7 @@
     "country": "UK",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408720+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453592+00:00"
   },
   {
     "id": "d453eb910f4b",
@@ -1207,7 +1267,7 @@
     "country": "CA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408748+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453631+00:00"
   },
   {
     "id": "50dc34c515e7",
@@ -1217,7 +1277,7 @@
     "country": "IN",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408772+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453659+00:00"
   },
   {
     "id": "5e6396bc1fd1",
@@ -1227,7 +1287,7 @@
     "country": "WE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408799+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453694+00:00"
   },
   {
     "id": "4659ea1f806b",
@@ -1237,7 +1297,7 @@
     "country": "TA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408826+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453731+00:00"
   },
   {
     "id": "cdd370f9197e",
@@ -1247,7 +1307,7 @@
     "country": "EA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408851+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453766+00:00"
   },
   {
     "id": "297472b84eb3",
@@ -1257,7 +1317,7 @@
     "country": "WE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408884+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453813+00:00"
   },
   {
     "id": "be993d5afa67",
@@ -1267,7 +1327,7 @@
     "country": "CH",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408920+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453863+00:00"
   },
   {
     "id": "29833aaadf7a",
@@ -1277,7 +1337,7 @@
     "country": "WE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408946+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453899+00:00"
   },
   {
     "id": "8dd29e46b263",
@@ -1287,7 +1347,7 @@
     "country": "UK",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.408968+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453930+00:00"
   },
   {
     "id": "f4679c6daa9a",
@@ -1297,7 +1357,7 @@
     "country": "VI",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409010+00:00"
+    "excluded_at": "2026-04-26T10:01:45.453981+00:00"
   },
   {
     "id": "d8cd95ed7ed4",
@@ -1307,7 +1367,7 @@
     "country": "VI",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409034+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454012+00:00"
   },
   {
     "id": "ea84e5200339",
@@ -1317,7 +1377,7 @@
     "country": "MO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409059+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454047+00:00"
   },
   {
     "id": "3a8e1b1f0e8a",
@@ -1327,7 +1387,7 @@
     "country": "PA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409088+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454086+00:00"
   },
   {
     "id": "9f83f7001c95",
@@ -1337,7 +1397,7 @@
     "country": "JO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409120+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454130+00:00"
   },
   {
     "id": "80a7bfe3bc13",
@@ -1347,7 +1407,7 @@
     "country": "CO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409148+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454170+00:00"
   },
   {
     "id": "901d56e8bb1c",
@@ -1357,7 +1417,7 @@
     "country": "CO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409179+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454213+00:00"
   },
   {
     "id": "efe08821ca41",
@@ -1367,7 +1427,7 @@
     "country": "GE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409204+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454248+00:00"
   },
   {
     "id": "eef8819a8964",
@@ -1375,9 +1435,9 @@
     "title": "Construction of a Flood Protection System and Slope Protection System for the Contador Hydropower Plant",
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00437557",
     "country": "SA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409230+00:00"
+    "exclusion_reason": "goods_tender (matched: 'construction of')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.454273+00:00"
   },
   {
     "id": "cdd824dcbfe1",
@@ -1387,7 +1447,7 @@
     "country": "DR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409256+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454310+00:00"
   },
   {
     "id": "7077a57dd9ef",
@@ -1397,7 +1457,7 @@
     "country": "WE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409294+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454359+00:00"
   },
   {
     "id": "544a71589d0b",
@@ -1407,7 +1467,7 @@
     "country": "CO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409321+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454398+00:00"
   },
   {
     "id": "51c4b7b640e3",
@@ -1417,7 +1477,7 @@
     "country": "CO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409347+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454434+00:00"
   },
   {
     "id": "fb48aea57787",
@@ -1427,7 +1487,7 @@
     "country": "CO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409370+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454465+00:00"
   },
   {
     "id": "532eabf73517",
@@ -1435,9 +1495,9 @@
     "title": "Procurement of Contractors for the Construction of 47 Junior Secondary School across the State",
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00427862",
     "country": "NI",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409393+00:00"
+    "exclusion_reason": "goods_tender (matched: 'construction of')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.454489+00:00"
   },
   {
     "id": "402daebee531",
@@ -1447,7 +1507,7 @@
     "country": "AN",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409422+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454531+00:00"
   },
   {
     "id": "9d2bd59b8792",
@@ -1457,7 +1517,7 @@
     "country": "KY",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409449+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454567+00:00"
   },
   {
     "id": "0f9ca8043491",
@@ -1467,7 +1527,7 @@
     "country": "IN",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409473+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454601+00:00"
   },
   {
     "id": "ed54b7baa25b",
@@ -1477,7 +1537,7 @@
     "country": "CO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409499+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454638+00:00"
   },
   {
     "id": "b7c926b8771a",
@@ -1487,7 +1547,7 @@
     "country": "PA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409526+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454676+00:00"
   },
   {
     "id": "3c05e8125d16",
@@ -1497,7 +1557,7 @@
     "country": "CO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409552+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454711+00:00"
   },
   {
     "id": "050f02537659",
@@ -1507,7 +1567,7 @@
     "country": "JO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409582+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454752+00:00"
   },
   {
     "id": "cabda45b3caf",
@@ -1517,7 +1577,7 @@
     "country": "CO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409607+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454789+00:00"
   },
   {
     "id": "34cea7db58e0",
@@ -1527,7 +1587,7 @@
     "country": "CO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409632+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454827+00:00"
   },
   {
     "id": "0c8de21fc0bc",
@@ -1537,7 +1597,7 @@
     "country": "MO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409655+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454859+00:00"
   },
   {
     "id": "415d692638c1",
@@ -1547,7 +1607,7 @@
     "country": "EA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409680+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454894+00:00"
   },
   {
     "id": "076e3cc79752",
@@ -1555,9 +1615,899 @@
     "title": "Rehabilitation of 10 number slaughter slab and provision of solar powered borehole, bio-digester, perimeter fencing and landscapping at Ngalda, Toshiba, Gadaka, Potiskum, Nangere, Nguru, Fune, Gujba, Geidam and Yunusari LGA.",
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00440612",
     "country": "NI",
-    "exclusion_reason": "no_domain_match",
+    "exclusion_reason": "goods_tender (matched: 'rehabilitation of')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.454923+00:00"
+  },
+  {
+    "id": "86f054a80e67",
+    "source": "FAO",
+    "title": "ITB -Cold  boxes Vaccines Carriers  & ice cubes packs",
+    "url": "https://www.ungm.org/Public/Notice/297991",
+    "country": "SU",
+    "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.409709+00:00"
+    "excluded_at": "2026-04-26T10:01:45.454972+00:00"
+  },
+  {
+    "id": "451fda6cbacd",
+    "source": "FAO",
+    "title": "PESTE DES PETITS RUMINANTS’ (PPR) VACCINE (2026/201)",
+    "url": "https://www.ungm.org/Public/Notice/297465",
+    "country": "KE",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.455011+00:00"
+  },
+  {
+    "id": "f62edb85dbd5",
+    "source": "FAO",
+    "title": "PROCUREMENT OF CONTAGIOUS CAPRINE PLEUROPNEUMONIA (CCPP) VACCINE (2026/156)",
+    "url": "https://www.ungm.org/Public/Notice/297463",
+    "country": "KE",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.455040+00:00"
+  },
+  {
+    "id": "798a46d90128",
+    "source": "FAO",
+    "title": "Procurement of Day-Old-Chicks, Poultry Feed, Vaccines, Medicines and Equipment – Salayea, Lofa County Liberia – Repeat-1",
+    "url": "https://www.ungm.org/Public/Notice/297303",
+    "country": "LI",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.455153+00:00"
+  },
+  {
+    "id": "2f6cf95a1fc0",
+    "source": "IOM",
+    "title": "RFQ NG42000012209 Vaccines for Laagos and Abuja_ Q2 2026",
+    "url": "https://www.ungm.org/Public/Notice/297055",
+    "country": "NI",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.455185+00:00"
+  },
+  {
+    "id": "8c4e5dfc67e0",
+    "source": "UNDP",
+    "title": "RFQ/2026/001 Supply and Installation of Vaccine Cold Chain Chambers in Dornod",
+    "url": "https://www.ungm.org/Public/Notice/296940",
+    "country": "MO",
+    "exclusion_reason": "goods_tender (matched: 'supply and installation')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.455199+00:00"
+  },
+  {
+    "id": "e718ae71d690",
+    "source": "WHO",
+    "title": "RFQ/EM/JOR/03/04 JFDA Benchmarking for Medicine and Vaccine/ Request for PBM – 7 – 9 April 2026 at WHO Jordan Office",
+    "url": "https://www.ungm.org/Public/Notice/295861",
+    "country": "TA",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.455307+00:00"
+  },
+  {
+    "id": "30b8af0c07b3",
+    "source": "UNICEF",
+    "title": "RFP-DAN-2026-503905 for establishment of Global stockpile of mpox vaccines (supply of vaccines and stockpile maintenance services)",
+    "url": "https://www.ungm.org/Public/Notice/294084",
+    "country": "MU",
+    "exclusion_reason": "goods_tender (matched: 'supply of vaccines')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.455328+00:00"
+  },
+  {
+    "id": "2f2f9d295eba",
+    "source": "FAO",
+    "title": "Procurement of Day-Old-Chicks, Poultry Feed, Vaccines, Medicines and Equipment - Salayea",
+    "url": "https://www.ungm.org/Public/Notice/293846",
+    "country": "LI",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.455358+00:00"
+  },
+  {
+    "id": "6cbf3448f2f0",
+    "source": "WHO",
+    "title": "RFQ/EM/JOR/03/02 JFDA Benchmarking for Medicine and Vaccine/ Request for PBM – 7 – 9 April 2026 at WHO Jordan Office",
+    "url": "https://www.ungm.org/Public/Notice/293694",
+    "country": "JO",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.455396+00:00"
+  },
+  {
+    "id": "81e9b8aa5acc",
+    "source": "WHO",
+    "title": "RFQ/EM/JOR/03/01 High-Level Event to Launching of Pharmacovigilance Guidelines and e-Services for Reporting ADR and AEFI (Medicines & Vaccines) - 14 April 2026",
+    "url": "https://www.ungm.org/Public/Notice/293396",
+    "country": "JO",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.455431+00:00"
+  },
+  {
+    "id": "5414a764802b",
+    "source": "UNDP",
+    "title": "RFP for Digitalization of Vaccine and Essential drugs Supply Chain",
+    "url": "https://www.ungm.org/Public/Notice/293701",
+    "country": "IN",
+    "exclusion_reason": "expired (deadline was 2026-03-26, 31 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.455476+00:00"
+  },
+  {
+    "id": "d89090f544a6",
+    "source": "IOM",
+    "title": "Domestic Airlift (transportation) of Oral Cholera Vaccine, Juba-Renk-Juba",
+    "url": "https://www.ungm.org/Public/Notice/293523",
+    "country": "SO",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.455506+00:00"
+  },
+  {
+    "id": "4ffb77a66326",
+    "source": "UNICEF",
+    "title": "DEMANDE DE PROPOSITION POUR LE SUIVI-CONTRÔLE DES TRAVAUX DE REHABILITATION DE L’ENTREPÔT DU PROGRAMME ELARGI DE VACCINATION (PEV) – PHASE II",
+    "url": "https://www.ungm.org/Public/Notice/297645",
+    "country": "BU",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.455552+00:00"
+  },
+  {
+    "id": "39f14e3958e5",
+    "source": "FAO",
+    "title": "APPEL A PROPOSITIONS POUR LES ÉTUDES TECHNIQUES DES D’INFRASTRUCTURES PASTORALES (POINTS VETERINAIRES, AMENAGEMENTS DE RAMPES D’ACCES AUX POINTS D’EAU, BASSINS DE TRAITEMENT ET DE VACCINATION, COULOIRS DE VACCINATION ETC.) A KINDIA ET MAMOU",
+    "url": "https://www.ungm.org/Public/Notice/296576",
+    "country": "GU",
+    "exclusion_reason": "expired (deadline was 2026-04-24, 2 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.455637+00:00"
+  },
+  {
+    "id": "94e1fca403fb",
+    "source": "UNICEF",
+    "title": "LRQS 9203179 - BEHAVIORAL STUDY IN VACCINATION IN GUINEA BISSAU",
+    "url": "https://www.ungm.org/Public/Notice/296462",
+    "country": "GU",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.455666+00:00"
+  },
+  {
+    "id": "7b0e1d0df89a",
+    "source": "UNGM (ICC)",
+    "title": "Vaccination Services.",
+    "url": "https://www.ungm.org/Public/Notice/295896",
+    "country": "NE",
+    "exclusion_reason": "expired (deadline was 2026-04-10, 16 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.455706+00:00"
+  },
+  {
+    "id": "da599b6d09b6",
+    "source": "UNICEF",
+    "title": "To design and implement adolescent-led crowd sourced peer-to-peer messaging to increase HPV vaccination uptake among adolescent girls in Uganda.",
+    "url": "https://www.ungm.org/Public/Notice/295691",
+    "country": "UG",
+    "exclusion_reason": "expired (deadline was 2026-04-14, 12 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.455760+00:00"
+  },
+  {
+    "id": "319f4ba798da",
+    "source": "WHO",
+    "title": "RFP/TCD/001/2026 -Sélection d’un cabinet pour conduire l'évaluation de la campagne de vaccination contre la rougeole au Tchad en novembre 2025",
+    "url": "https://www.ungm.org/Public/Notice/293567",
+    "country": "CH",
+    "exclusion_reason": "expired (deadline was 2026-03-17, 40 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.455829+00:00"
+  },
+  {
+    "id": "c1a411694320",
+    "source": "FAO",
+    "title": "Vaccins, médicaments et matériels techniques vétérinaires pour la campagne de vaccination",
+    "url": "https://www.ungm.org/Public/Notice/293181",
+    "country": "CH",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.455866+00:00"
+  },
+  {
+    "id": "2dc3be3980d4",
+    "source": "UNICEF",
+    "title": "LRFP-2026- 9202228 TRAVAUX DE RÉHABILITATION DE L’ENTREPÔT DU PROGRAMME ÉLARGI DE VACCINATION (PEV) – PHASE II",
+    "url": "https://www.ungm.org/Public/Notice/293165",
+    "country": "BU",
+    "exclusion_reason": "expired (deadline was 2026-03-27, 30 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.455928+00:00"
+  },
+  {
+    "id": "e1f830806314",
+    "source": "FAO",
+    "title": "Fourniture et transport de médicaments et matériels de vaccination à livrer à Toamasina _133/CHA",
+    "url": "https://www.ungm.org/Public/Notice/291915",
+    "country": "UN",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.455987+00:00"
+  },
+  {
+    "id": "365435b48cec",
+    "source": "UNICEF",
+    "title": "Recrutement d’une organisation / un prestataire pour assurer la conception Pédagogique de Module de formation sur les volets cartographie thermique des chambres froides, gestion des déchets de vaccination, gestion des vaccins et maintenance de la chaîne du",
+    "url": "https://www.ungm.org/Public/Notice/289196",
+    "country": "CO",
+    "exclusion_reason": "expired (deadline was 2026-02-11, 74 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.456077+00:00"
+  },
+  {
+    "id": "31e6f2793627",
+    "source": "UNOPS",
+    "title": "Fourniture, livraison et installation de kits de connexion internet pour 54 antennes du Programme Elargi de Vaccination en RDC (REPUBLICATION)",
+    "url": "https://www.ungm.org/Public/Notice/289197",
+    "country": "CO",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.456112+00:00"
+  },
+  {
+    "id": "b97adab5b607",
+    "source": "WHO",
+    "title": "Enquête de couverture campagne de vaccination orale contre le Cholera (VCO) dans 9 DPS (VCO) Haut-Lomani, Lualaba,Haut-Katanga, Tshopo, Maniema, Tanganyika, Kinshasa, Mai Ndombe & Equateur en RDC",
+    "url": "https://www.ungm.org/Public/Notice/286954",
+    "country": "CO",
+    "exclusion_reason": "expired (deadline was 2026-01-13, 103 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.456182+00:00"
+  },
+  {
+    "id": "7626a94d75d1",
+    "source": "IOM",
+    "title": "Medical and Vaccination Supplies",
+    "url": "https://www.ungm.org/Public/Notice/286296",
+    "country": "EG",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.456209+00:00"
+  },
+  {
+    "id": "1c258930e728",
+    "source": "UNOPS",
+    "title": "CANCELLED Fourniture, livraison et installation de kits de connexion internet pour 54 antennes du Programme Elargi de Vaccination en RDC",
+    "url": "https://www.ungm.org/Public/Notice/285670",
+    "country": "CO",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.456244+00:00"
+  },
+  {
+    "id": "94f04f8b5248",
+    "source": "FAO",
+    "title": "Vaccination Item Balochistan 25-518",
+    "url": "https://www.ungm.org/Public/Notice/283720",
+    "country": "PA",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.456270+00:00"
+  },
+  {
+    "id": "d397a7079813",
+    "source": "WHO",
+    "title": "RFQ/EM/JOR/02/06 Immunization and vaccine preventable diseases SOPs in private schools",
+    "url": "https://www.ungm.org/Public/Notice/291625",
+    "country": "JO",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.456300+00:00"
+  },
+  {
+    "id": "d40a7c72f32b",
+    "source": "UNICEF",
+    "title": "Technical Digital Solution Handover Support Management Immunization Information System (IIS) / Master Patient Index (MPI) in Fiji, Kiribati, and the Solomon Islands",
+    "url": "https://www.ungm.org/Public/Notice/291974",
+    "country": "MU",
+    "exclusion_reason": "expired (deadline was 2026-03-17, 40 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.456357+00:00"
+  },
+  {
+    "id": "832a90395208",
+    "source": "UNICEF",
+    "title": "Procurement of laptops and barcode scanners for the Digital Health Immunization Project for Fiji, Kiribati & Solomon Islands",
+    "url": "https://www.ungm.org/Public/Notice/288300",
+    "country": "MU",
+    "exclusion_reason": "expired (deadline was 2026-01-15, 101 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.456412+00:00"
+  },
+  {
+    "id": "8e5500d3df92",
+    "source": "UNICEF",
+    "title": "Institutional Consultancy to develop and implement a system for Individual Digital Registry for strengthening routine immunization in Angola",
+    "url": "https://www.ungm.org/Public/Notice/287957",
+    "country": "AN",
+    "exclusion_reason": "expired (deadline was 2026-01-18, 98 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.456462+00:00"
+  },
+  {
+    "id": "5f9083deceac",
+    "source": "UNICEF",
+    "title": "Consultancy to conduct a rapid SBC capacity assessment on Immunization and develop an SBC curriculum",
+    "url": "https://www.ungm.org/Public/Notice/286598",
+    "country": "VI",
+    "exclusion_reason": "expired (deadline was 2025-12-28, 119 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.456507+00:00"
+  },
+  {
+    "id": "6c789dc1dc33",
+    "source": "UNICEF",
+    "title": "Safe healthcare waste treatment equipment and services for National Expanded Program for Immunization (NEPI) in Afghanistan",
+    "url": "https://www.ungm.org/Public/Notice/282210",
+    "country": "AF",
+    "exclusion_reason": "expired (deadline was 2025-11-12, 165 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.456559+00:00"
+  },
+  {
+    "id": "45e6356430c5",
+    "source": "WHO",
+    "title": "National Immunization Coverage Survey",
+    "url": "https://www.ungm.org/Public/Notice/283836",
+    "country": "CA",
+    "exclusion_reason": "expired (deadline was 2025-11-14, 163 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.456601+00:00"
+  },
+  {
+    "id": "944c09fd2225",
+    "source": "UNICEF",
+    "title": "Provision of ICT support services for the rollout of the Immunization Information Systems (IIS) in Fiji and Kiribati",
+    "url": "https://www.ungm.org/Public/Notice/282997",
+    "country": "MU",
+    "exclusion_reason": "expired (deadline was 2025-11-14, 163 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.456650+00:00"
+  },
+  {
+    "id": "ce750ff09a8c",
+    "source": "UNICEF",
+    "title": "LITB-9199480-2025 Printing of Routing Immunization Tools",
+    "url": "https://www.ungm.org/Public/Notice/281714",
+    "country": "KE",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.456678+00:00"
+  },
+  {
+    "id": "209d08da6693",
+    "source": "UNICEF",
+    "title": "Request For Proposal no. 2025- 9200341- Comprehensive Assessment of Immunization Financing and Development of a five-Year Investment Plan for Jordan’s National Immunization Programme (2026–2029) .",
+    "url": "https://www.ungm.org/Public/Notice/280571",
+    "country": "JO",
+    "exclusion_reason": "expired (deadline was 2025-10-27, 181 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.456755+00:00"
+  },
+  {
+    "id": "d0c5e231efbc",
+    "source": "UNICEF",
+    "title": "Post-Assessment of existing service availability, coverage, healthcare-seeking behavior, stakeholder mapping, and gap analysis of Expanded Program on Immunization (EPI) in eight Districts",
+    "url": "https://www.ungm.org/Public/Notice/279528",
+    "country": "BA",
+    "exclusion_reason": "expired (deadline was 2025-10-30, 178 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.456811+00:00"
+  },
+  {
+    "id": "ba83dbcff2b2",
+    "source": "UNICEF",
+    "title": "Post-Assessment of existing service availability, coverage, healthcare-seeking behavior, stakeholder mapping, and gap analysis of Expanded Program on Immunization (EPI) in eight city corporations",
+    "url": "https://www.ungm.org/Public/Notice/279529",
+    "country": "BA",
+    "exclusion_reason": "expired (deadline was 2025-11-06, 171 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.456863+00:00"
+  },
+  {
+    "id": "252e7162c4e8",
+    "source": "UNICEF",
+    "title": "Supply and Delivery and installation of diesel Electric Generators at Immunization Health facilities in the WB, Along with electrical works (Cables & switches)",
+    "url": "https://www.ungm.org/Public/Notice/279576",
+    "country": "PA",
+    "exclusion_reason": "goods_tender (matched: 'supply and delivery')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.456880+00:00"
+  },
+  {
+    "id": "18b0ca12704a",
+    "source": "UNDP",
+    "title": "Repair and restoration of a warehouse for storing vaccines and immunization mate",
+    "url": "https://www.ungm.org/Public/Notice/278444",
+    "country": "TA",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.456908+00:00"
+  },
+  {
+    "id": "0d2f8a787a45",
+    "source": "UNICEF",
+    "title": "Conduct 5 regional workshops involving immunisation stakeholders from all the 146 districts and cities of Uganda. These meetings will generate evidence on equity dimensions to guide the implementation of the Gavi Alliance Equity Accelerator Fund Grant and",
+    "url": "https://www.ungm.org/Public/Notice/297003",
+    "country": "UG",
+    "exclusion_reason": "expired (deadline was 2026-04-17, 9 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.456990+00:00"
+  },
+  {
+    "id": "569be2c92151",
+    "source": "UNICEF",
+    "title": "To facilitate Human Centred Design (HCD) training for district-level multi-stakeholders in the area of immunisation and co-create sustainable solutions.",
+    "url": "https://www.ungm.org/Public/Notice/264096",
+    "country": "UG",
+    "exclusion_reason": "expired (deadline was 2025-05-05, 356 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.457045+00:00"
+  },
+  {
+    "id": "4921a86da99b",
+    "source": "UNICEF",
+    "title": "Consultancy contract for Implementation Research (IR) for strengthening Primary Health Care (PHC) and Expanded programme on Immunisation (EPI) systems in Zambia",
+    "url": "https://www.ungm.org/Public/Notice/255158",
+    "country": "ZA",
+    "exclusion_reason": "expired (deadline was 2024-12-30, 482 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.457095+00:00"
+  },
+  {
+    "id": "33b95c523a0c",
+    "source": "UNICEF",
+    "title": "UNICEF Uganda wishes  you to submit  your Quotation  for Event Management Services for the launch of the Polio immunisation campaign in Mbale (Oct 3, 2024)",
+    "url": "https://www.ungm.org/Public/Notice/246531",
+    "country": "UG",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.457132+00:00"
+  },
+  {
+    "id": "f63a82a840dc",
+    "source": "UNICEF",
+    "title": "Social and Behaviour Change (SBC) consultants to support demand generation and uptake of immunisation services in selected districts, cities and municipalities identified with high zero dose and under immunised children",
+    "url": "https://www.ungm.org/Public/Notice/242979",
+    "country": "UG",
+    "exclusion_reason": "expired (deadline was 2024-08-22, 612 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.457192+00:00"
+  },
+  {
+    "id": "692e1bef77cf",
+    "source": "FAO",
+    "title": "Achat de 1500 doses de vaccin inactivé pour l'immunisation active contre la rage",
+    "url": "https://www.ungm.org/Public/Notice/240958",
+    "country": "NI",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.457229+00:00"
+  },
+  {
+    "id": "08420bbe08bd",
+    "source": "UNICEF",
+    "title": "Open Logistics Management Information system Development and Deployment for Immunisation Supply Chain Management in Zambia.",
+    "url": "https://www.ungm.org/Public/Notice/235028",
+    "country": "ZA",
+    "exclusion_reason": "expired (deadline was 2024-06-13, 682 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.457281+00:00"
+  },
+  {
+    "id": "219e195dbb5e",
+    "source": "UNICEF",
+    "title": "Conducting a countrywide inventory of immunisation programme assets in all state facilities storing vaccines or providing immunisation services in Uzbekistan (National Vaccine Store, 14 regional store",
+    "url": "https://www.ungm.org/Public/Notice/225775",
+    "country": "UZ",
+    "exclusion_reason": "expired (deadline was 2024-02-27, 789 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.457340+00:00"
+  },
+  {
+    "id": "d53070c88ba7",
+    "source": "UNICEF",
+    "title": "Fiji national immunisation coverage survey",
+    "url": "https://www.ungm.org/Public/Notice/221933",
+    "country": "FI",
+    "exclusion_reason": "expired (deadline was 2024-01-17, 830 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.457394+00:00"
+  },
+  {
+    "id": "ed08e6a40966",
+    "source": "UNICEF",
+    "title": "Qualitative impact analysis – immunisation, health and wellbeing of children in Roma settlements",
+    "url": "https://www.ungm.org/Public/Notice/186564",
+    "country": "SE",
+    "exclusion_reason": "expired (deadline was 2022-11-30, 1243 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.457466+00:00"
+  },
+  {
+    "id": "e80708c18118",
+    "source": "UNICEF",
+    "title": "LRFP-2022-9174226-RECRUTEMENT D’UNE ORGANISATION INCUBATRICE POUR LE PROJET KARIYA IMMUNISATION DANS LES NEUF DISTRICTS SANITAIRES PRIORITAIRES DES REGIONS DE AGADEZ , DE DIFFA , DE TAHOUA , DE ZINDER",
+    "url": "https://www.ungm.org/Public/Notice/172416",
+    "country": "NI",
+    "exclusion_reason": "Hard sanctions (text match): Cuba",
+    "exclusion_type": "sanctioned",
+    "excluded_at": "2026-04-26T10:01:45.457479+00:00"
+  },
+  {
+    "id": "8f25916e4581",
+    "source": "UNICEF",
+    "title": "EVALUATION A MI-PARCOURS DU PROGRAMME D'IMMUNISATION ET DE RENFORCEMENT DU SYSTEME DE SANTE AU BURUNDI",
+    "url": "https://www.ungm.org/Public/Notice/141049",
+    "country": "BU",
+    "exclusion_reason": "expired (deadline was 2021-10-08, 1661 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.457526+00:00"
+  },
+  {
+    "id": "2bd09fa693e2",
+    "source": "WHO",
+    "title": "Improvement of immunisation safety surveillance",
+    "url": "https://www.ungm.org/Public/Notice/123423",
+    "country": "LA",
+    "exclusion_reason": "expired (deadline was 2021-03-19, 1864 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.457571+00:00"
+  },
+  {
+    "id": "9d0fe2f9e3de",
+    "source": "UNICEF",
+    "title": "Sélection d’un prestataire pour organisation d’un Forum sur l’immunisation (REPUBLICATION)",
+    "url": "https://www.ungm.org/Public/Notice/122968",
+    "country": "CO",
+    "exclusion_reason": "expired (deadline was 2021-03-11, 1872 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.457633+00:00"
+  },
+  {
+    "id": "b7bc1f7b1609",
+    "source": "UNICEF",
+    "title": "Sélection d’un prestataire pour organisation d’un Forum sur l’immunisation",
+    "url": "https://www.ungm.org/Public/Notice/119327",
+    "country": "CO",
+    "exclusion_reason": "expired (deadline was 2020-12-22, 1951 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.457690+00:00"
+  },
+  {
+    "id": "b24e9c368a31",
+    "source": "UNGM (UNIDO)",
+    "title": "Cold chain diagnostics for Argentina Market",
+    "url": "https://www.ungm.org/Public/Notice/296539",
+    "country": "AR",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.457720+00:00"
+  },
+  {
+    "id": "b4fc617e5929",
+    "source": "UNICEF",
+    "title": "Construction of cold chain buildings in Kunar and Logar provinces of Afghanistan",
+    "url": "https://www.ungm.org/Public/Notice/293659",
+    "country": "AF",
+    "exclusion_reason": "goods_tender (matched: 'construction of')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.457740+00:00"
+  },
+  {
+    "id": "f2ae83ffff24",
+    "source": "UNDP",
+    "title": "RFQ/HPMP-II/2601/02 - Procurement of Cold Chain Digitalization System",
+    "url": "https://www.ungm.org/Public/Notice/288440",
+    "country": "SR",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.457771+00:00"
+  },
+  {
+    "id": "9c7ba8b3b887",
+    "source": "UNICEF",
+    "title": "Construction of cold chain buildings in Uruzgan Province - Afghanistan",
+    "url": "https://www.ungm.org/Public/Notice/288263",
+    "country": "AF",
+    "exclusion_reason": "goods_tender (matched: 'construction of')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.457790+00:00"
+  },
+  {
+    "id": "1b9c081e3575",
+    "source": "UNICEF",
+    "title": "Long Term Agreement for cold chain for local companies based in Lebanon",
+    "url": "https://www.ungm.org/Public/Notice/287995",
+    "country": "LE",
+    "exclusion_reason": "expired (deadline was 2026-02-20, 65 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.457838+00:00"
+  },
+  {
+    "id": "5bb2e477bd4b",
+    "source": "UNICEF",
+    "title": "Long-term Agreement to provide Vaccines Logistics and Cold Chain Management Services",
+    "url": "https://www.ungm.org/Public/Notice/287854",
+    "country": "SO",
+    "exclusion_reason": "expired (deadline was 2026-01-14, 102 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.457885+00:00"
+  },
+  {
+    "id": "eae85f12ad27",
+    "source": "UNICEF",
+    "title": "Supply and Delivery of PSA and Cold Chain Maintainance Tools & Equipment",
+    "url": "https://www.ungm.org/Public/Notice/286912",
+    "country": "GH",
+    "exclusion_reason": "goods_tender (matched: 'supply and delivery')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.457900+00:00"
+  },
+  {
+    "id": "5816b9eab255",
+    "source": "UNICEF",
+    "title": "LRPS-2025-9200533_Conference services_24 trainings on Cold Chain and vaccine management",
+    "url": "https://www.ungm.org/Public/Notice/281475",
+    "country": "UK",
+    "exclusion_reason": "expired (deadline was 2025-11-06, 171 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.457960+00:00"
+  },
+  {
+    "id": "1d94e9c91d36",
+    "source": "UNGM (UN Secretariat)",
+    "title": "Introducing Phase Change Materials (PCM) into Gambia's cold chain to address post-harvest loss and other waste across the primary sector.",
+    "url": "https://www.ungm.org/Public/Notice/283255",
+    "country": "GA",
+    "exclusion_reason": "expired (deadline was 2025-11-14, 163 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.458020+00:00"
+  },
+  {
+    "id": "7f303cdc1ea7",
+    "source": "FAO",
+    "title": "Additional Cold chain works in FAO warehouse, Juba South Sudan.",
+    "url": "https://www.ungm.org/Public/Notice/282465",
+    "country": "SO",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.458053+00:00"
+  },
+  {
+    "id": "a764a8621a17",
+    "source": "UNICEF",
+    "title": "Renovation work for the Cold Chain Training Center",
+    "url": "https://www.ungm.org/Public/Notice/281242",
+    "country": "PA",
+    "exclusion_reason": "expired (deadline was 2025-11-03, 174 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.458102+00:00"
+  },
+  {
+    "id": "cfb646899ccc",
+    "source": "UNICEF",
+    "title": "Call for tender LRFPS-2025-9200076 for the Decommissioning and disposal of out-of-use cold chain equipment in accordance with joint UNICEF-WHO guidelines at regional levels",
+    "url": "https://www.ungm.org/Public/Notice/279455",
+    "country": "CA",
+    "exclusion_reason": "expired (deadline was 2025-10-23, 185 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.458163+00:00"
+  },
+  {
+    "id": "4f96b21d9f36",
+    "source": "FAO",
+    "title": "FAOTZ/ITB/2025/011 - Supply and Installation of cold chain facility.",
+    "url": "https://www.ungm.org/Public/Notice/275119",
+    "country": "TA",
+    "exclusion_reason": "goods_tender (matched: 'supply and installation')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.458178+00:00"
+  },
+  {
+    "id": "a3c1cc46d5d4",
+    "source": "UNOPS",
+    "title": "RFQ for the construction of finishing works for the Cold Chain facility within Forlanini Hospital Premises, in Mogadishu, Somalia.",
+    "url": "https://www.ungm.org/Public/Notice/273840",
+    "country": "SO",
+    "exclusion_reason": "goods_tender (matched: 'construction of')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.458199+00:00"
+  },
+  {
+    "id": "80c204c4f463",
+    "source": "WHO",
+    "title": "Assessment of potential hubs for influenza vaccine procurement",
+    "url": "https://www.ungm.org/Public/Notice/66980",
+    "country": "SW",
+    "exclusion_reason": "expired (deadline was 2018-01-28, 3010 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.458244+00:00"
+  },
+  {
+    "id": "bf01d91bb8e8",
+    "source": "UNOPS",
+    "title": "Supply, delivery and installation of Office Furniture for Sanitary-Epidemiological Welfare and Public Health Comittee (SES) of the Republic of Uzbekistan",
+    "url": "https://www.ungm.org/Public/Notice/296778",
+    "country": "UZ",
+    "exclusion_reason": "goods_tender (matched: 'supply, delivery')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.458417+00:00"
+  },
+  {
+    "id": "89e9280bb18c",
+    "source": "UNICEF",
+    "title": "ENERGY AUDIT AND SYSTEM DESIGN FOR EXTENSION OF THE EXISTING 150 KVA SOLAR SYSTEM TO THE NEW EPI DRY STORE. SEE ATTACHED TOR & BOQ FOR DETAILS.",
+    "url": "https://www.ungm.org/Public/Notice/296565",
+    "country": "SI",
+    "exclusion_reason": "expired (deadline was 2026-04-21, 5 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.458468+00:00"
+  },
+  {
+    "id": "28e8ee0b6ebb",
+    "source": "FAO",
+    "title": "SEMILLAS DE CILANTRO, MOSTAZA, PEPINO, RÁBANO Y ZAPALLO",
+    "url": "https://www.ungm.org/Public/Notice/296351",
+    "country": "HO",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.458502+00:00"
+  },
+  {
+    "id": "ae8b9ff4e6fd",
+    "source": "UNGM (ILO)",
+    "title": "ILO External Collaboration Contract_Update the EPIC Legal Database (Phase II)",
+    "url": "https://www.ungm.org/Public/Notice/296288",
+    "country": "MU",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.458581+00:00"
+  },
+  {
+    "id": "b3b8d3f02eec",
+    "source": "UNOPS",
+    "title": "Supply,delivery and installation of Laboratory Furniture for Sanitary-Epidemiological Welfare and Public Health (SES) of the Republic of Uzbekistan.",
+    "url": "https://www.ungm.org/Public/Notice/296134",
+    "country": "UZ",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.458615+00:00"
+  },
+  {
+    "id": "bc0401320159",
+    "source": "UNDP",
+    "title": "Individual Consultancy for Tuberculosis Epidemiological Review",
+    "url": "https://www.ungm.org/Public/Notice/296106",
+    "country": "ZI",
+    "exclusion_reason": "expired (deadline was 2026-04-07, 19 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.458657+00:00"
+  },
+  {
+    "id": "9b5e3e4950d5",
+    "source": "UNGM (UN Secretariat)",
+    "title": "Supply and delivery of Personal Protection Equipment (PPE) \nFourniture et livraison d’équipements de protection individuelle (EPI)",
+    "url": "https://www.ungm.org/Public/Notice/296148",
+    "country": "CE",
+    "exclusion_reason": "goods_tender (matched: 'supply and delivery')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.458682+00:00"
+  },
+  {
+    "id": "39ff62939829",
+    "source": "UNFPA",
+    "title": "electronic Medical Record Keeping System",
+    "url": "https://www.ungm.org/Public/Notice/295772",
+    "country": "MU",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.458714+00:00"
+  },
+  {
+    "id": "8b6ba73ac629",
+    "source": "UNOPS",
+    "title": "Supply of Vehicles (2 lots) for the Sanitary-Epidemiological Welfare and Public Health Committee of the Republic of Uzbekistan",
+    "url": "https://www.ungm.org/Public/Notice/294321",
+    "country": "UZ",
+    "exclusion_reason": "goods_tender (matched: 'supply of vehicles')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-04-26T10:01:45.458733+00:00"
+  },
+  {
+    "id": "0583c49d2c37",
+    "source": "UNOPS",
+    "title": "Small Works for Сonstruction of Sanitary and Epidemiological Welfare and Public Health Service of Nurabad district, Samarkand region (Uzbekistan)",
+    "url": "https://www.ungm.org/Public/Notice/292855",
+    "country": "UZ",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-04-26T10:01:45.458838+00:00"
+  },
+  {
+    "id": "f93eb70f993c",
+    "source": "WHO",
+    "title": "Long Term Agreement for WHO Prequalification Website Maintenance and Support",
+    "url": "https://www.ungm.org/Public/Notice/254055",
+    "country": "MU",
+    "exclusion_reason": "expired (deadline was 2025-01-08, 473 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.458890+00:00"
+  },
+  {
+    "id": "570b225b13da",
+    "source": "WHO",
+    "title": "WHO Prequalification Website Maintenance and Support",
+    "url": "https://www.ungm.org/Public/Notice/189835",
+    "country": "SW",
+    "exclusion_reason": "expired (deadline was 2023-02-03, 1178 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.458953+00:00"
+  },
+  {
+    "id": "da0913e864d1",
+    "source": "WHO",
+    "title": "IT support, application and data management activities to the WHO Prequalification Unit – Medicines Assessment Team PQT/MED",
+    "url": "https://www.ungm.org/Public/Notice/144604",
+    "country": "SW",
+    "exclusion_reason": "expired (deadline was 2021-10-08, 1661 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.459026+00:00"
+  },
+  {
+    "id": "ff78b62ad4d8",
+    "source": "WHO",
+    "title": "WHO Prequalification Online Portal Maintenance and Support.",
+    "url": "https://www.ungm.org/Public/Notice/116276",
+    "country": "SW",
+    "exclusion_reason": "expired (deadline was 2020-11-27, 1976 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.459077+00:00"
+  },
+  {
+    "id": "7c84a0415ebd",
+    "source": "WHO",
+    "title": "Support to WHO prequalification to enhance participation and impact",
+    "url": "https://www.ungm.org/Public/Notice/110095",
+    "country": "SW",
+    "exclusion_reason": "expired (deadline was 2020-07-17, 2109 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.459125+00:00"
+  },
+  {
+    "id": "9740f59df480",
+    "source": "WHO",
+    "title": "WHO Prequalification Team - Medicines assessment group (PQT Mx) Assessment Evaluations and Data Management Support 2018 - 2019",
+    "url": "https://www.ungm.org/Public/Notice/76297",
+    "country": "SW",
+    "exclusion_reason": "expired (deadline was 2018-09-10, 2785 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.459177+00:00"
+  },
+  {
+    "id": "2d0150f9a56b",
+    "source": "UNGM (UNIDO)",
+    "title": "Pharmaceutical Advisory Services for WHO prequalification",
+    "url": "https://www.ungm.org/Public/Notice/7018",
+    "country": "GH",
+    "exclusion_reason": "expired (deadline was 2009-12-03, 5988 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-04-26T10:01:45.459222+00:00"
   },
   {
     "id": "7c9a6f555960",
@@ -1567,7 +2517,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.412292+00:00"
+    "excluded_at": "2026-04-26T10:01:45.461738+00:00"
   },
   {
     "id": "6eabde090f51",
@@ -1577,7 +2527,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.413031+00:00"
+    "excluded_at": "2026-04-26T10:01:45.462465+00:00"
   },
   {
     "id": "b7c93ae64915",
@@ -1587,7 +2537,7 @@
     "country": "ZA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.413901+00:00"
+    "excluded_at": "2026-04-26T10:01:45.463333+00:00"
   },
   {
     "id": "91caa2842e89",
@@ -1597,7 +2547,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.414344+00:00"
+    "excluded_at": "2026-04-26T10:01:45.463749+00:00"
   },
   {
     "id": "7905d4550e3a",
@@ -1607,7 +2557,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.414669+00:00"
+    "excluded_at": "2026-04-26T10:01:45.464080+00:00"
   },
   {
     "id": "a1f19a5c3a12",
@@ -1617,7 +2567,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.415386+00:00"
+    "excluded_at": "2026-04-26T10:01:45.464772+00:00"
   },
   {
     "id": "d9f134614e4b",
@@ -1627,6 +2577,6 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-04-26T06:55:39.415776+00:00"
+    "excluded_at": "2026-04-26T10:01:45.465171+00:00"
   }
 ]
