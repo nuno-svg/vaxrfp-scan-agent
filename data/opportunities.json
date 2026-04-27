@@ -35,7 +35,7 @@
       "published": "2026-04-16T15:37:24+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-26T10:01:45.461465+00:00"
+    "fetched_at": "2026-04-27T12:11:00.673449+00:00"
   },
   {
     "id": "943b261bc1bd",
@@ -73,7 +73,7 @@
       "published": "2026-02-26T08:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-26T10:01:45.465423+00:00"
+    "fetched_at": "2026-04-27T12:11:00.677454+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -111,7 +111,7 @@
       "published": "2026-04-16T15:37:24+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-04-26T10:01:45.465834+00:00"
+    "fetched_at": "2026-04-27T12:11:00.677885+00:00"
   },
   {
     "id": "c528ecb8b5b8",
@@ -149,45 +149,7 @@
       "published": "2026-04-17T10:06:18+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-26T10:01:45.461046+00:00"
-  },
-  {
-    "id": "a23db79775a4",
-    "source": "Signal:Biovac",
-    "title": "Global Partners Back Africa’s First End-to-End Vaccine Manufacturing Hub in SA - Devdiscourse",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQndydU1mV2ItU19pWWQ4ZExpOE0tVzAyUnNLQ0ZrSjRoVE5SdC1MU2FXd3BwNXJ4NGE4M3E0aWx2NEJpbmVtV00tSjBITHA3dXBCc2FaYzNucmNISnJSb3JJdDRSbEx2ZkM0ZzBCOGs3VlVubFlHc2stQVd3Rmc1bHZlQjJkS1hXNm5ralNjZHMzV01ScjF3WmNPLTEzREd4al9zR1cyVEpjV1k4Ri03V01RRGRqcU5MVm5ka1hxQ1ZKZl9BbXpYSXk3YUNvZlFwMUlkOWFKSFVHcnhRVk9R0gHfAUFVX3lxTFBCd3J1TWZXYi1TX2lZZDhkTGk4TS1XMDJSc0tDRmtKNGhUTlJ0LUxTYVd3cHA1cng0YTgzcTRpbHY0QmluZW1XTS1KMEhMcDd1cEJzYVpjM25yY0hKclJvckl0NFJsTHZmQzRnMEI4azdWVW5sWUdzay1BV3dGZzVsdmVCMmRLWFc2bmtqU2NkczNXTVJyMXdaY08tMTNER3hqX3NHVzJUSmNXWThGLTdXTVFEZGpxTkxWbmRrWHFDVkpmX0FtelhJeTdhQ29mUXAxSWQ5YUpIVUdyeFFWT1E?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Global Partners Back Africa’s First End-to-End Vaccine Manufacturing Hub in SA &nbsp;&nbsp; Devdiscourse",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-17T16:59:38+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-04-26T10:01:45.462169+00:00"
+    "fetched_at": "2026-04-27T12:11:00.672990+00:00"
   },
   {
     "id": "20afca7622c8",
@@ -196,7 +158,7 @@
     "url": "https://africacdc.org/opportunity/supply-delivery-installation-and-training-of-laboratory-equipment-and-supply-and-delivery-of-reagent-and-consumables-for-africa-cdc-reference-laboratory/",
     "country": "_AU",
     "deadline": "2026-05-29",
-    "deadline_days": 33,
+    "deadline_days": 32,
     "value_usd": null,
     "description": "3.         Bidding will be conducted through international competitive procurement using a Request for Bids (RFB) as specified in the African Union Procurement Manual Issued March 2024 and is open to all eligible Bidders as defined in the Procurement Manual. 4.         Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5.         The bidding document in English may be requested by interested eligible Bidders upon the submission of a written application to the address below. The solicitation document will be sent by email upon request. 6.         Bids must be delivered to the address below on or before 29 May 2026 , 3: 00P.M Addis Ababa time. Electronic Bidding will not be permitted. Late Bids will be rejected. Bids will be publicly opened in the presence of the Bidders’ designated representatives and anyone who chooses to attend at the address below on 29 May 2026, 3:00P.M Addis Ababa time. 7.         All Bids must be accompanied by a “Bid-Security” 8.         Attention is drawn to the Procurement Regulations requiring the Borrower to disclose information on the successful bidder’s beneficial ownership, as part of the Contract Award Notice, using the Beneficial Ownership Disclosure Form as included in the bidding document. 9.         The address(es) referred to above is (are): Africa Centres for Diseases Control and Prevention, ",
     "fit_per_area": {
@@ -221,7 +183,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-04-26T10:01:45.433905+00:00"
+    "fetched_at": "2026-04-27T12:11:00.645303+00:00"
   },
   {
     "id": "99050d8d3f05",
@@ -259,7 +221,7 @@
       "published": "2026-03-13T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-26T10:01:45.463183+00:00"
+    "fetched_at": "2026-04-27T12:11:00.675225+00:00"
   },
   {
     "id": "cf7eb6d69082",
@@ -268,7 +230,7 @@
     "url": "https://www.ungm.org/Public/Notice/297452",
     "country": "NI",
     "deadline": "2026-05-01",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRFP-9203379. Matched query: vaccine.",
     "fit_per_area": {
@@ -300,7 +262,7 @@
       "ungm_query": "vaccine",
       "published": "2026-04-10"
     },
-    "fetched_at": "2026-04-26T10:01:45.455107+00:00"
+    "fetched_at": "2026-04-27T12:11:00.666958+00:00"
   },
   {
     "id": "ad3a96fa4717",
@@ -309,7 +271,7 @@
     "url": "https://www.ungm.org/Public/Notice/294253",
     "country": "PA",
     "deadline": "2026-05-06",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Agency: UNOPS. Type: Request for proposal. Reference: RFP/2026/61992. Matched query: EPI.",
     "fit_per_area": {
@@ -341,7 +303,7 @@
       "ungm_query": "EPI",
       "published": "2026-03-18"
     },
-    "fetched_at": "2026-04-26T10:01:45.458790+00:00"
+    "fetched_at": "2026-04-27T12:11:00.670751+00:00"
   },
   {
     "id": "f942ce0552b8",
@@ -350,7 +312,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00433396",
     "country": "PA",
     "deadline": "2026-05-07",
-    "deadline_days": 11,
+    "deadline_days": 10,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Islamic Republic of Pakistan: Digital Economy Enhancement Project. Country: Pakistan. Reference: PK-BOI-540618-CS-QCBS.",
     "fit_per_area": {
@@ -379,7 +341,7 @@
       "wb_project_id": "P174402",
       "wb_reference": "PK-BOI-540618-CS-QCBS"
     },
-    "fetched_at": "2026-04-26T10:01:45.453509+00:00"
+    "fetched_at": "2026-04-27T12:11:00.666034+00:00"
   },
   {
     "id": "dca818eb1882",
@@ -388,7 +350,7 @@
     "url": "https://www.ungm.org/Public/Notice/297622",
     "country": "MO",
     "deadline": "2026-04-27",
-    "deadline_days": 1,
+    "deadline_days": 0,
     "value_usd": null,
     "description": "Agency: FAO. Type: Invitation to bid. Reference: 2026/FRMOZ/FRMOZ/136264. Matched query: EPI.",
     "fit_per_area": {
@@ -420,7 +382,7 @@
       "ungm_query": "EPI",
       "published": "2026-04-13"
     },
-    "fetched_at": "2026-04-26T10:01:45.458400+00:00"
+    "fetched_at": "2026-04-27T12:11:00.670344+00:00"
   },
   {
     "id": "cc562027e6e0",
@@ -429,7 +391,7 @@
     "url": "https://www.ungm.org/Public/Notice/296436",
     "country": "UN",
     "deadline": "2026-04-27",
-    "deadline_days": 1,
+    "deadline_days": 0,
     "value_usd": null,
     "description": "Agency: UNFPA. Type: Request for proposal. Reference: UNFPA-HQ1-00001,1. Matched query: EPI.",
     "fit_per_area": {
@@ -461,7 +423,7 @@
       "ungm_query": "EPI",
       "published": "2026-03-31"
     },
-    "fetched_at": "2026-04-26T10:01:45.458551+00:00"
+    "fetched_at": "2026-04-27T12:11:00.670500+00:00"
   },
   {
     "id": "1eca8c6d90ca",
@@ -470,7 +432,7 @@
     "url": "https://www.ungm.org/Public/Notice/296247",
     "country": "MU",
     "deadline": "2026-05-01",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503904. Matched query: vaccine.",
     "fit_per_area": {
@@ -502,7 +464,7 @@
       "ungm_query": "vaccine",
       "published": "2026-03-30"
     },
-    "fetched_at": "2026-04-26T10:01:45.455264+00:00"
+    "fetched_at": "2026-04-27T12:11:00.667116+00:00"
   },
   {
     "id": "4fa1b1ff8481",
@@ -511,7 +473,7 @@
     "url": "https://www.ungm.org/Public/Notice/297992",
     "country": "TÜ",
     "deadline": "2026-05-03",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Agency: FAO. Type: Request for quotation. Reference: 2026/FETUR/FETUR/136472. Matched query: EPI.",
     "fit_per_area": {
@@ -543,7 +505,7 @@
       "ungm_query": "EPI",
       "published": "2026-04-16"
     },
-    "fetched_at": "2026-04-26T10:01:45.458297+00:00"
+    "fetched_at": "2026-04-27T12:11:00.670239+00:00"
   },
   {
     "id": "221b84f69d69",
@@ -552,7 +514,7 @@
     "url": "https://www.gavi.org/news/document-library/rfq-irc-chair",
     "country": null,
     "deadline": "2026-05-08",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "Gavi relies upon its Independent Review Committee (IRC), an independent and impartial group of experts, to guarantee the integrity and consistency of an open and transparent funding process. Through this RFQ, Gavi seeks to appoint the next IRC Chair. The Chair will lead IRC deliberations and decision-making, facilitate constructive challenge to reach consensus, ensure the quality and consistency of IRC outputs (including sign-off of the final IRC country reports), and represent the Committee across Gavi governance fora.",
     "fit_per_area": {
@@ -577,7 +539,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-04-26T10:01:45.433259+00:00"
+    "fetched_at": "2026-04-27T12:11:00.644585+00:00"
   },
   {
     "id": "d6c936e4406f",
@@ -586,7 +548,7 @@
     "url": "https://www.ungm.org/Public/Notice/298040",
     "country": "CY",
     "deadline": "2026-05-13",
-    "deadline_days": 17,
+    "deadline_days": 16,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24341. Matched query: EPI.",
     "fit_per_area": {
@@ -618,7 +580,7 @@
       "ungm_query": "EPI",
       "published": "2026-04-16"
     },
-    "fetched_at": "2026-04-26T10:01:45.458358+00:00"
+    "fetched_at": "2026-04-27T12:11:00.670302+00:00"
   },
   {
     "id": "860b39073c83",
@@ -627,7 +589,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00440891",
     "country": "PE",
     "deadline": "2026-05-15",
-    "deadline_days": 19,
+    "deadline_days": 18,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Peru: Strengthening of the Public Health Emergency Preparedness and Response. Country: Peru. Reference: PE-INS-527241-CS-QCBS.",
     "fit_per_area": {
@@ -656,7 +618,45 @@
       "wb_project_id": "P174177",
       "wb_reference": "PE-INS-527241-CS-QCBS"
     },
-    "fetched_at": "2026-04-26T10:01:45.453249+00:00"
+    "fetched_at": "2026-04-27T12:11:00.665714+00:00"
+  },
+  {
+    "id": "9245a5770f52",
+    "source": "Signal:Biovac",
+    "title": "Biovac wins EU, IFC money to build biggest Africa vaccine plant - MSN",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHkxb3FuMC1HcjJxdWZhbXdJSUVUZ0llVGJhaVc5YVdUR1B5SHFwdVozVWs3VjRpcXI2ZE9ZVTFfcmMyZ2FnZjFqMUQ4eGUzc2kwTmZVVC1NOW40Yi11UzVmMUNScXRmSFdVc1ZRcFhmTllseWN0QXF2SWctNWp6VnlaRk9yeG9INTFKRndiREVYQWlIZTFQSW9NQ2c3MTBNZVo0TTFxWHBMSDlUT25tUU93?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac wins EU, IFC money to build biggest Africa vaccine plant &nbsp;&nbsp; MSN",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-04-27T00:05:34+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-04-27T12:11:00.671497+00:00"
   },
   {
     "id": "4db365511153",
@@ -694,45 +694,7 @@
       "published": "2026-04-20T13:31:56+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-26T10:01:45.459680+00:00"
-  },
-  {
-    "id": "513dcaeaea68",
-    "source": "Signal:Biovac",
-    "title": "Biovac wins EU, IFC money to build biggest Africa vaccine plant - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNS0pjS2hzeEpBeDdadHJRSmFGaVZhNWlYWmdOYW9SRURzbkVEaVV1MGlNRVpJUVdQbDAzeWlZdTdnWGN3bEd5bXNUMWFoRHJGdnVEOG5sdUNCdjdjUVNxNlNIZV85dlE4QVotRjJOVHYycllNVjY1bmlIV3pLNDBxRmYxNHhxblJabmJsTFBvSnB0UEpzYkU1MUhfckZ3ZTg1SHVUWkY1Y0tPZHRxYmNZSGhKV0lyTmdPcnNhVnBqUlZBZ0F0Uy04d2dWcG82WU5JQW5XRGRzRUtZdExuQy1QaTVsbHJMUlJKbUpqQVF6VzVVS1JmYlA5ckhWX1FabXZjbEtJSnI4U3Zhbm1vRVdBYXVIdmpHejUtOURJRnN1d1lyR2swX29UWTBxOXlPdi1sQU9majY0QmdLNGV5SVREd2J5V1czMDlJY2NVM3IwclJWMlZsR1RiaE40NmNrcFhJTWNhNDltcTAxblA2SFFaRTBsM1FKR1VPMUZ2b1JvaGp3VTVYakRmbA?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac wins EU, IFC money to build biggest Africa vaccine plant &nbsp;&nbsp; MSN",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-24T10:36:24+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-04-26T10:01:45.460028+00:00"
+    "fetched_at": "2026-04-27T12:11:00.671948+00:00"
   },
   {
     "id": "16a3c0a1659d",
@@ -770,18 +732,18 @@
       "published": "2026-04-17T11:34:30+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-26T10:01:45.460164+00:00"
+    "fetched_at": "2026-04-27T12:11:00.672086+00:00"
   },
   {
-    "id": "5fa5a32d5033",
+    "id": "61c87d68b656",
     "source": "Signal:Biovac",
-    "title": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant - Bloomberg.com",
+    "title": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant - Bloomberg",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXdxQ3l4SWRtNmEtbFFrMVhEU3VEX3IwZG5HRzYzUjhVVEdhMmc4UVl2SUFMc0pIcm4xOTRObjJxS3VUd3dOdkQyeG5IeFVxU0FINWZhOGZBM3FyNnZ5cnpRR19LYTVJb1k4SG9CU25YMnB5OWZnZzNqNjhNbWVCQ3NxZmZBaHdLdFJxV1JsTzFrOGE0SDF1bGJwdnd2OVNIaUVFV1BZUWU1OWt2UG9ZZkRjdw?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant &nbsp;&nbsp; Bloomberg.com",
+    "description": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant &nbsp;&nbsp; Bloomberg",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -805,10 +767,10 @@
     },
     "raw": {
       "manufacturer": "Biovac",
-      "published": "2026-04-16T12:45:00+00:00",
+      "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-26T10:01:45.460507+00:00"
+    "fetched_at": "2026-04-27T12:11:00.672449+00:00"
   },
   {
     "id": "a571e9d35662",
@@ -843,10 +805,48 @@
     },
     "raw": {
       "manufacturer": "Biovac",
-      "published": "2026-04-17T13:32:00+00:00",
+      "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-26T10:01:45.460635+00:00"
+    "fetched_at": "2026-04-27T12:11:00.672581+00:00"
+  },
+  {
+    "id": "ea1ed6a83094",
+    "source": "Signal:Biovac",
+    "title": "South African pharma giant wins R1.5 billion to build the biggest vaccine facility in Africa - Daily Investor",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdTFYMUxYMEpidXF2NUNXTXp3dGtaYmctbm9qaHZBZXBZV1p0QnJqSUVnZW5QWnNTTmF0a0VzRmhqX014bzBCVUphdHQ3d1FueVBRZnl3a0FScThQWkdBRXVVQzFlUkpHUENXYVRoTUlCdHpoV3VCQmtqYm5kdmY4Sy1DY1JyZDNCcS1HV1l0T2JDalRyT3ZDV25rTjlQYmxaZ1VOWXhVYjNBb1BneVJNcGQ0c0tobUtBbkstekFpaDhLRTY0cEV6anQxaFJlSldUMEE3X19R?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "South African pharma giant wins R1.5 billion to build the biggest vaccine facility in Africa &nbsp;&nbsp; Daily Investor",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-04-17T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-04-27T12:11:00.674482+00:00"
   },
   {
     "id": "9edcae8be231",
@@ -881,10 +881,10 @@
     },
     "raw": {
       "manufacturer": "Biovac",
-      "published": "2026-04-17T11:59:18+00:00",
+      "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-26T10:01:45.462792+00:00"
+    "fetched_at": "2026-04-27T12:11:00.674823+00:00"
   },
   {
     "id": "93cfbed91b1f",
@@ -922,7 +922,7 @@
       "published": "2026-02-11T08:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-26T10:01:45.464464+00:00"
+    "fetched_at": "2026-04-27T12:11:00.676109+00:00"
   },
   {
     "id": "63fd7a182f4d",
@@ -960,6 +960,6 @@
       "published": "2025-12-06T08:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-04-26T10:01:45.466166+00:00"
+    "fetched_at": "2026-04-27T12:11:00.678227+00:00"
   }
 ]

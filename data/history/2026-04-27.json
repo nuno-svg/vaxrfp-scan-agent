@@ -1,0 +1,1028 @@
+{
+  "meta": {
+    "last_run": "2026-04-27T12:11:00.678283+00:00",
+    "duration_seconds": 167.334276,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 3,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 6,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 45,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 96,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 19,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 2,
+        "errors": 0
+      }
+    },
+    "total_kept": 25,
+    "total_excluded": 247,
+    "exclusion_breakdown": {
+      "goods": 16,
+      "gate": 172,
+      "expired": 53,
+      "bmgf_strict": 4,
+      "sanctioned": 2
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "404918114864",
+      "source": "Signal:Biovac",
+      "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - businessreport.co.za",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkRvRThBLWZBbl9oWmpzU1pmekNUc1ZqLWV3eFhCM0lUa1BnLXZSUDBDeVJyYTFaVjNQMlo4QU5VbDJ4M1hwWXRBbFVfRzc3QmJRWFRvRzBTbFB3VHRIYXgydkJaMi14cHVVMjV3UHljNzA1c2l2TEhUMkp3dC1zRWVIaE5XdUJZU09JXzFtdWREQzBzLTljY1VyYjNHYW1MaW9TQmY3a3h5LW1nRzYyU0xlNHI4LWNHMTQ0RGFnX0NoR0lHdkVydGYydw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity &nbsp;&nbsp; businessreport.co.za",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 7,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 7,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-16T15:37:24+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-04-27T12:11:00.673449+00:00"
+    },
+    {
+      "id": "943b261bc1bd",
+      "source": "Signal:BioNTech Rwanda",
+      "title": "BioNTech mRNA Vaccine Manufacturing Facility, Rwanda - Pharmaceutical Technology",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRF92ZHBoZHMwUFRHZ1hDZEd4Nlh0RXFPMHN3MHFnNDM3MHRjYlloRnZPWllUV2NUYWxrV083TVpyVWhHT1l0MlpWWTZuYmhaY3BmZHl0SDg4UWZWS0RqTWZGOXh1VlVhN0dzRkptQ0ZFb1BuSDc4bVdPWGlWVXhVeHIydVMzM2VS?oc=5",
+      "country": "RW",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "BioNTech mRNA Vaccine Manufacturing Facility, Rwanda &nbsp;&nbsp; Pharmaceutical Technology",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 7,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 7,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "BioNTech Rwanda",
+        "published": "2026-02-26T08:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-04-27T12:11:00.677454+00:00"
+    },
+    {
+      "id": "e605320efc1a",
+      "source": "Signal:AVMA",
+      "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - businessreport.co.za",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkRvRThBLWZBbl9oWmpzU1pmekNUc1ZqLWV3eFhCM0lUa1BnLXZSUDBDeVJyYTFaVjNQMlo4QU5VbDJ4M1hwWXRBbFVfRzc3QmJRWFRvRzBTbFB3VHRIYXgydkJaMi14cHVVMjV3UHljNzA1c2l2TEhUMkp3dC1zRWVIaE5XdUJZU09JXzFtdWREQzBzLTljY1VyYjNHYW1MaW9TQmY3a3h5LW1nRzYyU0xlNHI4LWNHMTQ0RGFnX0NoR0lHdkVydGYydw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity &nbsp;&nbsp; businessreport.co.za",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 7,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 7,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-04-16T15:37:24+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-04-27T12:11:00.677885+00:00"
+    },
+    {
+      "id": "c528ecb8b5b8",
+      "source": "Signal:Biovac",
+      "title": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion - fundsforNGOs News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkxxZEZoekVWTzNMZXNZOUZnYXVPRERWNFpDQ19lVTBTdHFFeHgzcFZXVXUtaHBfWmpIdkUxSXliWWI0aS02TlZtZUYzMWU1RWFhN3hXb3pZWXo1MWJ0RDR2ckY5WkxyZGRUbERYaDU3QzJtdzBxQ29ZZV9uWDVFZXd5N2hGWXJtSFVyd1laN0RlQzk3MXhoUkxGWTRTODJ0NTZSeVdVT0JOQW9VaTRHSDRHU3E5dzFJVi1wT1ViYw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion &nbsp;&nbsp; fundsforNGOs News",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-17T10:06:18+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-04-27T12:11:00.672990+00:00"
+    },
+    {
+      "id": "20afca7622c8",
+      "source": "Africa CDC",
+      "title": "Supply, Delivery, Installation and Training of Laboratory Equipment and Supply and Delivery of Reagent and Consumables for Africa CDC Reference Laboratory",
+      "url": "https://africacdc.org/opportunity/supply-delivery-installation-and-training-of-laboratory-equipment-and-supply-and-delivery-of-reagent-and-consumables-for-africa-cdc-reference-laboratory/",
+      "country": "_AU",
+      "deadline": "2026-05-29",
+      "deadline_days": 32,
+      "value_usd": null,
+      "description": "3.         Bidding will be conducted through international competitive procurement using a Request for Bids (RFB) as specified in the African Union Procurement Manual Issued March 2024 and is open to all eligible Bidders as defined in the Procurement Manual. 4.         Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5.         The bidding document in English may be requested by interested eligible Bidders upon the submission of a written application to the address below. The solicitation document will be sent by email upon request. 6.         Bids must be delivered to the address below on or before 29 May 2026 , 3: 00P.M Addis Ababa time. Electronic Bidding will not be permitted. Late Bids will be rejected. Bids will be publicly opened in the presence of the Bidders’ designated representatives and anyone who chooses to attend at the address below on 29 May 2026, 3:00P.M Addis Ababa time. 7.         All Bids must be accompanied by a “Bid-Security” 8.         Attention is drawn to the Procurement Regulations requiring the Borrower to disclose information on the successful bidder’s beneficial ownership, as part of the Contract Award Notice, using the Beneficial Ownership Disclosure Form as included in the bidding document. 9.         The address(es) referred to above is (are): Africa Centres for Diseases Control and Prevention, ",
+      "fit_per_area": {
+        "cold_chain": 3,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-04-27T12:11:00.645303+00:00"
+    },
+    {
+      "id": "99050d8d3f05",
+      "source": "Signal:Afrigen",
+      "title": "Afrigen enters business rescue as Avacare crisis spreads to mRNA vaccine pioneer - Business Day",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUnNKRV9FaXFnbEdyNDQ1NVdRSlRLU3ZFc3VFQ3RjalZQSnNpdkNaM2YtU1NyNzJpOXd1TGRuTFQ2YUJkWW9YVF9KRVI1SzZ2VG5fTFdaWXdCeGVfeVp5OU9MZ3R0aTFSaG02R2x5b2tseVEwTGJWNnZHN19mTmRoaERYTllEUF9mZnNORGpFU0pERk5KM0Vyd1pLcGp5Q3RvSDNMNk5tMmVwR28ycGpiMXdqeTBzTUJ5V2JsUXRJQ1g3UFUzNXZBQWRNRzJJTjQ?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Afrigen enters business rescue as Avacare crisis spreads to mRNA vaccine pioneer &nbsp;&nbsp; Business Day",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 3,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Afrigen",
+        "published": "2026-03-13T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-04-27T12:11:00.675225+00:00"
+    },
+    {
+      "id": "cf7eb6d69082",
+      "source": "UNICEF",
+      "title": "Routine Immunization vaccines and other health commodities requiring transportation at temperature ranges between +2°C to +8°C_DRIVE on LTA Basis",
+      "url": "https://www.ungm.org/Public/Notice/297452",
+      "country": "NI",
+      "deadline": "2026-05-01",
+      "deadline_days": 4,
+      "value_usd": null,
+      "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRFP-9203379. Matched query: vaccine.",
+      "fit_per_area": {
+        "cold_chain": 1,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "297452",
+        "ungm_agency": "UNICEF",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "LRFP-9203379",
+        "ungm_query": "vaccine",
+        "published": "2026-04-10"
+      },
+      "fetched_at": "2026-04-27T12:11:00.666958+00:00"
+    },
+    {
+      "id": "ad3a96fa4717",
+      "source": "UNOPS",
+      "title": "RFP Consultant Services Contract for Works - Health Facility Audit in Chimbu, Central and East Sepik Level 2 to 4 Health Facilities in Papua New Guinea",
+      "url": "https://www.ungm.org/Public/Notice/294253",
+      "country": "PA",
+      "deadline": "2026-05-06",
+      "deadline_days": 9,
+      "value_usd": null,
+      "description": "Agency: UNOPS. Type: Request for proposal. Reference: RFP/2026/61992. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "294253",
+        "ungm_agency": "UNOPS",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "RFP/2026/61992",
+        "ungm_query": "EPI",
+        "published": "2026-03-18"
+      },
+      "fetched_at": "2026-04-27T12:11:00.670751+00:00"
+    },
+    {
+      "id": "f942ce0552b8",
+      "source": "World Bank",
+      "title": "Consultancy Services for \"Designing the Pakistan Business Portal (PBP) and Preparing Institutional Design, Governance, Legal Framework, Sustainability Model, and Delivery Roadmap for the (PBP)\"",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00433396",
+      "country": "PA",
+      "deadline": "2026-05-07",
+      "deadline_days": 10,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Islamic Republic of Pakistan: Digital Economy Enhancement Project. Country: Pakistan. Reference: PK-BOI-540618-CS-QCBS.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P174402",
+        "wb_reference": "PK-BOI-540618-CS-QCBS"
+      },
+      "fetched_at": "2026-04-27T12:11:00.666034+00:00"
+    },
+    {
+      "id": "dca818eb1882",
+      "source": "FAO",
+      "title": "GCP/SFS/009/ITA - Beekeeping Equipment",
+      "url": "https://www.ungm.org/Public/Notice/297622",
+      "country": "MO",
+      "deadline": "2026-04-27",
+      "deadline_days": 0,
+      "value_usd": null,
+      "description": "Agency: FAO. Type: Invitation to bid. Reference: 2026/FRMOZ/FRMOZ/136264. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "297622",
+        "ungm_agency": "FAO",
+        "ungm_notice_type": "Invitation to bid",
+        "ungm_reference": "2026/FRMOZ/FRMOZ/136264",
+        "ungm_query": "EPI",
+        "published": "2026-04-13"
+      },
+      "fetched_at": "2026-04-27T12:11:00.670344+00:00"
+    },
+    {
+      "id": "cc562027e6e0",
+      "source": "UNFPA",
+      "title": "Development and pilot implementation of Digital Safekeeping",
+      "url": "https://www.ungm.org/Public/Notice/296436",
+      "country": "UN",
+      "deadline": "2026-04-27",
+      "deadline_days": 0,
+      "value_usd": null,
+      "description": "Agency: UNFPA. Type: Request for proposal. Reference: UNFPA-HQ1-00001,1. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "296436",
+        "ungm_agency": "UNFPA",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "UNFPA-HQ1-00001,1",
+        "ungm_query": "EPI",
+        "published": "2026-03-31"
+      },
+      "fetched_at": "2026-04-27T12:11:00.670500+00:00"
+    },
+    {
+      "id": "1eca8c6d90ca",
+      "source": "UNICEF",
+      "title": "Procurement of Ebola Vaccines of assured quality for Stockpiling and Use, including stockpile management, storage, maintenance, replenishment, delivery and destruction of vaccines upon expiry",
+      "url": "https://www.ungm.org/Public/Notice/296247",
+      "country": "MU",
+      "deadline": "2026-05-01",
+      "deadline_days": 4,
+      "value_usd": null,
+      "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503904. Matched query: vaccine.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "296247",
+        "ungm_agency": "UNICEF",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "RFP-DAN-2026-503904",
+        "ungm_query": "vaccine",
+        "published": "2026-03-30"
+      },
+      "fetched_at": "2026-04-27T12:11:00.667116+00:00"
+    },
+    {
+      "id": "4fa1b1ff8481",
+      "source": "FAO",
+      "title": "Procurement of Beekeeping Training Materials to be delivered to Duzce, Turkiye",
+      "url": "https://www.ungm.org/Public/Notice/297992",
+      "country": "TÜ",
+      "deadline": "2026-05-03",
+      "deadline_days": 6,
+      "value_usd": null,
+      "description": "Agency: FAO. Type: Request for quotation. Reference: 2026/FETUR/FETUR/136472. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "297992",
+        "ungm_agency": "FAO",
+        "ungm_notice_type": "Request for quotation",
+        "ungm_reference": "2026/FETUR/FETUR/136472",
+        "ungm_query": "EPI",
+        "published": "2026-04-16"
+      },
+      "fetched_at": "2026-04-27T12:11:00.670239+00:00"
+    },
+    {
+      "id": "221b84f69d69",
+      "source": "GAVI",
+      "title": "RFQ: IRC Chair",
+      "url": "https://www.gavi.org/news/document-library/rfq-irc-chair",
+      "country": null,
+      "deadline": "2026-05-08",
+      "deadline_days": 11,
+      "value_usd": null,
+      "description": "Gavi relies upon its Independent Review Committee (IRC), an independent and impartial group of experts, to guarantee the integrity and consistency of an open and transparent funding process. Through this RFQ, Gavi seeks to appoint the next IRC Chair. The Chair will lead IRC deliberations and decision-making, facilitate constructive challenge to reach consensus, ensure the quality and consistency of IRC outputs (including sign-off of the final IRC country reports), and represent the Committee across Gavi governance fora.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-04-27T12:11:00.644585+00:00"
+    },
+    {
+      "id": "d6c936e4406f",
+      "source": "UNGM (UN Secretariat)",
+      "title": "Long-term supply of petroleum, oil and lubricants and provision of associated services to the United Nations Peacekeeping Force in Cyprus (UNFICYP).)",
+      "url": "https://www.ungm.org/Public/Notice/298040",
+      "country": "CY",
+      "deadline": "2026-05-13",
+      "deadline_days": 16,
+      "value_usd": null,
+      "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24341. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "298040",
+        "ungm_agency": "UN Secretariat",
+        "ungm_notice_type": "Request for EOI",
+        "ungm_reference": "EOIUNPD24341",
+        "ungm_query": "EPI",
+        "published": "2026-04-16"
+      },
+      "fetched_at": "2026-04-27T12:11:00.670302+00:00"
+    },
+    {
+      "id": "860b39073c83",
+      "source": "World Bank",
+      "title": "SERVICIO DE CONSULTORÍA PARA LA SUPERVISION DE LA OBRA: SEDE INSTITUCIONAL DEL CENTRO NACIONAL DE EPIDEMIOLOGIA PREVENCIÓN Y CONTROL DE ENFERMEDADES-CDC",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00440891",
+      "country": "PE",
+      "deadline": "2026-05-15",
+      "deadline_days": 18,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Peru: Strengthening of the Public Health Emergency Preparedness and Response. Country: Peru. Reference: PE-INS-527241-CS-QCBS.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P174177",
+        "wb_reference": "PE-INS-527241-CS-QCBS"
+      },
+      "fetched_at": "2026-04-27T12:11:00.665714+00:00"
+    },
+    {
+      "id": "9245a5770f52",
+      "source": "Signal:Biovac",
+      "title": "Biovac wins EU, IFC money to build biggest Africa vaccine plant - MSN",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHkxb3FuMC1HcjJxdWZhbXdJSUVUZ0llVGJhaVc5YVdUR1B5SHFwdVozVWs3VjRpcXI2ZE9ZVTFfcmMyZ2FnZjFqMUQ4eGUzc2kwTmZVVC1NOW40Yi11UzVmMUNScXRmSFdVc1ZRcFhmTllseWN0QXF2SWctNWp6VnlaRk9yeG9INTFKRndiREVYQWlIZTFQSW9NQ2c3MTBNZVo0TTFxWHBMSDlUT25tUU93?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac wins EU, IFC money to build biggest Africa vaccine plant &nbsp;&nbsp; MSN",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-27T00:05:34+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-04-27T12:11:00.671497+00:00"
+    },
+    {
+      "id": "4db365511153",
+      "source": "Signal:Biovac",
+      "title": "Biovac nets $108M finance package to build Africa’s first fully integrated vaccine plant - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdElzcFZheTlCSFpRbjVlazJHcVowWEY0V3J6RVJYeU9LbVp0ci00a1oyVF9McUN6a0ZHSzZQcGFTNENQWE5CcmJOOGlOR3VmcUpSS0kxcDV3cXd6QWxEdDRSb2tEekFHLW5wV0x6TG9kQlpnNXlPdW1OSTVYcFUxR3J4X29VQVFlQnVKbGhaVHZRV2hhQ01pR0I2cDRvMEFvMTFZVDZzZFVCWFhheF93Z1JmZUYzd2dyYmRYbVZRUEl1dnpf?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac nets $108M finance package to build Africa’s first fully integrated vaccine plant &nbsp;&nbsp; Fierce Pharma",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-20T13:31:56+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-04-27T12:11:00.671948+00:00"
+    },
+    {
+      "id": "16a3c0a1659d",
+      "source": "Signal:Biovac",
+      "title": "EIB, EU and IFC back Biovac vaccine facility in South Africa - The Pharma Letter",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM01LVjh6Zk1CeWZIQkpnNkJlNjFMQVh3ZDZzWGd6RWo1OTdzWFpwZDlOcklqM0tpeHI5WUxGZmcxczR4RHN0NC1zbTVqeFRvemNUSDZMbURtclBaNTRIMlVncERLU1M3cWJTdFROWXVHWmJ0ZmswRHBEODh2a3V0ZF80aFVsZ2lBbTZ2Z3VtbWF6Q29WelFRd2g1VmZxRlJNMW8tSW1n?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "EIB, EU and IFC back Biovac vaccine facility in South Africa &nbsp;&nbsp; The Pharma Letter",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-17T11:34:30+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-04-27T12:11:00.672086+00:00"
+    },
+    {
+      "id": "61c87d68b656",
+      "source": "Signal:Biovac",
+      "title": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXdxQ3l4SWRtNmEtbFFrMVhEU3VEX3IwZG5HRzYzUjhVVEdhMmc4UVl2SUFMc0pIcm4xOTRObjJxS3VUd3dOdkQyeG5IeFVxU0FINWZhOGZBM3FyNnZ5cnpRR19LYTVJb1k4SG9CU25YMnB5OWZnZzNqNjhNbWVCQ3NxZmZBaHdLdFJxV1JsTzFrOGE0SDF1bGJwdnd2OVNIaUVFV1BZUWU1OWt2UG9ZZkRjdw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant &nbsp;&nbsp; Bloomberg",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-16T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-04-27T12:11:00.672449+00:00"
+    },
+    {
+      "id": "a571e9d35662",
+      "source": "Signal:Biovac",
+      "title": "Biovac gets $108M backing for vaccine factory in South Africa - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG8wd1JyZUlsaXFnRzhzc2tQWjB5V2w5NmhoZWw1YU9JM2p6OGNIU1dsRXEtOEM4LTJrR0l6bFFMVmZLQ3RFNHBiV1g4d2xqMm5XQjRiSlFBWXFDTEZWMTlDa3N6cWU1Wm1XSl9EdFphNmd1bVQ4Z2JlYVZSWFl0UllJUE5SME1McDZCSg?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac gets $108M backing for vaccine factory in South Africa &nbsp;&nbsp; Endpoints News",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-17T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-04-27T12:11:00.672581+00:00"
+    },
+    {
+      "id": "ea1ed6a83094",
+      "source": "Signal:Biovac",
+      "title": "South African pharma giant wins R1.5 billion to build the biggest vaccine facility in Africa - Daily Investor",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdTFYMUxYMEpidXF2NUNXTXp3dGtaYmctbm9qaHZBZXBZV1p0QnJqSUVnZW5QWnNTTmF0a0VzRmhqX014bzBCVUphdHQ3d1FueVBRZnl3a0FScThQWkdBRXVVQzFlUkpHUENXYVRoTUlCdHpoV3VCQmtqYm5kdmY4Sy1DY1JyZDNCcS1HV1l0T2JDalRyT3ZDV25rTjlQYmxaZ1VOWXhVYjNBb1BneVJNcGQ0c0tobUtBbkstekFpaDhLRTY0cEV6anQxaFJlSldUMEE3X19R?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South African pharma giant wins R1.5 billion to build the biggest vaccine facility in Africa &nbsp;&nbsp; Daily Investor",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-17T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-04-27T12:11:00.674482+00:00"
+    },
+    {
+      "id": "9edcae8be231",
+      "source": "Signal:Biovac",
+      "title": "Cape Town Biovac secures R1.8 billion for vaccine plant - Cape Town ETC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yS3hMZm9ZUXFfUGpLZDdkNzJJMG5CNmRnbUhIVmdFU1ZORGVyN0FrcU5lbzc2djVZZnloTjEwVjY3MDdtRmlrbWdWdUtIUzVxTEtpR2dZamJUZkNHbTBpOFhET0ROV2k1UG8tLS1mT2NtRFpBbFN2TzVsSlB6Q1k?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Cape Town Biovac secures R1.8 billion for vaccine plant &nbsp;&nbsp; Cape Town ETC",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-17T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-04-27T12:11:00.674823+00:00"
+    },
+    {
+      "id": "93cfbed91b1f",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Business Brief | Aspen still feels contract hit; Moderna slumps amid US vaccine shift - News24",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVXVtWHk0b1RUaFBUUGhkNVliaVFIc24zSWRzVzJtVS1EQ3hvVVdzMktnZVBjNzNvZERRVEJsQlJsTXlqQnlhT0k1aHJRSVpXQ3RObTNDYTFnMFRmSFlSTEhFOVhvaVAweXFGc1RneVJ1TXkyTDk5V2NTdmdQYUhKNlNqT2NObnJ6bXhCZUwwbVh0NklkYmZBbWJQU1drM3JIbnNsSTlaNGVWUnZWTElROVhWMXpqSk9JRnlHMWZaTWcySlZNUGJONkhwWXZCQTUzbDJNag?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Business Brief | Aspen still feels contract hit; Moderna slumps amid US vaccine shift &nbsp;&nbsp; News24",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-02-11T08:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-04-27T12:11:00.676109+00:00"
+    },
+    {
+      "id": "63fd7a182f4d",
+      "source": "Signal:AVMA",
+      "title": "Gavi, World Bank Boost Health Resilience, Vaccine Output - Mirage News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaHAxUUdKRDVEUjF1dDBQOC1xTnhtNW4yR0paYUdPNUQ0aWphUlRFaGdHWXdTXzZ4X1RoaDFBTmM2clpYU0ZkY1RRQkVyQXo5MTlXTDNsYWJzaXBFRTJWblRVbGR1d0hIYm1RSzF2NWh0TjlBTzJ4T0dudG1DT1dyRTFqLVZiZGsyS3I4?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Gavi, World Bank Boost Health Resilience, Vaccine Output &nbsp;&nbsp; Mirage News",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2025-12-06T08:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-04-27T12:11:00.678227+00:00"
+    }
+  ]
+}
