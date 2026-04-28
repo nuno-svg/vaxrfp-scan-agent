@@ -35,7 +35,7 @@
       "published": "2026-04-16T15:37:24+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-28T09:27:12.327536+00:00"
+    "fetched_at": "2026-04-28T12:15:16.623809+00:00"
   },
   {
     "id": "943b261bc1bd",
@@ -73,7 +73,7 @@
       "published": "2026-02-26T08:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-28T09:27:12.331365+00:00"
+    "fetched_at": "2026-04-28T12:15:16.626693+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -111,7 +111,7 @@
       "published": "2026-04-16T15:37:24+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-04-28T09:27:12.331782+00:00"
+    "fetched_at": "2026-04-28T12:15:16.627027+00:00"
   },
   {
     "id": "dd4fa766b334",
@@ -147,7 +147,7 @@
     "raw": {
       "ted_publication_number": "140173-2026"
     },
-    "fetched_at": "2026-04-28T09:27:12.307160+00:00"
+    "fetched_at": "2026-04-28T12:15:16.608197+00:00"
   },
   {
     "id": "c528ecb8b5b8",
@@ -185,7 +185,7 @@
       "published": "2026-04-17T10:06:18+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-28T09:27:12.327105+00:00"
+    "fetched_at": "2026-04-28T12:15:16.623465+00:00"
   },
   {
     "id": "20afca7622c8",
@@ -219,7 +219,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-04-28T09:27:12.300872+00:00"
+    "fetched_at": "2026-04-28T12:15:16.602992+00:00"
   },
   {
     "id": "99050d8d3f05",
@@ -257,7 +257,7 @@
       "published": "2026-03-13T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-28T09:27:12.329053+00:00"
+    "fetched_at": "2026-04-28T12:15:16.625212+00:00"
   },
   {
     "id": "cf7eb6d69082",
@@ -298,7 +298,7 @@
       "ungm_query": "vaccine",
       "published": "2026-04-10"
     },
-    "fetched_at": "2026-04-28T09:27:12.321195+00:00"
+    "fetched_at": "2026-04-28T12:15:16.618766+00:00"
   },
   {
     "id": "ad3a96fa4717",
@@ -339,45 +339,7 @@
       "ungm_query": "EPI",
       "published": "2026-03-18"
     },
-    "fetched_at": "2026-04-28T09:27:12.324905+00:00"
-  },
-  {
-    "id": "f942ce0552b8",
-    "source": "World Bank",
-    "title": "Consultancy Services for \"Designing the Pakistan Business Portal (PBP) and Preparing Institutional Design, Governance, Legal Framework, Sustainability Model, and Delivery Roadmap for the (PBP)\"",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00433396",
-    "country": "PA",
-    "deadline": "2026-05-07",
-    "deadline_days": 9,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Islamic Republic of Pakistan: Digital Economy Enhancement Project. Country: Pakistan. Reference: PK-BOI-540618-CS-QCBS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P174402",
-      "wb_reference": "PK-BOI-540618-CS-QCBS"
-    },
-    "fetched_at": "2026-04-28T09:27:12.320357+00:00"
+    "fetched_at": "2026-04-28T12:15:16.621723+00:00"
   },
   {
     "id": "1eca8c6d90ca",
@@ -418,7 +380,7 @@
       "ungm_query": "vaccine",
       "published": "2026-03-30"
     },
-    "fetched_at": "2026-04-28T09:27:12.321349+00:00"
+    "fetched_at": "2026-04-28T12:15:16.618891+00:00"
   },
   {
     "id": "4fa1b1ff8481",
@@ -459,7 +421,7 @@
       "ungm_query": "EPI",
       "published": "2026-04-16"
     },
-    "fetched_at": "2026-04-28T09:27:12.324397+00:00"
+    "fetched_at": "2026-04-28T12:15:16.621313+00:00"
   },
   {
     "id": "221b84f69d69",
@@ -493,7 +455,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-04-28T09:27:12.300223+00:00"
+    "fetched_at": "2026-04-28T12:15:16.602434+00:00"
   },
   {
     "id": "d6c936e4406f",
@@ -534,45 +496,7 @@
       "ungm_query": "EPI",
       "published": "2026-04-16"
     },
-    "fetched_at": "2026-04-28T09:27:12.324458+00:00"
-  },
-  {
-    "id": "860b39073c83",
-    "source": "World Bank",
-    "title": "SERVICIO DE CONSULTORÍA PARA LA SUPERVISION DE LA OBRA: SEDE INSTITUCIONAL DEL CENTRO NACIONAL DE EPIDEMIOLOGIA PREVENCIÓN Y CONTROL DE ENFERMEDADES-CDC",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00440891",
-    "country": "PE",
-    "deadline": "2026-05-15",
-    "deadline_days": 17,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Peru: Strengthening of the Public Health Emergency Preparedness and Response. Country: Peru. Reference: PE-INS-527241-CS-QCBS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P174177",
-      "wb_reference": "PE-INS-527241-CS-QCBS"
-    },
-    "fetched_at": "2026-04-28T09:27:12.320074+00:00"
+    "fetched_at": "2026-04-28T12:15:16.621363+00:00"
   },
   {
     "id": "9245a5770f52",
@@ -610,7 +534,7 @@
       "published": "2026-04-27T00:05:34+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-28T09:27:12.325625+00:00"
+    "fetched_at": "2026-04-28T12:15:16.622292+00:00"
   },
   {
     "id": "4db365511153",
@@ -648,7 +572,7 @@
       "published": "2026-04-20T13:31:56+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-28T09:27:12.326084+00:00"
+    "fetched_at": "2026-04-28T12:15:16.622657+00:00"
   },
   {
     "id": "16a3c0a1659d",
@@ -686,18 +610,18 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-28T09:27:12.326238+00:00"
+    "fetched_at": "2026-04-28T12:15:16.622765+00:00"
   },
   {
-    "id": "61c87d68b656",
+    "id": "5fa5a32d5033",
     "source": "Signal:Biovac",
-    "title": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant - Bloomberg",
+    "title": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant - Bloomberg.com",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXdxQ3l4SWRtNmEtbFFrMVhEU3VEX3IwZG5HRzYzUjhVVEdhMmc4UVl2SUFMc0pIcm4xOTRObjJxS3VUd3dOdkQyeG5IeFVxU0FINWZhOGZBM3FyNnZ5cnpRR19LYTVJb1k4SG9CU25YMnB5OWZnZzNqNjhNbWVCQ3NxZmZBaHdLdFJxV1JsTzFrOGE0SDF1bGJwdnd2OVNIaUVFV1BZUWU1OWt2UG9ZZkRjdw?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant &nbsp;&nbsp; Bloomberg",
+    "description": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant &nbsp;&nbsp; Bloomberg.com",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -724,7 +648,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-28T09:27:12.326584+00:00"
+    "fetched_at": "2026-04-28T12:15:16.623041+00:00"
   },
   {
     "id": "a571e9d35662",
@@ -762,7 +686,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-28T09:27:12.326712+00:00"
+    "fetched_at": "2026-04-28T12:15:16.623145+00:00"
   },
   {
     "id": "ea1ed6a83094",
@@ -800,7 +724,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-28T09:27:12.328326+00:00"
+    "fetched_at": "2026-04-28T12:15:16.624637+00:00"
   },
   {
     "id": "9edcae8be231",
@@ -838,7 +762,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-28T09:27:12.328670+00:00"
+    "fetched_at": "2026-04-28T12:15:16.624907+00:00"
   },
   {
     "id": "93cfbed91b1f",
@@ -876,7 +800,7 @@
       "published": "2026-02-11T08:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-28T09:27:12.330023+00:00"
+    "fetched_at": "2026-04-28T12:15:16.625922+00:00"
   },
   {
     "id": "63fd7a182f4d",
@@ -914,6 +838,6 @@
       "published": "2025-12-06T08:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-04-28T09:27:12.332102+00:00"
+    "fetched_at": "2026-04-28T12:15:16.627281+00:00"
   }
 ]
