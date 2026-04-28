@@ -35,7 +35,7 @@
       "published": "2026-04-16T15:37:24+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-27T12:11:00.673449+00:00"
+    "fetched_at": "2026-04-28T09:27:12.327536+00:00"
   },
   {
     "id": "943b261bc1bd",
@@ -73,7 +73,7 @@
       "published": "2026-02-26T08:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-27T12:11:00.677454+00:00"
+    "fetched_at": "2026-04-28T09:27:12.331365+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -111,7 +111,43 @@
       "published": "2026-04-16T15:37:24+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-04-27T12:11:00.677885+00:00"
+    "fetched_at": "2026-04-28T09:27:12.331782+00:00"
+  },
+  {
+    "id": "dd4fa766b334",
+    "source": "TED",
+    "title": "Germany – Pharmaceutical products – Abschluss nicht-exklusiver Rabattvereinbarungen nach § 130 a Abs. 8 SGB V für Verträge biosimilarer Wirkstoffe",
+    "url": "https://ted.europa.eu/en/notice/140173-2026",
+    "country": "DE",
+    "deadline": "2026-11-10",
+    "deadline_days": 196,
+    "value_usd": null,
+    "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nichtexklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.04.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter http://vergabeportal.gwq-serviceplus.de einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.03.2026 kann eine erstmalige Meldung zum 01.04.2026 realisiert werden. Folgende Unterlagen sind einzureichen: unterzeichneter Vertrag in doppelter Ausfertigung; einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug aus dem öffentlichen Teil der AMIceDatenbank; unterzeichnete Eigenerklärung (Anlage 6). Liste der vertragsgegenständlichen PZN (Anlage 5), Eigenerklärung zur EU-Verordnung (Anlage 7)",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 4
+    },
+    "fit_total": 4,
+    "fit_top_area": "mel",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "140173-2026"
+    },
+    "fetched_at": "2026-04-28T09:27:12.307160+00:00"
   },
   {
     "id": "c528ecb8b5b8",
@@ -149,7 +185,7 @@
       "published": "2026-04-17T10:06:18+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-27T12:11:00.672990+00:00"
+    "fetched_at": "2026-04-28T09:27:12.327105+00:00"
   },
   {
     "id": "20afca7622c8",
@@ -158,7 +194,7 @@
     "url": "https://africacdc.org/opportunity/supply-delivery-installation-and-training-of-laboratory-equipment-and-supply-and-delivery-of-reagent-and-consumables-for-africa-cdc-reference-laboratory/",
     "country": "_AU",
     "deadline": "2026-05-29",
-    "deadline_days": 32,
+    "deadline_days": 31,
     "value_usd": null,
     "description": "3.         Bidding will be conducted through international competitive procurement using a Request for Bids (RFB) as specified in the African Union Procurement Manual Issued March 2024 and is open to all eligible Bidders as defined in the Procurement Manual. 4.         Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5.         The bidding document in English may be requested by interested eligible Bidders upon the submission of a written application to the address below. The solicitation document will be sent by email upon request. 6.         Bids must be delivered to the address below on or before 29 May 2026 , 3: 00P.M Addis Ababa time. Electronic Bidding will not be permitted. Late Bids will be rejected. Bids will be publicly opened in the presence of the Bidders’ designated representatives and anyone who chooses to attend at the address below on 29 May 2026, 3:00P.M Addis Ababa time. 7.         All Bids must be accompanied by a “Bid-Security” 8.         Attention is drawn to the Procurement Regulations requiring the Borrower to disclose information on the successful bidder’s beneficial ownership, as part of the Contract Award Notice, using the Beneficial Ownership Disclosure Form as included in the bidding document. 9.         The address(es) referred to above is (are): Africa Centres for Diseases Control and Prevention, ",
     "fit_per_area": {
@@ -183,7 +219,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-04-27T12:11:00.645303+00:00"
+    "fetched_at": "2026-04-28T09:27:12.300872+00:00"
   },
   {
     "id": "99050d8d3f05",
@@ -221,7 +257,7 @@
       "published": "2026-03-13T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-27T12:11:00.675225+00:00"
+    "fetched_at": "2026-04-28T09:27:12.329053+00:00"
   },
   {
     "id": "cf7eb6d69082",
@@ -230,7 +266,7 @@
     "url": "https://www.ungm.org/Public/Notice/297452",
     "country": "NI",
     "deadline": "2026-05-01",
-    "deadline_days": 4,
+    "deadline_days": 3,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRFP-9203379. Matched query: vaccine.",
     "fit_per_area": {
@@ -262,7 +298,7 @@
       "ungm_query": "vaccine",
       "published": "2026-04-10"
     },
-    "fetched_at": "2026-04-27T12:11:00.666958+00:00"
+    "fetched_at": "2026-04-28T09:27:12.321195+00:00"
   },
   {
     "id": "ad3a96fa4717",
@@ -271,7 +307,7 @@
     "url": "https://www.ungm.org/Public/Notice/294253",
     "country": "PA",
     "deadline": "2026-05-06",
-    "deadline_days": 9,
+    "deadline_days": 8,
     "value_usd": null,
     "description": "Agency: UNOPS. Type: Request for proposal. Reference: RFP/2026/61992. Matched query: EPI.",
     "fit_per_area": {
@@ -303,7 +339,7 @@
       "ungm_query": "EPI",
       "published": "2026-03-18"
     },
-    "fetched_at": "2026-04-27T12:11:00.670751+00:00"
+    "fetched_at": "2026-04-28T09:27:12.324905+00:00"
   },
   {
     "id": "f942ce0552b8",
@@ -312,7 +348,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00433396",
     "country": "PA",
     "deadline": "2026-05-07",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Islamic Republic of Pakistan: Digital Economy Enhancement Project. Country: Pakistan. Reference: PK-BOI-540618-CS-QCBS.",
     "fit_per_area": {
@@ -341,89 +377,7 @@
       "wb_project_id": "P174402",
       "wb_reference": "PK-BOI-540618-CS-QCBS"
     },
-    "fetched_at": "2026-04-27T12:11:00.666034+00:00"
-  },
-  {
-    "id": "dca818eb1882",
-    "source": "FAO",
-    "title": "GCP/SFS/009/ITA - Beekeeping Equipment",
-    "url": "https://www.ungm.org/Public/Notice/297622",
-    "country": "MO",
-    "deadline": "2026-04-27",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "Agency: FAO. Type: Invitation to bid. Reference: 2026/FRMOZ/FRMOZ/136264. Matched query: EPI.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ungm_id": "297622",
-      "ungm_agency": "FAO",
-      "ungm_notice_type": "Invitation to bid",
-      "ungm_reference": "2026/FRMOZ/FRMOZ/136264",
-      "ungm_query": "EPI",
-      "published": "2026-04-13"
-    },
-    "fetched_at": "2026-04-27T12:11:00.670344+00:00"
-  },
-  {
-    "id": "cc562027e6e0",
-    "source": "UNFPA",
-    "title": "Development and pilot implementation of Digital Safekeeping",
-    "url": "https://www.ungm.org/Public/Notice/296436",
-    "country": "UN",
-    "deadline": "2026-04-27",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "Agency: UNFPA. Type: Request for proposal. Reference: UNFPA-HQ1-00001,1. Matched query: EPI.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ungm_id": "296436",
-      "ungm_agency": "UNFPA",
-      "ungm_notice_type": "Request for proposal",
-      "ungm_reference": "UNFPA-HQ1-00001,1",
-      "ungm_query": "EPI",
-      "published": "2026-03-31"
-    },
-    "fetched_at": "2026-04-27T12:11:00.670500+00:00"
+    "fetched_at": "2026-04-28T09:27:12.320357+00:00"
   },
   {
     "id": "1eca8c6d90ca",
@@ -432,7 +386,7 @@
     "url": "https://www.ungm.org/Public/Notice/296247",
     "country": "MU",
     "deadline": "2026-05-01",
-    "deadline_days": 4,
+    "deadline_days": 3,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503904. Matched query: vaccine.",
     "fit_per_area": {
@@ -464,7 +418,7 @@
       "ungm_query": "vaccine",
       "published": "2026-03-30"
     },
-    "fetched_at": "2026-04-27T12:11:00.667116+00:00"
+    "fetched_at": "2026-04-28T09:27:12.321349+00:00"
   },
   {
     "id": "4fa1b1ff8481",
@@ -473,7 +427,7 @@
     "url": "https://www.ungm.org/Public/Notice/297992",
     "country": "TÜ",
     "deadline": "2026-05-03",
-    "deadline_days": 6,
+    "deadline_days": 5,
     "value_usd": null,
     "description": "Agency: FAO. Type: Request for quotation. Reference: 2026/FETUR/FETUR/136472. Matched query: EPI.",
     "fit_per_area": {
@@ -505,7 +459,7 @@
       "ungm_query": "EPI",
       "published": "2026-04-16"
     },
-    "fetched_at": "2026-04-27T12:11:00.670239+00:00"
+    "fetched_at": "2026-04-28T09:27:12.324397+00:00"
   },
   {
     "id": "221b84f69d69",
@@ -514,7 +468,7 @@
     "url": "https://www.gavi.org/news/document-library/rfq-irc-chair",
     "country": null,
     "deadline": "2026-05-08",
-    "deadline_days": 11,
+    "deadline_days": 10,
     "value_usd": null,
     "description": "Gavi relies upon its Independent Review Committee (IRC), an independent and impartial group of experts, to guarantee the integrity and consistency of an open and transparent funding process. Through this RFQ, Gavi seeks to appoint the next IRC Chair. The Chair will lead IRC deliberations and decision-making, facilitate constructive challenge to reach consensus, ensure the quality and consistency of IRC outputs (including sign-off of the final IRC country reports), and represent the Committee across Gavi governance fora.",
     "fit_per_area": {
@@ -539,7 +493,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-04-27T12:11:00.644585+00:00"
+    "fetched_at": "2026-04-28T09:27:12.300223+00:00"
   },
   {
     "id": "d6c936e4406f",
@@ -548,7 +502,7 @@
     "url": "https://www.ungm.org/Public/Notice/298040",
     "country": "CY",
     "deadline": "2026-05-13",
-    "deadline_days": 16,
+    "deadline_days": 15,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24341. Matched query: EPI.",
     "fit_per_area": {
@@ -580,7 +534,7 @@
       "ungm_query": "EPI",
       "published": "2026-04-16"
     },
-    "fetched_at": "2026-04-27T12:11:00.670302+00:00"
+    "fetched_at": "2026-04-28T09:27:12.324458+00:00"
   },
   {
     "id": "860b39073c83",
@@ -589,7 +543,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00440891",
     "country": "PE",
     "deadline": "2026-05-15",
-    "deadline_days": 18,
+    "deadline_days": 17,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Peru: Strengthening of the Public Health Emergency Preparedness and Response. Country: Peru. Reference: PE-INS-527241-CS-QCBS.",
     "fit_per_area": {
@@ -618,7 +572,7 @@
       "wb_project_id": "P174177",
       "wb_reference": "PE-INS-527241-CS-QCBS"
     },
-    "fetched_at": "2026-04-27T12:11:00.665714+00:00"
+    "fetched_at": "2026-04-28T09:27:12.320074+00:00"
   },
   {
     "id": "9245a5770f52",
@@ -656,7 +610,7 @@
       "published": "2026-04-27T00:05:34+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-27T12:11:00.671497+00:00"
+    "fetched_at": "2026-04-28T09:27:12.325625+00:00"
   },
   {
     "id": "4db365511153",
@@ -694,7 +648,7 @@
       "published": "2026-04-20T13:31:56+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-27T12:11:00.671948+00:00"
+    "fetched_at": "2026-04-28T09:27:12.326084+00:00"
   },
   {
     "id": "16a3c0a1659d",
@@ -729,10 +683,10 @@
     },
     "raw": {
       "manufacturer": "Biovac",
-      "published": "2026-04-17T11:34:30+00:00",
+      "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-27T12:11:00.672086+00:00"
+    "fetched_at": "2026-04-28T09:27:12.326238+00:00"
   },
   {
     "id": "61c87d68b656",
@@ -770,7 +724,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-27T12:11:00.672449+00:00"
+    "fetched_at": "2026-04-28T09:27:12.326584+00:00"
   },
   {
     "id": "a571e9d35662",
@@ -808,7 +762,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-27T12:11:00.672581+00:00"
+    "fetched_at": "2026-04-28T09:27:12.326712+00:00"
   },
   {
     "id": "ea1ed6a83094",
@@ -846,7 +800,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-27T12:11:00.674482+00:00"
+    "fetched_at": "2026-04-28T09:27:12.328326+00:00"
   },
   {
     "id": "9edcae8be231",
@@ -884,7 +838,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-27T12:11:00.674823+00:00"
+    "fetched_at": "2026-04-28T09:27:12.328670+00:00"
   },
   {
     "id": "93cfbed91b1f",
@@ -922,7 +876,7 @@
       "published": "2026-02-11T08:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-04-27T12:11:00.676109+00:00"
+    "fetched_at": "2026-04-28T09:27:12.330023+00:00"
   },
   {
     "id": "63fd7a182f4d",
@@ -960,6 +914,6 @@
       "published": "2025-12-06T08:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-04-27T12:11:00.678227+00:00"
+    "fetched_at": "2026-04-28T09:27:12.332102+00:00"
   }
 ]
