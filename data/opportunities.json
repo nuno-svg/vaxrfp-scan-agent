@@ -35,7 +35,7 @@
       "published": "2026-04-30T13:23:51+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-01T10:55:45.282096+00:00"
+    "fetched_at": "2026-05-02T09:48:56.568281+00:00"
   },
   {
     "id": "8368a6e651a3",
@@ -73,56 +73,18 @@
       "published": "2026-04-30T13:23:51+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-05-01T10:55:45.286294+00:00"
+    "fetched_at": "2026-05-02T09:48:56.573328+00:00"
   },
   {
-    "id": "f63b349fdb0e",
-    "source": "World Bank",
-    "title": "Procurement of Instruments / equipment / chemicals for strengthening the capacities of Vaccine Production Unit against TADs and other vaccines at SIAH laboratories",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00432692",
-    "country": "PA",
-    "deadline": "2026-05-11",
-    "deadline_days": 10,
-    "value_usd": null,
-    "description": "Invitation for Bids. Request for Bids. Project: Sindh Livestock and Aquaculture Sectors Transformation Project. Country: Pakistan. Reference: PK-PIU SLAD-506288-GO-RFB.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Invitation for Bids",
-      "wb_project_id": "P179003",
-      "wb_reference": "PK-PIU SLAD-506288-GO-RFB"
-    },
-    "fetched_at": "2026-05-01T10:55:45.275001+00:00"
-  },
-  {
-    "id": "2199d69aa8e9",
+    "id": "91b2f02b1da1",
     "source": "TED",
-    "title": "Germany – Pharmaceutical products – Abschluss nicht-exklusiver Rabattvereinbarung nach § 130a Abs. 8 SGB V zu patentgeschützten Wirkstoffen-VV89",
-    "url": "https://ted.europa.eu/en/notice/142448-2026",
+    "title": "Germany – Pharmaceutical products – Abschluss nicht-exklusiver Rabattvereinbarungen nach § 130 a Abs. 8 SGB V ab dem 01.04.2026",
+    "url": "https://ted.europa.eu/en/notice/146900-2026",
     "country": "DE",
-    "deadline": "2027-08-10",
-    "deadline_days": 466,
+    "deadline": "2028-05-10",
+    "deadline_days": 739,
     "value_usd": null,
-    "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nicht-exklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.04.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter http://vergabeportal.gwq-serviceplus.de einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.03.2026 kann eine erstmalige Meldung zum 01.04.2026 realisiert werden. Folgende Unterlagen sind einzureichen: - unterzeichneter Vertrag in doppelter Ausfertigung; - Liste der vertragsgegenständlichen PZN (Anlage 2); - einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug aus dem öffentlichen Teil der AMIceDatenbank; - Erklärung zur Integrität (Anlage 5); - Eigenerklärung zur EU-Verordnung (Anlage 6); - Selbstauskunft zur Nachhaltigkeit (Anlage 7)",
+    "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nichtexklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.04.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter https://vergabeportal.gwq-serviceplus.de/arzneimittel einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.03.2026 kann eine erstmalige Meldung zum 01.04.2026 realisiert werden. Folgende Unterlagen sind einzureichen: unterzeichneter Vertrag in doppelter Ausfertigung; einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug aus dem öffentlichen Teil der AMIceDatenbank; unterzeichnete Eigenerklärung (Anlage 3). Liste der vertragsgegenständlichen PZN (Anlage 4), Eigenerklärung zur EU-Verordnung (Anlage 5)",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -145,20 +107,20 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "142448-2026"
+      "ted_publication_number": "146900-2026"
     },
-    "fetched_at": "2026-05-01T10:55:45.267907+00:00"
+    "fetched_at": "2026-05-02T09:48:56.554480+00:00"
   },
   {
-    "id": "3106162b8fd5",
-    "source": "Signal:AVMA",
-    "title": "Gavi and World Bank Group deepen collaboration to boost health system resilience and regional vaccine manufacturing - Gavi, the Vaccine Alliance",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1F0bDJKNndKUDdvelFJMGRxcEVhdkxNczdIMUltTXBkZVU0RXZzWWp0cE56YTZGNVJQSVBoN0hFZkMxLXdvTDJfX3R5VEkyakRmNnQ0YWJGZ0hHVHZpTjNkM3MxdTUxclIzZ2FOZXdtUk5VdEc0QUtiaUhUc05DYXZkMUY3OWt6UjhtWm5KNDdoNmZuM3dsZ0dlM2hsNkszbkpic1lBLW9rRnhrNExN?oc=5",
+    "id": "c528ecb8b5b8",
+    "source": "Signal:Biovac",
+    "title": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion - fundsforNGOs News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkxxZEZoekVWTzNMZXNZOUZnYXVPRERWNFpDQ19lVTBTdHFFeHgzcFZXVXUtaHBfWmpIdkUxSXliWWI0aS02TlZtZUYzMWU1RWFhN3hXb3pZWXo1MWJ0RDR2ckY5WkxyZGRUbERYaDU3QzJtdzBxQ29ZZV9uWDVFZXd5N2hGWXJtSFVyd1laN0RlQzk3MXhoUkxGWTRTODJ0NTZSeVdVT0JOQW9VaTRHSDRHU3E5dzFJVi1wT1ViYw?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Gavi and World Bank Group deepen collaboration to boost health system resilience and regional vaccine manufacturing &nbsp;&nbsp; Gavi, the Vaccine Alliance",
+    "description": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion &nbsp;&nbsp; fundsforNGOs News",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 4,
@@ -181,11 +143,11 @@
       "eligibility": ""
     },
     "raw": {
-      "donor": "AVMA",
-      "published": "2025-12-06T08:00:00+00:00",
-      "signal_type": "donor"
+      "manufacturer": "Biovac",
+      "published": "2026-04-17T10:06:18+00:00",
+      "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-01T10:55:45.286809+00:00"
+    "fetched_at": "2026-05-02T09:48:56.568707+00:00"
   },
   {
     "id": "c9294556c2a8",
@@ -194,7 +156,7 @@
     "url": "https://africacdc.org/opportunity/consultancy-to-initial-implementation-of-okapi-federated-data-mesh-based-on-speedymesh-ecosystem/",
     "country": "_AU",
     "deadline": "2026-05-28",
-    "deadline_days": 27,
+    "deadline_days": 26,
     "value_usd": null,
     "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites qualified firms to submit proposals for the initial implementation of the Open Knowledge and Analytics Portal for Public Health Insights (OKAPI) as a federated data mesh platform. The assignment includes establishment of a continental node, onboarding of one Member State, integration with AU Digital One Health Platform (AU-DOHP), and implementation of three priority use cases across multiple public health domains. Duration: 8 months Location: Africa CDC, Addis Ababa, Ethiopia Submission Deadline: 28 May 2026 Submission Email: procurement@africacdc.org Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested bidders must demonstrate experience in federated data architectures, Data Mesh, HL7 FHIR interoperability, and large-scale public-sector data platforms, preferably within African Union or multi-country environments. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. The goal is to establish OKAPI as a sovereign, standards-based federated data mesh for continental and regional health collaboration, built on the SpeedyMesh ecosystem. The contractor will deliver the initial phase of OKAPI, a continental federated data mesh based on the SpeedyMesh ecosystem. The work follows a milestone-based approach covering design, deployment, use-case implementation, a",
     "fit_per_area": {
@@ -219,7 +181,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-05-01T10:55:45.264906+00:00"
+    "fetched_at": "2026-05-02T09:48:56.551291+00:00"
   },
   {
     "id": "20afca7622c8",
@@ -228,7 +190,7 @@
     "url": "https://africacdc.org/opportunity/supply-delivery-installation-and-training-of-laboratory-equipment-and-supply-and-delivery-of-reagent-and-consumables-for-africa-cdc-reference-laboratory/",
     "country": "_AU",
     "deadline": "2026-05-29",
-    "deadline_days": 28,
+    "deadline_days": 27,
     "value_usd": null,
     "description": "3.         Bidding will be conducted through international competitive procurement using a Request for Bids (RFB) as specified in the African Union Procurement Manual Issued March 2024 and is open to all eligible Bidders as defined in the Procurement Manual. 4.         Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5.         The bidding document in English may be requested by interested eligible Bidders upon the submission of a written application to the address below. The solicitation document will be sent by email upon request. 6.         Bids must be delivered to the address below on or before 29 May 2026 , 3: 00P.M Addis Ababa time. Electronic Bidding will not be permitted. Late Bids will be rejected. Bids will be publicly opened in the presence of the Bidders’ designated representatives and anyone who chooses to attend at the address below on 29 May 2026, 3:00P.M Addis Ababa time. 7.         All Bids must be accompanied by a “Bid-Security” 8.         Attention is drawn to the Procurement Regulations requiring the Borrower to disclose information on the successful bidder’s beneficial ownership, as part of the Contract Award Notice, using the Beneficial Ownership Disclosure Form as included in the bidding document. 9.         The address(es) referred to above is (are): Africa Centres for Diseases Control and Prevention, ",
     "fit_per_area": {
@@ -253,7 +215,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-05-01T10:55:45.263417+00:00"
+    "fetched_at": "2026-05-02T09:48:56.549802+00:00"
   },
   {
     "id": "99050d8d3f05",
@@ -291,48 +253,7 @@
       "published": "2026-03-13T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-01T10:55:45.284297+00:00"
-  },
-  {
-    "id": "cf7eb6d69082",
-    "source": "UNICEF",
-    "title": "Routine Immunization vaccines and other health commodities requiring transportation at temperature ranges between +2°C to +8°C_DRIVE on LTA Basis",
-    "url": "https://www.ungm.org/Public/Notice/297452",
-    "country": "NI",
-    "deadline": "2026-05-01",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRFP-9203379. Matched query: vaccine.",
-    "fit_per_area": {
-      "cold_chain": 1,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ungm_id": "297452",
-      "ungm_agency": "UNICEF",
-      "ungm_notice_type": "Request for proposal",
-      "ungm_reference": "LRFP-9203379",
-      "ungm_query": "vaccine",
-      "published": "2026-04-10"
-    },
-    "fetched_at": "2026-05-01T10:55:45.275721+00:00"
+    "fetched_at": "2026-05-02T09:48:56.570341+00:00"
   },
   {
     "id": "ad3a96fa4717",
@@ -341,7 +262,7 @@
     "url": "https://www.ungm.org/Public/Notice/294253",
     "country": "PA",
     "deadline": "2026-05-06",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Agency: UNOPS. Type: Request for proposal. Reference: RFP/2026/61992. Matched query: EPI.",
     "fit_per_area": {
@@ -373,276 +294,7 @@
       "ungm_query": "EPI",
       "published": "2026-03-18"
     },
-    "fetched_at": "2026-05-01T10:55:45.279369+00:00"
-  },
-  {
-    "id": "57be5a34b0c9",
-    "source": "World Bank",
-    "title": "Études d'Identification et Analyse de Faisabilité Technico-Économique pour le Développement des Compétences dans les Chaînes de Valeur Agri-Business, Tourisme et Économie Bleue et Verte de l'Union des Comores",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00441914",
-    "country": "CO",
-    "deadline": "2026-05-13",
-    "deadline_days": 12,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Comoros  Multi Sector Skills for Job and Economic Transformation Preparation Grant. Country: Comoros. Reference: KM-GFPP-MS4JET-542074-CS-INDV.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182075",
-      "wb_reference": "KM-GFPP-MS4JET-542074-CS-INDV"
-    },
-    "fetched_at": "2026-05-01T10:55:45.273915+00:00"
-  },
-  {
-    "id": "2b98ccc924da",
-    "source": "World Bank",
-    "title": "Recrutement d'un Consultant Individuel pour l'Évaluation Institutionnelle, Opérationnelle et Financière de la Société de Garantie des Comores (SOGAK)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00441901",
-    "country": "CO",
-    "deadline": "2026-05-13",
-    "deadline_days": 12,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Comoros  Multi Sector Skills for Job and Economic Transformation Preparation Grant. Country: Comoros. Reference: KM-GFPP-MS4JET-542064-CS-INDV.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182075",
-      "wb_reference": "KM-GFPP-MS4JET-542064-CS-INDV"
-    },
-    "fetched_at": "2026-05-01T10:55:45.274422+00:00"
-  },
-  {
-    "id": "c2fbd215ef1b",
-    "source": "World Bank",
-    "title": "Étude de Diagnostic et Priorisation des Chaînes de Valeur du Secteur Agro-Industriel en Union des Comores",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00441903",
-    "country": "CO",
-    "deadline": "2026-05-13",
-    "deadline_days": 12,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Comoros  Multi Sector Skills for Job and Economic Transformation Preparation Grant. Country: Comoros. Reference: KM-GFPP-MS4JET-542057-CS-INDV.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182075",
-      "wb_reference": "KM-GFPP-MS4JET-542057-CS-INDV"
-    },
-    "fetched_at": "2026-05-01T10:55:45.274690+00:00"
-  },
-  {
-    "id": "5c0ca0092ea1",
-    "source": "World Bank",
-    "title": "Étude de Diagnostique sur la Diaspora Comorienne  sur la Détection et Cartographie des Compétences et des Talents",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00441906",
-    "country": "CO",
-    "deadline": "2026-05-13",
-    "deadline_days": 12,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Comoros  Multi Sector Skills for Job and Economic Transformation Preparation Grant. Country: Comoros. Reference: KM-GFPP-MS4JET-542078-CS-INDV.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182075",
-      "wb_reference": "KM-GFPP-MS4JET-542078-CS-INDV"
-    },
-    "fetched_at": "2026-05-01T10:55:45.274789+00:00"
-  },
-  {
-    "id": "597e68867801",
-    "source": "World Bank",
-    "title": "Recrutement d'un Consultant Individuel Pour la Rédaction de la Nouvelle Loi Bancaire de l'Union des Comores.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00441916",
-    "country": "CO",
-    "deadline": "2026-05-13",
-    "deadline_days": 12,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Comoros  Multi Sector Skills for Job and Economic Transformation Preparation Grant. Country: Comoros. Reference: KM-GFPP-MS4JET-542068-CS-INDV.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182075",
-      "wb_reference": "KM-GFPP-MS4JET-542068-CS-INDV"
-    },
-    "fetched_at": "2026-05-01T10:55:45.275110+00:00"
-  },
-  {
-    "id": "9f609905c540",
-    "source": "World Bank",
-    "title": "Recrutement d'un Consultant Individuel pour la Revue Fonctionnelle\ndes Ministères de tutelle du Projet",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00441912",
-    "country": "CO",
-    "deadline": "2026-05-13",
-    "deadline_days": 12,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Comoros  Multi Sector Skills for Job and Economic Transformation Preparation Grant. Country: Comoros. Reference: KM-GFPP-MS4JET-542046-CS-INDV.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182075",
-      "wb_reference": "KM-GFPP-MS4JET-542046-CS-INDV"
-    },
-    "fetched_at": "2026-05-01T10:55:45.275313+00:00"
-  },
-  {
-    "id": "1eca8c6d90ca",
-    "source": "UNICEF",
-    "title": "Procurement of Ebola Vaccines of assured quality for Stockpiling and Use, including stockpile management, storage, maintenance, replenishment, delivery and destruction of vaccines upon expiry",
-    "url": "https://www.ungm.org/Public/Notice/296247",
-    "country": "MU",
-    "deadline": "2026-05-01",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503904. Matched query: vaccine.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ungm_id": "296247",
-      "ungm_agency": "UNICEF",
-      "ungm_notice_type": "Request for proposal",
-      "ungm_reference": "RFP-DAN-2026-503904",
-      "ungm_query": "vaccine",
-      "published": "2026-03-30"
-    },
-    "fetched_at": "2026-05-01T10:55:45.275889+00:00"
+    "fetched_at": "2026-05-02T09:48:56.565488+00:00"
   },
   {
     "id": "4fa1b1ff8481",
@@ -651,7 +303,7 @@
     "url": "https://www.ungm.org/Public/Notice/297992",
     "country": "TÜ",
     "deadline": "2026-05-03",
-    "deadline_days": 2,
+    "deadline_days": 1,
     "value_usd": null,
     "description": "Agency: FAO. Type: Request for quotation. Reference: 2026/FETUR/FETUR/136472. Matched query: EPI.",
     "fit_per_area": {
@@ -683,7 +335,7 @@
       "ungm_query": "EPI",
       "published": "2026-04-16"
     },
-    "fetched_at": "2026-05-01T10:55:45.278869+00:00"
+    "fetched_at": "2026-05-02T09:48:56.564974+00:00"
   },
   {
     "id": "d6c936e4406f",
@@ -692,7 +344,7 @@
     "url": "https://www.ungm.org/Public/Notice/298040",
     "country": "CY",
     "deadline": "2026-05-13",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24341. Matched query: EPI.",
     "fit_per_area": {
@@ -724,7 +376,7 @@
       "ungm_query": "EPI",
       "published": "2026-04-16"
     },
-    "fetched_at": "2026-05-01T10:55:45.278931+00:00"
+    "fetched_at": "2026-05-02T09:48:56.565038+00:00"
   },
   {
     "id": "221b84f69d69",
@@ -733,7 +385,7 @@
     "url": "https://www.gavi.org/news/document-library/rfq-irc-chair",
     "country": null,
     "deadline": "2026-05-15",
-    "deadline_days": 14,
+    "deadline_days": 13,
     "value_usd": null,
     "description": "Gavi relies upon its Independent Review Committee (IRC), an independent and impartial group of experts, to guarantee the integrity and consistency of an open and transparent funding process. Through this RFQ, Gavi seeks to appoint the next IRC Chair. The Chair will lead IRC deliberations and decision-making, facilitate constructive challenge to reach consensus, ensure the quality and consistency of IRC outputs (including sign-off of the final IRC country reports), and represent the Committee across Gavi governance fora.",
     "fit_per_area": {
@@ -758,45 +410,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-05-01T10:55:45.262721+00:00"
-  },
-  {
-    "id": "6da7d73864f0",
-    "source": "World Bank",
-    "title": "Preparation of the Grand Design for ICT Infrastructure and Data Center",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00440812",
-    "country": "IN",
-    "deadline": "2026-05-18",
-    "deadline_days": 17,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: ID for Inclusive Service Delivery and Digital Transformation in Indonesia. Country: Indonesia. Reference: ID-DITJEN DUKCAPIL-535627-CS-QCBS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P175218",
-      "wb_reference": "ID-DITJEN DUKCAPIL-535627-CS-QCBS"
-    },
-    "fetched_at": "2026-05-01T10:55:45.274226+00:00"
+    "fetched_at": "2026-05-02T09:48:56.549070+00:00"
   },
   {
     "id": "80eeee34eae7",
@@ -805,7 +419,7 @@
     "url": "https://www.ungm.org/Public/Notice/299341",
     "country": "PA",
     "deadline": "2026-05-18",
-    "deadline_days": 17,
+    "deadline_days": 16,
     "value_usd": null,
     "description": "Agency: FAO. Type: Invitation to bid. Reference: 2026/FAPAK/FAPAK/136429. Matched query: vaccine.",
     "fit_per_area": {
@@ -837,18 +451,18 @@
       "ungm_query": "vaccine",
       "published": "2026-04-29"
     },
-    "fetched_at": "2026-05-01T10:55:45.275534+00:00"
+    "fetched_at": "2026-05-02T09:48:56.561552+00:00"
   },
   {
-    "id": "483b03a9303e",
-    "source": "TED",
-    "title": "Poland – Health services – Usługa prywatnej opieki medycznej dla pracowników i doktorantów Uniwersytetu Łódzkiego oraz członków ich rodzin",
-    "url": "https://ted.europa.eu/en/notice/143813-2026",
-    "country": "PL",
-    "deadline": null,
-    "deadline_days": null,
+    "id": "595e6c1469e4",
+    "source": "World Bank",
+    "title": "RECRUTEMENT D’UN BUREAU D’ÉTUDES POUR L’ÉLABORATION DE MODÈLES DE PRESTATION DE SERVICES EN EAU POTABLE EN MILIEU RURAL",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00442236",
+    "country": "DJ",
+    "deadline": "2026-05-20",
+    "deadline_days": 18,
     "value_usd": null,
-    "description": "Uniwersytet Łódzki. Przedmiotem zamówienia jest zakup usług prywatnej opieki medycznej dla pracowników Uniwersytetu Łódzkiego oraz członków ich rodzin",
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Project Preparation in relation to Horn of Africa - Groundwater for Resilience Project, Phase II. Country: Djibouti. Reference: DJ-DHR-548999-CS-QCBS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -871,9 +485,11 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "143813-2026"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P182118",
+      "wb_reference": "DJ-DHR-548999-CS-QCBS"
     },
-    "fetched_at": "2026-05-01T10:55:45.271324+00:00"
+    "fetched_at": "2026-05-02T09:48:56.559965+00:00"
   },
   {
     "id": "0f22ab393316",
@@ -911,7 +527,7 @@
       "published": "2026-04-27T01:51:22+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-01T10:55:45.280100+00:00"
+    "fetched_at": "2026-05-02T09:48:56.566225+00:00"
   },
   {
     "id": "4db365511153",
@@ -946,48 +562,10 @@
     },
     "raw": {
       "manufacturer": "Biovac",
-      "published": "2026-04-20T13:31:56+00:00",
+      "published": "2026-04-20T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-01T10:55:45.280558+00:00"
-  },
-  {
-    "id": "16a3c0a1659d",
-    "source": "Signal:Biovac",
-    "title": "EIB, EU and IFC back Biovac vaccine facility in South Africa - The Pharma Letter",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM01LVjh6Zk1CeWZIQkpnNkJlNjFMQVh3ZDZzWGd6RWo1OTdzWFpwZDlOcklqM0tpeHI5WUxGZmcxczR4RHN0NC1zbTVqeFRvemNUSDZMbURtclBaNTRIMlVncERLU1M3cWJTdFROWXVHWmJ0ZmswRHBEODh2a3V0ZF80aFVsZ2lBbTZ2Z3VtbWF6Q29WelFRd2g1VmZxRlJNMW8tSW1n?oc=5",
-    "country": "ZA",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "EIB, EU and IFC back Biovac vaccine facility in South Africa &nbsp;&nbsp; The Pharma Letter",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-17T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-05-01T10:55:45.280694+00:00"
+    "fetched_at": "2026-05-02T09:48:56.566697+00:00"
   },
   {
     "id": "5fa5a32d5033",
@@ -1025,7 +603,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-01T10:55:45.281061+00:00"
+    "fetched_at": "2026-05-02T09:48:56.567050+00:00"
   },
   {
     "id": "11c9cc1be526",
@@ -1063,7 +641,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-01T10:55:45.281547+00:00"
+    "fetched_at": "2026-05-02T09:48:56.567573+00:00"
   },
   {
     "id": "a571e9d35662",
@@ -1101,7 +679,45 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-01T10:55:45.281675+00:00"
+    "fetched_at": "2026-05-02T09:48:56.567708+00:00"
+  },
+  {
+    "id": "14674afd1bc0",
+    "source": "Signal:Biovac",
+    "title": "EIB, EU and IFC back Biovac vaccine facility in South Africa - Africa Business Communities",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWNPWkc5YlQ4MFZ2RFlwUTVNTS1RR3ZqUEdSalhxaTk1ZWxPUkNDLUQ2a2J3ZnNTclE1VjlGSzd6TmtaZkVoWWNTZU91SGFNYmFxc1h0MXcyLVNLeVhYcTVVdmI3TkJwbEVNRzIxRnVRYlBhUGlydE50UGlDTWhoRkx1Q2JjNGwyQXlqY19jQTVIMW1ONlJJazFqWGJUWUEta1U4NFc4ZTZBbXRaMzhSSEg2VzE?oc=5",
+    "country": "ZA",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "EIB, EU and IFC back Biovac vaccine facility in South Africa &nbsp;&nbsp; Africa Business Communities",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-04-17T10:12:15+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-05-02T09:48:56.567851+00:00"
   },
   {
     "id": "22c380ff4ae8",
@@ -1139,7 +755,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-01T10:55:45.282553+00:00"
+    "fetched_at": "2026-05-02T09:48:56.569174+00:00"
   },
   {
     "id": "ea1ed6a83094",
@@ -1177,45 +793,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-01T10:55:45.283570+00:00"
-  },
-  {
-    "id": "9edcae8be231",
-    "source": "Signal:Biovac",
-    "title": "Cape Town Biovac secures R1.8 billion for vaccine plant - Cape Town ETC",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yS3hMZm9ZUXFfUGpLZDdkNzJJMG5CNmRnbUhIVmdFU1ZORGVyN0FrcU5lbzc2djVZZnloTjEwVjY3MDdtRmlrbWdWdUtIUzVxTEtpR2dZamJUZkNHbTBpOFhET0ROV2k1UG8tLS1mT2NtRFpBbFN2TzVsSlB6Q1k?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Cape Town Biovac secures R1.8 billion for vaccine plant &nbsp;&nbsp; Cape Town ETC",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-17T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-05-01T10:55:45.283916+00:00"
+    "fetched_at": "2026-05-02T09:48:56.569943+00:00"
   },
   {
     "id": "93cfbed91b1f",
@@ -1253,6 +831,44 @@
       "published": "2026-02-11T08:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-01T10:55:45.285175+00:00"
+    "fetched_at": "2026-05-02T09:48:56.571819+00:00"
+  },
+  {
+    "id": "63fd7a182f4d",
+    "source": "Signal:AVMA",
+    "title": "Gavi, World Bank Boost Health Resilience, Vaccine Output - Mirage News",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaHAxUUdKRDVEUjF1dDBQOC1xTnhtNW4yR0paYUdPNUQ0aWphUlRFaGdHWXdTXzZ4X1RoaDFBTmM2clpYU0ZkY1RRQkVyQXo5MTlXTDNsYWJzaXBFRTJWblRVbGR1d0hIYm1RSzF2NWh0TjlBTzJ4T0dudG1DT1dyRTFqLVZiZGsyS3I4?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Gavi, World Bank Boost Health Resilience, Vaccine Output &nbsp;&nbsp; Mirage News",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "donor": "AVMA",
+      "published": "2025-12-06T08:00:00+00:00",
+      "signal_type": "donor"
+    },
+    "fetched_at": "2026-05-02T09:48:56.573669+00:00"
   }
 ]
