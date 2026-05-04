@@ -35,7 +35,7 @@
       "published": "2026-04-30T13:23:51+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-03T09:59:57.447719+00:00"
+    "fetched_at": "2026-05-04T08:31:00.510855+00:00"
   },
   {
     "id": "943b261bc1bd",
@@ -73,7 +73,7 @@
       "published": "2026-02-26T08:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-03T09:59:57.451582+00:00"
+    "fetched_at": "2026-05-04T08:31:00.515338+00:00"
   },
   {
     "id": "8368a6e651a3",
@@ -111,7 +111,7 @@
       "published": "2026-04-30T13:23:51+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-05-03T09:59:57.451913+00:00"
+    "fetched_at": "2026-05-04T08:31:00.515740+00:00"
   },
   {
     "id": "c528ecb8b5b8",
@@ -149,7 +149,75 @@
       "published": "2026-04-17T10:06:18+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-03T09:59:57.448039+00:00"
+    "fetched_at": "2026-05-04T08:31:00.510454+00:00"
+  },
+  {
+    "id": "c9294556c2a8",
+    "source": "Africa CDC",
+    "title": "CONSULTANCY TO INITIAL IMPLEMENTATION OF OKAPI FEDERATED DATA MESH (BASED ON SPEEDYMESH ECOSYSTEM)",
+    "url": "https://africacdc.org/opportunity/consultancy-to-initial-implementation-of-okapi-federated-data-mesh-based-on-speedymesh-ecosystem/",
+    "country": "_AU",
+    "deadline": "2026-05-28",
+    "deadline_days": 24,
+    "value_usd": null,
+    "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites qualified firms to submit proposals for the initial implementation of the Open Knowledge and Analytics Portal for Public Health Insights (OKAPI) as a federated data mesh platform. The assignment includes establishment of a continental node, onboarding of one Member State, integration with AU Digital One Health Platform (AU-DOHP), and implementation of three priority use cases across multiple public health domains. Duration: 8 months Location: Africa CDC, Addis Ababa, Ethiopia Submission Deadline: 28 May 2026 Submission Email: procurement@africacdc.org Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested bidders must demonstrate experience in federated data architectures, Data Mesh, HL7 FHIR interoperability, and large-scale public-sector data platforms, preferably within African Union or multi-country environments. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. The goal is to establish OKAPI as a sovereign, standards-based federated data mesh for continental and regional health collaboration, built on the SpeedyMesh ecosystem. The contractor will deliver the initial phase of OKAPI, a continental federated data mesh based on the SpeedyMesh ecosystem. The work follows a milestone-based approach covering design, deployment, use-case implementation, a",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 3,
+      "mel": 0
+    },
+    "fit_total": 3,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {},
+    "fetched_at": "2026-05-04T08:31:00.494008+00:00"
+  },
+  {
+    "id": "20afca7622c8",
+    "source": "Africa CDC",
+    "title": "Supply, Delivery, Installation and Training of Laboratory Equipment and Supply and Delivery of Reagent and Consumables for Africa CDC Reference Laboratory",
+    "url": "https://africacdc.org/opportunity/supply-delivery-installation-and-training-of-laboratory-equipment-and-supply-and-delivery-of-reagent-and-consumables-for-africa-cdc-reference-laboratory/",
+    "country": "_AU",
+    "deadline": "2026-05-29",
+    "deadline_days": 25,
+    "value_usd": null,
+    "description": "3.         Bidding will be conducted through international competitive procurement using a Request for Bids (RFB) as specified in the African Union Procurement Manual Issued March 2024 and is open to all eligible Bidders as defined in the Procurement Manual. 4.         Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5.         The bidding document in English may be requested by interested eligible Bidders upon the submission of a written application to the address below. The solicitation document will be sent by email upon request. 6.         Bids must be delivered to the address below on or before 29 May 2026 , 3: 00P.M Addis Ababa time. Electronic Bidding will not be permitted. Late Bids will be rejected. Bids will be publicly opened in the presence of the Bidders’ designated representatives and anyone who chooses to attend at the address below on 29 May 2026, 3:00P.M Addis Ababa time. 7.         All Bids must be accompanied by a “Bid-Security” 8.         Attention is drawn to the Procurement Regulations requiring the Borrower to disclose information on the successful bidder’s beneficial ownership, as part of the Contract Award Notice, using the Beneficial Ownership Disclosure Form as included in the bidding document. 9.         The address(es) referred to above is (are): Africa Centres for Diseases Control and Prevention, ",
+    "fit_per_area": {
+      "cold_chain": 3,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 3,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {},
+    "fetched_at": "2026-05-04T08:31:00.493438+00:00"
   },
   {
     "id": "99050d8d3f05",
@@ -187,7 +255,7 @@
       "published": "2026-03-13T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-03T09:59:57.449414+00:00"
+    "fetched_at": "2026-05-04T08:31:00.512611+00:00"
   },
   {
     "id": "ad3a96fa4717",
@@ -196,7 +264,7 @@
     "url": "https://www.ungm.org/Public/Notice/294253",
     "country": "PA",
     "deadline": "2026-05-06",
-    "deadline_days": 3,
+    "deadline_days": 2,
     "value_usd": null,
     "description": "Agency: UNOPS. Type: Request for proposal. Reference: RFP/2026/61992. Matched query: EPI.",
     "fit_per_area": {
@@ -228,84 +296,7 @@
       "ungm_query": "EPI",
       "published": "2026-03-18"
     },
-    "fetched_at": "2026-05-03T09:59:57.445562+00:00"
-  },
-  {
-    "id": "638bae4689c6",
-    "source": "TED",
-    "title": "Finland – Company health services – Finavia Oyj: Työterveyshuoltopalveluiden hankinta",
-    "url": "https://ted.europa.eu/en/notice/150866-2026",
-    "country": "AN",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Finavia Oyj. Finavia on lentoasemayhtiö, joka johtaa ja kehittää 20:a lentoasemaa eri puolilla Suomea. Palvelemme lentoyhtiöitä ja heidän asiakkaitaan. Tärkein tehtävämme on varmistaa, että matkustaminen Suomesta maailmalle ja maailmalta Suomeen on sujuvaa. Kehittämällä lentoasemia ja sujuvia yhteyksiä mahdollistamme ihmisten liikkuvuuden, luomme työpaikkoja ja olemme osa Suomen kansainvälistä kilpailukykyä. Helsinki-Vantaan lentoasema on Euroopan paras lentoasema omassa kokoluokassaan. Finavian lentoasemien asiakaskokemus, operatiivinen osaaminen, vastuullisuus ja lentoyhteyksien edistäminen ovat maailman huippua. Kaikki Finavian lentoasemat ovat hiilineutraaleja ja tulevaisuuden tavoitteemme on nollapäästöisyys. Tämän kaiken mahdollistavat finavialaiset eri alojen asiantuntijat. Me Finavialla teemme työtä, jota ilman maailma olisi kaukana. Hankinta koskee lakisääteisiä työterveyshuollon ja työkyvyn johtamisen palveluita, muita ennaltaehkäiseviä työterveyshuollon ja työkyvyn johtamisen palveluita, työterveyshuoltopainotteisen sairaudenhoidon palveluita, hoidon tarpeen arvioinnin palvelua ja sähköisen työkyvyn johtamisen järjestelmää. Palvelun laajuudesta ja lisäpalvelujen käyttöönotosta sovitaan tarkemmin hankintasopimuksessa ja työterveyshuollon toimintasuunnitelmassa. Asiakas pidättää oikeuden rajata ostettavaa palvelua. Hankintayksikkö ei sitoudu tiettyihin hankintamääriin, eikä hankintasopimus tuota palveluntuottajalle yksinoikeutta hankinnan toteuttamiseen. Sopimuksen m",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "150866-2026"
-    },
-    "fetched_at": "2026-05-03T09:59:57.436845+00:00"
-  },
-  {
-    "id": "4fa1b1ff8481",
-    "source": "FAO",
-    "title": "Procurement of Beekeeping Training Materials to be delivered to Duzce, Turkiye",
-    "url": "https://www.ungm.org/Public/Notice/297992",
-    "country": "TÜ",
-    "deadline": "2026-05-03",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "Agency: FAO. Type: Request for quotation. Reference: 2026/FETUR/FETUR/136472. Matched query: EPI.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ungm_id": "297992",
-      "ungm_agency": "FAO",
-      "ungm_notice_type": "Request for quotation",
-      "ungm_reference": "2026/FETUR/FETUR/136472",
-      "ungm_query": "EPI",
-      "published": "2026-04-16"
-    },
-    "fetched_at": "2026-05-03T09:59:57.445164+00:00"
+    "fetched_at": "2026-05-04T08:31:00.507752+00:00"
   },
   {
     "id": "d6c936e4406f",
@@ -314,7 +305,7 @@
     "url": "https://www.ungm.org/Public/Notice/298040",
     "country": "CY",
     "deadline": "2026-05-13",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24341. Matched query: EPI.",
     "fit_per_area": {
@@ -346,7 +337,7 @@
       "ungm_query": "EPI",
       "published": "2026-04-16"
     },
-    "fetched_at": "2026-05-03T09:59:57.445214+00:00"
+    "fetched_at": "2026-05-04T08:31:00.507327+00:00"
   },
   {
     "id": "221b84f69d69",
@@ -355,7 +346,7 @@
     "url": "https://www.gavi.org/news/document-library/rfq-irc-chair",
     "country": null,
     "deadline": "2026-05-15",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "Gavi relies upon its Independent Review Committee (IRC), an independent and impartial group of experts, to guarantee the integrity and consistency of an open and transparent funding process. Through this RFQ, Gavi seeks to appoint the next IRC Chair. The Chair will lead IRC deliberations and decision-making, facilitate constructive challenge to reach consensus, ensure the quality and consistency of IRC outputs (including sign-off of the final IRC country reports), and represent the Committee across Gavi governance fora.",
     "fit_per_area": {
@@ -380,7 +371,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-05-03T09:59:57.431921+00:00"
+    "fetched_at": "2026-05-04T08:31:00.491883+00:00"
   },
   {
     "id": "80eeee34eae7",
@@ -389,7 +380,7 @@
     "url": "https://www.ungm.org/Public/Notice/299341",
     "country": "PA",
     "deadline": "2026-05-18",
-    "deadline_days": 15,
+    "deadline_days": 14,
     "value_usd": null,
     "description": "Agency: FAO. Type: Invitation to bid. Reference: 2026/FAPAK/FAPAK/136429. Matched query: vaccine.",
     "fit_per_area": {
@@ -421,7 +412,7 @@
       "ungm_query": "vaccine",
       "published": "2026-04-29"
     },
-    "fetched_at": "2026-05-03T09:59:57.442458+00:00"
+    "fetched_at": "2026-05-04T08:31:00.503949+00:00"
   },
   {
     "id": "595e6c1469e4",
@@ -430,7 +421,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00442236",
     "country": "DJ",
     "deadline": "2026-05-20",
-    "deadline_days": 17,
+    "deadline_days": 16,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Project Preparation in relation to Horn of Africa - Groundwater for Resilience Project, Phase II. Country: Djibouti. Reference: DJ-DHR-548999-CS-QCBS.",
     "fit_per_area": {
@@ -459,18 +450,18 @@
       "wb_project_id": "P182118",
       "wb_reference": "DJ-DHR-548999-CS-QCBS"
     },
-    "fetched_at": "2026-05-03T09:59:57.441706+00:00"
+    "fetched_at": "2026-05-04T08:31:00.503507+00:00"
   },
   {
-    "id": "f55a748ef850",
+    "id": "6d504bbb55d5",
     "source": "TED",
-    "title": "Germany – Company health services – Ausschreibung eines Betriebsarztes",
-    "url": "https://ted.europa.eu/en/notice/152183-2026",
-    "country": "DE",
+    "title": "Sweden – Health services – Specialiserad vuxenpsykiatrisk öppenvård (VUP)",
+    "url": "https://ted.europa.eu/en/notice/156469-2026",
+    "country": "SE",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "TenneT TSO GmbH. Die TenneT TSO GmbH (TTG) ist als Übertragungsnetzbetreiber für die sichere und zuverlässige Stromübertragung in weiten Teilen Deutschlands verantwortlich. Dabei steht die Gesundheit unserer Mitarbeitenden an oberster Stelle.  Ziel dieser Ausschreibung ist die Zuschlagserteilung an einen Betriebsarzt mit hauptsächlichem Betätigungsfeld an unserem Standort in Bayreuth sowie teilweise an unserem Standort in Dachau. Der Fokus liegt auf einer arbeitsmedizinischen Betreuung unserer Mitarbeitenden durch einen entsprechend qualifizierten Facharzt (inkl. reisemedizinischer Qualifikation). Die TTG macht seine Absicht über die Vergabe der gegenständlichen Leistungen EU-weit bekannt. Auf Grundlage dieser Vergabebekanntmachtung werden alle interessierten Wirtschaftsteilnehmer gem. § 14 SektVO zur Abgabe eines Angebotes aufgefordert. Weitere Details zum gesamten Vergabeverfahren können die Interessenten dem angehängten Verfahrensleitfaden entnehmen",
+    "description": "Region Östergötland. Huvuddelen av den vuxenpsykiatriska specialiserade öppenvården drivs i regionens egen regi. Sedan 2011 har delar av den öppna specialistvården inom vuxenpsykiatri bedrivits av privata leverantörer; inledningsvis med upphandlade avtal, från 2016 med avtal inom vårdval och sedan 2021 upphandlade avtal",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -493,9 +484,9 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "152183-2026"
+      "ted_publication_number": "156469-2026"
     },
-    "fetched_at": "2026-05-03T09:59:57.440123+00:00"
+    "fetched_at": "2026-05-04T08:31:00.501113+00:00"
   },
   {
     "id": "4db365511153",
@@ -533,7 +524,45 @@
       "published": "2026-04-20T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-03T09:59:57.446244+00:00"
+    "fetched_at": "2026-05-04T08:31:00.508599+00:00"
+  },
+  {
+    "id": "5fa5a32d5033",
+    "source": "Signal:Biovac",
+    "title": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXdxQ3l4SWRtNmEtbFFrMVhEU3VEX3IwZG5HRzYzUjhVVEdhMmc4UVl2SUFMc0pIcm4xOTRObjJxS3VUd3dOdkQyeG5IeFVxU0FINWZhOGZBM3FyNnZ5cnpRR19LYTVJb1k4SG9CU25YMnB5OWZnZzNqNjhNbWVCQ3NxZmZBaHdLdFJxV1JsTzFrOGE0SDF1bGJwdnd2OVNIaUVFV1BZUWU1OWt2UG9ZZkRjdw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant &nbsp;&nbsp; Bloomberg.com",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-04-16T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-05-04T08:31:00.508951+00:00"
   },
   {
     "id": "0f22ab393316",
@@ -571,45 +600,7 @@
       "published": "2026-04-27T01:51:22+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-03T09:59:57.446504+00:00"
-  },
-  {
-    "id": "61c87d68b656",
-    "source": "Signal:Biovac",
-    "title": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant - Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXdxQ3l4SWRtNmEtbFFrMVhEU3VEX3IwZG5HRzYzUjhVVEdhMmc4UVl2SUFMc0pIcm4xOTRObjJxS3VUd3dOdkQyeG5IeFVxU0FINWZhOGZBM3FyNnZ5cnpRR19LYTVJb1k4SG9CU25YMnB5OWZnZzNqNjhNbWVCQ3NxZmZBaHdLdFJxV1JsTzFrOGE0SDF1bGJwdnd2OVNIaUVFV1BZUWU1OWt2UG9ZZkRjdw?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant &nbsp;&nbsp; Bloomberg",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-16T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-05-03T09:59:57.446776+00:00"
+    "fetched_at": "2026-05-04T08:31:00.509291+00:00"
   },
   {
     "id": "11c9cc1be526",
@@ -647,7 +638,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-03T09:59:57.447168+00:00"
+    "fetched_at": "2026-05-04T08:31:00.509777+00:00"
   },
   {
     "id": "a571e9d35662",
@@ -685,7 +676,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-03T09:59:57.447272+00:00"
+    "fetched_at": "2026-05-04T08:31:00.509906+00:00"
   },
   {
     "id": "14674afd1bc0",
@@ -723,7 +714,7 @@
       "published": "2026-04-17T10:12:15+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-03T09:59:57.447383+00:00"
+    "fetched_at": "2026-05-04T08:31:00.510044+00:00"
   },
   {
     "id": "22c380ff4ae8",
@@ -761,7 +752,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-03T09:59:57.448390+00:00"
+    "fetched_at": "2026-05-04T08:31:00.511323+00:00"
   },
   {
     "id": "9edcae8be231",
@@ -799,7 +790,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-03T09:59:57.449108+00:00"
+    "fetched_at": "2026-05-04T08:31:00.512233+00:00"
   },
   {
     "id": "93cfbed91b1f",
@@ -837,7 +828,7 @@
       "published": "2026-02-11T08:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-03T09:59:57.450536+00:00"
+    "fetched_at": "2026-05-04T08:31:00.514011+00:00"
   },
   {
     "id": "63fd7a182f4d",
@@ -875,6 +866,6 @@
       "published": "2025-12-06T08:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-05-03T09:59:57.452166+00:00"
+    "fetched_at": "2026-05-04T08:31:00.516059+00:00"
   }
 ]
