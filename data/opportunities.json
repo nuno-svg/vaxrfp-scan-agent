@@ -35,7 +35,7 @@
       "published": "2026-05-07T18:36:39+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-08T07:31:54.553670+00:00"
+    "fetched_at": "2026-05-09T07:56:32.809909+00:00"
   },
   {
     "id": "943b261bc1bd",
@@ -73,7 +73,7 @@
       "published": "2026-02-26T08:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-08T07:31:54.559585+00:00"
+    "fetched_at": "2026-05-09T07:56:32.814894+00:00"
   },
   {
     "id": "253dabd8c9cd",
@@ -111,7 +111,7 @@
       "published": "2026-05-07T18:36:39+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-05-08T07:31:54.559995+00:00"
+    "fetched_at": "2026-05-09T07:56:32.815310+00:00"
   },
   {
     "id": "c528ecb8b5b8",
@@ -146,10 +146,78 @@
     },
     "raw": {
       "manufacturer": "Biovac",
-      "published": "2026-04-17T10:06:18+00:00",
+      "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-08T07:31:54.555045+00:00"
+    "fetched_at": "2026-05-09T07:56:32.810325+00:00"
+  },
+  {
+    "id": "c9294556c2a8",
+    "source": "Africa CDC",
+    "title": "CONSULTANCY TO INITIAL IMPLEMENTATION OF OKAPI FEDERATED DATA MESH (BASED ON SPEEDYMESH ECOSYSTEM)",
+    "url": "https://africacdc.org/opportunity/consultancy-to-initial-implementation-of-okapi-federated-data-mesh-based-on-speedymesh-ecosystem/",
+    "country": "_AU",
+    "deadline": "2026-05-28",
+    "deadline_days": 19,
+    "value_usd": null,
+    "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites qualified firms to submit proposals for the initial implementation of the Open Knowledge and Analytics Portal for Public Health Insights (OKAPI) as a federated data mesh platform. The assignment includes establishment of a continental node, onboarding of one Member State, integration with AU Digital One Health Platform (AU-DOHP), and implementation of three priority use cases across multiple public health domains. Duration: 8 months Location: Africa CDC, Addis Ababa, Ethiopia Submission Deadline: 28 May 2026 Submission Email: procurement@africacdc.org Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested bidders must demonstrate experience in federated data architectures, Data Mesh, HL7 FHIR interoperability, and large-scale public-sector data platforms, preferably within African Union or multi-country environments. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. The goal is to establish OKAPI as a sovereign, standards-based federated data mesh for continental and regional health collaboration, built on the SpeedyMesh ecosystem. The contractor will deliver the initial phase of OKAPI, a continental federated data mesh based on the SpeedyMesh ecosystem. The work follows a milestone-based approach covering design, deployment, use-case implementation, a",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 3,
+      "mel": 0
+    },
+    "fit_total": 3,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {},
+    "fetched_at": "2026-05-09T07:56:32.791171+00:00"
+  },
+  {
+    "id": "20afca7622c8",
+    "source": "Africa CDC",
+    "title": "Supply, Delivery, Installation and Training of Laboratory Equipment and Supply and Delivery of Reagent and Consumables for Africa CDC Reference Laboratory",
+    "url": "https://africacdc.org/opportunity/supply-delivery-installation-and-training-of-laboratory-equipment-and-supply-and-delivery-of-reagent-and-consumables-for-africa-cdc-reference-laboratory/",
+    "country": "_AU",
+    "deadline": "2026-05-29",
+    "deadline_days": 20,
+    "value_usd": null,
+    "description": "3.         Bidding will be conducted through international competitive procurement using a Request for Bids (RFB) as specified in the African Union Procurement Manual Issued March 2024 and is open to all eligible Bidders as defined in the Procurement Manual. 4.         Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5.         The bidding document in English may be requested by interested eligible Bidders upon the submission of a written application to the address below. The solicitation document will be sent by email upon request. 6.         Bids must be delivered to the address below on or before 29 May 2026 , 3: 00P.M Addis Ababa time. Electronic Bidding will not be permitted. Late Bids will be rejected. Bids will be publicly opened in the presence of the Bidders’ designated representatives and anyone who chooses to attend at the address below on 29 May 2026, 3:00P.M Addis Ababa time. 7.         All Bids must be accompanied by a “Bid-Security” 8.         Attention is drawn to the Procurement Regulations requiring the Borrower to disclose information on the successful bidder’s beneficial ownership, as part of the Contract Award Notice, using the Beneficial Ownership Disclosure Form as included in the bidding document. 9.         The address(es) referred to above is (are): Africa Centres for Diseases Control and Prevention, ",
+    "fit_per_area": {
+      "cold_chain": 3,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 3,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {},
+    "fetched_at": "2026-05-09T07:56:32.790589+00:00"
   },
   {
     "id": "99050d8d3f05",
@@ -187,18 +255,18 @@
       "published": "2026-03-13T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-08T07:31:54.556857+00:00"
+    "fetched_at": "2026-05-09T07:56:32.812151+00:00"
   },
   {
-    "id": "2d74abc64efe",
-    "source": "World Bank",
-    "title": "Recruitment of an International Multidisciplinary Consulting Team for the Standardization of Standard Operating Procedures (SOPs) and Definition of Laboratory Roles and Responsibilities for the Diagnosis of Epidemic-Prone Diseases  in Cabo Verde",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00443279",
-    "country": "WE",
-    "deadline": "2026-05-22",
-    "deadline_days": 14,
+    "id": "b92a20f147b0",
+    "source": "TED",
+    "title": "Netherlands – Company health services – Arbodienstverlening",
+    "url": "https://ted.europa.eu/en/notice/165159-2026",
+    "country": "NL",
+    "deadline": "2026-05-18",
+    "deadline_days": 9,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Health Security Program in Western and Central Africa. Country: Western and Central Africa. Reference: 039/HSP/UGPE_1.",
+    "description": "Stichting Flores onderwijs en Delta, stichting voor Katholiek en Protestants-Christelijk primair onderwijs. Dit perceel heeft als Opdrachtgever de Stichting Flores Onderwijs, ingeschreven in de Kamer van Koophandel onder nummer 09165987 Zie aanbestedingsleidraad voor de exacte inhoud. De scope van de opdracht betreft een zogenoemde maatwerkregeling. De Opdracht betreft de volledige basisdienstverlening in het kader van arbodienstverlening voor Flores Onderwijs en Delta Scholengroep en omvat exclusief op afroep: wettelijke Poortwachter-taken; inzet van bedrijfsarts en praktijkondersteuner bedrijfsarts; digitale ondersteuning via een passend verzuimsysteem",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -221,11 +289,9 @@
       "eligibility": ""
     },
     "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P179078",
-      "wb_reference": "039/HSP/UGPE_1"
+      "ted_publication_number": "165159-2026"
     },
-    "fetched_at": "2026-05-08T07:31:54.547728+00:00"
+    "fetched_at": "2026-05-09T07:56:32.794168+00:00"
   },
   {
     "id": "d6c936e4406f",
@@ -234,7 +300,7 @@
     "url": "https://www.ungm.org/Public/Notice/298040",
     "country": "CY",
     "deadline": "2026-05-13",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24341. Matched query: EPI.",
     "fit_per_area": {
@@ -266,7 +332,7 @@
       "ungm_query": "EPI",
       "published": "2026-04-16"
     },
-    "fetched_at": "2026-05-08T07:31:54.551775+00:00"
+    "fetched_at": "2026-05-09T07:56:32.806997+00:00"
   },
   {
     "id": "221b84f69d69",
@@ -275,7 +341,7 @@
     "url": "https://www.gavi.org/news/document-library/rfq-irc-chair",
     "country": null,
     "deadline": "2026-05-15",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Gavi relies upon its Independent Review Committee (IRC), an independent and impartial group of experts, to guarantee the integrity and consistency of an open and transparent funding process. Through this RFQ, Gavi seeks to appoint the next IRC Chair. The Chair will lead IRC deliberations and decision-making, facilitate constructive challenge to reach consensus, ensure the quality and consistency of IRC outputs (including sign-off of the final IRC country reports), and represent the Committee across Gavi governance fora.",
     "fit_per_area": {
@@ -300,79 +366,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-05-08T07:31:54.535661+00:00"
-  },
-  {
-    "id": "ce787e04e0bd",
-    "source": "TED",
-    "title": "Ireland – Architectural, construction, engineering and inspection services – Framework Agreement for the Provision of Inspector Services [544A]",
-    "url": "https://ted.europa.eu/en/notice/162147-2026",
-    "country": "IE",
-    "deadline": "2026-05-15",
-    "deadline_days": 7,
-    "value_usd": null,
-    "description": "Commission for Regulation of Utilities. Section 47 of the 1999 Act, which refers to section 45 of the Electricity Supply Act 1927, gives the Contracting Authority legal powers to decide to grant or refuse to grant a special order on the application of ESB, or of a holder of an authorisation to construct or reconstruct a generating station for the purpose of supply to final customers, or to construct an interconnector, or of a person who has applied for such an authorisation, in certain circumstances. Section 45 of the Electricity Supply Act sets out the legal basis for the compulsory acquisition of any land, easement, or other right over land, or to acquire or use compulsorily any right over land by special order. Section 45 also establishes a procedure for exercising that compulsory acquisition power. In considering whether or not to grant a special order the Contracting Authority may hold a public inquiry. This legislation can be found on www.irishstatutebook.ie and the revised acts, administrative consolidations of the legislation, can be found on www.lawreform.ie. The Contracting Authority expects that one or more applications for a special order may be received and is seeking (by this Competition) to appoint a framework of Inspectors. The Contracting Authority is seeking an Inspector to review, chair a public inquiry (if required), prepare a written reasoned report, assess the relevant information and make a recommendation to the Commissioners on an application for a spe",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "162147-2026"
-    },
-    "fetched_at": "2026-05-08T07:31:54.542399+00:00"
-  },
-  {
-    "id": "6b3f778d959b",
-    "source": "TED",
-    "title": "Ireland – Contract administration services – The Provision of Secretariat Services [544B]",
-    "url": "https://ted.europa.eu/en/notice/163454-2026",
-    "country": "IE",
-    "deadline": "2026-05-15",
-    "deadline_days": 7,
-    "value_usd": null,
-    "description": "Commission for Regulation of Utilities. Section 47 of the 1999 Act, which refers to section 45 of the Electricity Supply Act 1927, gives the Contracting Authority legal powers to decide to grant or refuse to grant a special order on the application of ESB, or of a holder of an authorisation to construct or reconstruct a generating station for the purpose of supply to final customers, or to construct an interconnector, or of a person who has applied for such an authorisation, in certain circumstances. Section 45 of the Electricity Supply Act sets out the legal basis for the compulsory acquisition of any land, easement, or other right over land, or to acquire or use compulsorily any right over land by special order. Section 45 also establishes a procedure for exercising that compulsory acquisition power. In considering whether or not to grant a special order the Contracting Authority may hold a public inquiry. This legislation can be found on www.irishstatutebook.ie and the revised acts, administrative consolidations of the legislation, can be found on www.lawreform.ie. The Contracting Authority’s objective in publishing this RFT is to procure an external managed service to provide all necessary administrative and processing tasks to enable the review of any application received for a special order(s). This would include all Programme Management functions and providing all supports required by the Inspector, who will deliver a reasoned report to the Commission for consideration",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "163454-2026"
-    },
-    "fetched_at": "2026-05-08T07:31:54.545839+00:00"
+    "fetched_at": "2026-05-09T07:56:32.789055+00:00"
   },
   {
     "id": "80eeee34eae7",
@@ -381,7 +375,7 @@
     "url": "https://www.ungm.org/Public/Notice/299341",
     "country": "PA",
     "deadline": "2026-05-18",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Agency: FAO. Type: Invitation to bid. Reference: 2026/FAPAK/FAPAK/136429. Matched query: vaccine.",
     "fit_per_area": {
@@ -413,7 +407,84 @@
       "ungm_query": "vaccine",
       "published": "2026-04-29"
     },
-    "fetched_at": "2026-05-08T07:31:54.548303+00:00"
+    "fetched_at": "2026-05-09T07:56:32.803423+00:00"
+  },
+  {
+    "id": "84e61693b5a6",
+    "source": "WHO",
+    "title": "National roll-out of the training 'Strengthening communication skills on MMR vaccination among primary healthcare providers'",
+    "url": "https://www.ungm.org/Public/Notice/300361",
+    "country": "RO",
+    "deadline": "2026-05-20",
+    "deadline_days": 11,
+    "value_usd": null,
+    "description": "Agency: WHO. Type: Request for proposal. Reference: EURO/DAF/FCP/P/0009108. Matched query: vaccination.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ungm_id": "300361",
+      "ungm_agency": "WHO",
+      "ungm_notice_type": "Request for proposal",
+      "ungm_reference": "EURO/DAF/FCP/P/0009108",
+      "ungm_query": "vaccination",
+      "published": "2026-05-08"
+    },
+    "fetched_at": "2026-05-09T07:56:32.803962+00:00"
+  },
+  {
+    "id": "eb81a2e73dee",
+    "source": "TED",
+    "title": "Netherlands – Health services – DAS - (para-) medische dienstverlening",
+    "url": "https://ted.europa.eu/en/notice/163861-2026",
+    "country": "NL",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM). RIVM heeft een structurele en terugkerende behoefte aan (para-) medische dienstverlening voor o.a. haar mensgebonden/klinische studies. Het verlenen van opdrachten voor deze diensten via een Dynamisch Aankoop Systeem is een efficiënte manier om in deze behoefte te voorzien voor zowel het RIVM als voor ondernemers. Daarom is het IUC-RIVM voornemens om middels deze aanbesteding een Dynamisch Aankoop Systeem (DAS) in te stellen voor de verlening van diverse (para-)medische diensten.  De voor deze aanbesteding specifieke documenten kunt u terugvinden via de vragenlijsten. Het toelatingsdocument geeft een overall beeld",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "163861-2026"
+    },
+    "fetched_at": "2026-05-09T07:56:32.791673+00:00"
   },
   {
     "id": "4db365511153",
@@ -451,7 +522,7 @@
       "published": "2026-04-20T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-08T07:31:54.552915+00:00"
+    "fetched_at": "2026-05-09T07:56:32.808182+00:00"
   },
   {
     "id": "5fa5a32d5033",
@@ -489,83 +560,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-08T07:31:54.553273+00:00"
-  },
-  {
-    "id": "8bb764219eae",
-    "source": "Signal:Biovac",
-    "title": "Biovac wins EU, IFC money to build biggest Africa vaccine plant - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNk9uckE1MERGS2EtTi1QajU5Y1ZPWnJfX2ppYjdGS1VRa3l0eWtMV1ZpVFE1SVM1RnJMT1VVak9odzhjXzNnMF9tTVBxX1BxeERZRFhNUjA5OW1tZ0hSajN3U2wtcm5XQUpkWTAwcnZpNG5waDdNSlJfZ3loaUlJMGY5OEdyMXBUVWZpNFlGSXdPYXVZT0xfbWlMMUpOVkdYUEdIQnhieGpfYURQM2lGMzBKdUFuQ0RYc0Z1ak9za0FKS1NndnNyNkZ5aHhIS08xUk0ydw?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac wins EU, IFC money to build biggest Africa vaccine plant &nbsp;&nbsp; MSN",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-16T13:21:16+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-05-08T07:31:54.554013+00:00"
-  },
-  {
-    "id": "11c9cc1be526",
-    "source": "Signal:Biovac",
-    "title": "Recon: Roche eyes new trial for Elevidys in bid for EU approval; Biovac wins funding to build biggest vaccine site in Africa - RAPS.org",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRkhvaEZ5bXROQ0R4NnNYMmNHYVFxajRZVkxzVFFZNlNyZkU1UkltTE9BR2huaGlmOG96bGFQb01pOGtJOXBhSmhFMFp4cWVXdzgwcXBNb3dMRW9FWE41a1FrSWdleWtMeEpBc0VROUpGNVN1OVRlOXdELTdjcjkxNlZtb0VkMjNNdWZxRWJuU2lycnZodlpjQnEzOE5SXy1CWk5OamZvOFlVYnVWSVEtZG5qM2RXM2tZbXd4a1BZT1dxTUNPNWtWblpEbGpvc0tmUVl4X1ZHUEE4SXlldmd4RHh0bkFEMjlhSTFTU09B?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Recon: Roche eyes new trial for Elevidys in bid for EU approval; Biovac wins funding to build biggest vaccine site in Africa &nbsp;&nbsp; RAPS.org",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-16T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-05-08T07:31:54.554506+00:00"
+    "fetched_at": "2026-05-09T07:56:32.808540+00:00"
   },
   {
     "id": "a571e9d35662",
@@ -603,7 +598,83 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-08T07:31:54.554634+00:00"
+    "fetched_at": "2026-05-09T07:56:32.808675+00:00"
+  },
+  {
+    "id": "8bb764219eae",
+    "source": "Signal:Biovac",
+    "title": "Biovac wins EU, IFC money to build biggest Africa vaccine plant - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNk9uckE1MERGS2EtTi1QajU5Y1ZPWnJfX2ppYjdGS1VRa3l0eWtMV1ZpVFE1SVM1RnJMT1VVak9odzhjXzNnMF9tTVBxX1BxeERZRFhNUjA5OW1tZ0hSajN3U2wtcm5XQUpkWTAwcnZpNG5waDdNSlJfZ3loaUlJMGY5OEdyMXBUVWZpNFlGSXdPYXVZT0xfbWlMMUpOVkdYUEdIQnhieGpfYURQM2lGMzBKdUFuQ0RYc0Z1ak9za0FKS1NndnNyNkZ5aHhIS08xUk0ydw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac wins EU, IFC money to build biggest Africa vaccine plant &nbsp;&nbsp; MSN",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-04-16T13:21:16+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-05-09T07:56:32.809002+00:00"
+  },
+  {
+    "id": "11c9cc1be526",
+    "source": "Signal:Biovac",
+    "title": "Recon: Roche eyes new trial for Elevidys in bid for EU approval; Biovac wins funding to build biggest vaccine site in Africa - RAPS.org",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRkhvaEZ5bXROQ0R4NnNYMmNHYVFxajRZVkxzVFFZNlNyZkU1UkltTE9BR2huaGlmOG96bGFQb01pOGtJOXBhSmhFMFp4cWVXdzgwcXBNb3dMRW9FWE41a1FrSWdleWtMeEpBc0VROUpGNVN1OVRlOXdELTdjcjkxNlZtb0VkMjNNdWZxRWJuU2lycnZodlpjQnEzOE5SXy1CWk5OamZvOFlVYnVWSVEtZG5qM2RXM2tZbXd4a1BZT1dxTUNPNWtWblpEbGpvc0tmUVl4X1ZHUEE4SXlldmd4RHh0bkFEMjlhSTFTU09B?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Recon: Roche eyes new trial for Elevidys in bid for EU approval; Biovac wins funding to build biggest vaccine site in Africa &nbsp;&nbsp; RAPS.org",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-04-16T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-05-09T07:56:32.809508+00:00"
   },
   {
     "id": "22c380ff4ae8",
@@ -641,7 +712,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-08T07:31:54.555505+00:00"
+    "fetched_at": "2026-05-09T07:56:32.810791+00:00"
   },
   {
     "id": "58d105f4dac3",
@@ -679,7 +750,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-08T07:31:54.555839+00:00"
+    "fetched_at": "2026-05-09T07:56:32.811127+00:00"
   },
   {
     "id": "9edcae8be231",
@@ -717,7 +788,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-08T07:31:54.556465+00:00"
+    "fetched_at": "2026-05-09T07:56:32.811756+00:00"
   },
   {
     "id": "93cfbed91b1f",
@@ -755,7 +826,7 @@
       "published": "2026-02-11T08:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-08T07:31:54.558270+00:00"
+    "fetched_at": "2026-05-09T07:56:32.813563+00:00"
   },
   {
     "id": "63fd7a182f4d",
@@ -793,6 +864,6 @@
       "published": "2025-12-06T08:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-05-08T07:31:54.560317+00:00"
+    "fetched_at": "2026-05-09T07:56:32.815633+00:00"
   }
 ]
