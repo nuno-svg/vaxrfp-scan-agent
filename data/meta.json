@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-05-21T09:40:26.763518+00:00",
-  "duration_seconds": 95.719186,
+  "last_run": "2026-05-22T09:22:23.436528+00:00",
+  "duration_seconds": 95.11498,
   "source_stats": {
     "ReliefWeb": {
       "fetched": 0,
@@ -15,7 +15,7 @@
       "errors": 0
     },
     "Africa CDC": {
-      "fetched": 5,
+      "fetched": 7,
       "errors": 0
     },
     "TED Europa": {
@@ -31,7 +31,7 @@
       "errors": 0
     },
     "World Bank": {
-      "fetched": 72,
+      "fetched": 54,
       "errors": 0
     },
     "UNGM": {
@@ -47,11 +47,11 @@
       "errors": 0
     }
   },
-  "total_kept": 38,
-  "total_excluded": 276,
+  "total_kept": 40,
+  "total_excluded": 258,
   "exclusion_breakdown": {
-    "gate": 199,
-    "goods": 19,
+    "gate": 185,
+    "goods": 15,
     "expired": 54,
     "sanctioned": 2,
     "bmgf_strict": 2
