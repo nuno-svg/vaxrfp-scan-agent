@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-05-23T08:19:07.008533+00:00",
-  "duration_seconds": 81.285476,
+  "last_run": "2026-05-24T08:29:16.977504+00:00",
+  "duration_seconds": 82.090383,
   "source_stats": {
     "ReliefWeb": {
       "fetched": 0,
@@ -19,7 +19,7 @@
       "errors": 0
     },
     "TED Europa": {
-      "fetched": 0,
+      "fetched": 100,
       "errors": 0
     },
     "CEPI": {
@@ -31,7 +31,7 @@
       "errors": 0
     },
     "World Bank": {
-      "fetched": 63,
+      "fetched": 67,
       "errors": 0
     },
     "UNGM": {
@@ -47,14 +47,14 @@
       "errors": 0
     }
   },
-  "total_kept": 41,
-  "total_excluded": 169,
+  "total_kept": 43,
+  "total_excluded": 271,
   "exclusion_breakdown": {
-    "gate": 98,
-    "goods": 17,
-    "bmgf_strict": 2,
-    "expired": 51,
-    "sanctioned": 1
+    "gate": 193,
+    "goods": 15,
+    "sanctioned": 5,
+    "expired": 56,
+    "bmgf_strict": 2
   },
   "min_value_usd": 50000,
   "urgent_days_threshold": 7

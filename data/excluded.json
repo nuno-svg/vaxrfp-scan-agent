@@ -7,7 +7,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.980635+00:00"
+    "excluded_at": "2026-05-24T08:29:16.941113+00:00"
   },
   {
     "id": "88bf7acfcbee",
@@ -17,7 +17,7 @@
     "country": "_AU",
     "exclusion_reason": "goods_tender (matched: 'supply and delivery')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.982718+00:00"
+    "excluded_at": "2026-05-24T08:29:16.943203+00:00"
   },
   {
     "id": "97e2688955c4",
@@ -27,7 +27,1007 @@
     "country": "_AU",
     "exclusion_reason": "goods_tender (matched: 'supply and delivery')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.983142+00:00"
+    "excluded_at": "2026-05-24T08:29:16.943659+00:00"
+  },
+  {
+    "id": "97715738b5f1",
+    "source": "TED",
+    "title": "Poland – Cardiovascular devices – Dostawa wyrobów medycznych do systemu mapowania elektroanatomicznego 3D z dzierżawą",
+    "url": "https://ted.europa.eu/en/notice/203479-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.945877+00:00"
+  },
+  {
+    "id": "ff6308d8272e",
+    "source": "TED",
+    "title": "Netherlands – Endangered species protection services – Soortenmanagementplan (SMP)",
+    "url": "https://ted.europa.eu/en/notice/203579-2026",
+    "country": "NL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.945980+00:00"
+  },
+  {
+    "id": "d3a9f0302c30",
+    "source": "TED",
+    "title": "Czechia – Pharmaceutical products – Dodávky léčivých přípravků s účinnou látkou MIDOSTAURIN",
+    "url": "https://ted.europa.eu/en/notice/203709-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.946050+00:00"
+  },
+  {
+    "id": "d36eee97db2e",
+    "source": "TED",
+    "title": "Czechia – Medical equipments – Klinika Dětské Onkologie JIP 31: Dodávka zdrojových mostů",
+    "url": "https://ted.europa.eu/en/notice/203734-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.946152+00:00"
+  },
+  {
+    "id": "f0291e0fdebb",
+    "source": "TED",
+    "title": "Austria – Research services – Nationalpark Thayatal - Aufbau Makrozoobenthosmonitoring für das Gebiet des Nationalparks Thayatal im Rahmen des INTERREG Projekts „BioReMo – Biodiversity Research and Monitoring“ (ATCZ00178)",
+    "url": "https://ted.europa.eu/en/notice/203749-2026",
+    "country": "AT",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.946265+00:00"
+  },
+  {
+    "id": "5b8b9dcba75e",
+    "source": "TED",
+    "title": "Belgium – Medical equipments, pharmaceuticals and personal care products – Acquisition d'équipements de refroidissement et les consommables associés",
+    "url": "https://ted.europa.eu/en/notice/203766-2026",
+    "country": "BE",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.946342+00:00"
+  },
+  {
+    "id": "b95d19860cd3",
+    "source": "TED",
+    "title": "Croatia – Diagnostic agents – Ugradbeni i potrošni materijal za invazivnu i intervencijsku kardiologiju za zdravstvene ustanove u Republici Hrvatskoj III – ponovljeni postupak",
+    "url": "https://ted.europa.eu/en/notice/203796-2026",
+    "country": "HR",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.946396+00:00"
+  },
+  {
+    "id": "59e02c455f47",
+    "source": "TED",
+    "title": "Croatia – Medical equipments – Nabava opreme za potrebe Odjela urologije nakon obnove od potresa",
+    "url": "https://ted.europa.eu/en/notice/203824-2026",
+    "country": "HR",
+    "exclusion_reason": "Hard sanctions (text match): Iran",
+    "exclusion_type": "sanctioned",
+    "excluded_at": "2026-05-24T08:29:16.946412+00:00"
+  },
+  {
+    "id": "c5936f492dcc",
+    "source": "TED",
+    "title": "Sweden – Orthopaedic implants – Axel- och armbågsprotes",
+    "url": "https://ted.europa.eu/en/notice/203851-2026",
+    "country": "SE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.946496+00:00"
+  },
+  {
+    "id": "c236ef58bcb2",
+    "source": "TED",
+    "title": "Poland – Anaesthesia devices – Dostawa sprzętu medycznego w ramach projektu „Poprawa efektywności, dostępności i jakości w opiece onkologicznej poprzez rozbudowę i doposażenie Gdyńskiego Centrum Onkologii w Szpitalu Morskim im. PCK w Gdyni.”",
+    "url": "https://ted.europa.eu/en/notice/203921-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.946588+00:00"
+  },
+  {
+    "id": "d924a1b75d50",
+    "source": "TED",
+    "title": "Croatia – Surgical sutures – KIRURŠKI ŠIVAĆI MATERIJAL ZA ZDRAVSTVENE USTANOVE U REPUBLICI HRVATSKOJ",
+    "url": "https://ted.europa.eu/en/notice/203923-2026",
+    "country": "HR",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.946627+00:00"
+  },
+  {
+    "id": "12567761137b",
+    "source": "TED",
+    "title": "Czechia – Medical consumables – ROUŠKOVACÍ OPERAČNÍ SETY PRO ORTOPEDII",
+    "url": "https://ted.europa.eu/en/notice/203955-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.946671+00:00"
+  },
+  {
+    "id": "fca574171801",
+    "source": "TED",
+    "title": "Czechia – Medical breathing devices – Plicní ventilátory pro PNP",
+    "url": "https://ted.europa.eu/en/notice/204069-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.946756+00:00"
+  },
+  {
+    "id": "467b1fa91892",
+    "source": "TED",
+    "title": "Croatia – Medical consumables – Medicinski potrošni materijal - razni",
+    "url": "https://ted.europa.eu/en/notice/204109-2026",
+    "country": "HR",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.946796+00:00"
+  },
+  {
+    "id": "5f358a55b77e",
+    "source": "TED",
+    "title": "Poland – Medical equipments – Dostawy wyrobów medycznych niejałowych",
+    "url": "https://ted.europa.eu/en/notice/204114-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.946847+00:00"
+  },
+  {
+    "id": "35aab1e80e29",
+    "source": "TED",
+    "title": "Belgium – Biomedical equipment – La fourniture et la mise en service d’électrocardiographes de repos et d’effort",
+    "url": "https://ted.europa.eu/en/notice/204164-2026",
+    "country": "BE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.946892+00:00"
+  },
+  {
+    "id": "3ae2c8e04fa0",
+    "source": "TED",
+    "title": "Poland – X-ray devices – Zakup aparatury medycznej – RTG typu ramię C",
+    "url": "https://ted.europa.eu/en/notice/204216-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.946984+00:00"
+  },
+  {
+    "id": "c8b3143f53e8",
+    "source": "TED",
+    "title": "Czechia – Pacemaker – Dodávky implantabilních kardiostimulátorů včetně příslušenství pro KNL, a.s.",
+    "url": "https://ted.europa.eu/en/notice/204224-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.947045+00:00"
+  },
+  {
+    "id": "89d8caafe9b6",
+    "source": "TED",
+    "title": "Czechia – Disposable non-chemical medical consumables and haematological consumables – Stenty pro gastroenterologii II",
+    "url": "https://ted.europa.eu/en/notice/204244-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.947099+00:00"
+  },
+  {
+    "id": "6627250c0150",
+    "source": "TED",
+    "title": "Croatia – Medical consumables – Potrošni medicinski materijal",
+    "url": "https://ted.europa.eu/en/notice/204262-2026",
+    "country": "HR",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.947139+00:00"
+  },
+  {
+    "id": "adb5e85026ea",
+    "source": "TED",
+    "title": "Poland – X-ray devices – Dostawa sprzętu medycznego w ramach projektu „Poprawa efektywności, dostępności i jakości w opiece onkologicznej poprzez rozbudowę i doposażenie Gdyńskiego Centrum Onkologii w Szpitalu Morskim im. PCK w Gdyni.”",
+    "url": "https://ted.europa.eu/en/notice/204286-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.947217+00:00"
+  },
+  {
+    "id": "1cb22a911139",
+    "source": "TED",
+    "title": "Austria – Personal care products – Hygieneartikel und Marktplatzprodukte",
+    "url": "https://ted.europa.eu/en/notice/204305-2026",
+    "country": "AT",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.947286+00:00"
+  },
+  {
+    "id": "7edd3e220c98",
+    "source": "TED",
+    "title": "Sweden – Renal dialysis consumables – Serviceavtal hemdialys",
+    "url": "https://ted.europa.eu/en/notice/204375-2026",
+    "country": "SE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.947353+00:00"
+  },
+  {
+    "id": "232f2b3352f2",
+    "source": "TED",
+    "title": "Croatia – Laboratory, optical and precision equipments (excl. glasses) – UREĐAJI, INSTRUMENTI I OPREMA ZA GEOLOŠKA ISTRAŽIVANJA",
+    "url": "https://ted.europa.eu/en/notice/204385-2026",
+    "country": "HR",
+    "exclusion_reason": "Hard sanctions (text match): Iran",
+    "exclusion_type": "sanctioned",
+    "excluded_at": "2026-05-24T08:29:16.947379+00:00"
+  },
+  {
+    "id": "f1380ac3b476",
+    "source": "TED",
+    "title": "Czechia – Laboratory, optical and precision equipments (excl. glasses) – Vybavení Vědeckého a diagnostického onkologického centra FNMH – Laboratorní vybavení II",
+    "url": "https://ted.europa.eu/en/notice/204432-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.947485+00:00"
+  },
+  {
+    "id": "0012f52d4cb8",
+    "source": "TED",
+    "title": "Belgium – Toilet paper, handkerchiefs, hand towels and serviettes – Raamovereenkomst voor periodieke leveringen met betrekking tot sanitaire voorzieningen",
+    "url": "https://ted.europa.eu/en/notice/204461-2026",
+    "country": "BE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.947535+00:00"
+  },
+  {
+    "id": "3e10de4e9931",
+    "source": "TED",
+    "title": "Estonia – Disposable non-chemical medical consumables and haematological consumables – Fraktsionaalse voolureservi juhtetraat",
+    "url": "https://ted.europa.eu/en/notice/204480-2026",
+    "country": "EE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.947606+00:00"
+  },
+  {
+    "id": "6a3868f1c2a2",
+    "source": "TED",
+    "title": "Italy – Medical equipments – Allestimento e completamento delle nuove sale operatorie presso il nuovo Ospedale di Campiglione di Fermo",
+    "url": "https://ted.europa.eu/en/notice/204491-2026",
+    "country": "IT",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.947659+00:00"
+  },
+  {
+    "id": "771e99e45947",
+    "source": "TED",
+    "title": "Austria – Research services – Nationalpark Thayatal - Aufbau Molluskenmonitoring für das Gebiet des Nationalparks Thayatal im Rahmen des INTERREG Projekts „BioReMo – Biodiversity Research and Monitoring“ (ATCZ00178)",
+    "url": "https://ted.europa.eu/en/notice/204513-2026",
+    "country": "AT",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.947768+00:00"
+  },
+  {
+    "id": "e469772dd8ca",
+    "source": "TED",
+    "title": "Germany – Medical equipments – 3D C-Bogen für Bronchoskopiesystem",
+    "url": "https://ted.europa.eu/en/notice/204523-2026",
+    "country": "DE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.947803+00:00"
+  },
+  {
+    "id": "21b116720ea4",
+    "source": "TED",
+    "title": "Poland – Medical furniture – Dostawa wraz z rozładowaniem, wniesieniem, montażem i uruchomieniem oraz podłączeniem do istniejących kanałów wentylacyjnych i mediów mebli medycznych i niemedycznych oraz siedzisk i krzeseł, na potrzeby Centrum Medycyny Ratunkowej i Wielkopolskiego Centrum Lecznictwa Ambulatoryjnego i Rehabilitacyjnego, Szpitala Wojewódzkiego w Poznaniu",
+    "url": "https://ted.europa.eu/en/notice/204535-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.947893+00:00"
+  },
+  {
+    "id": "3eee6a4465c6",
+    "source": "TED",
+    "title": "Poland – Medical equipments – Dostawa sprzętu i aparatury medycznej",
+    "url": "https://ted.europa.eu/en/notice/204590-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.947930+00:00"
+  },
+  {
+    "id": "4c5a6782d7a9",
+    "source": "TED",
+    "title": "Cyprus – Business services: law, marketing, consulting, recruitment, printing and security – Αγορά Υπηρεσιών Συμβούλου Παρακολούθησης και Ελέγχου Έργων που υλοποιούνται από τα Τμήματα του Υπουργείου Μεταφορών, Επικοινωνιών και Έργων",
+    "url": "https://ted.europa.eu/en/notice/204651-2026",
+    "country": "CY",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.948005+00:00"
+  },
+  {
+    "id": "f63b5c7fc64b",
+    "source": "TED",
+    "title": "Germany – Pharmaceutical products – Arzneimittel und Impfstoffe 2026",
+    "url": "https://ted.europa.eu/en/notice/204679-2026",
+    "country": "DE",
+    "exclusion_reason": "expired (deadline was 2026-04-24, 30 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-05-24T08:29:16.948178+00:00"
+  },
+  {
+    "id": "5a62b7c24fd7",
+    "source": "TED",
+    "title": "Germany – Personal care products – Reinigungs- und Hygieneartikel",
+    "url": "https://ted.europa.eu/en/notice/204686-2026",
+    "country": "DE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.948226+00:00"
+  },
+  {
+    "id": "af3dee239c56",
+    "source": "TED",
+    "title": "Poland – Medical furniture – DOSTAWA PRZEWIJAKÓW Z WANNĄ W RAMACH DOTACJI CELOWEJ NA DOFINANSOWANIE REALIZACJI INWESTYCJI PN. „BUDOWA ŚLĄSKIEGO CENTRUM ONKOLOGII I HEMATOLOGII DZIECIĘCEJ”",
+    "url": "https://ted.europa.eu/en/notice/204753-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.948311+00:00"
+  },
+  {
+    "id": "f96ea7dc1b8c",
+    "source": "TED",
+    "title": "Sweden – Medical equipments, pharmaceuticals and personal care products – Dental Unit 2026",
+    "url": "https://ted.europa.eu/en/notice/204881-2026",
+    "country": "AN",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.948391+00:00"
+  },
+  {
+    "id": "90901952975d",
+    "source": "TED",
+    "title": "Poland – Medical equipments – FDZP.226.19.2026 Dostawa sprzętu medycznego i łóżek z szafkami dla Oddziału Kardiologii",
+    "url": "https://ted.europa.eu/en/notice/204891-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.948431+00:00"
+  },
+  {
+    "id": "7070bc766bee",
+    "source": "TED",
+    "title": "Poland – Antivirals for systemic use – Zakup leków DAA. Części 1÷3",
+    "url": "https://ted.europa.eu/en/notice/204913-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.948609+00:00"
+  },
+  {
+    "id": "d9ed5a9592bb",
+    "source": "TED",
+    "title": "Poland – Medical equipments – Modernizacja infrastruktury oraz bazy sprzętowej Wojewódzkiego Szpitala Specjalistycznego nr 4 w Bytomiu celem poprawy dostępu oraz podniesienie jakości opieki kardiologicznej",
+    "url": "https://ted.europa.eu/en/notice/204949-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.948737+00:00"
+  },
+  {
+    "id": "ea428cdf9b82",
+    "source": "TED",
+    "title": "Germany – Public relations services – Konzeptionelle, kreative und organisatorische Unterstützung der Öffentlichkeitsarbeit der Landestalsperrenverwaltung Sachsen",
+    "url": "https://ted.europa.eu/en/notice/204962-2026",
+    "country": "DE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.948840+00:00"
+  },
+  {
+    "id": "0fe6d345d5ae",
+    "source": "TED",
+    "title": "Croatia – Medical equipments – Sustav za robotski asistiranu ugradnju endoproteza (Klinika za ortopediju i traumatologiju)",
+    "url": "https://ted.europa.eu/en/notice/204995-2026",
+    "country": "HR",
+    "exclusion_reason": "Hard sanctions (text match): Iran",
+    "exclusion_type": "sanctioned",
+    "excluded_at": "2026-05-24T08:29:16.948850+00:00"
+  },
+  {
+    "id": "942b25859361",
+    "source": "TED",
+    "title": "Finland – Advertising and marketing services – Koulujakeluohjelman liitännäistoimenpiteet",
+    "url": "https://ted.europa.eu/en/notice/205009-2026",
+    "country": "AN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.949043+00:00"
+  },
+  {
+    "id": "daf5d27dcea9",
+    "source": "TED",
+    "title": "Sweden – Renal dialysis consumables – Förbrukningsmaterial Dialys",
+    "url": "https://ted.europa.eu/en/notice/205018-2026",
+    "country": "SE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.949104+00:00"
+  },
+  {
+    "id": "f52d6ba790cd",
+    "source": "TED",
+    "title": "Germany – Hospital beds – Betten und Zubehör",
+    "url": "https://ted.europa.eu/en/notice/205027-2026",
+    "country": "DE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.949138+00:00"
+  },
+  {
+    "id": "834595a4e5b9",
+    "source": "TED",
+    "title": "Belgium – Pharmaceutical products – RAAMOVEREENKOMST VOOR HET LEVEREN VAN ANTIBIOTICA, ANTIMYCOTICA EN ANTIPARASITAIRE MIDDELEN",
+    "url": "https://ted.europa.eu/en/notice/205122-2026",
+    "country": "BE",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.949205+00:00"
+  },
+  {
+    "id": "e9860a6422f9",
+    "source": "TED",
+    "title": "Czechia – Surgical implants – Páteřní implantáty - Vnitřní fixátor pro stabilizaci torakolumbosakrální páteře",
+    "url": "https://ted.europa.eu/en/notice/205211-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.949266+00:00"
+  },
+  {
+    "id": "684c4f73ce67",
+    "source": "TED",
+    "title": "Croatia – Medical equipments – Oprema za projekt izgradnje Centralnog operacijskog bloka s pratećim sadržajima u OBV za grupe 38 do 42",
+    "url": "https://ted.europa.eu/en/notice/205327-2026",
+    "country": "HR",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.949324+00:00"
+  },
+  {
+    "id": "aa077cd73138",
+    "source": "TED",
+    "title": "Germany – Medical equipments – Roboter-assistiertes Bronchoskopiesystem",
+    "url": "https://ted.europa.eu/en/notice/205355-2026",
+    "country": "DE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.949360+00:00"
+  },
+  {
+    "id": "dc50f965a0fd",
+    "source": "TED",
+    "title": "Switzerland – Medical kits – Contrat cadre sur les trousses opératoires pour l'hôpital fribourgeois HFR",
+    "url": "https://ted.europa.eu/en/notice/205372-2026",
+    "country": "CH",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.949511+00:00"
+  },
+  {
+    "id": "24ed5d08b26e",
+    "source": "TED",
+    "title": "Netherlands – Medical consumables – Medisch verbruiksmateriaal",
+    "url": "https://ted.europa.eu/en/notice/205375-2026",
+    "country": "NL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.949597+00:00"
+  },
+  {
+    "id": "09d56a89bac7",
+    "source": "TED",
+    "title": "Czechia – Surgical implants – ZP - KKCH Dodávky sternálních fixačních systémů včetně implantátů a instrumentária",
+    "url": "https://ted.europa.eu/en/notice/205382-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.949665+00:00"
+  },
+  {
+    "id": "c448a74cf1bc",
+    "source": "TED",
+    "title": "France – Research and development consultancy services – Prestation pour l'accompagnement au montage de projets européens",
+    "url": "https://ted.europa.eu/en/notice/205433-2026",
+    "country": "FR",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.949786+00:00"
+  },
+  {
+    "id": "895fb6989755",
+    "source": "TED",
+    "title": "Belgium – Personal care products – FOURNITURES ET CONSOMMABLES D’HYGIÈNE",
+    "url": "https://ted.europa.eu/en/notice/205578-2026",
+    "country": "BE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.949819+00:00"
+  },
+  {
+    "id": "87dd76eb84c9",
+    "source": "TED",
+    "title": "Germany – Motorised beds – Rahmenvereinbarung für den Kauf von medizinischen Pflegebetten",
+    "url": "https://ted.europa.eu/en/notice/205579-2026",
+    "country": "AN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.949860+00:00"
+  },
+  {
+    "id": "cd2333b788a9",
+    "source": "TED",
+    "title": "Switzerland – Steriliser – Gerätetausch AEMP Spital Lachen AG",
+    "url": "https://ted.europa.eu/en/notice/205593-2026",
+    "country": "CH",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.949965+00:00"
+  },
+  {
+    "id": "3340d2358c1b",
+    "source": "TED",
+    "title": "Sweden – Pharmaceutical products – Läkemedel Actiq",
+    "url": "https://ted.europa.eu/en/notice/205645-2026",
+    "country": "SE",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.950014+00:00"
+  },
+  {
+    "id": "1419f5a7f58f",
+    "source": "TED",
+    "title": "Germany – Procurement consultancy services – Dienstleistungen einer Vergabestelle",
+    "url": "https://ted.europa.eu/en/notice/205691-2026",
+    "country": "DE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.950096+00:00"
+  },
+  {
+    "id": "fa8260f9af21",
+    "source": "TED",
+    "title": "Sweden – IT services: consulting, software development, Internet and support – Omvärldsbevaknings- samt rådgivningstjänster digitalisering global",
+    "url": "https://ted.europa.eu/en/notice/205705-2026",
+    "country": "SE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.950166+00:00"
+  },
+  {
+    "id": "b2718db711cd",
+    "source": "TED",
+    "title": "Czechia – Pharmaceutical products – Dodávky léčivých přípravků s účinnou látkou LONKASTUXIMAB TESIRIN",
+    "url": "https://ted.europa.eu/en/notice/205796-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.950235+00:00"
+  },
+  {
+    "id": "e7c822ee249e",
+    "source": "TED",
+    "title": "Sweden – Renal support devices – Dialysmaskiner inkl tillbehör och förbrukningsmaterial",
+    "url": "https://ted.europa.eu/en/notice/205898-2026",
+    "country": "SE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.950284+00:00"
+  },
+  {
+    "id": "98400dc2438b",
+    "source": "TED",
+    "title": "Poland – Orthopaedic prostheses – Dostawa implantów do zaopatrywania złamań, protez wraz z osprzętem dla potrzeb bloku operacyjnego ortopedii",
+    "url": "https://ted.europa.eu/en/notice/205924-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.950340+00:00"
+  },
+  {
+    "id": "e9144e83fe71",
+    "source": "TED",
+    "title": "France – Bacteriological analysis services – Prestation de prélèvements et d'analyses pour l'autocontrôle de l'eau potable sur le territoire de Grenoble-Alpes Métropole",
+    "url": "https://ted.europa.eu/en/notice/205932-2026",
+    "country": "FR",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.950415+00:00"
+  },
+  {
+    "id": "fd87b431aa34",
+    "source": "TED",
+    "title": "Bulgaria – Vaccines – „Доставка на ваксини срещу варицела за извършване на задължителна имунизация и реимунизация и на ваксини срещу респираторно-синцитиален вирус за извършване на целева имунизация за 2026-2028 г.“",
+    "url": "https://ted.europa.eu/en/notice/205981-2026",
+    "country": "BG",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.950475+00:00"
+  },
+  {
+    "id": "7a457c1e6c6b",
+    "source": "TED",
+    "title": "Czechia – Defibrillator – ZP - ICD přístroje třídy D - s dlouhou garantovanou životností baterie a s možností monitorace spánkové apnoe III.",
+    "url": "https://ted.europa.eu/en/notice/205986-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.950544+00:00"
+  },
+  {
+    "id": "f5e3721f6fc3",
+    "source": "TED",
+    "title": "Poland – Medical equipments – 21-PN-26 Sprzęt kardiologiczny oraz intensywnej terapii (pompy do kontrapulsacji, kardiomonitory, urządzenia do mechanicznej kompresji klatki piersiowej, holtery EKG, system do prób wysiłkowych, system telemonitoringu, polisomnografy)",
+    "url": "https://ted.europa.eu/en/notice/205993-2026",
+    "country": "PL",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.950760+00:00"
+  },
+  {
+    "id": "0a1b7269ef74",
+    "source": "TED",
+    "title": "Norway – Software programming and consultancy services – Framework agreement ICT consultancy services 2026-2030",
+    "url": "https://ted.europa.eu/en/notice/206124-2026",
+    "country": "NO",
+    "exclusion_reason": "expired (deadline was 2026-04-27, 27 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-05-24T08:29:16.950976+00:00"
+  },
+  {
+    "id": "9847aeb388db",
+    "source": "TED",
+    "title": "France – Probation services – ACCORD-CADRE DE SERVICES D'INSERTION PAR L'ACTIVITE ECONOMIQUE PAR LE BIAIS DE LA REALISATION DE PRESTATIONS DE NETTOYAGE ET DE PROPRETE DES PARTIES COMMUNES INTERIEURES ET EXTERIEURES, ET DE MANUTENTION DES CONTAINERS D'ORDURES MENAGERES ET DE TRI DU PATRIMOINE DE VAL D'OISE HABITAT SITUE SUR LA COMMUNE D'ERMONT",
+    "url": "https://ted.europa.eu/en/notice/206125-2026",
+    "country": "FR",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.951070+00:00"
+  },
+  {
+    "id": "35f19dbf655f",
+    "source": "TED",
+    "title": "Croatia – Medical equipments – GAMA KAMERA",
+    "url": "https://ted.europa.eu/en/notice/206138-2026",
+    "country": "HR",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.951103+00:00"
+  },
+  {
+    "id": "f26773c8105f",
+    "source": "TED",
+    "title": "Bulgaria – Medical consumables – Доставка на специфични медицински изделия и консумативи за хемодинамична станция за Клиника по анестезиология и интензивно лечение при УМБАЛ „Света Анна” – София АД",
+    "url": "https://ted.europa.eu/en/notice/206140-2026",
+    "country": "BG",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.951149+00:00"
+  },
+  {
+    "id": "64ab777dd773",
+    "source": "TED",
+    "title": "Poland – Medical equipments – Doposażenie poradni ambulatoryjnej opieki specjalistycznej Specjalistycznego Zespołu Opieki Zdrowotnej nad Matką i Dzieckiem w Poznaniu",
+    "url": "https://ted.europa.eu/en/notice/206249-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.951203+00:00"
+  },
+  {
+    "id": "b11e13fbfc25",
+    "source": "TED",
+    "title": "Poland – Antivirals for systemic use – Zakup leków antyretrowirusowych. Części 1÷2",
+    "url": "https://ted.europa.eu/en/notice/206262-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.951371+00:00"
+  },
+  {
+    "id": "16117b22c82d",
+    "source": "TED",
+    "title": "Poland – Pharmaceutical products – dostawa leków różnych oraz preparatów do żywienia dojelitowego i pozajelitowego oraz płynów dla potrzeb Zespołu Opieki Zdrowotnej w Szczytnie",
+    "url": "https://ted.europa.eu/en/notice/206296-2026",
+    "country": "PL",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.951467+00:00"
+  },
+  {
+    "id": "7328c0d77ac1",
+    "source": "TED",
+    "title": "Poland – Ultrasonic unit – Zakup wraz z dostawą aparatu USG oraz pomp infuzyjnych na potrzeby Kliniki Anestezjologii i Intensywnej Terapii",
+    "url": "https://ted.europa.eu/en/notice/206327-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.951517+00:00"
+  },
+  {
+    "id": "d2cec1927a30",
+    "source": "TED",
+    "title": "Poland – Medical equipments – Dostawa sprzętu medycznego ze środków planu rozwojowego Przedsięwzięcia pn.: „Zakup sprzętu medycznego dla SPSK nr 1 im. prof. S. Szyszko ŚUM w Katowicach na potrzeby wzrostu jakości i efektywności opieki kardiologicznej”(...)",
+    "url": "https://ted.europa.eu/en/notice/206339-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.951693+00:00"
+  },
+  {
+    "id": "a7e031468096",
+    "source": "TED",
+    "title": "Sweden – Medical equipments, pharmaceuticals and personal care products – PCI/Pace-labb",
+    "url": "https://ted.europa.eu/en/notice/206342-2026",
+    "country": "SE",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.951753+00:00"
+  },
+  {
+    "id": "e0235787e0dd",
+    "source": "TED",
+    "title": "Poland – Breathing apparatus – 17.2026 Dostawa sprzętu medycznego na potrzeby Centrum Symulacji Medycznej Uniwersytetu Medycznego we Wrocławiu im. Piastów Śląskich we Wrocławiu.",
+    "url": "https://ted.europa.eu/en/notice/206414-2026",
+    "country": "PL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.951828+00:00"
+  },
+  {
+    "id": "ba6f7ccfa400",
+    "source": "TED",
+    "title": "Czechia – Research and experimental development services – Vývoj IoT modulu s integrovaným GPS pro online přenos dat a lokalizaci měření dávkového příkonu gama záření",
+    "url": "https://ted.europa.eu/en/notice/206473-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.951940+00:00"
+  },
+  {
+    "id": "71588b1f3e6e",
+    "source": "TED",
+    "title": "Greece – Pacemaker – ΠΡΟΜΗΘΕΙΑ ΒΗΜΑΤΟΔΟΤΩΝ",
+    "url": "https://ted.europa.eu/en/notice/206483-2026",
+    "country": "EL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.951970+00:00"
+  },
+  {
+    "id": "f0b0871335dd",
+    "source": "TED",
+    "title": "Spain – Disposable non-chemical medical consumables and haematological consumables – Suministro de tarjetas para analisis de sangre con cesion de equipos operativos y compatibles de lectura de las tarjetas, con destino a Samur-Proteccion Civil.",
+    "url": "https://ted.europa.eu/en/notice/206594-2026",
+    "country": "ES",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.952068+00:00"
+  },
+  {
+    "id": "5aa349d84bfd",
+    "source": "TED",
+    "title": "Netherlands – Medical aids – WMO Hulpmiddelen",
+    "url": "https://ted.europa.eu/en/notice/206711-2026",
+    "country": "NL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.952249+00:00"
+  },
+  {
+    "id": "07bd44669de4",
+    "source": "TED",
+    "title": "Croatia – Various medicinal products – Nabava lijeka apalutamid",
+    "url": "https://ted.europa.eu/en/notice/206766-2026",
+    "country": "HR",
+    "exclusion_reason": "expired (deadline was 2026-04-03, 51 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-05-24T08:29:16.952437+00:00"
+  },
+  {
+    "id": "891e90f573eb",
+    "source": "TED",
+    "title": "France – Cleaning products – Achat de produits et matériels d'entretien",
+    "url": "https://ted.europa.eu/en/notice/206769-2026",
+    "country": "FR",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.952472+00:00"
+  },
+  {
+    "id": "1a089c2cf8be",
+    "source": "TED",
+    "title": "Germany – Research services – Riff-Pilotmonitoring in den Küstengewässern von M-V",
+    "url": "https://ted.europa.eu/en/notice/206786-2026",
+    "country": "DE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.952538+00:00"
+  },
+  {
+    "id": "2113731790de",
+    "source": "TED",
+    "title": "Sweden – Dental chairs – Mobila Operationsstolar och Behandlingsenheter",
+    "url": "https://ted.europa.eu/en/notice/206930-2026",
+    "country": "SE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.952606+00:00"
+  },
+  {
+    "id": "77133dccd27f",
+    "source": "TED",
+    "title": "Estonia – Medical equipments – Meditsiinivarustus ja -seadmed",
+    "url": "https://ted.europa.eu/en/notice/206962-2026",
+    "country": "EE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.952673+00:00"
+  },
+  {
+    "id": "1237bd9526f6",
+    "source": "TED",
+    "title": "Czechia – Medical consumables – Dodávky ZP – Bezjehlové vstupy",
+    "url": "https://ted.europa.eu/en/notice/206989-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.952715+00:00"
+  },
+  {
+    "id": "1c983787b225",
+    "source": "TED",
+    "title": "Spain – Medical consumables – Suministro de material sanitario para los centros de Mutua Universal.",
+    "url": "https://ted.europa.eu/en/notice/207017-2026",
+    "country": "ES",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.952764+00:00"
+  },
+  {
+    "id": "dfe1c4d99574",
+    "source": "TED",
+    "title": "Czechia – Radioactive materials – Radionuklidové generátory (81Rb/81mKr) k provádění vyšetření plicní ventilace s výpůjčkou aplikační jednotky II 2025",
+    "url": "https://ted.europa.eu/en/notice/207021-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.952818+00:00"
+  },
+  {
+    "id": "ebdc76110615",
+    "source": "TED",
+    "title": "France – Repair and maintenance of plant – Travaux de réhabilitation et neufs des bâtiments pour les besoins du GHT de La Réunion, site Nord CHFG, sites Sud GHSR et site Est GHER",
+    "url": "https://ted.europa.eu/en/notice/207047-2026",
+    "country": null,
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.953279+00:00"
+  },
+  {
+    "id": "a0ee011e0548",
+    "source": "TED",
+    "title": "Sweden – Medical consumables – Kundanpassade set",
+    "url": "https://ted.europa.eu/en/notice/207080-2026",
+    "country": "AN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.953333+00:00"
+  },
+  {
+    "id": "bcc685c50633",
+    "source": "TED",
+    "title": "Germany – Medical consumables – 2025-0384, Rahmenvertrag über die Lieferung von Material im Rettungsdienst in 4 Losen für die Feuerwehr Leverkusen, Edith-Weyde-Straße 12, 51373 Leverkusen",
+    "url": "https://ted.europa.eu/en/notice/207090-2026",
+    "country": "DE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.953392+00:00"
+  },
+  {
+    "id": "b5adadd37f0f",
+    "source": "TED",
+    "title": "Sweden – Medical equipments – Hjärtstartare - Administrativ miljö och vårdenhet",
+    "url": "https://ted.europa.eu/en/notice/207116-2026",
+    "country": "AN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.953440+00:00"
+  },
+  {
+    "id": "c0859c7065e9",
+    "source": "TED",
+    "title": "Austria – Research services – Nationalpark Thayatal - Aufbau Molluskenmonitoring für das Gebiet des Nationalparks Thayatal im Rahmen des INTERREG Projekts „BioReMo – Biodiversity Research and Monitoring“ (ATCZ00178)",
+    "url": "https://ted.europa.eu/en/notice/207184-2026",
+    "country": "AT",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.953549+00:00"
+  },
+  {
+    "id": "507336b2470e",
+    "source": "TED",
+    "title": "Malta – Various medicinal products – CT2064/2026 - Framework Contract for the supply of Atomoxetine Capsules",
+    "url": "https://ted.europa.eu/en/notice/207202-2026",
+    "country": "MT",
+    "exclusion_reason": "expired (deadline was 2026-05-05, 19 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-05-24T08:29:16.953625+00:00"
+  },
+  {
+    "id": "80ae4b78a887",
+    "source": "TED",
+    "title": "Finland – Medical equipments – Radiofarmasiakaapit",
+    "url": "https://ted.europa.eu/en/notice/207211-2026",
+    "country": "FI",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.953784+00:00"
+  },
+  {
+    "id": "2353026e6614",
+    "source": "TED",
+    "title": "Croatia – Pharmaceutical products – Ostali lijekovi (koji nisu uključeni u kategorije pod rednim brojem 1. i 17.) – V za zdravstvene ustanove u Republici Hrvatskoj",
+    "url": "https://ted.europa.eu/en/notice/207218-2026",
+    "country": "HR",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.953848+00:00"
+  },
+  {
+    "id": "59a8f4db5b8e",
+    "source": "TED",
+    "title": "Denmark – Pharmaceutical products – Amgros 2027 2.210.a",
+    "url": "https://ted.europa.eu/en/notice/207225-2026",
+    "country": "DK",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.954022+00:00"
+  },
+  {
+    "id": "738ffc2b6c7e",
+    "source": "TED",
+    "title": "Czechia – Monitors – Motolské onkologické centrum – Vybavení onkologických oddělení – monitory vitálních funkcí",
+    "url": "https://ted.europa.eu/en/notice/207234-2026",
+    "country": "CZ",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.954075+00:00"
+  },
+  {
+    "id": "236b594811b3",
+    "source": "TED",
+    "title": "Estonia – Services provided by medical laboratories – Laboratoorsete uuringute ostmine",
+    "url": "https://ted.europa.eu/en/notice/207248-2026",
+    "country": "EE",
+    "exclusion_reason": "expired (deadline was 2026-04-10, 44 days ago)",
+    "exclusion_type": "expired",
+    "excluded_at": "2026-05-24T08:29:16.954165+00:00"
   },
   {
     "id": "80b29c5848b8",
@@ -37,7 +1037,7 @@
     "country": "_LMIC",
     "exclusion_reason": "bmgf_no_vaccine_in_head",
     "exclusion_type": "bmgf_strict",
-    "excluded_at": "2026-05-23T08:19:06.985562+00:00"
+    "excluded_at": "2026-05-24T08:29:16.954442+00:00"
   },
   {
     "id": "20a6d11889b7",
@@ -47,7 +1047,7 @@
     "country": "_LMIC",
     "exclusion_reason": "bmgf_no_vaccine_in_head",
     "exclusion_type": "bmgf_strict",
-    "excluded_at": "2026-05-23T08:19:06.985717+00:00"
+    "excluded_at": "2026-05-24T08:29:16.954605+00:00"
   },
   {
     "id": "e12be3c4ee2f",
@@ -57,17 +1057,517 @@
     "country": "_LMIC",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.985907+00:00"
+    "excluded_at": "2026-05-24T08:29:16.954792+00:00"
   },
   {
-    "id": "a2f17d0a0134",
+    "id": "47035c4e9651",
     "source": "World Bank",
-    "title": "Contratação de consultoria especializada para a implantação de metodologia de Gestão de Investimentos Público para o Estado do Tocantins.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445923",
+    "title": "Procurement of Biometric Devices & Web Camera (Two Lots)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446623",
+    "country": "PA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.954826+00:00"
+  },
+  {
+    "id": "7e210703352c",
+    "source": "World Bank",
+    "title": "Non Consultancy Services as Service Provider (SP) in South 24 Parganas district under WBADMIP Phase II",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446627",
+    "country": "IN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.954865+00:00"
+  },
+  {
+    "id": "d29b321adc25",
+    "source": "World Bank",
+    "title": "Consultancy for the development of a detailed action plan to support the Certification of Rodrigues as a Green Destination",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445895",
+    "country": "MA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.954904+00:00"
+  },
+  {
+    "id": "6391fdfb7a5a",
+    "source": "World Bank",
+    "title": "Recrutement d'un consultant individuel, spécialiste en développement des solutions logicielles pour accompagner le SETIC dans la mise en œuvre des projets de mise en place des systèmes d’information nationaux",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446564",
+    "country": "BU",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.954968+00:00"
+  },
+  {
+    "id": "034065d0886d",
+    "source": "World Bank",
+    "title": "Recrutement d'un Consultant Informaticien Expert Sécurité Informatique en faveur de « Burundi Education and Research Network- BERNET",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446611",
+    "country": "BU",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955017+00:00"
+  },
+  {
+    "id": "922546908dc4",
+    "source": "World Bank",
+    "title": "Adquisición de 01 Motocicleta para el PIP 2 FIP/BM",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446765",
+    "country": "PE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955137+00:00"
+  },
+  {
+    "id": "cfd93cc2abfa",
+    "source": "World Bank",
+    "title": "Consultancy for market assessment of potential new source markets for tourism in Rodrigues and to develop a new marketing/branding strategy for Rodrigues",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445754",
+    "country": "MA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955178+00:00"
+  },
+  {
+    "id": "1455eba38e72",
+    "source": "World Bank",
+    "title": "Recrutement d’un consultant pour l’élaboration et la validation des référentiels de formation pour les professions   opérateur de laboratoire géotechnique  INFP BTP",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446576",
+    "country": "MA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955238+00:00"
+  },
+  {
+    "id": "26413cc54b39",
+    "source": "World Bank",
+    "title": "Recrutement d'un Consultant chargé du contrôle et de la surveillance des travaux de de construction d'un bâtiment pour ARE, ANSER, ARSPE, UCM, CEPO et SG MRHE à Kinshasa",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446587",
+    "country": "CO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955294+00:00"
+  },
+  {
+    "id": "6ead039d81a6",
+    "source": "World Bank",
+    "title": "Non Consultancy Services as Service Provider (SP) in North 24 Parganas district under WBADMIP Phase II",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446621",
+    "country": "IN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955332+00:00"
+  },
+  {
+    "id": "2889c8832747",
+    "source": "World Bank",
+    "title": "Acquisition de kits solaires pour les bénéficiaires abonnés au service de transfert par mobile money",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446702",
+    "country": "MA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955375+00:00"
+  },
+  {
+    "id": "484ea4b82fc9",
+    "source": "World Bank",
+    "title": "Recrutement d'un Expert Architecte Principal de Systèmes d’Information (APSI) pour appuyer le MIDCSP dans la conduite du Programme d’Identité Numérique Nationale",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446715",
+    "country": "BU",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955433+00:00"
+  },
+  {
+    "id": "0226408184f8",
+    "source": "World Bank",
+    "title": "Private Connections to the Sewerage Network",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446262",
+    "country": "ST",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955464+00:00"
+  },
+  {
+    "id": "a13ba00bfd78",
+    "source": "World Bank",
+    "title": "Individual National Consultancy for Tourism Planning (Commission for Tourism",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445743",
+    "country": "MA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955499+00:00"
+  },
+  {
+    "id": "10f56cf71166",
+    "source": "World Bank",
+    "title": "Consulting Services for Individual Consultant for Post harvest strategy,  investment and Capacity Building Design and Planning",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445760",
+    "country": "MA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955537+00:00"
+  },
+  {
+    "id": "cb59078dfa65",
+    "source": "World Bank",
+    "title": "Construction of Poultry Production Unit, Int'l Livestock Market and Beef Fattening Hub at Gombe Agro-Livestock Development Zone Gombe State",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446756",
+    "country": "NI",
+    "exclusion_reason": "goods_tender (matched: 'construction of')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-05-24T08:29:16.955661+00:00"
+  },
+  {
+    "id": "ef8f5869e54c",
+    "source": "World Bank",
+    "title": "Institutional Capacity Review and Strengthening of the Rodrigues Commission for Tourism",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445904",
+    "country": "MA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955696+00:00"
+  },
+  {
+    "id": "f7bebab83ea0",
+    "source": "World Bank",
+    "title": "Individual Consultancy for the Training Needs Analysis and Skills Development Framework for the Tourism Sector in Rodrigues",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445906",
+    "country": "MA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955733+00:00"
+  },
+  {
+    "id": "61488b582d29",
+    "source": "World Bank",
+    "title": "Supply of Road Safety Enforcement Equipment",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445478",
+    "country": "BH",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955768+00:00"
+  },
+  {
+    "id": "0eb668b94f71",
+    "source": "World Bank",
+    "title": "Hiring a Firm under Framework Agreement for provision of various services (HR / Management realted services)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446549",
+    "country": "PA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955804+00:00"
+  },
+  {
+    "id": "b3acb8155efb",
+    "source": "World Bank",
+    "title": "Recrutement d'un Cabinet d'étude pour les infrastructures endommagé par le Cyclone GEZANI (URGENCE)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446557",
+    "country": "MA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955849+00:00"
+  },
+  {
+    "id": "a9726091e53c",
+    "source": "World Bank",
+    "title": "Senior Disbursement and Accountant Specialist",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446625",
+    "country": "CE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955884+00:00"
+  },
+  {
+    "id": "191a5cf1cbf4",
+    "source": "World Bank",
+    "title": "Procurement of  hand-walking tractors for vulnerable small-scale farmers.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446137",
+    "country": "EA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955920+00:00"
+  },
+  {
+    "id": "64a2bee7ceb5",
+    "source": "World Bank",
+    "title": "Recrutement d’un consultant pour l’élaboration et la validation des référentiels de formation pour les professions  Chef et surveillant de chantier INFP BTP",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446580",
+    "country": "MA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.955978+00:00"
+  },
+  {
+    "id": "cecfbfc6e8dc",
+    "source": "World Bank",
+    "title": "Non Consultancy Services as Service Provider (SP) in Alipurduar district under WBADMIP Phase II",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446640",
+    "country": "IN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956019+00:00"
+  },
+  {
+    "id": "5d5b86ed46c7",
+    "source": "World Bank",
+    "title": "Lot No. 1 Supply of 2 glass-bottom boats, life jackets, and Sets of SCUBA diving equipment for benthic monitoring, and Supply of 2 Search and Rescue Boats for BMUs  Lot No. 2 Supply and installation of demarcation buoys for the identified habitat",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446720",
+    "country": "TA",
+    "exclusion_reason": "Hard sanctions (text match): Cuba",
+    "exclusion_type": "sanctioned",
+    "excluded_at": "2026-05-24T08:29:16.956028+00:00"
+  },
+  {
+    "id": "07405695640f",
+    "source": "World Bank",
+    "title": "Capacity Building for Digital Food Safety Supervision",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446360",
+    "country": "CH",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956058+00:00"
+  },
+  {
+    "id": "65d521c0615e",
+    "source": "World Bank",
+    "title": "3.3.Capacity Building on ERP/OpenEMIS Data Management and Analysis",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00443116",
+    "country": "UZ",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956093+00:00"
+  },
+  {
+    "id": "f6af5127eeae",
+    "source": "World Bank",
+    "title": "Senior EU enlargement expert/analyst",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446578",
+    "country": "UK",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956217+00:00"
+  },
+  {
+    "id": "272ec080c465",
+    "source": "World Bank",
+    "title": "Senior Public Investment Pipeline Expert",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446581",
+    "country": "UK",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956249+00:00"
+  },
+  {
+    "id": "efb0160efa59",
+    "source": "World Bank",
+    "title": "Consulting Service for the Development of Government Enterprise Architecture (GEA) and Implementation Plan",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446599",
+    "country": "EA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956290+00:00"
+  },
+  {
+    "id": "92058cd2e7df",
+    "source": "World Bank",
+    "title": "Non Consultancy Services as Service Provider (SP) in Jhargram district under WBADMIP Phase II",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446632",
+    "country": "IN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956329+00:00"
+  },
+  {
+    "id": "0071c17c720b",
+    "source": "World Bank",
+    "title": "Non Consultancy Services as Service Provider (SP) in Birbhum district under WBADMIP Phase II",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446643",
+    "country": "IN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956363+00:00"
+  },
+  {
+    "id": "38d895ecd6e1",
+    "source": "World Bank",
+    "title": "Purchase of Harvesters",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446690",
+    "country": "TU",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956399+00:00"
+  },
+  {
+    "id": "242b7bf21be2",
+    "source": "World Bank",
+    "title": "Non Consultancy Services as Service Provider (SP) in Paschim Medinipur district under WBADMIP Phase II",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446634",
+    "country": "IN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956432+00:00"
+  },
+  {
+    "id": "af9760420207",
+    "source": "World Bank",
+    "title": "Cameras and other communication equipment",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446678",
+    "country": "MO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956465+00:00"
+  },
+  {
+    "id": "50f300bf94b0",
+    "source": "World Bank",
+    "title": "Aquisição de Infraestrutura de TI- incluindo equipamentos de processamento, armazenamento, conectividade, solução de backup, software de virtualização, serviço de instalação, configuração e garantia, destinados a fortalecer a infraestrutura da SEPLAN.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446728",
     "country": "BR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.985962+00:00"
+    "excluded_at": "2026-05-24T08:29:16.956523+00:00"
+  },
+  {
+    "id": "21ba88171462",
+    "source": "World Bank",
+    "title": "Procurement of autoclaves for medical waste treatment to replace outdated equipment",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446595",
+    "country": "KO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956558+00:00"
+  },
+  {
+    "id": "595d5b045b8e",
+    "source": "World Bank",
+    "title": "Non Consultancy Services as Service Provider (SP) in Darjeeling district under WBADMIP Phase II",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446637",
+    "country": "IN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956600+00:00"
+  },
+  {
+    "id": "2ae028306958",
+    "source": "World Bank",
+    "title": "Non Consultancy Services as Service Provider (SP) in Purulia district under WBADMIP Phase II",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446648",
+    "country": "IN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956629+00:00"
+  },
+  {
+    "id": "b44cb023ec22",
+    "source": "World Bank",
+    "title": "Laptops for Social Assistants",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446668",
+    "country": "SO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956661+00:00"
+  },
+  {
+    "id": "5089b392ec47",
+    "source": "World Bank",
+    "title": "Non Consultancy Services as Service Provider (SP) in Kalimpong district under WBADMIP Phase II",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446608",
+    "country": "IN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956691+00:00"
+  },
+  {
+    "id": "83354390935e",
+    "source": "World Bank",
+    "title": "Non Consultancy Services as Service Provider (SP) in Paschim Bardhamaan district under WBADMIP Phase II",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446615",
+    "country": "IN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956721+00:00"
+  },
+  {
+    "id": "2c1fd971930c",
+    "source": "World Bank",
+    "title": "Non Consultancy Services as Service Provider (SP) in Bankura district under WBADMIP Phase II",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446650",
+    "country": "IN",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956748+00:00"
+  },
+  {
+    "id": "f1fca7f21fa8",
+    "source": "World Bank",
+    "title": "Conducting B2B export promotion missions to Italy",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00430814",
+    "country": "MO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956779+00:00"
+  },
+  {
+    "id": "d6776fc3d50a",
+    "source": "World Bank",
+    "title": "Yantai Agricultural Products Comprehensive Quality Inspection Centre Laboratory Equipment",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445997",
+    "country": "CH",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956810+00:00"
+  },
+  {
+    "id": "022cc49a29a5",
+    "source": "World Bank",
+    "title": "Construction and operation of sewage network & WWTP",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446497",
+    "country": "ST",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956840+00:00"
+  },
+  {
+    "id": "4d871f8a8388",
+    "source": "World Bank",
+    "title": "Quick Win Automation Development",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446629",
+    "country": "PA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956869+00:00"
+  },
+  {
+    "id": "971cbe229bbd",
+    "source": "World Bank",
+    "title": "Establishment of  Beef, Sheep & Goat Value Chain development Hub (LVCH) in Kotorkoshi",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446697",
+    "country": "NI",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956903+00:00"
+  },
+  {
+    "id": "443c8cc60cea",
+    "source": "World Bank",
+    "title": "Recrutement d'une firme/bureau d'études pour une mission de maitrise d’œuvre complète des travaux de reboisement/végétalisation et d’aménagement urbain y compris la sensibilisation et la formation dans les villes de Bangui et Berberati.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445744",
+    "country": "CE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.956971+00:00"
+  },
+  {
+    "id": "bc5cd9217aff",
+    "source": "World Bank",
+    "title": "Disaster management specialist and Project coordinator",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446541",
+    "country": "MA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.957005+00:00"
   },
   {
     "id": "427c74f54f9a",
@@ -77,7 +1577,7 @@
     "country": "VI",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.985998+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957037+00:00"
   },
   {
     "id": "cd490552fcaa",
@@ -87,7 +1587,7 @@
     "country": "MO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986049+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957087+00:00"
   },
   {
     "id": "bdd6a3b497dd",
@@ -97,7 +1597,7 @@
     "country": "SR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986094+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957130+00:00"
   },
   {
     "id": "3aa719b39eab",
@@ -107,7 +1607,7 @@
     "country": "SI",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986136+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957171+00:00"
   },
   {
     "id": "a502ed30a191",
@@ -117,7 +1617,17 @@
     "country": "NI",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986174+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957209+00:00"
+  },
+  {
+    "id": "a2f17d0a0134",
+    "source": "World Bank",
+    "title": "Contratação de consultoria especializada para a implantação de metodologia de Gestão de Investimentos Público para o Estado do Tocantins.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445923",
+    "country": "BR",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-05-24T08:29:16.957257+00:00"
   },
   {
     "id": "ca641907d91f",
@@ -127,7 +1637,7 @@
     "country": "LE",
     "exclusion_reason": "goods_tender (matched: 'rehabilitation of')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.986200+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957283+00:00"
   },
   {
     "id": "fe7ac684593a",
@@ -137,7 +1647,7 @@
     "country": "SO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986254+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957336+00:00"
   },
   {
     "id": "ce010b9a860d",
@@ -147,7 +1657,7 @@
     "country": "VI",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986294+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957376+00:00"
   },
   {
     "id": "215252574495",
@@ -157,7 +1667,7 @@
     "country": "UZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986332+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957414+00:00"
   },
   {
     "id": "b8efc475218a",
@@ -167,7 +1677,7 @@
     "country": "PA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986486+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957548+00:00"
   },
   {
     "id": "ff64c9874d6b",
@@ -177,497 +1687,7 @@
     "country": "WE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986526+00:00"
-  },
-  {
-    "id": "952256cf35d0",
-    "source": "World Bank",
-    "title": "Hiring of an Individual Consultant as Technical Assistant to Site Supervision of Weak Bridges and Post-Disaster Recovery Activities in Polonnaruwa District Under ICDP",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446341",
-    "country": "SR",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986569+00:00"
-  },
-  {
-    "id": "5e6a8c6de6f4",
-    "source": "World Bank",
-    "title": "Hiring of an Individual Consultant as Technical Assistant to Site Supervision of Weak Bridges and Post-Disaster Recovery Activities in Badulla District Under ICDP",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446343",
-    "country": "SR",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986603+00:00"
-  },
-  {
-    "id": "941d9933ffbd",
-    "source": "World Bank",
-    "title": "Supply of Three Phase AMI/AMR Meters and ABC Cables; Lot-II Three Phase AMI Meters- 2,300 Nos ,Lot-III Service Connection Material i.e Aerial Bundled Cable (ABC).",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446353",
-    "country": "PA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986645+00:00"
-  },
-  {
-    "id": "7615cc7dd13d",
-    "source": "World Bank",
-    "title": "Recrutement d’un Consultant (firme) chargé de l’Appui à la Professionnalisation et l’organisation des opérateurs de transport urbain",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446362",
-    "country": "BU",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986701+00:00"
-  },
-  {
-    "id": "03dca4e9ed92",
-    "source": "World Bank",
-    "title": "Provision of Specialized Training Services to Strengthen the Professional Capacity of Central Office Staff of the National Agency for Social Protection",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446368",
-    "country": "UZ",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986746+00:00"
-  },
-  {
-    "id": "ff97f1416f2c",
-    "source": "World Bank",
-    "title": "Obras de Construção de 11 Mini Sistemas de Abastecimento de Água",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446438",
-    "country": "MO",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986787+00:00"
-  },
-  {
-    "id": "6b3e8e544c6e",
-    "source": "World Bank",
-    "title": "Hiring of an Individual Consultant as Technical Assistant to Site Supervision of Weak Bridges and Post-Disaster Recovery Activities Under ICDP Assignment Duration-16 months",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00431870",
-    "country": "SR",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986826+00:00"
-  },
-  {
-    "id": "453272e6911f",
-    "source": "World Bank",
-    "title": "Rehabilitation of Two (2) Irrigation schemes- Potsane and Mootsinyane in Mohale's Hoek (2 lots)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446319",
-    "country": "LE",
-    "exclusion_reason": "goods_tender (matched: 'rehabilitation of')",
-    "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.986853+00:00"
-  },
-  {
-    "id": "301079545799",
-    "source": "World Bank",
-    "title": "Recrutement d'un bureau d'études pour la réalisation des études APS/APD/DAO relative aux études identifiées dans le cadre de l’étude SDAEP Grand Antananarivo, Madagascar",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446384",
-    "country": "MA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986910+00:00"
-  },
-  {
-    "id": "7eb23d8b9ca2",
-    "source": "World Bank",
-    "title": "Procure software, hardware, solutions, and services to deploy and scale up the CDR.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446466",
-    "country": "EA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986949+00:00"
-  },
-  {
-    "id": "ca6168a3165e",
-    "source": "World Bank",
-    "title": "Supply of IT Equipment for MoSD HQ and Branches to strengthen SR&CM Systems",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00441133",
-    "country": "WE",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.986981+00:00"
-  },
-  {
-    "id": "4fa5df2ca928",
-    "source": "World Bank",
-    "title": "Owner's Engineer for Supervision of Works for 400 kV Lubango-Cahama Transmission Line and Associated Substations",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445277",
-    "country": "AN",
-    "exclusion_reason": "goods_tender (matched: 'supervision of works')",
-    "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.987008+00:00"
-  },
-  {
-    "id": "73a4dca29611",
-    "source": "World Bank",
-    "title": "HIRING OF CONSULTING FIRM FOR DEVELOPMENT OF BEHAVIOUR CHANGE COMMUNICATION (BCC) STRATEGY & PHASED YEAR WISE WORKPLAN UNDER “PUNJAB INCLUSIVE CITIES PROGRAM (PICP)”",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446298",
-    "country": "PA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987063+00:00"
-  },
-  {
-    "id": "36910340763d",
-    "source": "World Bank",
-    "title": "FFA Graphic Designer",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446287",
-    "country": "PA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987099+00:00"
-  },
-  {
-    "id": "53c8be0076e9",
-    "source": "World Bank",
-    "title": "Building Regulation Specialist",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446292",
-    "country": "MA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987131+00:00"
-  },
-  {
-    "id": "217d9b7a341c",
-    "source": "World Bank",
-    "title": "Consultancy Services for the Independent Verification Agent of Performance Based Conditions (PBCs)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446322",
-    "country": "ES",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987171+00:00"
-  },
-  {
-    "id": "2b159e990b87",
-    "source": "World Bank",
-    "title": "Hire consultants to develop an investment case for NPHIs to advocate for political support and more resources for NPHIs",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446447",
-    "country": "EA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987215+00:00"
-  },
-  {
-    "id": "931445aeba5a",
-    "source": "World Bank",
-    "title": "Project Coordinator",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446468",
-    "country": "UK",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987249+00:00"
-  },
-  {
-    "id": "38b87f1f4af0",
-    "source": "World Bank",
-    "title": "Consultancy services for the construction supervision of the development of selected inland valleys in the Ashanti Region at Anunuso, Waamu/Kumi and Odaho/Odamu -Lot 1",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00444735",
-    "country": "WE",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987294+00:00"
-  },
-  {
-    "id": "224896e9242f",
-    "source": "World Bank",
-    "title": "Procurement of 3No hardtop vehicles for the KNPHI",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446330",
-    "country": "EA",
-    "exclusion_reason": "no_service_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987337+00:00"
-  },
-  {
-    "id": "4054b4bdd09d",
-    "source": "World Bank",
-    "title": "SUPPLY, DELIVERY, INSTALLATION & COMMISSIONING OF A 1NO. 40 USER LABORATORY INFORMATION MANAGEMENT SYSTEM FOR THE NATIONAL QUALITY CONTROL LABORATORY",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446349",
-    "country": "EA",
-    "exclusion_reason": "goods_tender (matched: 'supply, delivery')",
-    "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.987358+00:00"
-  },
-  {
-    "id": "51c901abc2b6",
-    "source": "World Bank",
-    "title": "Lote 5 - Aquisição de bens necessários para o funcionamento do viveiro central de produção de mudas de fruteiras",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446402",
-    "country": "AN",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987402+00:00"
-  },
-  {
-    "id": "7f45e8925c7b",
-    "source": "World Bank",
-    "title": "WATSAN CONSUMER SURVEYS, LAND USE AND BUILDING PLAN UNDER “PUNJAB INCLUSIVE CITIES PROGRAM (PICP)”  - PACKAGE I (MandiBahuddin, Samundari and Chiniot)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446412",
-    "country": "PA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987467+00:00"
-  },
-  {
-    "id": "7de66f30a805",
-    "source": "World Bank",
-    "title": "Recrutement des maitrises d’œuvre pour la préparation et la supervision des travaux de construction des salles de classe et ouvrages connexes de la phase ouverte dans la Région de Niamey",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446334",
-    "country": "NI",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987528+00:00"
-  },
-  {
-    "id": "986522f02d92",
-    "source": "World Bank",
-    "title": "PR and Strategic Communications Support for the INSON Project",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446445",
-    "country": "UZ",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987566+00:00"
-  },
-  {
-    "id": "937e172ac07c",
-    "source": "World Bank",
-    "title": "Hiring of an Individual Consultant as Technical Assistant to Site Supervision of Weak Bridges and Post-Disaster Recovery Activities Under ICDP Assignment Duration-16 months",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00431866",
-    "country": "SR",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987608+00:00"
-  },
-  {
-    "id": "edff822e0a06",
-    "source": "World Bank",
-    "title": "Hiring of an Individual Consultant as Technical Assistant to Site Supervision of Weak Bridges and Post-Disaster Recovery Activities Under ICDP Assignment Duration-16 months",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00431868",
-    "country": "SR",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987634+00:00"
-  },
-  {
-    "id": "1aa0269937f1",
-    "source": "World Bank",
-    "title": "Hiring of an Individual Consultant as Technical Assistant to Site Supervision of Weak Bridges and Post-Disaster Recovery Activities Under ICDP Assignment Duration-16 months",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00431872",
-    "country": "SR",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987656+00:00"
-  },
-  {
-    "id": "19b8d5461df0",
-    "source": "World Bank",
-    "title": "Préachat de connectivité à large bande pour le Gouvernement",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446103",
-    "country": "CH",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987691+00:00"
-  },
-  {
-    "id": "e81b99f7c2a3",
-    "source": "World Bank",
-    "title": "CONSULTANCY SERVICES TO PROVIDE TRAINING IN CERTIFIED FINANCIAL ANALYST (CFA) TO GOR STAFF AND HIGH PERFORMING STUDENTS",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446331",
-    "country": "RW",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987731+00:00"
-  },
-  {
-    "id": "dce47e97dd70",
-    "source": "World Bank",
-    "title": "Hiring of an Individual Consultant as Technical Assistant to Site Supervision of Weak Bridges and Post-Disaster Recovery Activities in Galle District Under ICDP",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446345",
-    "country": "SR",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987766+00:00"
-  },
-  {
-    "id": "880affb31d33",
-    "source": "World Bank",
-    "title": "Chief Engineer for the new PIU under the CHCS",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446382",
-    "country": "TA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987799+00:00"
-  },
-  {
-    "id": "c77ea1ee1cb9",
-    "source": "World Bank",
-    "title": "Goods and equipment for demonstration farms in Jalal-Abad and Chui oblasts (dairy cluster)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446388",
-    "country": "KY",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987833+00:00"
-  },
-  {
-    "id": "84d4110d8138",
-    "source": "World Bank",
-    "title": "Individual Technical Assistance for Management of Liaison and Investments for Private Water Providers",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446393",
-    "country": "MO",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987869+00:00"
-  },
-  {
-    "id": "b1a1c8a22c36",
-    "source": "World Bank",
-    "title": "Research Assistant for Social Policy Lab / Research Accelerator",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446371",
-    "country": "UZ",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987906+00:00"
-  },
-  {
-    "id": "5b48330332a6",
-    "source": "World Bank",
-    "title": "WATSAN CONSUMER SURVEYS, LAND USE AND BUILDING PLAN UNDER “PUNJAB INCLUSIVE CITIES PROGRAM (PICP)” - PACKAGE III (Jatoi, Jampur, Rajanpur, Khanpur, Shujabad, Ahmadpur East, Sadiqabad)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446419",
-    "country": "PA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.987965+00:00"
-  },
-  {
-    "id": "48d941d4bf98",
-    "source": "World Bank",
-    "title": "Recrutement des maitrises d’œuvre pour la préparation et la supervision des travaux de construction des salles de classes et ouvrages connexes de la phase ouverte dans la Région de Tahoua",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446339",
-    "country": "NI",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988024+00:00"
-  },
-  {
-    "id": "d3ba0012720e",
-    "source": "World Bank",
-    "title": "Recrutement d'un (1) assistant(e) en sauvegarde sociale pour l’Unité de Coordination du PASEA #3",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445469",
-    "country": "CO",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988076+00:00"
-  },
-  {
-    "id": "8536166ff51c",
-    "source": "World Bank",
-    "title": "Traffic Survey and Modelling for Pedestrianization of Colombo Fort and Pettah Heritage Zone",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445991",
-    "country": "SR",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988117+00:00"
-  },
-  {
-    "id": "2cec55782d19",
-    "source": "World Bank",
-    "title": "Enquête de satisfaction des bénéficiaires",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446158",
-    "country": "WE",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988157+00:00"
-  },
-  {
-    "id": "954ec3ed77fc",
-    "source": "World Bank",
-    "title": "BNL IT Equipment",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446272",
-    "country": "KI",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988188+00:00"
-  },
-  {
-    "id": "3717d94e3d2a",
-    "source": "World Bank",
-    "title": "Development of Mobile Digital Identity Platform for Mozambique",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445581",
-    "country": "MO",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988306+00:00"
-  },
-  {
-    "id": "2b3826f04516",
-    "source": "World Bank",
-    "title": "Office Furniture for MoFP & PMU - Phase 1",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446036",
-    "country": "WE",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988338+00:00"
-  },
-  {
-    "id": "c59a26cb4ffe",
-    "source": "World Bank",
-    "title": "Procurement of Specialized Museum Showcases for the upgradation of the Museum at Hund, District Swabi.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446066",
-    "country": "PA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988371+00:00"
-  },
-  {
-    "id": "a381fda0857b",
-    "source": "World Bank",
-    "title": "Audit de l’achèvement de la mise en œuvre du PAR",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446163",
-    "country": "WE",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988427+00:00"
-  },
-  {
-    "id": "f8989d407d07",
-    "source": "World Bank",
-    "title": "Acquisitions des lots pour les bénéficiaires meilleurs concours TMDH et FSP pour DRU",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446206",
-    "country": "MA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988468+00:00"
-  },
-  {
-    "id": "d48e0147d0e4",
-    "source": "World Bank",
-    "title": "Recrutement d'un second Ingénieur en infrastructure de niveau BAC+5 Minimum",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446020",
-    "country": "DR",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988510+00:00"
-  },
-  {
-    "id": "bcee08d62d12",
-    "source": "World Bank",
-    "title": "New Features development of Women Entrepreneurs Networking Platform (WENP)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446028",
-    "country": "BA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988545+00:00"
-  },
-  {
-    "id": "97eedf2e20f4",
-    "source": "World Bank",
-    "title": "Acquisition des mobiliers de bureau pour la salle de conférence du ministères de l'Aménagement du Territoire de l'Urbanisme, chargé des Affaires Foncières et des Transports Terrestres",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446049",
-    "country": "EA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988601+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957596+00:00"
   },
   {
     "id": "18575ebd5866",
@@ -677,7 +1697,7 @@
     "country": "JO",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988637+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957633+00:00"
   },
   {
     "id": "07279fe291ec",
@@ -687,7 +1707,7 @@
     "country": "DJ",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988667+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957663+00:00"
   },
   {
     "id": "0897866692ea",
@@ -697,7 +1717,7 @@
     "country": "GH",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988696+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957693+00:00"
   },
   {
     "id": "a17ab2a22f99",
@@ -707,7 +1727,7 @@
     "country": "SO",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988778+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957771+00:00"
   },
   {
     "id": "86f054a80e67",
@@ -717,7 +1737,7 @@
     "country": "SU",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988806+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957799+00:00"
   },
   {
     "id": "451fda6cbacd",
@@ -727,7 +1747,7 @@
     "country": "KE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988844+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957837+00:00"
   },
   {
     "id": "f62edb85dbd5",
@@ -737,7 +1757,7 @@
     "country": "KE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988873+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957867+00:00"
   },
   {
     "id": "cf7eb6d69082",
@@ -745,9 +1765,9 @@
     "title": "Routine Immunization vaccines and other health commodities requiring transportation at temperature ranges between +2°C to +8°C_DRIVE on LTA Basis",
     "url": "https://www.ungm.org/Public/Notice/297452",
     "country": "NI",
-    "exclusion_reason": "expired (deadline was 2026-05-04, 19 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-05-04, 20 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.988936+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957930+00:00"
   },
   {
     "id": "798a46d90128",
@@ -757,7 +1777,7 @@
     "country": "LI",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.988982+00:00"
+    "excluded_at": "2026-05-24T08:29:16.957977+00:00"
   },
   {
     "id": "2f6cf95a1fc0",
@@ -767,7 +1787,7 @@
     "country": "NI",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.989011+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958006+00:00"
   },
   {
     "id": "8c4e5dfc67e0",
@@ -777,7 +1797,7 @@
     "country": "MO",
     "exclusion_reason": "goods_tender (matched: 'supply and installation')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.989027+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958021+00:00"
   },
   {
     "id": "1eca8c6d90ca",
@@ -785,9 +1805,9 @@
     "title": "Procurement of Ebola Vaccines of assured quality for Stockpiling and Use, including stockpile management, storage, maintenance, replenishment, delivery and destruction of vaccines upon expiry",
     "url": "https://www.ungm.org/Public/Notice/296247",
     "country": "MU",
-    "exclusion_reason": "expired (deadline was 2026-05-01, 22 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-05-01, 23 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.989092+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958085+00:00"
   },
   {
     "id": "e718ae71d690",
@@ -797,7 +1817,7 @@
     "country": "TA",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.989136+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958129+00:00"
   },
   {
     "id": "30b8af0c07b3",
@@ -807,7 +1827,7 @@
     "country": "MU",
     "exclusion_reason": "goods_tender (matched: 'supply of vaccines')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.989159+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958151+00:00"
   },
   {
     "id": "c24c5656680d",
@@ -817,7 +1837,7 @@
     "country": "KE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.989190+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958182+00:00"
   },
   {
     "id": "a4bdeef555d0",
@@ -825,9 +1845,9 @@
     "title": "National roll-out of the training 'Strengthening communication skills on MMR vaccination among primary healthcare providers'",
     "url": "https://www.ungm.org/Public/Notice/300474",
     "country": "RO",
-    "exclusion_reason": "expired (deadline was 2026-05-20, 3 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-05-20, 4 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.989243+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958235+00:00"
   },
   {
     "id": "4ffb77a66326",
@@ -837,7 +1857,7 @@
     "country": "BU",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.989292+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958284+00:00"
   },
   {
     "id": "39f14e3958e5",
@@ -845,9 +1865,9 @@
     "title": "APPEL A PROPOSITIONS POUR LES ÉTUDES TECHNIQUES DES D’INFRASTRUCTURES PASTORALES (POINTS VETERINAIRES, AMENAGEMENTS DE RAMPES D’ACCES AUX POINTS D’EAU, BASSINS DE TRAITEMENT ET DE VACCINATION, COULOIRS DE VACCINATION ETC.) A KINDIA ET MAMOU",
     "url": "https://www.ungm.org/Public/Notice/296576",
     "country": "GU",
-    "exclusion_reason": "expired (deadline was 2026-04-24, 29 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-04-24, 30 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.989384+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958379+00:00"
   },
   {
     "id": "94e1fca403fb",
@@ -857,7 +1877,7 @@
     "country": "GU",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.989423+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958410+00:00"
   },
   {
     "id": "7b0e1d0df89a",
@@ -865,9 +1885,9 @@
     "title": "Vaccination Services.",
     "url": "https://www.ungm.org/Public/Notice/295896",
     "country": "NE",
-    "exclusion_reason": "expired (deadline was 2026-04-10, 43 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-04-10, 44 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.989465+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958451+00:00"
   },
   {
     "id": "da599b6d09b6",
@@ -875,9 +1895,9 @@
     "title": "To design and implement adolescent-led crowd sourced peer-to-peer messaging to increase HPV vaccination uptake among adolescent girls in Uganda.",
     "url": "https://www.ungm.org/Public/Notice/295691",
     "country": "UG",
-    "exclusion_reason": "expired (deadline was 2026-04-14, 39 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-04-14, 40 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.989523+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958510+00:00"
   },
   {
     "id": "319f4ba798da",
@@ -885,9 +1905,9 @@
     "title": "RFP/TCD/001/2026 -Sélection d’un cabinet pour conduire l'évaluation de la campagne de vaccination contre la rougeole au Tchad en novembre 2025",
     "url": "https://www.ungm.org/Public/Notice/293567",
     "country": "CH",
-    "exclusion_reason": "expired (deadline was 2026-03-17, 67 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-03-17, 68 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.989597+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958595+00:00"
   },
   {
     "id": "c1a411694320",
@@ -897,7 +1917,7 @@
     "country": "CH",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.989635+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958634+00:00"
   },
   {
     "id": "2dc3be3980d4",
@@ -905,9 +1925,9 @@
     "title": "LRFP-2026- 9202228 TRAVAUX DE RÉHABILITATION DE L’ENTREPÔT DU PROGRAMME ÉLARGI DE VACCINATION (PEV) – PHASE II",
     "url": "https://www.ungm.org/Public/Notice/293165",
     "country": "BU",
-    "exclusion_reason": "expired (deadline was 2026-03-27, 57 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-03-27, 58 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.989702+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958703+00:00"
   },
   {
     "id": "e1f830806314",
@@ -917,7 +1937,7 @@
     "country": "UN",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.989739+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958740+00:00"
   },
   {
     "id": "365435b48cec",
@@ -925,9 +1945,9 @@
     "title": "Recrutement d’une organisation / un prestataire pour assurer la conception Pédagogique de Module de formation sur les volets cartographie thermique des chambres froides, gestion des déchets de vaccination, gestion des vaccins et maintenance de la chaîne du",
     "url": "https://www.ungm.org/Public/Notice/289196",
     "country": "CO",
-    "exclusion_reason": "expired (deadline was 2026-02-11, 101 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-02-11, 102 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.989834+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958837+00:00"
   },
   {
     "id": "31e6f2793627",
@@ -937,7 +1957,7 @@
     "country": "CO",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.989872+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958875+00:00"
   },
   {
     "id": "b97adab5b607",
@@ -945,9 +1965,9 @@
     "title": "Enquête de couverture campagne de vaccination orale contre le Cholera (VCO) dans 9 DPS (VCO) Haut-Lomani, Lualaba,Haut-Katanga, Tshopo, Maniema, Tanganyika, Kinshasa, Mai Ndombe & Equateur en RDC",
     "url": "https://www.ungm.org/Public/Notice/286954",
     "country": "CO",
-    "exclusion_reason": "expired (deadline was 2026-01-13, 130 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-01-13, 131 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.989948+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958952+00:00"
   },
   {
     "id": "7626a94d75d1",
@@ -957,7 +1977,7 @@
     "country": "EG",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.989976+00:00"
+    "excluded_at": "2026-05-24T08:29:16.958980+00:00"
   },
   {
     "id": "d397a7079813",
@@ -967,7 +1987,7 @@
     "country": "JO",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.990064+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959065+00:00"
   },
   {
     "id": "d40a7c72f32b",
@@ -975,9 +1995,9 @@
     "title": "Technical Digital Solution Handover Support Management Immunization Information System (IIS) / Master Patient Index (MPI) in Fiji, Kiribati, and the Solomon Islands",
     "url": "https://www.ungm.org/Public/Notice/291974",
     "country": "MU",
-    "exclusion_reason": "expired (deadline was 2026-03-17, 67 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-03-17, 68 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.990127+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959127+00:00"
   },
   {
     "id": "832a90395208",
@@ -985,9 +2005,9 @@
     "title": "Procurement of laptops and barcode scanners for the Digital Health Immunization Project for Fiji, Kiribati & Solomon Islands",
     "url": "https://www.ungm.org/Public/Notice/288300",
     "country": "MU",
-    "exclusion_reason": "expired (deadline was 2026-01-15, 128 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-01-15, 129 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.990183+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959181+00:00"
   },
   {
     "id": "8e5500d3df92",
@@ -995,9 +2015,9 @@
     "title": "Institutional Consultancy to develop and implement a system for Individual Digital Registry for strengthening routine immunization in Angola",
     "url": "https://www.ungm.org/Public/Notice/287957",
     "country": "AN",
-    "exclusion_reason": "expired (deadline was 2026-01-18, 125 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-01-18, 126 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.990239+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959233+00:00"
   },
   {
     "id": "5f9083deceac",
@@ -1005,9 +2025,9 @@
     "title": "Consultancy to conduct a rapid SBC capacity assessment on Immunization and develop an SBC curriculum",
     "url": "https://www.ungm.org/Public/Notice/286598",
     "country": "VI",
-    "exclusion_reason": "expired (deadline was 2025-12-28, 146 days ago)",
+    "exclusion_reason": "expired (deadline was 2025-12-28, 147 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.990288+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959281+00:00"
   },
   {
     "id": "6c789dc1dc33",
@@ -1015,9 +2035,9 @@
     "title": "Safe healthcare waste treatment equipment and services for National Expanded Program for Immunization (NEPI) in Afghanistan",
     "url": "https://www.ungm.org/Public/Notice/282210",
     "country": "AF",
-    "exclusion_reason": "expired (deadline was 2025-11-12, 192 days ago)",
+    "exclusion_reason": "expired (deadline was 2025-11-12, 193 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.990346+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959339+00:00"
   },
   {
     "id": "45e6356430c5",
@@ -1025,9 +2045,9 @@
     "title": "National Immunization Coverage Survey",
     "url": "https://www.ungm.org/Public/Notice/283836",
     "country": "CA",
-    "exclusion_reason": "expired (deadline was 2025-11-14, 190 days ago)",
+    "exclusion_reason": "expired (deadline was 2025-11-14, 191 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.990391+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959385+00:00"
   },
   {
     "id": "944c09fd2225",
@@ -1035,9 +2055,9 @@
     "title": "Provision of ICT support services for the rollout of the Immunization Information Systems (IIS) in Fiji and Kiribati",
     "url": "https://www.ungm.org/Public/Notice/282997",
     "country": "MU",
-    "exclusion_reason": "expired (deadline was 2025-11-14, 190 days ago)",
+    "exclusion_reason": "expired (deadline was 2025-11-14, 191 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.990454+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959439+00:00"
   },
   {
     "id": "ce750ff09a8c",
@@ -1047,7 +2067,7 @@
     "country": "KE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.990484+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959468+00:00"
   },
   {
     "id": "209d08da6693",
@@ -1055,9 +2075,9 @@
     "title": "Request For Proposal no. 2025- 9200341- Comprehensive Assessment of Immunization Financing and Development of a five-Year Investment Plan for Jordan’s National Immunization Programme (2026–2029) .",
     "url": "https://www.ungm.org/Public/Notice/280571",
     "country": "JO",
-    "exclusion_reason": "expired (deadline was 2025-10-27, 208 days ago)",
+    "exclusion_reason": "expired (deadline was 2025-10-27, 209 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.990568+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959554+00:00"
   },
   {
     "id": "d0c5e231efbc",
@@ -1065,9 +2085,9 @@
     "title": "Post-Assessment of existing service availability, coverage, healthcare-seeking behavior, stakeholder mapping, and gap analysis of Expanded Program on Immunization (EPI) in eight Districts",
     "url": "https://www.ungm.org/Public/Notice/279528",
     "country": "BA",
-    "exclusion_reason": "expired (deadline was 2025-10-30, 205 days ago)",
+    "exclusion_reason": "expired (deadline was 2025-10-30, 206 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.990631+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959630+00:00"
   },
   {
     "id": "ba83dbcff2b2",
@@ -1075,9 +2095,9 @@
     "title": "Post-Assessment of existing service availability, coverage, healthcare-seeking behavior, stakeholder mapping, and gap analysis of Expanded Program on Immunization (EPI) in eight city corporations",
     "url": "https://www.ungm.org/Public/Notice/279529",
     "country": "BA",
-    "exclusion_reason": "expired (deadline was 2025-11-06, 198 days ago)",
+    "exclusion_reason": "expired (deadline was 2025-11-06, 199 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.990685+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959683+00:00"
   },
   {
     "id": "252e7162c4e8",
@@ -1087,7 +2107,7 @@
     "country": "PA",
     "exclusion_reason": "goods_tender (matched: 'supply and delivery')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.990703+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959700+00:00"
   },
   {
     "id": "0d2f8a787a45",
@@ -1095,9 +2115,9 @@
     "title": "Conduct 5 regional workshops involving immunisation stakeholders from all the 146 districts and cities of Uganda. These meetings will generate evidence on equity dimensions to guide the implementation of the Gavi Alliance Equity Accelerator Fund Grant and",
     "url": "https://www.ungm.org/Public/Notice/297003",
     "country": "UG",
-    "exclusion_reason": "expired (deadline was 2026-04-17, 36 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-04-17, 37 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.990777+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959771+00:00"
   },
   {
     "id": "569be2c92151",
@@ -1105,9 +2125,9 @@
     "title": "To facilitate Human Centred Design (HCD) training for district-level multi-stakeholders in the area of immunisation and co-create sustainable solutions.",
     "url": "https://www.ungm.org/Public/Notice/264096",
     "country": "UG",
-    "exclusion_reason": "expired (deadline was 2025-05-05, 383 days ago)",
+    "exclusion_reason": "expired (deadline was 2025-05-05, 384 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.990836+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959829+00:00"
   },
   {
     "id": "4921a86da99b",
@@ -1115,9 +2135,9 @@
     "title": "Consultancy contract for Implementation Research (IR) for strengthening Primary Health Care (PHC) and Expanded programme on Immunisation (EPI) systems in Zambia",
     "url": "https://www.ungm.org/Public/Notice/255158",
     "country": "ZA",
-    "exclusion_reason": "expired (deadline was 2024-12-30, 509 days ago)",
+    "exclusion_reason": "expired (deadline was 2024-12-30, 510 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.990891+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959884+00:00"
   },
   {
     "id": "33b95c523a0c",
@@ -1127,7 +2147,7 @@
     "country": "UG",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.990931+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959924+00:00"
   },
   {
     "id": "f63a82a840dc",
@@ -1135,9 +2155,9 @@
     "title": "Social and Behaviour Change (SBC) consultants to support demand generation and uptake of immunisation services in selected districts, cities and municipalities identified with high zero dose and under immunised children",
     "url": "https://www.ungm.org/Public/Notice/242979",
     "country": "UG",
-    "exclusion_reason": "expired (deadline was 2024-08-22, 639 days ago)",
+    "exclusion_reason": "expired (deadline was 2024-08-22, 640 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.991000+00:00"
+    "excluded_at": "2026-05-24T08:29:16.959992+00:00"
   },
   {
     "id": "692e1bef77cf",
@@ -1147,7 +2167,7 @@
     "country": "NI",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.991039+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960031+00:00"
   },
   {
     "id": "08420bbe08bd",
@@ -1155,9 +2175,9 @@
     "title": "Open Logistics Management Information system Development and Deployment for Immunisation Supply Chain Management in Zambia.",
     "url": "https://www.ungm.org/Public/Notice/235028",
     "country": "ZA",
-    "exclusion_reason": "expired (deadline was 2024-06-13, 709 days ago)",
+    "exclusion_reason": "expired (deadline was 2024-06-13, 710 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.991095+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960088+00:00"
   },
   {
     "id": "219e195dbb5e",
@@ -1165,9 +2185,9 @@
     "title": "Conducting a countrywide inventory of immunisation programme assets in all state facilities storing vaccines or providing immunisation services in Uzbekistan (National Vaccine Store, 14 regional store",
     "url": "https://www.ungm.org/Public/Notice/225775",
     "country": "UZ",
-    "exclusion_reason": "expired (deadline was 2024-02-27, 816 days ago)",
+    "exclusion_reason": "expired (deadline was 2024-02-27, 817 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.991161+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960153+00:00"
   },
   {
     "id": "d53070c88ba7",
@@ -1175,9 +2195,9 @@
     "title": "Fiji national immunisation coverage survey",
     "url": "https://www.ungm.org/Public/Notice/221933",
     "country": "FI",
-    "exclusion_reason": "expired (deadline was 2024-01-17, 857 days ago)",
+    "exclusion_reason": "expired (deadline was 2024-01-17, 858 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.991205+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960197+00:00"
   },
   {
     "id": "ed08e6a40966",
@@ -1185,9 +2205,9 @@
     "title": "Qualitative impact analysis – immunisation, health and wellbeing of children in Roma settlements",
     "url": "https://www.ungm.org/Public/Notice/186564",
     "country": "SE",
-    "exclusion_reason": "expired (deadline was 2022-11-30, 1270 days ago)",
+    "exclusion_reason": "expired (deadline was 2022-11-30, 1271 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.991282+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960276+00:00"
   },
   {
     "id": "e80708c18118",
@@ -1197,7 +2217,7 @@
     "country": "NI",
     "exclusion_reason": "Hard sanctions (text match): Cuba",
     "exclusion_type": "sanctioned",
-    "excluded_at": "2026-05-23T08:19:06.991295+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960290+00:00"
   },
   {
     "id": "8f25916e4581",
@@ -1205,9 +2225,9 @@
     "title": "EVALUATION A MI-PARCOURS DU PROGRAMME D'IMMUNISATION ET DE RENFORCEMENT DU SYSTEME DE SANTE AU BURUNDI",
     "url": "https://www.ungm.org/Public/Notice/141049",
     "country": "BU",
-    "exclusion_reason": "expired (deadline was 2021-10-08, 1688 days ago)",
+    "exclusion_reason": "expired (deadline was 2021-10-08, 1689 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.991345+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960339+00:00"
   },
   {
     "id": "2bd09fa693e2",
@@ -1215,9 +2235,9 @@
     "title": "Improvement of immunisation safety surveillance",
     "url": "https://www.ungm.org/Public/Notice/123423",
     "country": "LA",
-    "exclusion_reason": "expired (deadline was 2021-03-19, 1891 days ago)",
+    "exclusion_reason": "expired (deadline was 2021-03-19, 1892 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.991394+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960388+00:00"
   },
   {
     "id": "9d0fe2f9e3de",
@@ -1225,9 +2245,9 @@
     "title": "Sélection d’un prestataire pour organisation d’un Forum sur l’immunisation (REPUBLICATION)",
     "url": "https://www.ungm.org/Public/Notice/122968",
     "country": "CO",
-    "exclusion_reason": "expired (deadline was 2021-03-11, 1899 days ago)",
+    "exclusion_reason": "expired (deadline was 2021-03-11, 1900 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.991469+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960455+00:00"
   },
   {
     "id": "b7bc1f7b1609",
@@ -1235,9 +2255,9 @@
     "title": "Sélection d’un prestataire pour organisation d’un Forum sur l’immunisation",
     "url": "https://www.ungm.org/Public/Notice/119327",
     "country": "CO",
-    "exclusion_reason": "expired (deadline was 2020-12-22, 1978 days ago)",
+    "exclusion_reason": "expired (deadline was 2020-12-22, 1979 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.991528+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960515+00:00"
   },
   {
     "id": "b24e9c368a31",
@@ -1247,7 +2267,7 @@
     "country": "AR",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.991625+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960624+00:00"
   },
   {
     "id": "b4fc617e5929",
@@ -1257,7 +2277,7 @@
     "country": "AF",
     "exclusion_reason": "goods_tender (matched: 'construction of')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.991647+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960646+00:00"
   },
   {
     "id": "f2ae83ffff24",
@@ -1267,7 +2287,7 @@
     "country": "SR",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.991682+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960679+00:00"
   },
   {
     "id": "9c7ba8b3b887",
@@ -1277,7 +2297,7 @@
     "country": "AF",
     "exclusion_reason": "goods_tender (matched: 'construction of')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.991703+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960699+00:00"
   },
   {
     "id": "1b9c081e3575",
@@ -1285,9 +2305,9 @@
     "title": "Long Term Agreement for cold chain for local companies based in Lebanon",
     "url": "https://www.ungm.org/Public/Notice/287995",
     "country": "LE",
-    "exclusion_reason": "expired (deadline was 2026-02-20, 92 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-02-20, 93 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.991756+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960751+00:00"
   },
   {
     "id": "5bb2e477bd4b",
@@ -1295,9 +2315,9 @@
     "title": "Long-term Agreement to provide Vaccines Logistics and Cold Chain Management Services",
     "url": "https://www.ungm.org/Public/Notice/287854",
     "country": "SO",
-    "exclusion_reason": "expired (deadline was 2026-01-14, 129 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-01-14, 130 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.991806+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960801+00:00"
   },
   {
     "id": "eae85f12ad27",
@@ -1307,7 +2327,7 @@
     "country": "GH",
     "exclusion_reason": "goods_tender (matched: 'supply and delivery')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.991821+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960817+00:00"
   },
   {
     "id": "5816b9eab255",
@@ -1315,9 +2335,9 @@
     "title": "LRPS-2025-9200533_Conference services_24 trainings on Cold Chain and vaccine management",
     "url": "https://www.ungm.org/Public/Notice/281475",
     "country": "UK",
-    "exclusion_reason": "expired (deadline was 2025-11-06, 198 days ago)",
+    "exclusion_reason": "expired (deadline was 2025-11-06, 199 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.991869+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960866+00:00"
   },
   {
     "id": "1d94e9c91d36",
@@ -1325,9 +2345,9 @@
     "title": "Introducing Phase Change Materials (PCM) into Gambia's cold chain to address post-harvest loss and other waste across the primary sector.",
     "url": "https://www.ungm.org/Public/Notice/283255",
     "country": "GA",
-    "exclusion_reason": "expired (deadline was 2025-11-14, 190 days ago)",
+    "exclusion_reason": "expired (deadline was 2025-11-14, 191 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.991932+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960928+00:00"
   },
   {
     "id": "7f303cdc1ea7",
@@ -1337,7 +2357,7 @@
     "country": "SO",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.991966+00:00"
+    "excluded_at": "2026-05-24T08:29:16.960961+00:00"
   },
   {
     "id": "a764a8621a17",
@@ -1345,9 +2365,9 @@
     "title": "Renovation work for the Cold Chain Training Center",
     "url": "https://www.ungm.org/Public/Notice/281242",
     "country": "PA",
-    "exclusion_reason": "expired (deadline was 2025-11-03, 201 days ago)",
+    "exclusion_reason": "expired (deadline was 2025-11-03, 202 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.992012+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961007+00:00"
   },
   {
     "id": "cfb646899ccc",
@@ -1355,9 +2375,9 @@
     "title": "Call for tender LRFPS-2025-9200076 for the Decommissioning and disposal of out-of-use cold chain equipment in accordance with joint UNICEF-WHO guidelines at regional levels",
     "url": "https://www.ungm.org/Public/Notice/279455",
     "country": "CA",
-    "exclusion_reason": "expired (deadline was 2025-10-23, 212 days ago)",
+    "exclusion_reason": "expired (deadline was 2025-10-23, 213 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.992078+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961072+00:00"
   },
   {
     "id": "4f96b21d9f36",
@@ -1367,7 +2387,7 @@
     "country": "TA",
     "exclusion_reason": "goods_tender (matched: 'supply and installation')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.992093+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961087+00:00"
   },
   {
     "id": "80c204c4f463",
@@ -1375,9 +2395,9 @@
     "title": "Assessment of potential hubs for influenza vaccine procurement",
     "url": "https://www.ungm.org/Public/Notice/66980",
     "country": "SW",
-    "exclusion_reason": "expired (deadline was 2018-01-28, 3037 days ago)",
+    "exclusion_reason": "expired (deadline was 2018-01-28, 3038 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.992139+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961134+00:00"
   },
   {
     "id": "e6efff85d0e1",
@@ -1387,7 +2407,7 @@
     "country": "HA",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.992171+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961165+00:00"
   },
   {
     "id": "cdbf67d10ec0",
@@ -1397,7 +2417,7 @@
     "country": "SW",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.992215+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961211+00:00"
   },
   {
     "id": "fe2ef427eb55",
@@ -1407,7 +2427,7 @@
     "country": "UZ",
     "exclusion_reason": "goods_tender (matched: 'supply of laboratory')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.992240+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961236+00:00"
   },
   {
     "id": "fe4f2476beb9",
@@ -1417,7 +2437,7 @@
     "country": "UZ",
     "exclusion_reason": "goods_tender (matched: 'supply of laboratory')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.992261+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961257+00:00"
   },
   {
     "id": "d057ff7cc5a1",
@@ -1427,7 +2447,7 @@
     "country": "UZ",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.992302+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961298+00:00"
   },
   {
     "id": "ae7d0edbe222",
@@ -1437,7 +2457,7 @@
     "country": "UZ",
     "exclusion_reason": "goods_tender (matched: 'supply, delivery')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.992318+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961314+00:00"
   },
   {
     "id": "4fa1b1ff8481",
@@ -1445,9 +2465,9 @@
     "title": "Procurement of Beekeeping Training Materials to be delivered to Duzce, Turkiye",
     "url": "https://www.ungm.org/Public/Notice/297992",
     "country": "TÜ",
-    "exclusion_reason": "expired (deadline was 2026-05-03, 20 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-05-03, 21 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.992370+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961367+00:00"
   },
   {
     "id": "d6c936e4406f",
@@ -1455,9 +2475,9 @@
     "title": "Long-term supply of petroleum, oil and lubricants and provision of associated services to the United Nations Peacekeeping Force in Cyprus (UNFICYP).)",
     "url": "https://www.ungm.org/Public/Notice/298040",
     "country": "CY",
-    "exclusion_reason": "expired (deadline was 2026-05-13, 10 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-05-13, 11 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.992438+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961428+00:00"
   },
   {
     "id": "dca818eb1882",
@@ -1465,9 +2485,9 @@
     "title": "GCP/SFS/009/ITA - Beekeeping Equipment",
     "url": "https://www.ungm.org/Public/Notice/297622",
     "country": "MO",
-    "exclusion_reason": "expired (deadline was 2026-04-27, 26 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-04-27, 27 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.992480+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961468+00:00"
   },
   {
     "id": "bf01d91bb8e8",
@@ -1477,7 +2497,7 @@
     "country": "UZ",
     "exclusion_reason": "goods_tender (matched: 'supply, delivery')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-05-23T08:19:06.992497+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961484+00:00"
   },
   {
     "id": "89e9280bb18c",
@@ -1485,9 +2505,9 @@
     "title": "ENERGY AUDIT AND SYSTEM DESIGN FOR EXTENSION OF THE EXISTING 150 KVA SOLAR SYSTEM TO THE NEW EPI DRY STORE. SEE ATTACHED TOR & BOQ FOR DETAILS.",
     "url": "https://www.ungm.org/Public/Notice/296565",
     "country": "SI",
-    "exclusion_reason": "expired (deadline was 2026-04-21, 32 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-04-21, 33 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.992553+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961539+00:00"
   },
   {
     "id": "28e8ee0b6ebb",
@@ -1497,7 +2517,7 @@
     "country": "HO",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.992588+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961583+00:00"
   },
   {
     "id": "cc562027e6e0",
@@ -1505,9 +2525,9 @@
     "title": "Development and pilot implementation of Digital Safekeeping",
     "url": "https://www.ungm.org/Public/Notice/296436",
     "country": "UN",
-    "exclusion_reason": "expired (deadline was 2026-04-27, 26 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-04-27, 27 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.992637+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961632+00:00"
   },
   {
     "id": "ae8b9ff4e6fd",
@@ -1517,7 +2537,7 @@
     "country": "MU",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.992669+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961664+00:00"
   },
   {
     "id": "b3b8d3f02eec",
@@ -1527,7 +2547,7 @@
     "country": "UZ",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:06.992707+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961702+00:00"
   },
   {
     "id": "f93eb70f993c",
@@ -1535,9 +2555,9 @@
     "title": "Long Term Agreement for WHO Prequalification Website Maintenance and Support",
     "url": "https://www.ungm.org/Public/Notice/254055",
     "country": "MU",
-    "exclusion_reason": "expired (deadline was 2025-01-08, 500 days ago)",
+    "exclusion_reason": "expired (deadline was 2025-01-08, 501 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.992763+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961757+00:00"
   },
   {
     "id": "570b225b13da",
@@ -1545,9 +2565,9 @@
     "title": "WHO Prequalification Website Maintenance and Support",
     "url": "https://www.ungm.org/Public/Notice/189835",
     "country": "SW",
-    "exclusion_reason": "expired (deadline was 2023-02-03, 1205 days ago)",
+    "exclusion_reason": "expired (deadline was 2023-02-03, 1206 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.992813+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961808+00:00"
   },
   {
     "id": "da0913e864d1",
@@ -1555,9 +2575,9 @@
     "title": "IT support, application and data management activities to the WHO Prequalification Unit – Medicines Assessment Team PQT/MED",
     "url": "https://www.ungm.org/Public/Notice/144604",
     "country": "SW",
-    "exclusion_reason": "expired (deadline was 2021-10-08, 1688 days ago)",
+    "exclusion_reason": "expired (deadline was 2021-10-08, 1689 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.992888+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961886+00:00"
   },
   {
     "id": "ff78b62ad4d8",
@@ -1565,9 +2585,9 @@
     "title": "WHO Prequalification Online Portal Maintenance and Support.",
     "url": "https://www.ungm.org/Public/Notice/116276",
     "country": "SW",
-    "exclusion_reason": "expired (deadline was 2020-11-27, 2003 days ago)",
+    "exclusion_reason": "expired (deadline was 2020-11-27, 2004 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.992942+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961939+00:00"
   },
   {
     "id": "7c84a0415ebd",
@@ -1575,9 +2595,9 @@
     "title": "Support to WHO prequalification to enhance participation and impact",
     "url": "https://www.ungm.org/Public/Notice/110095",
     "country": "SW",
-    "exclusion_reason": "expired (deadline was 2020-07-17, 2136 days ago)",
+    "exclusion_reason": "expired (deadline was 2020-07-17, 2137 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.992995+00:00"
+    "excluded_at": "2026-05-24T08:29:16.961990+00:00"
   },
   {
     "id": "9740f59df480",
@@ -1585,9 +2605,9 @@
     "title": "WHO Prequalification Team - Medicines assessment group (PQT Mx) Assessment Evaluations and Data Management Support 2018 - 2019",
     "url": "https://www.ungm.org/Public/Notice/76297",
     "country": "SW",
-    "exclusion_reason": "expired (deadline was 2018-09-10, 2812 days ago)",
+    "exclusion_reason": "expired (deadline was 2018-09-10, 2813 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.993052+00:00"
+    "excluded_at": "2026-05-24T08:29:16.962047+00:00"
   },
   {
     "id": "2d0150f9a56b",
@@ -1595,9 +2615,9 @@
     "title": "Pharmaceutical Advisory Services for WHO prequalification",
     "url": "https://www.ungm.org/Public/Notice/7018",
     "country": "GH",
-    "exclusion_reason": "expired (deadline was 2009-12-03, 6015 days ago)",
+    "exclusion_reason": "expired (deadline was 2009-12-03, 6016 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-05-23T08:19:06.993100+00:00"
+    "excluded_at": "2026-05-24T08:29:16.962095+00:00"
   },
   {
     "id": "242f648e1d60",
@@ -1607,7 +2627,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:07.000582+00:00"
+    "excluded_at": "2026-05-24T08:29:16.969311+00:00"
   },
   {
     "id": "7c9a6f555960",
@@ -1617,7 +2637,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:07.001041+00:00"
+    "excluded_at": "2026-05-24T08:29:16.970048+00:00"
   },
   {
     "id": "6eabde090f51",
@@ -1627,7 +2647,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:07.001727+00:00"
+    "excluded_at": "2026-05-24T08:29:16.970719+00:00"
   },
   {
     "id": "82ceda2f19a7",
@@ -1637,7 +2657,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:07.003580+00:00"
+    "excluded_at": "2026-05-24T08:29:16.972515+00:00"
   },
   {
     "id": "ab87cccf8ee1",
@@ -1647,7 +2667,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:07.003977+00:00"
+    "excluded_at": "2026-05-24T08:29:16.972923+00:00"
   },
   {
     "id": "b7c93ae64915",
@@ -1657,7 +2677,7 @@
     "country": "ZA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:07.004127+00:00"
+    "excluded_at": "2026-05-24T08:29:16.973076+00:00"
   },
   {
     "id": "a983d721f705",
@@ -1667,7 +2687,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:07.005291+00:00"
+    "excluded_at": "2026-05-24T08:29:16.974247+00:00"
   },
   {
     "id": "718b6a8f8fe1",
@@ -1677,7 +2697,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:07.005637+00:00"
+    "excluded_at": "2026-05-24T08:29:16.974598+00:00"
   },
   {
     "id": "d9f134614e4b",
@@ -1687,6 +2707,6 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-05-23T08:19:07.006528+00:00"
+    "excluded_at": "2026-05-24T08:29:16.975478+00:00"
   }
 ]
