@@ -6,7 +6,7 @@
     "url": "https://africacdc.org/opportunity/open-call-for-expression-of-interest-experts-to-serve-on-the-technical-committees-of-the-african-medicines-agency/",
     "country": "_AU",
     "deadline": "2026-06-18",
-    "deadline_days": 22,
+    "deadline_days": 21,
     "value_usd": null,
     "description": "Date of Issue: 11 May 2026 Closing Date for Applications: 18 June 2026 The African Medicines Agency, established under the AMA Treaty adopted by the African Union, is a specialised continental regulatory agency. The main objective of AMA is to enhance the capacity of State Parties and Regional Economic Communities (RECs) to regulate medical products in order to improve access to quality, safe, and efficacious medical products across the continent. In accordance with Article 20 of the AMA Treaty, the Agency is mandated to establish permanent or ad hoc technical committees to provide technical guidance on specific areas of regulatory expertise. In line with Article 21 of the AMA Treaty, the technical committees shall be responsible for carrying out scientific assessments and conducting scientific reviews of dossiers, including quality aspects and clinical trial applications; inspection of manufacturing facilities; and providing scientific opinions to facilitate the proper functioning of AMA. AMA Technical Committees provide scientific, technical, and regulatory advice to support the work of the Agency and contribute to strengthening regulatory convergence, scientific excellence, and access to safe, effective, and quality-assured medical products across Africa. In accordance with the AMA Treaty and the operationalisation of AMA’s technical functions, the Agency invites Expressions of Interest (EOI) from suitably qualified experts from African Union Member States, particularly St",
     "fit_per_area": {
@@ -31,7 +31,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-05-27T09:44:37.804360+00:00"
+    "fetched_at": "2026-05-28T10:01:18.753017+00:00"
   },
   {
     "id": "404918114864",
@@ -69,7 +69,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.830876+00:00"
+    "fetched_at": "2026-05-28T10:01:18.778026+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -107,7 +107,45 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-05-27T09:44:37.838823+00:00"
+    "fetched_at": "2026-05-28T10:01:18.787068+00:00"
+  },
+  {
+    "id": "b99c361ea615",
+    "source": "World Bank",
+    "title": "Systèmes d’Information : Conception, Fourniture et Installation d’équipements technologiques pour la digitalisation des services, procédures et produits domaniaux, cadastraux, fonciers et patrimoniaux : Système d’Information Foncière (SIF) à Ydé et Dla",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445977",
+    "country": "CA",
+    "deadline": "2026-08-03",
+    "deadline_days": 67,
+    "value_usd": null,
+    "description": "Invitation for Prequalification. Request for Proposals. Project: Sustainable Cities and Land Project. Country: Cameroon. Reference: CM-MINHDU-547828-GO-RFP.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 5,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 5,
+    "fit_top_area": "regulatory",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Invitation for Prequalification",
+      "wb_project_id": "P180884",
+      "wb_reference": "CM-MINHDU-547828-GO-RFP"
+    },
+    "fetched_at": "2026-05-28T10:01:18.765786+00:00"
   },
   {
     "id": "b8d6a6f15cd5",
@@ -116,7 +154,7 @@
     "url": "https://www.ungm.org/Public/Notice/301110",
     "country": "JO",
     "deadline": "2026-06-05",
-    "deadline_days": 9,
+    "deadline_days": 8,
     "value_usd": null,
     "description": "Agency: UNIDO. Type: Request for quotation. Reference: 7000008516. Matched query: cold chain.",
     "fit_per_area": {
@@ -148,7 +186,7 @@
       "ungm_query": "cold chain",
       "published": "2026-05-15"
     },
-    "fetched_at": "2026-05-27T09:44:37.822652+00:00"
+    "fetched_at": "2026-05-28T10:01:18.770458+00:00"
   },
   {
     "id": "27ac670bbb00",
@@ -186,7 +224,7 @@
       "published": "2026-05-26T19:37:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.824276+00:00"
+    "fetched_at": "2026-05-28T10:01:18.772055+00:00"
   },
   {
     "id": "b3f311e8b97d",
@@ -224,45 +262,7 @@
       "published": "2026-05-26T13:09:21+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.825174+00:00"
-  },
-  {
-    "id": "b137cf8c9e61",
-    "source": "Signal:Biovac",
-    "title": "South Africa launches expanded Biovac facility to enhance local vaccine manufacturing capacity - Tech Review Africa",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRllJclByZ3lBOUVmN3JrNmZ0UnJUM2hYQVNuZ0FrNUR0UDdHbEYzVWpNaEdQOVA5RVBCYnZvenFvdnF3d3kxeW4wdzhPWEkzM3FReWc3dTVPN2lWM2EwTTVsNHNieGdvMWFROGJlRlZkTXhKaURtWHJIRVZqSmhqajY0cUdjbjVCaDFGSVJEVlJQRmtIOHlNQVVoUFBnbUlVbmYxOW1rd0Nrd2wtOU5NMVhueGNUT3BOMTBYTUk1REVFWnV6SnVRMWhET29UQQ?oc=5",
-    "country": "ZA",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "South Africa launches expanded Biovac facility to enhance local vaccine manufacturing capacity &nbsp;&nbsp; Tech Review Africa",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-05-26T12:11:27+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-05-27T09:44:37.825701+00:00"
+    "fetched_at": "2026-05-28T10:01:18.772963+00:00"
   },
   {
     "id": "8f00423363c8",
@@ -300,7 +300,45 @@
       "published": "2026-05-25T18:56:41+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.825851+00:00"
+    "fetched_at": "2026-05-28T10:01:18.773502+00:00"
+  },
+  {
+    "id": "b137cf8c9e61",
+    "source": "Signal:Biovac",
+    "title": "South Africa launches expanded Biovac facility to enhance local vaccine manufacturing capacity - Tech Review Africa",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRllJclByZ3lBOUVmN3JrNmZ0UnJUM2hYQVNuZ0FrNUR0UDdHbEYzVWpNaEdQOVA5RVBCYnZvenFvdnF3d3kxeW4wdzhPWEkzM3FReWc3dTVPN2lWM2EwTTVsNHNieGdvMWFROGJlRlZkTXhKaURtWHJIRVZqSmhqajY0cUdjbjVCaDFGSVJEVlJQRmtIOHlNQVVoUFBnbUlVbmYxOW1rd0Nrd2wtOU5NMVhueGNUT3BOMTBYTUk1REVFWnV6SnVRMWhET29UQQ?oc=5",
+    "country": "ZA",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "South Africa launches expanded Biovac facility to enhance local vaccine manufacturing capacity &nbsp;&nbsp; Tech Review Africa",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-05-26T12:11:27+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-05-28T10:01:18.773954+00:00"
   },
   {
     "id": "b2356cc1e04f",
@@ -338,45 +376,7 @@
       "published": "2026-05-24T18:22:07+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.826956+00:00"
-  },
-  {
-    "id": "ed532603dba5",
-    "source": "Signal:Biovac",
-    "title": "Press Release: EIB Group, European Commission and IFC back Biovac to build Africa’s first end-to-end multi-vaccine manufacturing site - EEAS",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYW1BVkJhekxYdDllWFhGZ0QxbXE0OE9IdjJMLTRBTTNiMGYzcy1vVDJUNmgyME5jbzdGeGVTM20tTTZ4V0RESkJpNExqSG13NFpvczJxR3dMcnpPcmcxSTk2UUprWmZQb0tFTUhuZ05HTVliQmZYV1RWdHlxdGhEbWRUTmxoWTh0Nno1VE9jOV94N2lzWS1VMmZwbDdPMDIyN3pIQ0R4Z25IclluaTJpMzVCMXJSU2xDeDVLN1M4VHVJMXJBODZha2dNVVBkVUFoTkxfRlkyRF9wSnNFS0lpV2NQc0Jybk1XeG5qbVQ4TW5jWW8?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Press Release: EIB Group, European Commission and IFC back Biovac to build Africa’s first end-to-end multi-vaccine manufacturing site &nbsp;&nbsp; EEAS",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-16T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-05-27T09:44:37.829088+00:00"
+    "fetched_at": "2026-05-28T10:01:18.775669+00:00"
   },
   {
     "id": "0d937d4be9fd",
@@ -414,7 +414,45 @@
       "published": "2026-05-12T04:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.829761+00:00"
+    "fetched_at": "2026-05-28T10:01:18.776666+00:00"
+  },
+  {
+    "id": "ed532603dba5",
+    "source": "Signal:Biovac",
+    "title": "Press Release: EIB Group, European Commission and IFC back Biovac to build Africa’s first end-to-end multi-vaccine manufacturing site - EEAS",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYW1BVkJhekxYdDllWFhGZ0QxbXE0OE9IdjJMLTRBTTNiMGYzcy1vVDJUNmgyME5jbzdGeGVTM20tTTZ4V0RESkJpNExqSG13NFpvczJxR3dMcnpPcmcxSTk2UUprWmZQb0tFTUhuZ05HTVliQmZYV1RWdHlxdGhEbWRUTmxoWTh0Nno1VE9jOV94N2lzWS1VMmZwbDdPMDIyN3pIQ0R4Z25IclluaTJpMzVCMXJSU2xDeDVLN1M4VHVJMXJBODZha2dNVVBkVUFoTkxfRlkyRF9wSnNFS0lpV2NQc0Jybk1XeG5qbVQ4TW5jWW8?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Press Release: EIB Group, European Commission and IFC back Biovac to build Africa’s first end-to-end multi-vaccine manufacturing site &nbsp;&nbsp; EEAS",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-04-16T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-05-28T10:01:18.777228+00:00"
   },
   {
     "id": "428be1b62fdb",
@@ -452,7 +490,7 @@
       "published": "2026-05-12T09:47:09+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.831734+00:00"
+    "fetched_at": "2026-05-28T10:01:18.779202+00:00"
   },
   {
     "id": "31245162c412",
@@ -490,7 +528,7 @@
       "published": "2026-04-17T05:57:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.832611+00:00"
+    "fetched_at": "2026-05-28T10:01:18.780491+00:00"
   },
   {
     "id": "bc2d1a8bbf5b",
@@ -528,7 +566,7 @@
       "published": "2026-05-26T13:09:21+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-05-27T09:44:37.839242+00:00"
+    "fetched_at": "2026-05-28T10:01:18.787505+00:00"
   },
   {
     "id": "3106162b8fd5",
@@ -566,7 +604,7 @@
       "published": "2025-12-06T08:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-05-27T09:44:37.839762+00:00"
+    "fetched_at": "2026-05-28T10:01:18.788014+00:00"
   },
   {
     "id": "c9294556c2a8",
@@ -575,7 +613,7 @@
     "url": "https://africacdc.org/opportunity/consultancy-to-initial-implementation-of-okapi-federated-data-mesh-based-on-speedymesh-ecosystem/",
     "country": "_AU",
     "deadline": "2026-05-28",
-    "deadline_days": 1,
+    "deadline_days": 0,
     "value_usd": null,
     "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites qualified firms to submit proposals for the initial implementation of the Open Knowledge and Analytics Portal for Public Health Insights (OKAPI) as a federated data mesh platform. The assignment includes establishment of a continental node, onboarding of one Member State, integration with AU Digital One Health Platform (AU-DOHP), and implementation of three priority use cases across multiple public health domains. Duration: 8 months Location: Africa CDC, Addis Ababa, Ethiopia Submission Deadline: 28 May 2026 Submission Email: procurement@africacdc.org Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested bidders must demonstrate experience in federated data architectures, Data Mesh, HL7 FHIR interoperability, and large-scale public-sector data platforms, preferably within African Union or multi-country environments. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. The goal is to establish OKAPI as a sovereign, standards-based federated data mesh for continental and regional health collaboration, built on the SpeedyMesh ecosystem. The contractor will deliver the initial phase of OKAPI, a continental federated data mesh based on the SpeedyMesh ecosystem. The work follows a milestone-based approach covering design, deployment, use-case implementation, a",
     "fit_per_area": {
@@ -600,7 +638,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-05-27T09:44:37.807425+00:00"
+    "fetched_at": "2026-05-28T10:01:18.755866+00:00"
   },
   {
     "id": "20afca7622c8",
@@ -609,7 +647,7 @@
     "url": "https://africacdc.org/opportunity/supply-delivery-installation-and-training-of-laboratory-equipment-and-supply-and-delivery-of-reagent-and-consumables-for-africa-cdc-reference-laboratory/",
     "country": "_AU",
     "deadline": "2026-05-29",
-    "deadline_days": 2,
+    "deadline_days": 1,
     "value_usd": null,
     "description": "3.         Bidding will be conducted through international competitive procurement using a Request for Bids (RFB) as specified in the African Union Procurement Manual Issued March 2024 and is open to all eligible Bidders as defined in the Procurement Manual. 4.         Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5.         The bidding document in English may be requested by interested eligible Bidders upon the submission of a written application to the address below. The solicitation document will be sent by email upon request. 6.         Bids must be delivered to the address below on or before 29 May 2026 , 3: 00P.M Addis Ababa time. Electronic Bidding will not be permitted. Late Bids will be rejected. Bids will be publicly opened in the presence of the Bidders’ designated representatives and anyone who chooses to attend at the address below on 29 May 2026, 3:00P.M Addis Ababa time. 7.         All Bids must be accompanied by a “Bid-Security” 8.         Attention is drawn to the Procurement Regulations requiring the Borrower to disclose information on the successful bidder’s beneficial ownership, as part of the Contract Award Notice, using the Beneficial Ownership Disclosure Form as included in the bidding document. 9.         The address(es) referred to above is (are): Africa Centres for Diseases Control and Prevention, ",
     "fit_per_area": {
@@ -634,7 +672,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-05-27T09:44:37.806798+00:00"
+    "fetched_at": "2026-05-28T10:01:18.755305+00:00"
   },
   {
     "id": "5fc0c8d6ef86",
@@ -643,7 +681,7 @@
     "url": "https://www.ungm.org/Public/Notice/301170",
     "country": "AF",
     "deadline": "2026-06-06",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9204028. Matched query: immunization.",
     "fit_per_area": {
@@ -675,7 +713,7 @@
       "ungm_query": "immunization",
       "published": "2026-05-17"
     },
-    "fetched_at": "2026-05-27T09:44:37.821149+00:00"
+    "fetched_at": "2026-05-28T10:01:18.768965+00:00"
   },
   {
     "id": "241c8cabef85",
@@ -684,7 +722,7 @@
     "url": "https://africacdc.org/opportunity/supply-delivery-installation-and-training-of-an-enterprise-ai-gpu-enables-high-performance-computing-server-for-africa-centres-for-disease-control-and-prevention-africa-cdc/",
     "country": "_AU",
     "deadline": "2026-07-02",
-    "deadline_days": 36,
+    "deadline_days": 35,
     "value_usd": null,
     "description": "1. The Africa Union has received financing from the World Bank toward the cost of the Africa Centres for Disease Control Support Program to Combat Current and Future Public Health Threats Project (P178633) and intends to apply part of the proceeds toward payments under the contract [1] for Supply, Delivery, Installation and Training of an Enterprise AI/GPU-Enables High-Performance Computing Server for Africa Centres for Disease Control and Prevention (Africa CDC). 2. The African Centres for Disease Control and Prevision (Africa CDC) now invites sealed Bids from eligible Bidders for Supply, Delivery, Installation and Training of an Enterprise AI/GPU-Enables High-Performance Computing Server for Africa Centres for Disease Control and Prevention (Africa CDC), details provided in the bidding document, within 90 calendar days after contract signing date. Margin of preference is not applicable for this contract. 3.  Bidding will be conducted through competitive procurement using a Request for Bids (RFB) as specified in the World Bank’s “Procurement Regulations for IPF Borrowers July 2016 Revised February 2025 (“Procurement Regulations”) and is open to all eligible Bidders as defined in the Procurement Regulations. 4.  Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5.  The bidding document in English may be requested by interested ",
     "fit_per_area": {
@@ -709,7 +747,41 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-05-27T09:44:37.803669+00:00"
+    "fetched_at": "2026-05-28T10:01:18.752394+00:00"
+  },
+  {
+    "id": "6d6d72343a74",
+    "source": "Africa CDC",
+    "title": "Consultancy to Scaling of the Africa CDC Continental Public Health Data Intelligence (HDI)",
+    "url": "https://africacdc.org/opportunity/consultancy-to-scaling-of-the-africa-cdc-continental-public-health-data-intelligence-hdi/",
+    "country": "_AU",
+    "deadline": "2026-07-07",
+    "deadline_days": 40,
+    "value_usd": null,
+    "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites qualified firms to submit proposals for the Scaling of the Africa CDC Continental Public Health Data Intelligence (HDI). The service request for Phase 2 of the HDI platform is focused on enhancing and expanding the existing platform delivered in Phase 1, while preserving and reusing the current system architecture and investments. Duration: 6 months Location: Africa CDC, Addis Ababa, Ethiopia Submission Deadline: JULY 7, 2026, Submission Email: procurement@africacdc.org Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested bidders must demonstrate experience in delivering large-scale data platforms, deploying solutions on both on-premises and cloud environments (especially Azure), and implementing federated public health and AI-driven systems. They should have strong open-source expertise, experience working with governments and sensitive health data, and the ability to enhance existing systems incrementally while preserving Phase 1 investments. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. Phase 2 aims to enhance and scale the existing HDI platform to enable secure public health data sharing, advanced analytics and AI-driven disease intelligence, reliable performance in low-connectivity environments, and strong governance, privacy, and compliance",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 3,
+      "mel": 0
+    },
+    "fit_total": 3,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {},
+    "fetched_at": "2026-05-28T10:01:18.751568+00:00"
   },
   {
     "id": "99050d8d3f05",
@@ -747,7 +819,45 @@
       "published": "2026-03-13T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.834743+00:00"
+    "fetched_at": "2026-05-28T10:01:18.782975+00:00"
+  },
+  {
+    "id": "5993f87af1d1",
+    "source": "World Bank",
+    "title": "RECRUITMENT OF PROJECT PROCUREMENT CONSULTANT/PROCUREMENT SPECIALIST (TECHNICAL ASSISTANCE)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446077",
+    "country": "BO",
+    "deadline": "2026-06-12",
+    "deadline_days": 15,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: GFPP Botswana Health Emergency Preparedness, Response and Resilience Project Using the Multi-Phase P. Country: Botswana. Reference: BW-MOH-544724-CS-INDV.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P181952",
+      "wb_reference": "BW-MOH-544724-CS-INDV"
+    },
+    "fetched_at": "2026-05-28T10:01:18.766233+00:00"
   },
   {
     "id": "80eeee34eae7",
@@ -756,7 +866,7 @@
     "url": "https://www.ungm.org/Public/Notice/299341",
     "country": "PA",
     "deadline": "2026-06-02",
-    "deadline_days": 6,
+    "deadline_days": 5,
     "value_usd": null,
     "description": "Agency: FAO. Type: Invitation to bid. Reference: 2026/FAPAK/FAPAK/136429. Matched query: vaccine.",
     "fit_per_area": {
@@ -788,7 +898,7 @@
       "ungm_query": "vaccine",
       "published": "2026-04-29"
     },
-    "fetched_at": "2026-05-27T09:44:37.819898+00:00"
+    "fetched_at": "2026-05-28T10:01:18.767759+00:00"
   },
   {
     "id": "64c7925299f2",
@@ -797,7 +907,7 @@
     "url": "https://africacdc.org/opportunity/consulting-service-to-support-the-development-of-nphi-investment-case/",
     "country": "_AU",
     "deadline": "2026-06-05",
-    "deadline_days": 9,
+    "deadline_days": 8,
     "value_usd": null,
     "description": "National Public Health Institutes (NPHIs) are critical to ensuring national health security, particularly during public health emergencies. They provide essential coordination and are instrumental in fulfilling obligations under the International Health Regulations (IHR). In Africa, the lack of robust NPHIs in several countries undermines the continent’s ability to manage public health threats effectively. The absence of these institutions limits preparedness and response capabilities, exacerbating the risks posed by both infectious diseases and emerging health challenges such as non-communicable diseases (NCDs) and mental health concerns. Since 2017, the Africa Centres for Disease Control and Prevention (Africa CDC) has played a key role in supporting the establishment and strengthening of NPHIs across the continent. In 2018, only 25% of African Union (AU) member states had functioning NPHIs; by 2024, this number increased to 45%, with an additional 35% in the process of establishing them. Despite this progress, 20% of AU member states still lack NPHIs, with the greatest gaps observed in Central Africa, where only three NPHIs exist. The Africa CDC Strategic Plan for 2023-2027, prioritizes strengthening public health institutions and systems to enhance the continent’s ability to prevent, detect, and respond to public health threats. The plan recognizes the ongoing burden of infectious diseases and the rising impact of NCDs, injuries, and mental health issues, underscoring the",
     "fit_per_area": {
@@ -822,7 +932,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-05-27T09:44:37.806102+00:00"
+    "fetched_at": "2026-05-28T10:01:18.754667+00:00"
   },
   {
     "id": "182d59be6a5b",
@@ -831,7 +941,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-gavis-042-2026-gavi-rfp-provision-french-language",
     "country": null,
     "deadline": "2026-06-24",
-    "deadline_days": 28,
+    "deadline_days": 27,
     "value_usd": null,
     "description": "RFP: Invitation to tender for Gavi’s 042-2026-GAVI-RFP Provision of French language training for Gavi employees",
     "fit_per_area": {
@@ -856,7 +966,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-05-27T09:44:37.801987+00:00"
+    "fetched_at": "2026-05-28T10:01:18.750151+00:00"
   },
   {
     "id": "4db365511153",
@@ -894,7 +1004,7 @@
       "published": "2026-04-20T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.824742+00:00"
+    "fetched_at": "2026-05-28T10:01:18.772538+00:00"
   },
   {
     "id": "5fa5a32d5033",
@@ -932,7 +1042,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.825538+00:00"
+    "fetched_at": "2026-05-28T10:01:18.773348+00:00"
   },
   {
     "id": "2a61f0e571fa",
@@ -970,7 +1080,7 @@
       "published": "2026-05-25T16:42:19+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.826533+00:00"
+    "fetched_at": "2026-05-28T10:01:18.774335+00:00"
   },
   {
     "id": "a571e9d35662",
@@ -1008,7 +1118,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.827088+00:00"
+    "fetched_at": "2026-05-28T10:01:18.774468+00:00"
   },
   {
     "id": "8bb764219eae",
@@ -1046,7 +1156,7 @@
       "published": "2026-04-16T13:21:16+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.827426+00:00"
+    "fetched_at": "2026-05-28T10:01:18.774797+00:00"
   },
   {
     "id": "955d8c8354c8",
@@ -1084,7 +1194,7 @@
       "published": "2026-05-12T14:38:21+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.827886+00:00"
+    "fetched_at": "2026-05-28T10:01:18.775241+00:00"
   },
   {
     "id": "ff56ac61df73",
@@ -1122,45 +1232,7 @@
       "published": "2026-05-26T07:17:13+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.828212+00:00"
-  },
-  {
-    "id": "eb00f0d0194b",
-    "source": "Signal:Biovac",
-    "title": "Biovac clinches R5.3bn state vaccine contract - Juta MedicalBrief",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlQwZkRBSWRyTV9SbzNZNEd4cjJZMEJXMGtfVWVhOVNRWUVOSFNTWG5mU0RuVTdVS2JENUpFVUJNb2xzdjRsVWxpcV9nYTZvc28tb3N0LUVzdVdGSmI3V01iR2dNejhRTjhKWlk0aC0zUnhzTGxBbE5jal9meXdIdUpLdw?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac clinches R5.3bn state vaccine contract &nbsp;&nbsp; Juta MedicalBrief",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-05-20T15:05:26+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-05-27T09:44:37.828522+00:00"
+    "fetched_at": "2026-05-28T10:01:18.775988+00:00"
   },
   {
     "id": "14674afd1bc0",
@@ -1198,45 +1270,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.829906+00:00"
-  },
-  {
-    "id": "6bcba987f5b4",
-    "source": "Signal:Biovac",
-    "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-05-11T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-05-27T09:44:37.830253+00:00"
+    "fetched_at": "2026-05-28T10:01:18.777391+00:00"
   },
   {
     "id": "4a5eee8825f9",
@@ -1274,7 +1308,45 @@
       "published": "2026-05-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.830442+00:00"
+    "fetched_at": "2026-05-28T10:01:18.777601+00:00"
+  },
+  {
+    "id": "6bcba987f5b4",
+    "source": "Signal:Biovac",
+    "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-05-11T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-05-28T10:01:18.778375+00:00"
   },
   {
     "id": "123360570f7e",
@@ -1312,7 +1384,45 @@
       "published": "2026-05-12T05:43:52+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.831386+00:00"
+    "fetched_at": "2026-05-28T10:01:18.778860+00:00"
+  },
+  {
+    "id": "798d84af1929",
+    "source": "Signal:Biovac",
+    "title": "EXCLUSIVE | Biovac secures crucial R5.3bn state vaccine contract - Business Day",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDhxbWR1WkJJRlNWS2tPVmFSXzFfbkpZY3RNbFRDRkRNQnVfT1M4OFdKQ1FXVEYxNXNoRDByZ1ZNMXZuZjJ5T0dkY2JXQ0pjaWtsSVlCOTItWmNPTGgwSV9CalMtalU4V21qN0daN3VQZkxoMGFqVHJlMlRrZi10LWZNOVl0Yk1udXFpVDd4dXJ5U1VqZG9IS052M2lVc0xfcWg0eHRha2ZUQWhlaGpSLThyWWFldw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "EXCLUSIVE | Biovac secures crucial R5.3bn state vaccine contract &nbsp;&nbsp; Business Day",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-05-13T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-05-28T10:01:18.779581+00:00"
   },
   {
     "id": "22c380ff4ae8",
@@ -1350,7 +1460,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.832207+00:00"
+    "fetched_at": "2026-05-28T10:01:18.780046+00:00"
   },
   {
     "id": "15f71a2d2e46",
@@ -1388,7 +1498,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.833552+00:00"
+    "fetched_at": "2026-05-28T10:01:18.781147+00:00"
   },
   {
     "id": "ea1ed6a83094",
@@ -1426,7 +1536,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.833996+00:00"
+    "fetched_at": "2026-05-28T10:01:18.781599+00:00"
   },
   {
     "id": "9edcae8be231",
@@ -1464,45 +1574,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.834347+00:00"
-  },
-  {
-    "id": "1c23e3bd4b83",
-    "source": "Signal:Aspen Pharmacare",
-    "title": "Africa CDC and Aspen Pharmacare aim to boost vaccine output in Africa - CNBC Africa",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2ZkU2FwYlRVWHN3TnB4Rk53WFM2TU1zNkswVENHVjlHRVoxai1BWWNDTEhQV1lvZ3lYWWNMTHZBb085Z1poRHBWX3I4NE8wNGY0S09keEFBYXY4cU1Ga1pKRWloMW4zZTZTYk1GZldNOVdtX0x0Qm5PM0Y1d1JxY1ZuMEhOWk9jODdiMldHTC1oWHM2bHUxTVo1MGlTR0VrX01yaGlXS1hDLVNOaC1memttUmtiQQ?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Africa CDC and Aspen Pharmacare aim to boost vaccine output in Africa &nbsp;&nbsp; CNBC Africa",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Aspen Pharmacare",
-      "published": "2026-05-12T19:57:37+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-05-27T09:44:37.835112+00:00"
+    "fetched_at": "2026-05-28T10:01:18.781940+00:00"
   },
   {
     "id": "d1f17431c0d9",
@@ -1540,7 +1612,45 @@
       "published": "2026-05-12T12:25:36+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.835486+00:00"
+    "fetched_at": "2026-05-28T10:01:18.783351+00:00"
+  },
+  {
+    "id": "2e6882527e2e",
+    "source": "Signal:Aspen Pharmacare",
+    "title": "Africa CDC and Aspen Pharmacare aim to boost vaccine output in Africa - Polity.org.za",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVVGVi1oeHBIV3Y2LVBFRUlZRmlEaDItbVVOeXZFVm9sUjNVelFnT2FYRzVkdDlIbEp4YV8waVoxRTlUVUJkOE5JeDgyY0Z2cWFNRU5wUjRYQnZNd3EwN19TeDE2RWJUcUloejByS1RhRjdZWTZ2RjZpeUM1RmhhaGJRaUJvNXl5M1VmbmkydG5mV0d1cUx5Q3ZaQmRjYi14aG53TjBjeG1OS1ZHMzN4YnhzUkM?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Africa CDC and Aspen Pharmacare aim to boost vaccine output in Africa &nbsp;&nbsp; Polity.org.za",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Aspen Pharmacare",
+      "published": "2026-05-12T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-05-28T10:01:18.783718+00:00"
   },
   {
     "id": "de2351f4b117",
@@ -1578,7 +1688,7 @@
       "published": "2026-05-13T06:07:49+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.836398+00:00"
+    "fetched_at": "2026-05-28T10:01:18.784211+00:00"
   },
   {
     "id": "06c90dac4b9a",
@@ -1616,18 +1726,18 @@
       "published": "2026-05-14T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.837647+00:00"
+    "fetched_at": "2026-05-28T10:01:18.785838+00:00"
   },
   {
-    "id": "b96a3e8af844",
-    "source": "Signal:AFD",
-    "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
+    "id": "adf00a925a02",
+    "source": "Signal:Institut Pasteur Dakar",
+    "title": "CEPI and Pasteur Network partner to advance regional vaccine R&D and outbreak preparedness - CEPI",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmlxVU9EQkMwUGl0T0VxVDRVRWZYZFAxU042dVY3cnNxOWt6NnFSUTBVS044OEVIeVQtVFRVT2JOSzEyQWZMN091cDJZU0JOek91WjBUWGxYdUllaG80ZmR0NnRVTlBERS1nSUhvUUlIT3RJYjhfU2dPdmtmcUZjWHhzYjY5UTcyVFZQejZDS1Z0REFLUFpaUlJjRFFOT21RQV96NUFR?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
+    "description": "CEPI and Pasteur Network partner to advance regional vaccine R&D and outbreak preparedness &nbsp;&nbsp; CEPI",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1650,10 +1760,10 @@
       "eligibility": ""
     },
     "raw": {
-      "donor": "AFD",
-      "published": "2026-05-11T07:00:00+00:00",
-      "signal_type": "donor"
+      "manufacturer": "Institut Pasteur Dakar",
+      "published": "2026-04-20T07:00:00+00:00",
+      "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-05-27T09:44:37.838392+00:00"
+    "fetched_at": "2026-05-28T10:01:18.786645+00:00"
   }
 ]
