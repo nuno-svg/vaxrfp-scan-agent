@@ -6,7 +6,7 @@
     "url": "https://africacdc.org/opportunity/open-call-for-expression-of-interest-experts-to-serve-on-the-technical-committees-of-the-african-medicines-agency/",
     "country": "_AU",
     "deadline": "2026-06-18",
-    "deadline_days": 11,
+    "deadline_days": 10,
     "value_usd": null,
     "description": "Date of Issue: 11 May 2026 Closing Date for Applications: 18 June 2026 The African Medicines Agency, established under the AMA Treaty adopted by the African Union, is a specialised continental regulatory agency. The main objective of AMA is to enhance the capacity of State Parties and Regional Economic Communities (RECs) to regulate medical products in order to improve access to quality, safe, and efficacious medical products across the continent. In accordance with Article 20 of the AMA Treaty, the Agency is mandated to establish permanent or ad hoc technical committees to provide technical guidance on specific areas of regulatory expertise. In line with Article 21 of the AMA Treaty, the technical committees shall be responsible for carrying out scientific assessments and conducting scientific reviews of dossiers, including quality aspects and clinical trial applications; inspection of manufacturing facilities; and providing scientific opinions to facilitate the proper functioning of AMA. AMA Technical Committees provide scientific, technical, and regulatory advice to support the work of the Agency and contribute to strengthening regulatory convergence, scientific excellence, and access to safe, effective, and quality-assured medical products across Africa. In accordance with the AMA Treaty and the operationalisation of AMA’s technical functions, the Agency invites Expressions of Interest (EOI) from suitably qualified experts from African Union Member States, particularly St",
     "fit_per_area": {
@@ -31,7 +31,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-06-07T08:56:05.301699+00:00"
+    "fetched_at": "2026-06-08T10:53:27.754492+00:00"
   },
   {
     "id": "df909349c9a8",
@@ -69,7 +69,7 @@
       "published": "2026-05-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.329618+00:00"
+    "fetched_at": "2026-06-08T10:53:27.784459+00:00"
   },
   {
     "id": "404918114864",
@@ -107,7 +107,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.324464+00:00"
+    "fetched_at": "2026-06-08T10:53:27.779110+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -145,7 +145,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-06-07T08:56:05.334174+00:00"
+    "fetched_at": "2026-06-08T10:53:27.790141+00:00"
   },
   {
     "id": "b8d6a6f15cd5",
@@ -154,7 +154,7 @@
     "url": "https://www.ungm.org/Public/Notice/301110",
     "country": "JO",
     "deadline": "2026-06-18",
-    "deadline_days": 11,
+    "deadline_days": 10,
     "value_usd": null,
     "description": "Agency: UNIDO. Type: Request for quotation. Reference: 7000008516. Matched query: cold chain.",
     "fit_per_area": {
@@ -186,45 +186,7 @@
       "ungm_query": "cold chain",
       "published": "2026-06-05"
     },
-    "fetched_at": "2026-06-07T08:56:05.318242+00:00"
-  },
-  {
-    "id": "a38ea580acfb",
-    "source": "Signal:Biovac",
-    "title": "Biovac just levelled up vaccine manufacturing in SA - MSN",
-    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOYkhVNlNReGMwQ2lrNjNtUmVUeTFiZ05DTzQ5c3loc0ZLUEF5bjBNclMtOWpzYW9jbjJPd0RRS2ozREJGcllfcXdDU3AtTldNVEVyMU9FZGE2ajhKa1lVVGRsUmhtQ1NqNzlpeHh6ZmVnTEhwd0dIY0lwcDFBR1JVcmN6Z1hqc2hQNDR3Y0duN0RmNG9CWDNDR1I4akd4dFR0WFhFOV9ySFM1RXYxLXFzTnB6Q0hyRzNBd0s4NHVVeTRiMXdENExOVVVocms1cWhId3VxTzBQUzBmbW5tUE93MG42VmNlSHVneURQOFJDT2lfVkd0b013Z1BaV1pDQkhlbkIxMWZYNF9yRHRydmR6ZHVhdWQySjc4WjNpaWx0VE0xa0Y3XzVDWW82UnRTV2FmU3lDTUJRMA?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac just levelled up vaccine manufacturing in SA &nbsp;&nbsp; MSN",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-06-06T13:38:57+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-06-07T08:56:05.319961+00:00"
+    "fetched_at": "2026-06-08T10:53:27.772635+00:00"
   },
   {
     "id": "ed532603dba5",
@@ -262,7 +224,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.320996+00:00"
+    "fetched_at": "2026-06-08T10:53:27.775153+00:00"
   },
   {
     "id": "dbd79f01d6b8",
@@ -300,45 +262,7 @@
       "published": "2026-06-03T17:51:45+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.322026+00:00"
-  },
-  {
-    "id": "b3f311e8b97d",
-    "source": "Signal:Biovac",
-    "title": "Biovac Expansion Signals Africa’s Rising Role in Global Vaccine Manufacturing - Devdiscourse",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb1FSeW5OQlpQYmdHUTJ5bWdjMDBMWXRzWERyZ1BtQ0ozZlozckUzOWZ0U3JweEdjaHUyS3Z5YjFHNVVha1YyR3BjOV8zLWNZaGxfbmU4d3g5b3A0dWlBLUphNjZLNHBGRGJZZkhOZEtYZUhhVGlsRk1pWWFlZ2g2QnZxel82VDk2bEVnMjNXY2p5TTVfSUVabHBaS2hKSExqMzBkSFVzb0ttN09tRUlyQXRObmZrSENsTXAyd01ZVjlRRmpSakdNa3MwTdIB0AFBVV95cUxOTGVwVk04blVxM2YtSUhlOUVDSVZoV2RianRBSm9ESGZhWl9PQWNGSElWSDBNSDF0LWs5Qmw0OGtuYnFDcTVGV0hsdlJkNTZFWURsckxRdGdBQmZwSFRtU1NPQXB5U2pXLWJjWDVjMndKWW15aUNoN1N3Y1cxcXRNajBtV3JVZHYwSUlHdmhZZy0yWldpbDNrejl1eEJha0tHOTgwclFCN2p2NTFEOHBpaWNYWGQzSmtEWllpaTRfYTMxQk5fcmpJODZ2Ump5Smp3?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac Expansion Signals Africa’s Rising Role in Global Vaccine Manufacturing &nbsp;&nbsp; Devdiscourse",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-05-26T13:09:21+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-06-07T08:56:05.322440+00:00"
+    "fetched_at": "2026-06-08T10:53:27.776248+00:00"
   },
   {
     "id": "0d937d4be9fd",
@@ -376,7 +300,45 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.323555+00:00"
+    "fetched_at": "2026-06-08T10:53:27.776942+00:00"
+  },
+  {
+    "id": "b3f311e8b97d",
+    "source": "Signal:Biovac",
+    "title": "Biovac Expansion Signals Africa’s Rising Role in Global Vaccine Manufacturing - Devdiscourse",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb1FSeW5OQlpQYmdHUTJ5bWdjMDBMWXRzWERyZ1BtQ0ozZlozckUzOWZ0U3JweEdjaHUyS3Z5YjFHNVVha1YyR3BjOV8zLWNZaGxfbmU4d3g5b3A0dWlBLUphNjZLNHBGRGJZZkhOZEtYZUhhVGlsRk1pWWFlZ2g2QnZxel82VDk2bEVnMjNXY2p5TTVfSUVabHBaS2hKSExqMzBkSFVzb0ttN09tRUlyQXRObmZrSENsTXAyd01ZVjlRRmpSakdNa3MwTdIB0AFBVV95cUxOTGVwVk04blVxM2YtSUhlOUVDSVZoV2RianRBSm9ESGZhWl9PQWNGSElWSDBNSDF0LWs5Qmw0OGtuYnFDcTVGV0hsdlJkNTZFWURsckxRdGdBQmZwSFRtU1NPQXB5U2pXLWJjWDVjMndKWW15aUNoN1N3Y1cxcXRNajBtV3JVZHYwSUlHdmhZZy0yWldpbDNrejl1eEJha0tHOTgwclFCN2p2NTFEOHBpaWNYWGQzSmtEWllpaTRfYTMxQk5fcmpJODZ2Ump5Smp3?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac Expansion Signals Africa’s Rising Role in Global Vaccine Manufacturing &nbsp;&nbsp; Devdiscourse",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-05-26T13:09:21+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-06-08T10:53:27.777850+00:00"
   },
   {
     "id": "27ac670bbb00",
@@ -414,7 +376,45 @@
       "published": "2026-05-26T19:37:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.324049+00:00"
+    "fetched_at": "2026-06-08T10:53:27.778349+00:00"
+  },
+  {
+    "id": "a0d6366e66d3",
+    "source": "Signal:Biovac",
+    "title": "Biovac just levelled up vaccine manufacturing in SA - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQNG1fZldlTkZPTTJCY0I0WnV5NUhhX0JXdUF5LUVHaVVyZFVmeWRWYktfNGVmTFBpQ1RPRDBZbTZIeE1DemlDUnJEM1JiV0wxVldIdC1TM2ZQQUc2dHZ4RENPX1FUT3p5SFlqSk5jMWFJZ09fSXNERlA4SnJUZXptVXcyWm9GNEZROS1KcjFaNC16X05mMVI2VXFUc0tpZ2NtU2VfRWRCcTlNb1VyN2w4Nzkxck9uN3FDaUxfbURsUmsxMUE5bWEtVmZESXFqb3JVS0xLYm1UcFY1ckdSaDdYcS1NVzZNSkpCRmY2WWprZzFkbTFva3NTZzZqVk1PMlJKOTRTcDNmTmNXN3laWHJ3QUtMTEZCWElTVmpvd3o1MnVhSnMyaGhKY2VkVHNKMml0aG51ekxuZzk?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac just levelled up vaccine manufacturing in SA &nbsp;&nbsp; MSN",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-06-06T13:38:58+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-06-08T10:53:27.778649+00:00"
   },
   {
     "id": "8f00423363c8",
@@ -452,7 +452,7 @@
       "published": "2026-05-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.325443+00:00"
+    "fetched_at": "2026-06-08T10:53:27.779577+00:00"
   },
   {
     "id": "428be1b62fdb",
@@ -490,7 +490,7 @@
       "published": "2026-05-12T09:47:25+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.327474+00:00"
+    "fetched_at": "2026-06-08T10:53:27.782057+00:00"
   },
   {
     "id": "31245162c412",
@@ -528,7 +528,7 @@
       "published": "2026-04-17T05:57:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.327890+00:00"
+    "fetched_at": "2026-06-08T10:53:27.782463+00:00"
   },
   {
     "id": "7e5f775de127",
@@ -566,7 +566,43 @@
       "published": "2026-05-26T13:09:21+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-06-07T08:56:05.333755+00:00"
+    "fetched_at": "2026-06-08T10:53:27.789683+00:00"
+  },
+  {
+    "id": "0baa14f3088f",
+    "source": "TED",
+    "title": "Belgium – Training services – Framework Contract for Training Activities and Knowledge Management in the fields of Civil Protection and Disaster Risk Management",
+    "url": "https://ted.europa.eu/en/notice/243098-2026",
+    "country": "AN",
+    "deadline": "2026-06-16",
+    "deadline_days": 8,
+    "value_usd": null,
+    "description": "European Commission, DG ECHO - European Civil Protection and Humanitarian Aid Operations (ECHO). The general objective of the Framework Contract is to assist the Commission in the implementation of the Disaster Resilience Goals; key actions of the Preparedness Union Strategy in the fields of competence of DG ECHO; key initiatives of the Knowledge Network; and the UCPM Training and Exercises Programme by addressing more rapidly any identified knowledge and skills gaps in the UCPM. The specific objectives of the Framework Contract are to facilitate evidence-based policy making with reliable knowledge, evidence, analysis and policy guidance on specific subject areas related to the field of the disaster risk management, civil protection and crisis management which could have multi-sectorial and multi-disciplinary focus; and to strengthen capacity building in the field of disaster risk management, civil protection and crisis management by enhancing knowledge, skills and exchange of good practice and lessons learned. The core of the services provided under this framework contract is the development, design and delivery of online modules, ad-hoc training courses, training of trainers, thematic seminars and workshops, summer/winter schools, seminars and studies. The current framework agreement will expire on 13 March 2026",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 3,
+      "mel": 0
+    },
+    "fit_total": 3,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "243098-2026"
+    },
+    "fetched_at": "2026-06-08T10:53:27.763966+00:00"
   },
   {
     "id": "647c3d319157",
@@ -575,7 +611,7 @@
     "url": "https://africacdc.org/opportunity/engagement-of-an-external-consultancy-firm-to-develop-africa-cdc-institution-wide-digital-health-governance-policies-frameworks-and-standard-operating-procedures/",
     "country": "_AU",
     "deadline": "2026-06-18",
-    "deadline_days": 11,
+    "deadline_days": 10,
     "value_usd": null,
     "description": "The African Union has received financing from the World Bank toward the cost of the Africa Centres for Disease Control Support Program to Combat Current and Future Public Health Threats Project and intends to apply part of the proceeds for consulting services. Africa Centres for Disease Control and Prevention (Africa CDC) is advancing institution-wide digital transformation to strengthen epidemic intelligence, integrated surveillance, data analytics, emergency response, laboratory systems, program monitoring, and other public health functions across the continent. Governance, policies, and standards are critical to serving the entire institution including existing digital tools / platforms. The resulting outputs will be reusable across all current and future digital health platforms, tools, and initiatives implemented by Africa CDC. Africa CDC therefore seeks a qualified external consultancy firm to develop a comprehensive, coherent and implementable set of digital health governance instruments (policies, frameworks, standards, Standard Operating Procedures (SOPs), templates, and toolkits) aligned with applicable African Union (AU) and Africa CDC institutional frameworks and consistent with internationally recognized best practices, including data protection, privacy, ethics, cybersecurity, interoperability, and responsible data use principles The resulting governance package should enable Africa CDC to: The detailed Terms of Reference (TOR) for the assignment can be obtained",
     "fit_per_area": {
@@ -600,7 +636,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-06-07T08:56:05.302427+00:00"
+    "fetched_at": "2026-06-08T10:53:27.755248+00:00"
   },
   {
     "id": "241c8cabef85",
@@ -609,7 +645,7 @@
     "url": "https://africacdc.org/opportunity/supply-delivery-installation-and-training-of-an-enterprise-ai-gpu-enables-high-performance-computing-server-for-africa-centres-for-disease-control-and-prevention-africa-cdc/",
     "country": "_AU",
     "deadline": "2026-07-02",
-    "deadline_days": 25,
+    "deadline_days": 24,
     "value_usd": null,
     "description": "1. The Africa Union has received financing from the World Bank toward the cost of the Africa Centres for Disease Control Support Program to Combat Current and Future Public Health Threats Project (P178633) and intends to apply part of the proceeds toward payments under the contract [1] for Supply, Delivery, Installation and Training of an Enterprise AI/GPU-Enables High-Performance Computing Server for Africa Centres for Disease Control and Prevention (Africa CDC). 2. The African Centres for Disease Control and Prevision (Africa CDC) now invites sealed Bids from eligible Bidders for Supply, Delivery, Installation and Training of an Enterprise AI/GPU-Enables High-Performance Computing Server for Africa Centres for Disease Control and Prevention (Africa CDC), details provided in the bidding document, within 90 calendar days after contract signing date. Margin of preference is not applicable for this contract. 3.  Bidding will be conducted through competitive procurement using a Request for Bids (RFB) as specified in the World Bank’s “Procurement Regulations for IPF Borrowers July 2016 Revised February 2025 (“Procurement Regulations”) and is open to all eligible Bidders as defined in the Procurement Regulations. 4.  Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5.  The bidding document in English may be requested by interested ",
     "fit_per_area": {
@@ -634,7 +670,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-06-07T08:56:05.301063+00:00"
+    "fetched_at": "2026-06-08T10:53:27.753864+00:00"
   },
   {
     "id": "6d6d72343a74",
@@ -643,7 +679,7 @@
     "url": "https://africacdc.org/opportunity/consultancy-to-scaling-of-the-africa-cdc-continental-public-health-data-intelligence-hdi/",
     "country": "_AU",
     "deadline": "2026-07-07",
-    "deadline_days": 30,
+    "deadline_days": 29,
     "value_usd": null,
     "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites qualified firms to submit proposals for the Scaling of the Africa CDC Continental Public Health Data Intelligence (HDI). The service request for Phase 2 of the HDI platform is focused on enhancing and expanding the existing platform delivered in Phase 1, while preserving and reusing the current system architecture and investments. Duration: 6 months Location: Africa CDC, Addis Ababa, Ethiopia Submission Deadline: July 7, 2026, Submission Email: procurement@africacdc.org Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested bidders must demonstrate experience in delivering large-scale data platforms, deploying solutions on both on-premises and cloud environments (especially Azure), and implementing federated public health and AI-driven systems. They should have strong open-source expertise, experience working with governments and sensitive health data, and the ability to enhance existing systems incrementally while preserving Phase 1 investments. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. Phase 2 aims to enhance and scale the existing HDI platform to enable secure public health data sharing, advanced analytics and AI-driven disease intelligence, reliable performance in low-connectivity environments, and strong governance, privacy, and compliance",
     "fit_per_area": {
@@ -668,7 +704,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-06-07T08:56:05.300231+00:00"
+    "fetched_at": "2026-06-08T10:53:27.753028+00:00"
   },
   {
     "id": "99050d8d3f05",
@@ -706,7 +742,83 @@
       "published": "2026-03-13T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.330003+00:00"
+    "fetched_at": "2026-06-08T10:53:27.784878+00:00"
+  },
+  {
+    "id": "7990cebd1a82",
+    "source": "World Bank",
+    "title": "Consulting Services for Preparation of ESIA and RAP for Kericho-Kenegut Border-Nyaru Roads",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00449461",
+    "country": "KE",
+    "deadline": "2026-06-09",
+    "deadline_days": 1,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Roads for Rural Economic Development Program. Country: Kenya. Reference: KE-KENHA-539067-CS-CQS.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P182137",
+      "wb_reference": "KE-KENHA-539067-CS-CQS"
+    },
+    "fetched_at": "2026-06-08T10:53:27.768839+00:00"
+  },
+  {
+    "id": "3f8bd736fb9b",
+    "source": "World Bank",
+    "title": "Consulting Services for Preparation of ESIA and RAP for Neissuit - Embomoss - Mariwa Roads",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00449468",
+    "country": "KE",
+    "deadline": "2026-06-09",
+    "deadline_days": 1,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Roads for Rural Economic Development Program. Country: Kenya. Reference: KE-KENHA-539060-CS-CQS.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P182137",
+      "wb_reference": "KE-KENHA-539060-CS-CQS"
+    },
+    "fetched_at": "2026-06-08T10:53:27.768937+00:00"
   },
   {
     "id": "12ec1a77e1a1",
@@ -715,7 +827,7 @@
     "url": "https://www.ungm.org/Public/Notice/302442",
     "country": "LI",
     "deadline": "2026-06-12",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Agency: UNDP. Type: Invitation to bid. Reference: UNDP-LBR-00884. Matched query: EPI.",
     "fit_per_area": {
@@ -747,7 +859,7 @@
       "ungm_query": "EPI",
       "published": "2026-05-29"
     },
-    "fetched_at": "2026-06-07T08:56:05.318912+00:00"
+    "fetched_at": "2026-06-08T10:53:27.773338+00:00"
   },
   {
     "id": "6f61741c7bdd",
@@ -756,7 +868,7 @@
     "url": "https://www.ungm.org/Public/Notice/302976",
     "country": "BU",
     "deadline": "2026-06-18",
-    "deadline_days": 11,
+    "deadline_days": 10,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Invitation to bid. Reference: 9204116. Matched query: vaccination.",
     "fit_per_area": {
@@ -788,7 +900,7 @@
       "ungm_query": "vaccination",
       "published": "2026-06-03"
     },
-    "fetched_at": "2026-06-07T08:56:05.315988+00:00"
+    "fetched_at": "2026-06-08T10:53:27.770358+00:00"
   },
   {
     "id": "182d59be6a5b",
@@ -797,7 +909,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-gavis-042-2026-gavi-rfp-provision-french-language",
     "country": null,
     "deadline": "2026-06-24",
-    "deadline_days": 17,
+    "deadline_days": 16,
     "value_usd": null,
     "description": "RFP: Invitation to tender for Gavi’s 042-2026-GAVI-RFP Provision of French language training for Gavi employees",
     "fit_per_area": {
@@ -822,18 +934,18 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-06-07T08:56:05.299601+00:00"
+    "fetched_at": "2026-06-08T10:53:27.752357+00:00"
   },
   {
-    "id": "408d4245e1a1",
-    "source": "TED",
-    "title": "Germany – Pharmaceutical products – Abschluss nicht exkl. Arzneimittel-Rabattvereinb. nach § 130a Abs. 8 SGB V im Wege eines Open-House-Modells zum Wirkstoff Epoetin alfa und Epoetin zeta (ATC-Code nach WHO: B03XA01)",
-    "url": "https://ted.europa.eu/en/notice/236720-2026",
-    "country": "DE",
-    "deadline": "2027-09-30",
-    "deadline_days": 480,
+    "id": "4e4604ab9f68",
+    "source": "World Bank",
+    "title": "Consulting Services for the Preparation of System Design Requirements, Technical Requirements, Procurement Documents and Supervision of Implementation of the Kenya Urban Observatory",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00449430",
+    "country": "KE",
+    "deadline": "2026-06-25",
+    "deadline_days": 17,
     "value_usd": null,
-    "description": "AOK PLUS - Die Gesundheitskasse für Sachsen und Thüringen. Siehe Kurzbeschreibung",
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Second Kenya Urban Support Program. Country: Kenya. Reference: KE-MOTI-554786-CS-QCBS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -856,45 +968,11 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "236720-2026"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P177048",
+      "wb_reference": "KE-MOTI-554786-CS-QCBS"
     },
-    "fetched_at": "2026-06-07T08:56:05.304662+00:00"
-  },
-  {
-    "id": "cb753826aa85",
-    "source": "TED",
-    "title": "Czechia – Specialised chemical products – Dynamický nákupní systém na dodávky kitů a laboratorních činidel pro projekt OP JAK ITI Interdisciplinární přístupy pro vývoj a aplikace nových materiálů v medicínské praxi – Nové omické technologie",
-    "url": "https://ted.europa.eu/en/notice/239223-2026",
-    "country": "CZ",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Univerzita Palackého v Olomouci. Předmětem veřejných zakázek zadávaných v DNS budou za Zadavatelem specifikovaných obchodních podmínek dodávky sekvenační chemie pro masivní paralelní sekvenování pro systémy nové generace Iontorrent a PacBio, a to včetně souvisejících reagencií nezbytných pro přípravu sekvenačních knihoven, spuštění sekvenačního runu, klastrovací chemie, sekvenačních flow cell, sekvenační chemie, pomocných činidel pro údržbu atd., dále pak kity na izolaci DNA a RNA z různých biologických materiálů pro přípravu vzorků na sekvenování, sondy pro ddPCR a rovněž i protilátky pro ověření přítomnosti vybraných markerových proteinů ve vzorcích, pro potřeby Zadavatele, nezbytné pro naplňování klíčových aktivit projektu Interdisciplinární přístupy pro vývoj a aplikace nových materiálů v medicínské praxi – Nové omické technologie, reg. č. CZ.02.01.01/00/23_021/0009224 v rámci Operačního programu Jan Amos Komenský. Předmět konkrétních veřejných zakázek zadávaných v dynamickém nákupním systému bude specifikován vždy ve výzvě k podání nabídek ve smyslu § 141 Zákona",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "239223-2026"
-    },
-    "fetched_at": "2026-06-07T08:56:05.310925+00:00"
+    "fetched_at": "2026-06-08T10:53:27.768713+00:00"
   },
   {
     "id": "4db365511153",
@@ -932,7 +1010,7 @@
       "published": "2026-04-20T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.320418+00:00"
+    "fetched_at": "2026-06-08T10:53:27.774567+00:00"
   },
   {
     "id": "5fa5a32d5033",
@@ -970,7 +1048,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.321349+00:00"
+    "fetched_at": "2026-06-08T10:53:27.775534+00:00"
   },
   {
     "id": "16a3c0a1659d",
@@ -1008,7 +1086,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.321481+00:00"
+    "fetched_at": "2026-06-08T10:53:27.775672+00:00"
   },
   {
     "id": "a571e9d35662",
@@ -1046,7 +1124,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.321628+00:00"
+    "fetched_at": "2026-06-08T10:53:27.775826+00:00"
   },
   {
     "id": "955d8c8354c8",
@@ -1084,7 +1162,7 @@
       "published": "2026-05-12T14:38:21+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.322897+00:00"
+    "fetched_at": "2026-06-08T10:53:27.777412+00:00"
   },
   {
     "id": "6bcba987f5b4",
@@ -1122,45 +1200,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.323903+00:00"
-  },
-  {
-    "id": "8bb764219eae",
-    "source": "Signal:Biovac",
-    "title": "Biovac wins EU, IFC money to build biggest Africa vaccine plant - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNk9uckE1MERGS2EtTi1QajU5Y1ZPWnJfX2ppYjdGS1VRa3l0eWtMV1ZpVFE1SVM1RnJMT1VVak9odzhjXzNnMF9tTVBxX1BxeERZRFhNUjA5OW1tZ0hSajN3U2wtcm5XQUpkWTAwcnZpNG5waDdNSlJfZ3loaUlJMGY5OEdyMXBUVWZpNFlGSXdPYXVZT0xfbWlMMUpOVkdYUEdIQnhieGpfYURQM2lGMzBKdUFuQ0RYc0Z1ak9za0FKS1NndnNyNkZ5aHhIS08xUk0ydw?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac wins EU, IFC money to build biggest Africa vaccine plant &nbsp;&nbsp; MSN",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-16T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-06-07T08:56:05.324803+00:00"
+    "fetched_at": "2026-06-08T10:53:27.778200+00:00"
   },
   {
     "id": "2a61f0e571fa",
@@ -1198,7 +1238,7 @@
       "published": "2026-05-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.325817+00:00"
+    "fetched_at": "2026-06-08T10:53:27.779969+00:00"
   },
   {
     "id": "22c380ff4ae8",
@@ -1236,7 +1276,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.326279+00:00"
+    "fetched_at": "2026-06-08T10:53:27.780439+00:00"
   },
   {
     "id": "4a5eee8825f9",
@@ -1274,45 +1314,7 @@
       "published": "2026-05-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.326460+00:00"
-  },
-  {
-    "id": "798d84af1929",
-    "source": "Signal:Biovac",
-    "title": "EXCLUSIVE | Biovac secures crucial R5.3bn state vaccine contract - Business Day",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDhxbWR1WkJJRlNWS2tPVmFSXzFfbkpZY3RNbFRDRkRNQnVfT1M4OFdKQ1FXVEYxNXNoRDByZ1ZNMXZuZjJ5T0dkY2JXQ0pjaWtsSVlCOTItWmNPTGgwSV9CalMtalU4V21qN0daN3VQZkxoMGFqVHJlMlRrZi10LWZNOVl0Yk1udXFpVDd4dXJ5U1VqZG9IS052M2lVc0xfcWg0eHRha2ZUQWhlaGpSLThyWWFldw?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "EXCLUSIVE | Biovac secures crucial R5.3bn state vaccine contract &nbsp;&nbsp; Business Day",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-05-13T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-06-07T08:56:05.326827+00:00"
+    "fetched_at": "2026-06-08T10:53:27.780633+00:00"
   },
   {
     "id": "ff56ac61df73",
@@ -1350,7 +1352,83 @@
       "published": "2026-05-26T07:17:13+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.327143+00:00"
+    "fetched_at": "2026-06-08T10:53:27.780980+00:00"
+  },
+  {
+    "id": "8bb764219eae",
+    "source": "Signal:Biovac",
+    "title": "Biovac wins EU, IFC money to build biggest Africa vaccine plant - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNk9uckE1MERGS2EtTi1QajU5Y1ZPWnJfX2ppYjdGS1VRa3l0eWtMV1ZpVFE1SVM1RnJMT1VVak9odzhjXzNnMF9tTVBxX1BxeERZRFhNUjA5OW1tZ0hSajN3U2wtcm5XQUpkWTAwcnZpNG5waDdNSlJfZ3loaUlJMGY5OEdyMXBUVWZpNFlGSXdPYXVZT0xfbWlMMUpOVkdYUEdIQnhieGpfYURQM2lGMzBKdUFuQ0RYc0Z1ak9za0FKS1NndnNyNkZ5aHhIS08xUk0ydw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac wins EU, IFC money to build biggest Africa vaccine plant &nbsp;&nbsp; MSN",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-04-16T13:21:16+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-06-08T10:53:27.781318+00:00"
+  },
+  {
+    "id": "798d84af1929",
+    "source": "Signal:Biovac",
+    "title": "EXCLUSIVE | Biovac secures crucial R5.3bn state vaccine contract - Business Day",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDhxbWR1WkJJRlNWS2tPVmFSXzFfbkpZY3RNbFRDRkRNQnVfT1M4OFdKQ1FXVEYxNXNoRDByZ1ZNMXZuZjJ5T0dkY2JXQ0pjaWtsSVlCOTItWmNPTGgwSV9CalMtalU4V21qN0daN3VQZkxoMGFqVHJlMlRrZi10LWZNOVl0Yk1udXFpVDd4dXJ5U1VqZG9IS052M2lVc0xfcWg0eHRha2ZUQWhlaGpSLThyWWFldw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "EXCLUSIVE | Biovac secures crucial R5.3bn state vaccine contract &nbsp;&nbsp; Business Day",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-05-13T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-06-08T10:53:27.781679+00:00"
   },
   {
     "id": "15f71a2d2e46",
@@ -1388,7 +1466,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.328238+00:00"
+    "fetched_at": "2026-06-08T10:53:27.782839+00:00"
   },
   {
     "id": "ea1ed6a83094",
@@ -1426,7 +1504,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.328699+00:00"
+    "fetched_at": "2026-06-08T10:53:27.783285+00:00"
   },
   {
     "id": "9edcae8be231",
@@ -1464,7 +1542,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.329034+00:00"
+    "fetched_at": "2026-06-08T10:53:27.783869+00:00"
   },
   {
     "id": "f76c991e6441",
@@ -1502,7 +1580,7 @@
       "published": "2026-05-12T10:20:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.330372+00:00"
+    "fetched_at": "2026-06-08T10:53:27.785272+00:00"
   },
   {
     "id": "1c23e3bd4b83",
@@ -1540,7 +1618,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.330739+00:00"
+    "fetched_at": "2026-06-08T10:53:27.785644+00:00"
   },
   {
     "id": "d1f17431c0d9",
@@ -1578,7 +1656,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.331083+00:00"
+    "fetched_at": "2026-06-08T10:53:27.786026+00:00"
   },
   {
     "id": "de2351f4b117",
@@ -1616,7 +1694,7 @@
       "published": "2026-05-13T06:07:49+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.331414+00:00"
+    "fetched_at": "2026-06-08T10:53:27.786377+00:00"
   },
   {
     "id": "06c90dac4b9a",
@@ -1654,7 +1732,45 @@
       "published": "2026-05-14T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.332612+00:00"
+    "fetched_at": "2026-06-08T10:53:27.788059+00:00"
+  },
+  {
+    "id": "5cd4eb4de8c8",
+    "source": "Signal:Institut Pasteur Dakar",
+    "title": "Accelerating Chikungunya Vaccine Development in Africa: Launch of the ACT-CHIK Project | - Institut Pasteur",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONksyQnV4T1padDdPQks4ZDZlVXcyRURGSmRjVHhkNHRPejBSOEdLOUtVbjdkRzdBRjJ2TWtnMnV3eEx5QXlRQzh4aklTZTE1bUlHeV9tOXN6TUhTVGZqV2NiMXJLM0Jfb2RyWVAtcTVEdzlkc3dla0U3d1NfMXNWYktZY1BEZWFmYXNiZFVISmRWZHVEQ0pYS3FTaTdzWjZuQldvWlVEcmh2QUJ1V3BTSUU1NUFFTTFxNEloNlpGMy1DdXpvbzRqd0diQkRVQQ?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Accelerating Chikungunya Vaccine Development in Africa: Launch of the ACT-CHIK Project | &nbsp;&nbsp; Institut Pasteur",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Institut Pasteur Dakar",
+      "published": "2026-06-08T10:09:20+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-06-08T10:53:27.788495+00:00"
   },
   {
     "id": "adf00a925a02",
@@ -1692,7 +1808,7 @@
       "published": "2026-04-20T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-07T08:56:05.333000+00:00"
+    "fetched_at": "2026-06-08T10:53:27.788917+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -1730,6 +1846,6 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-06-07T08:56:05.333326+00:00"
+    "fetched_at": "2026-06-08T10:53:27.789263+00:00"
   }
 ]
