@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-06-17T10:55:18.527950+00:00",
-  "duration_seconds": 99.18051,
+  "last_run": "2026-06-18T10:20:09.461615+00:00",
+  "duration_seconds": 89.580881,
   "source_stats": {
     "ReliefWeb": {
       "fetched": 0,
@@ -39,7 +39,7 @@
       "errors": 0
     },
     "Manufacturer Signals": {
-      "fetched": 42,
+      "fetched": 40,
       "errors": 0
     },
     "Donor Signals": {
@@ -47,14 +47,14 @@
       "errors": 0
     }
   },
-  "total_kept": 53,
-  "total_excluded": 245,
+  "total_kept": 54,
+  "total_excluded": 242,
   "exclusion_breakdown": {
     "expired": 54,
-    "gate": 175,
+    "gate": 173,
     "sanctioned": 2,
     "bmgf_strict": 2,
-    "goods": 12
+    "goods": 11
   },
   "min_value_usd": 50000,
   "urgent_days_threshold": 7
