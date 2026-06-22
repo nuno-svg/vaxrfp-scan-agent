@@ -1,0 +1,1782 @@
+{
+  "meta": {
+    "last_run": "2026-06-22T11:52:59.924913+00:00",
+    "duration_seconds": 102.716367,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 10,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 2,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 38,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 96,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 42,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 2,
+        "errors": 0
+      }
+    },
+    "total_kept": 46,
+    "total_excluded": 245,
+    "exclusion_breakdown": {
+      "goods": 16,
+      "gate": 172,
+      "expired": 53,
+      "sanctioned": 2,
+      "bmgf_strict": 2
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "df909349c9a8",
+      "source": "Signal:Afrigen",
+      "title": "‘Failure was Never an Option’: South Africa’s mRNA ‘Hub’ Awarded Good Manufacturing Practice Certification - Health Policy Watch",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNUd3SmFtV20tdFkwT2g2M2ZJZGdaWjlwVGRmeHVBM1FPYTlfUjM0LWVmRkViTm5Pa0luTE1nMl9rd2RvTTBheF9XVy1lMzFzNnJTYWRLRXp3T1Y5MXdHNmNLUGdvSFRmUWRmbEo4RlVobmJzTmFWZGdSSkpUOGRJeG9pbVBvN0JHaEhvc2dwUm9FRlp2WmdnRGdLQlhTYWdrd05kZ3RfV3RadFU1R1dYQ25CODh5TUlTUE9kbEg4X214LUhpSmxBUVpTbEV2UQ?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "‘Failure was Never an Option’: South Africa’s mRNA ‘Hub’ Awarded Good Manufacturing Practice Certification &nbsp;&nbsp; Health Policy Watch",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 10,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 10,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Afrigen",
+        "published": "2026-05-27T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.918711+00:00"
+    },
+    {
+      "id": "404918114864",
+      "source": "Signal:Biovac",
+      "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - businessreport.co.za",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkRvRThBLWZBbl9oWmpzU1pmekNUc1ZqLWV3eFhCM0lUa1BnLXZSUDBDeVJyYTFaVjNQMlo4QU5VbDJ4M1hwWXRBbFVfRzc3QmJRWFRvRzBTbFB3VHRIYXgydkJaMi14cHVVMjV3UHljNzA1c2l2TEhUMkp3dC1zRWVIaE5XdUJZU09JXzFtdWREQzBzLTljY1VyYjNHYW1MaW9TQmY3a3h5LW1nRzYyU0xlNHI4LWNHMTQ0RGFnX0NoR0lHdkVydGYydw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity &nbsp;&nbsp; businessreport.co.za",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 7,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 7,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-16T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.912513+00:00"
+    },
+    {
+      "id": "e605320efc1a",
+      "source": "Signal:AVMA",
+      "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - businessreport.co.za",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkRvRThBLWZBbl9oWmpzU1pmekNUc1ZqLWV3eFhCM0lUa1BnLXZSUDBDeVJyYTFaVjNQMlo4QU5VbDJ4M1hwWXRBbFVfRzc3QmJRWFRvRzBTbFB3VHRIYXgydkJaMi14cHVVMjV3UHljNzA1c2l2TEhUMkp3dC1zRWVIaE5XdUJZU09JXzFtdWREQzBzLTljY1VyYjNHYW1MaW9TQmY3a3h5LW1nRzYyU0xlNHI4LWNHMTQ0RGFnX0NoR0lHdkVydGYydw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity &nbsp;&nbsp; businessreport.co.za",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 7,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 7,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-04-16T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-06-22T11:52:59.924867+00:00"
+    },
+    {
+      "id": "b8d6a6f15cd5",
+      "source": "UNGM (UNIDO)",
+      "title": "Engineering Assessment Services for Post-Harvest Facility Refurbishment and Cold Chain Systems in Deir Alla, Jordan",
+      "url": "https://www.ungm.org/Public/Notice/301110",
+      "country": "JO",
+      "deadline": "2026-07-02",
+      "deadline_days": 10,
+      "value_usd": null,
+      "description": "Agency: UNIDO. Type: Request for quotation. Reference: 7000008516. Matched query: cold chain.",
+      "fit_per_area": {
+        "cold_chain": 4,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "301110",
+        "ungm_agency": "UNIDO",
+        "ungm_notice_type": "Request for quotation",
+        "ungm_reference": "7000008516",
+        "ungm_query": "cold chain",
+        "published": "2026-06-15"
+      },
+      "fetched_at": "2026-06-22T11:52:59.908552+00:00"
+    },
+    {
+      "id": "ed532603dba5",
+      "source": "Signal:Biovac",
+      "title": "Press Release: EIB Group, European Commission and IFC back Biovac to build Africa’s first end-to-end multi-vaccine manufacturing site - EEAS",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYW1BVkJhekxYdDllWFhGZ0QxbXE0OE9IdjJMLTRBTTNiMGYzcy1vVDJUNmgyME5jbzdGeGVTM20tTTZ4V0RESkJpNExqSG13NFpvczJxR3dMcnpPcmcxSTk2UUprWmZQb0tFTUhuZ05HTVliQmZYV1RWdHlxdGhEbWRUTmxoWTh0Nno1VE9jOV94N2lzWS1VMmZwbDdPMDIyN3pIQ0R4Z25IclluaTJpMzVCMXJSU2xDeDVLN1M4VHVJMXJBODZha2dNVVBkVUFoTkxfRlkyRF9wSnNFS0lpV2NQc0Jybk1XeG5qbVQ4TW5jWW8?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Press Release: EIB Group, European Commission and IFC back Biovac to build Africa’s first end-to-end multi-vaccine manufacturing site &nbsp;&nbsp; EEAS",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-16T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.910997+00:00"
+    },
+    {
+      "id": "dbd79f01d6b8",
+      "source": "Signal:Biovac",
+      "title": "IFC secures additional private capital for Biovac vaccine manufacturing project in Africa - Cape Argus",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQUw0OE5HZGE2a1EyQVhxSDREeFhXaTZBeVV1Qkp0dWpEMlM0aTNqUjJ5emRnb19FclNnSUdqRWpYODVQR0RTTGJQazBqSlhteVNKdWlJMUVfVm9XV0dJZVBval9yTDdIWXFyR3RGLUFHSWpDQzRWbWlYRE15aUk1VERCWmNrX01tUUc4NXVUZnZhTHoyMjFCaVBwTV9VclhwQmFjQ1Z5ZzllVUxBX00yRlQ4WXAwZktQLVVwLTF2akVOM3FvcjVwMWxXdGZoWVViemtZa284UHJrbTYwaGlILWNxblFEQQ?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "IFC secures additional private capital for Biovac vaccine manufacturing project in Africa &nbsp;&nbsp; Cape Argus",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-06-03T17:51:45+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.913096+00:00"
+    },
+    {
+      "id": "27ac670bbb00",
+      "source": "Signal:Biovac",
+      "title": "EU Global Gateway investment strengthens vaccine manufacturing partnership with South Africa - EEAS",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVkZTZnctRXZFSGVBSlR6SHM1dTVkZzdlU0JYZ05qdmZMc0dhcXFTY2dCRnRhOWdHdEgzb0lvTmNQVXZ4cmJWMTEzWlZCR01DSGZiM1loMlNWdy1zd2llX3MxYlYxU0lYTVZjU1RhalAzNmFrdXFTcWc2U2hTODlzMmUxUUFUQWFDUElxWTV4SHJDWHNIUTJlTDVWWXRhM3dyei1vWGRIbGxGMlZvcm9SWUo5ZkRxMHVXNHVSYmR4YWxuQzJwU19LakZRT1pMbzh2bkltSjVvcVkxZw?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "EU Global Gateway investment strengthens vaccine manufacturing partnership with South Africa &nbsp;&nbsp; EEAS",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-05-26T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.913238+00:00"
+    },
+    {
+      "id": "9c3a49126d9b",
+      "source": "Signal:Biovac",
+      "title": "Biovac expansion positions South Africa as continental vaccine manufacturing hub - Sunday Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZE5WYnEzRHMySTE3ekV1bXNJcWpENU0xYWdrVVhsNXNoNVdvTW10dUh0d00zWUpIR0NFOW9aQ29Ud001dEFBbDFzQ1hHNWh4cExLT2pBeHRFOE5hcWRDWS13ZW0xNFp3Mkh2cmpMcUdEc0hzUnMzZ3F1Q3BINmFHdndNZGRPbk9kaWN4eFpYbkhtaFBNQnJMU1ZPdFhzZndzRWNZQ2Y1dFA5TjF0YkVxTDdld0s4OFM4NEJPX1RETVlEVjRaeDJQRjA0b3l4bmxueVE?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac expansion positions South Africa as continental vaccine manufacturing hub &nbsp;&nbsp; Sunday Tribune",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-06-15T17:33:08+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.913378+00:00"
+    },
+    {
+      "id": "31245162c412",
+      "source": "Signal:Biovac",
+      "title": "Biovac's €75m cash injection to boost vaccine production and create jobs - Bizcommunity",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2xDR1lVV19USjk0TXN6NXVYZElONTlRMDk0bW95Rng5QVlYNGlibVR3NkQ3cm9KY0FiNWR6cTR1TzhGWXlkMnYzb01qeGlzTGxxeXJsQnlNNUNuS2RicVVEOFh5VFNrSi1wOE1lenFXc0tQeGVxWFNNMFY0MDVhY19HNFJGdDV5V0ZCUmlQTFdtVTBZZlV5M2FtV1UxYnZBZXhCSHRuVzBNM255ZjRSVGVjeGE?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac's €75m cash injection to boost vaccine production and create jobs &nbsp;&nbsp; Bizcommunity",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-17T05:57:59+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.915577+00:00"
+    },
+    {
+      "id": "428be1b62fdb",
+      "source": "Signal:Biovac",
+      "title": "France supports Biovac to strengthen vaccine production in Africa - Fresh Angle",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYk5XTWR6UTA4dXN1M2dRd3lmWEoxSUFFc0tKX0E2Zk40Z0pOUWV6UEdmekstanpWLVdqd2tRV0FlME51QW1HOWR1d2FyRVIxMllkdVNOZGplRTBtaUlieXJDV0lrclpBZmVxbW5wdDBPVjBBRkhJUGdKM1VPeHNfM0NGZjNXSEFfRHQ5bk5hT3Etd3lkaThaNkI3ck4?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "France supports Biovac to strengthen vaccine production in Africa &nbsp;&nbsp; Fresh Angle",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-05-12T09:47:25+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.916262+00:00"
+    },
+    {
+      "id": "95ddc1cb255e",
+      "source": "Signal:Biovac",
+      "title": "IFC secures additional private capital for Biovac vaccine manufacturing project in Africa - IOL",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSWdmTUx4NzN0ZjhyYkNJd284SXBmTUNsYVdsYUw4ZEVMU1VFZThzMnVidnFnZFJyc0d6OUQ3U3VkRi1BZ1FNMUtReFJMQ3hrb3ZYaXpGMUFjNkJZMDctVVNVRW9zR1ZiR0hKYzdib2ZNQjRHUFVFZF9DS1FDX01IaW1DTXk2YTBwVUxjQ082WjNLeXJGdFVFNElXUmNaLTk1a01nNmRWVFdmVHpwS3d3SlJodFBBUFN4QkFnNUdhQWNQQjlwYmZhbS12STZ1SnUyWTFUWExGX2N2VkdJVnc?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "IFC secures additional private capital for Biovac vaccine manufacturing project in Africa &nbsp;&nbsp; IOL",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-05-12T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.916653+00:00"
+    },
+    {
+      "id": "3c511eba2bf5",
+      "source": "Signal:Biovac",
+      "title": "SA moves closer to vaccine manufacturing hub with $1.5 bln investment - Channel Africa",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVZpallXVmNOWjRLUUl4YkItNVV4SmVPd1FMVHlmckUtakxRZURqd05sX3RNblFtbFozX0R2dWxCQk5mVlB1QjFVVERhZWRSTnhydGJOenhjVjRZLTBpU3BDM0dRd3VHT21oemctanlNTXZ4d0Fnc2hmeF9zeFh1YlFGb0t1bzg4S0VfN3F1Ny1Cemt5T2xqSnBGOWhoRFlpU18tNFc1WHFrUHliOENEM1E1QUJ3M3dIcFRJag?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "SA moves closer to vaccine manufacturing hub with $1.5 bln investment &nbsp;&nbsp; Channel Africa",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-05-11T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.917799+00:00"
+    },
+    {
+      "id": "79f77cfe6238",
+      "source": "Signal:Afrigen",
+      "title": "South Africa’s Afrigen eyes Ebola vaccine role after landmark GMP certification - The Africa Report",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMWFBRTB5Um10S0VjajVsby1YNEEya2NtSDBHcFBnbjBST016N21VaThYUXZnVndDOE8zdW9EVlJEc0tPVEVNbFlMRUYyamZ4cjRJX2Q1dnQydXE0QmFVVHpwQm11eGtJQVVoQjlJSjctd1AxSXNWT3piTU4xS3Bka3JhX3B1UUwwVHVWRG5sOVV2bmQ4WnpJTXlzNWdVRk13Q1MwOTg3Tm9jYWIxbjhWWjNOTmJlZ096dlJ6elFyMTI?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa’s Afrigen eyes Ebola vaccine role after landmark GMP certification &nbsp;&nbsp; The Africa Report",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Afrigen",
+        "published": "2026-06-15T05:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.918877+00:00"
+    },
+    {
+      "id": "c404e08d0f11",
+      "source": "Africa CDC",
+      "title": "Consultants to Support Implementation of the Africa CDC Quality Management System to achieve ISO 9001:2015 Certification (Senior consultant)",
+      "url": "https://africacdc.org/opportunity/consultants-to-support-implementation-of-the-africa-cdc-quality-management-system-to-achieve-iso-90012015-certification-senior-consultant-2/",
+      "country": "_AU",
+      "deadline": "2026-06-22",
+      "deadline_days": 0,
+      "value_usd": null,
+      "description": "Africa CDC is committed to strengthening its organizational management systems by aligning with international best practices. To this end, an integrated Quality Management System (QMS) compliant with ISO 9001:2015 standards is being developed to enhance operational efficiency, process consistency, and stakeholder confidence. To achieve this, the organization seeks the technical expertise of a seasoned ISO certification specialist. This consultancy aims to facilitate the organization’s journey towards ISO 9001:2015 certification by conducting comprehensive process assessment, developing a tailored QMS framework, ensuring alignment with ISO standards, and providing strategic guidance for documentation, internal controls, and capacity building. The primary objective of this consultancy is to support the Africa CDC in achieving ISO 9001:2015 certification through the establishment and operationalization of a robust Quality Management System (QMS) aligned with international best practices. Specifically, the objectives are to: The expert shall undertake the following key activities: ​Africa CDC strengthens the capacity and capability of Africa’s public health institutions as well as partnerships to detect and respond quickly and effectively to disease threats and outbreaks, based on data-driven interventions and programmes. Tel: +251 11 551 77 00 | communications@africacdc.org Visit Africa CDC on the African Union website . © All rights reserved Africa CDC",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 3,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-06-22T11:52:59.895844+00:00"
+    },
+    {
+      "id": "29ea3281ca35",
+      "source": "Africa CDC",
+      "title": "Recruitment of one Senior Social Development Consultant for the PIU to support the E&S Specialist on social safeguards activities",
+      "url": "https://africacdc.org/opportunity/recruitment-of-one-senior-social-development-consultant-for-the-piu-to-support-the-es-specialist-on-social-safeguards-activities/",
+      "country": "_AU",
+      "deadline": "2026-06-26",
+      "deadline_days": 4,
+      "value_usd": null,
+      "description": "Africa CDC is implementing a portfolio of public health initiatives aimed at strengthening health systems, disease surveillance, laboratory capacity, and emergency preparedness across Africa. To support sustainable implementation of its activities, Africa CDC has adopted an Environmental, Social, and Governance (ESG) Policy and applies relevant environmental and social requirements, including the World Bank’s Environmental and Social Commitment Plan (ESCP), for partner-financed activities. In this context, Africa CDC seeks to engage a Senior Social Development Consultant to support the management of social risks and impacts and strengthen alignment with the ESG Policy, the ESCP, and donor requirements. The objective of this assignment is to support the identification, assessment, and management of social risks and impacts across Africa CDC activities, ensuring compliance with the World Bank Environmental and Social Commitment Plan (ESCP) and alignment with the Africa CDC Environmental, Social, and Governance (ESG) Policy. The Senior Social Development Consultant will contribute to strengthening stakeholder engagement, social inclusion, grievance management, and institutional capacity for social risk management, while supporting the effective implementation and monitoring of social safeguard measures across project activities. Under the guidance and supervision of the PIU Coordinator, the Senior Social Development Consultant will be responsible for supporting the implementatio",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 3,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-06-22T11:52:59.895369+00:00"
+    },
+    {
+      "id": "241c8cabef85",
+      "source": "Africa CDC",
+      "title": "Supply, Delivery, Installation and Training of an Enterprise AI/GPU-Enables High-Performance Computing Server for Africa Centres for Disease Control and Prevention (Africa CDC)",
+      "url": "https://africacdc.org/opportunity/supply-delivery-installation-and-training-of-an-enterprise-ai-gpu-enables-high-performance-computing-server-for-africa-centres-for-disease-control-and-prevention-africa-cdc/",
+      "country": "_AU",
+      "deadline": "2026-07-02",
+      "deadline_days": 10,
+      "value_usd": null,
+      "description": "1. The Africa Union has received financing from the World Bank toward the cost of the Africa Centres for Disease Control Support Program to Combat Current and Future Public Health Threats Project (P178633) and intends to apply part of the proceeds toward payments under the contract [1] for Supply, Delivery, Installation and Training of an Enterprise AI/GPU-Enables High-Performance Computing Server for Africa Centres for Disease Control and Prevention (Africa CDC). 2. The African Centres for Disease Control and Prevision (Africa CDC) now invites sealed Bids from eligible Bidders for Supply, Delivery, Installation and Training of an Enterprise AI/GPU-Enables High-Performance Computing Server for Africa Centres for Disease Control and Prevention (Africa CDC), details provided in the bidding document, within 90 calendar days after contract signing date. Margin of preference is not applicable for this contract. 3.  Bidding will be conducted through competitive procurement using a Request for Bids (RFB) as specified in the World Bank’s “Procurement Regulations for IPF Borrowers July 2016 Revised February 2025 (“Procurement Regulations”) and is open to all eligible Bidders as defined in the Procurement Regulations. 4.  Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5.  The bidding document in English may be requested by interested ",
+      "fit_per_area": {
+        "cold_chain": 3,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-06-22T11:52:59.894757+00:00"
+    },
+    {
+      "id": "6d6d72343a74",
+      "source": "Africa CDC",
+      "title": "Consultancy to Scaling of the Africa CDC Continental Public Health Data Intelligence (HDI)",
+      "url": "https://africacdc.org/opportunity/consultancy-to-scaling-of-the-africa-cdc-continental-public-health-data-intelligence-hdi/",
+      "country": "_AU",
+      "deadline": "2026-07-07",
+      "deadline_days": 15,
+      "value_usd": null,
+      "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites qualified firms to submit proposals for the Scaling of the Africa CDC Continental Public Health Data Intelligence (HDI). The service request for Phase 2 of the HDI platform is focused on enhancing and expanding the existing platform delivered in Phase 1, while preserving and reusing the current system architecture and investments. Duration: 6 months Location: Africa CDC, Addis Ababa, Ethiopia Submission Deadline: July 7, 2026, Submission Email: procurement@africacdc.org Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested bidders must demonstrate experience in delivering large-scale data platforms, deploying solutions on both on-premises and cloud environments (especially Azure), and implementing federated public health and AI-driven systems. They should have strong open-source expertise, experience working with governments and sensitive health data, and the ability to enhance existing systems incrementally while preserving Phase 1 investments. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. Phase 2 aims to enhance and scale the existing HDI platform to enable secure public health data sharing, advanced analytics and AI-driven disease intelligence, reliable performance in low-connectivity environments, and strong governance, privacy, and compliance",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 3,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-06-22T11:52:59.893947+00:00"
+    },
+    {
+      "id": "e2b3c9234f0e",
+      "source": "Africa CDC",
+      "title": "Provision of Landscaping, Gardening and Maintenance Services at the Africa CDC Compound",
+      "url": "https://africacdc.org/opportunity/provision-of-landscaping-gardening-and-maintenance-services-at-the-africa-cdc-compound/",
+      "country": null,
+      "deadline": "2026-07-10",
+      "deadline_days": 18,
+      "value_usd": null,
+      "description": "Date of Publication : 10 June 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) Headquarters located at Haile Garment, Addis Ababa kindly request that you submit your quotation for the provision of landscaping, gardening and maintenance services at the Africa CDC Compound for a period as indicated in the attached contract. This scope of work is prepared for the Africa CDC landscaping, gardening and maintenance work, and it includes the necessary information and detail required for the maintenance work. The contractor shall be committed to employing sustainable and environmentally friendly approaches in all aspects of the landscape maintenance work. Submission Deadline : Technical and Financial proposal must be delivered on or before 10 July 2026 at 15:00 Hours Local Time. Validity : Proposals should be valid for at 60 Calendar days from the closing date. Proposal Opening : Proposals will be opened immediately after the closing hours in the presence of bidders or bidders’ representatives who wish to attend. Late submission will be rejected and returned unopened to service provider. Contract Start Date : 01 September 2026 and ends on 31 st August 2028.  The Service Contract shall be for an initial period of two (2) years from the date of commencement. At the end of the first year, Africa CDC shall undertake a formal performance appraisal of the service provider to assess performance, service quality, compliance with contractual obligations, and overall mar",
+      "fit_per_area": {
+        "cold_chain": 3,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-06-22T11:52:59.882838+00:00"
+    },
+    {
+      "id": "21965644006a",
+      "source": "Africa CDC",
+      "title": "Provision of catering services within the Africa CDC HQ compound.",
+      "url": "https://africacdc.org/opportunity/provision-of-catering-services-within-the-africa-cdc-hq-compound/",
+      "country": "_AU",
+      "deadline": "2026-07-10",
+      "deadline_days": 18,
+      "value_usd": null,
+      "description": "Date of Publication : 10 June 2026 Africa Centres for Disease Control and Prevention (Africa CDC) is a continental autonomous health agency of the African Union established to support public health initiatives of Member States and strengthen the capacity of their public health institutions to detect, prevent, control and respond quickly and effectively to disease threats. Africa CDC supports African Union Member States in providing coordinated and integrated solutions to the inadequacies in their public health infrastructure, human resource capacity, disease surveillance, laboratory diagnostics, and preparedness and response to health emergencies and disasters. The Africa CDC Headquarters in Addis Ababa, Ethiopia currently comprises of more than 200 staff members operating in a multicultural and multi-linguistic environment and seeks to provide professional and authentic top-notch continental wide catering services in-order to satisfy its staff, invited delegates and guests to meet multicultural and multi-diverse needs. The Africa CDC wishes to engage professional service providers for Provision of Catering Service within the Africa CDC premises. The Africa CDC is inviting eligible and qualified catering service providers in Africa to participate in this competitive bidding process and to submit their proposals for the management and operations of catering spaces situated within the Africa CDC’s premises in Addis Ababa, Ethiopia as follow; The objectives of the provision of c",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 3
+      },
+      "fit_total": 3,
+      "fit_top_area": "mel",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-06-22T11:52:59.883533+00:00"
+    },
+    {
+      "id": "5b3be3903810",
+      "source": "Africa CDC",
+      "title": "Provision of Security Services at Africa CDC",
+      "url": "https://africacdc.org/opportunity/provision-of-security-services-at-africa-cdc/",
+      "country": null,
+      "deadline": "2026-07-10",
+      "deadline_days": 18,
+      "value_usd": null,
+      "description": "Date of Publication: 10 June 2026 The African Centres for Disease Control and Prevention (Africa CDC) has allocated funds for the procurement of security services and now invites sealed offers from eligible bidders for the Provision of Security Services as per attached Terms of Reference. Services providers shall be selected under the Least Cost Selection criteria . Bids that are responsive, qualified, technically compliant will be ranked according to price. Submission Deadline: Technical and Financial proposal must be delivered on or before 22 nd July 2026 at 15:00 Hours Local Time. Proposal must be accompanied by: Validity: Proposals should be valid for at 60 Calendar days from the closing date. Proposal Opening: Proposals will be opened immediately after the closing hours in the presence of bidders or bidders’ representatives who wish to attend. Late submission will be rejected and returned unopened to service provider. Contract Start Date: 01 September 2026 and ends on 31 st August 2028.  The Service Contract shall be for an initial period of two (2) years from the date of commencement. At the end of the first year, Africa CDC shall undertake a formal performance appraisal of the service provider to assess performance, service quality, compliance with contractual obligations, and overall market competitiveness. Continuation into the second year shall be subject to satisfactory performance assessment by Africa CDC. Either party shall provide ninety (90) days written notice",
+      "fit_per_area": {
+        "cold_chain": 3,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-06-22T11:52:59.888404+00:00"
+    },
+    {
+      "id": "5a8cb9827443",
+      "source": "Africa CDC",
+      "title": "Provision of Cleaning, Janitorial and Pest Control Services in the Africa CDC Compound",
+      "url": "https://africacdc.org/opportunity/provision-of-cleaning-janitorial-and-pest-control-services-in-the-africa-cdc-compound/",
+      "country": null,
+      "deadline": "2026-07-10",
+      "deadline_days": 18,
+      "value_usd": null,
+      "description": "Date of Publication: 10 June 2026 The African Centres for Disease Control and Prevention (Africa CDC) has allocated funds for the procurement of Cleaning, Janitorial and Pest Control Services and now invites sealed offers from eligible bidders for the Provision of Provision of Cleaning, Janitorial and Pest Control Services as per attached Terms of Reference. Services providers shall be selected under the Least Cost Selection criteria . Bids that are responsive, qualified, technically compliant will be ranked according to price. Service Providers are expected to demonstrate their capability, experiences and understanding of the requirements of the Africa CDC. Submission Deadline: Technical and Financial proposal must be delivered on or before 10 th July 2026 at 15:00 Hours Local Time. Proposal must be accompanied by: Validity: Proposals should be valid for at 60 Calendar days from the closing date. Proposal Opening: Proposals will be opened immediately after the closing hours in the presence of bidders or bidders’ representatives who wish to attend. Late submission will be rejected and remain unopened. Contract Start Date: 01 September 2026 and ends on 31 st August 2028.  The Service Contract shall be for an initial period of two (2) years from the date of commencement. At the end of the first year, Africa CDC shall undertake a formal performance appraisal of the service provider to assess performance, service quality, compliance with contractual obligations, and overall marke",
+      "fit_per_area": {
+        "cold_chain": 3,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-06-22T11:52:59.893316+00:00"
+    },
+    {
+      "id": "6ae5c26a97d8",
+      "source": "Africa CDC",
+      "title": "Conduct annual calibration and maintenance of Biological Safety Cabinets (BSCs), Negative Pressure System, and other lab equipment at the Africa CDC Reference Laboratory",
+      "url": "https://africacdc.org/opportunity/conduct-annual-calibration-and-maintenance-of-biological-safety-cabinets-bscs-negative-pressure-system-and-other-lab-equipment-at-the-africa-cdc-reference-laboratory/",
+      "country": "_AU",
+      "deadline": "2026-07-22",
+      "deadline_days": 30,
+      "value_usd": null,
+      "description": "Africa Centres for Disease Control and Prevention (Africa CDC) Supply Chain Division Administration Directorate Lafto Square, Haile Garment Africa CDC Office, NKOSAZANA DLAMINI – ZUMA TOWER 4th Floor, Room No. 408 Addis Ababa, Ethiopia For clarification and requesting bidding / solicitation documents: E-mail: procurement@africacdc.org (Please submit your request for the bidding document and clarification to both emails) ​Africa CDC strengthens the capacity and capability of Africa’s public health institutions as well as partnerships to detect and respond quickly and effectively to disease threats and outbreaks, based on data-driven interventions and programmes. Tel: +251 11 551 77 00 | communications@africacdc.org Visit Africa CDC on the African Union website . © All rights reserved Africa CDC",
+      "fit_per_area": {
+        "cold_chain": 3,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-06-22T11:52:59.877682+00:00"
+    },
+    {
+      "id": "42ef71c9da92",
+      "source": "FAO",
+      "title": "Request for Expressions of Interest (EoI) 2026-26 - Brucellosis epidemiology work and video production",
+      "url": "https://www.ungm.org/Public/Notice/304331",
+      "country": "HU",
+      "deadline": "2026-06-23",
+      "deadline_days": 1,
+      "value_usd": null,
+      "description": "Agency: FAO. Type: Request for EOI. Reference: 2026/REUXD/REUTD/137242. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "304331",
+        "ungm_agency": "FAO",
+        "ungm_notice_type": "Request for EOI",
+        "ungm_reference": "2026/REUXD/REUTD/137242",
+        "ungm_query": "EPI",
+        "published": "2026-06-16"
+      },
+      "fetched_at": "2026-06-22T11:52:59.909325+00:00"
+    },
+    {
+      "id": "182d59be6a5b",
+      "source": "GAVI",
+      "title": "RFP: Invitation to tender for Gavi’s 042-2026-GAVI-RFP Provision of French language training for Gavi employees",
+      "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-gavis-042-2026-gavi-rfp-provision-french-language",
+      "country": null,
+      "deadline": "2026-06-24",
+      "deadline_days": 2,
+      "value_usd": null,
+      "description": "RFP: Invitation to tender for Gavi’s 042-2026-GAVI-RFP Provision of French language training for Gavi employees",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-06-22T11:52:59.877300+00:00"
+    },
+    {
+      "id": "2238e5ba74ca",
+      "source": "UNFPA",
+      "title": "Development and pilot implementation of Digital Safekeeping",
+      "url": "https://www.ungm.org/Public/Notice/303442",
+      "country": "KE",
+      "deadline": "2026-06-29",
+      "deadline_days": 7,
+      "value_usd": null,
+      "description": "Agency: UNFPA. Type: Request for proposal. Reference: UNFPA-HQ1-00003. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "303442",
+        "ungm_agency": "UNFPA",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "UNFPA-HQ1-00003",
+        "ungm_query": "EPI",
+        "published": "2026-06-08"
+      },
+      "fetched_at": "2026-06-22T11:52:59.909488+00:00"
+    },
+    {
+      "id": "4db365511153",
+      "source": "Signal:Biovac",
+      "title": "Biovac nets $108M finance package to build Africa’s first fully integrated vaccine plant - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdElzcFZheTlCSFpRbjVlazJHcVowWEY0V3J6RVJYeU9LbVp0ci00a1oyVF9McUN6a0ZHSzZQcGFTNENQWE5CcmJOOGlOR3VmcUpSS0kxcDV3cXd6QWxEdDRSb2tEekFHLW5wV0x6TG9kQlpnNXlPdW1OSTVYcFUxR3J4X29VQVFlQnVKbGhaVHZRV2hhQ01pR0I2cDRvMEFvMTFZVDZzZFVCWFhheF93Z1JmZUYzd2dyYmRYbVZRUEl1dnpf?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac nets $108M finance package to build Africa’s first fully integrated vaccine plant &nbsp;&nbsp; Fierce Pharma",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-20T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.910402+00:00"
+    },
+    {
+      "id": "61c87d68b656",
+      "source": "Signal:Biovac",
+      "title": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXdxQ3l4SWRtNmEtbFFrMVhEU3VEX3IwZG5HRzYzUjhVVEdhMmc4UVl2SUFMc0pIcm4xOTRObjJxS3VUd3dOdkQyeG5IeFVxU0FINWZhOGZBM3FyNnZ5cnpRR19LYTVJb1k4SG9CU25YMnB5OWZnZzNqNjhNbWVCQ3NxZmZBaHdLdFJxV1JsTzFrOGE0SDF1bGJwdnd2OVNIaUVFV1BZUWU1OWt2UG9ZZkRjdw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac Wins EU, IFC Money to Build Biggest Africa Vaccine Plant &nbsp;&nbsp; Bloomberg",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-16T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.911347+00:00"
+    },
+    {
+      "id": "16a3c0a1659d",
+      "source": "Signal:Biovac",
+      "title": "EIB, EU and IFC back Biovac vaccine facility in South Africa - The Pharma Letter",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM01LVjh6Zk1CeWZIQkpnNkJlNjFMQVh3ZDZzWGd6RWo1OTdzWFpwZDlOcklqM0tpeHI5WUxGZmcxczR4RHN0NC1zbTVqeFRvemNUSDZMbURtclBaNTRIMlVncERLU1M3cWJTdFROWXVHWmJ0ZmswRHBEODh2a3V0ZF80aFVsZ2lBbTZ2Z3VtbWF6Q29WelFRd2g1VmZxRlJNMW8tSW1n?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "EIB, EU and IFC back Biovac vaccine facility in South Africa &nbsp;&nbsp; The Pharma Letter",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-17T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.911499+00:00"
+    },
+    {
+      "id": "a571e9d35662",
+      "source": "Signal:Biovac",
+      "title": "Biovac gets $108M backing for vaccine factory in South Africa - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG8wd1JyZUlsaXFnRzhzc2tQWjB5V2w5NmhoZWw1YU9JM2p6OGNIU1dsRXEtOEM4LTJrR0l6bFFMVmZLQ3RFNHBiV1g4d2xqMm5XQjRiSlFBWXFDTEZWMTlDa3N6cWU1Wm1XSl9EdFphNmd1bVQ4Z2JlYVZSWFl0UllJUE5SME1McDZCSg?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac gets $108M backing for vaccine factory in South Africa &nbsp;&nbsp; Endpoints News",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-17T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.911635+00:00"
+    },
+    {
+      "id": "955d8c8354c8",
+      "source": "Signal:Biovac",
+      "title": "New Private Capital Comes Rushing Into Africa Vaccine Ambition, With IFC Doubling Down On Biovac - pan african visions",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNHA0NVpsVklpUTZUWVlLNVBMalE0ZndUSDVRWDNXYWpwNmV1U3Yya2d3TGNXRXgyQXRWZm5zbGZlUjZBRF9SQ0g4UmxOVGRCSGk1aHNhQW9OTWtRZGVzSThyZkFWeFhMLUlRbVJSZjg2UWxrRks2Y0FKd05XUGkxUG5ReUw1c2xVOF92bFRfSXNKUS00ZmJHRlY2d3hWVkZzc2Vaa281Y09HUDZZV3VFa3BiODlKT01JZnBGdVNUNlV3Z0N6RXZuSUJhTm5pdmM?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "New Private Capital Comes Rushing Into Africa Vaccine Ambition, With IFC Doubling Down On Biovac &nbsp;&nbsp; pan african visions",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-05-12T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.912078+00:00"
+    },
+    {
+      "id": "4a5eee8825f9",
+      "source": "Signal:Biovac",
+      "title": "South Africa secures Europe-backed $90 million vaccine plant deal amid hantavirus outbreak fears, 7,000 jobs expected - Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0otSkh0V0JpVWJUU3MtVHdCQXo5dmxWb2t3RkZnWEZsdnZVdG4xRk01TXU2UE5jMkQ5Yk5yN0RBRkN6RVk1cmdiYXBncXNXRHhyZDczT0E2QlZrVVhySzl4bFQtMU4zUTg4enYxaEVuZF9JMU9NS09kaGJ3aXZFdHFTRk0tZ1pWRkI1M1FaZnQ5aTZ2X2VLcVFLbFhvelc4QV9QTnlxOGdOekRWWWRiUmdPZUJyNTlLbDBPMVFOVXNXSlZBamhWeWRtaHg?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa secures Europe-backed $90 million vaccine plant deal amid hantavirus outbreak fears, 7,000 jobs expected &nbsp;&nbsp; Business Insider Africa",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-05-08T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.912698+00:00"
+    },
+    {
+      "id": "22c380ff4ae8",
+      "source": "Signal:Biovac",
+      "title": "Africa’s first end-to-end multi-vaccine plant to be built in SA - South African Government News Agency",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnViRi1TakFMX3JJdC1YaS1XSkhEZjVHYzNLQXhSQktKU3R6cEVNd1FERVozVEJKazY4ZG11bkQwZkxibHIyRWcyVllhcTBQMDJaWjNBM1NaVk10b0Q5djBjM2VKRXdad1puX2YtUkFmSXBtX25uX3JwWDlJNmNhX3BkdlJpY3dUQ3VYVUlqUGJGSXBXTHdN?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Africa’s first end-to-end multi-vaccine plant to be built in SA &nbsp;&nbsp; South African Government News Agency",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-17T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.914145+00:00"
+    },
+    {
+      "id": "6bcba987f5b4",
+      "source": "Signal:Biovac",
+      "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-05-11T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.914488+00:00"
+    },
+    {
+      "id": "2a61f0e571fa",
+      "source": "Signal:Biovac",
+      "title": "Cape factory to develop vaccines from scratch as IDC, EU commit big money - News24",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHNleXdvOXBRT1RZYjh3N0FzRU92WXpxLWN3eG1pRTJNZmdxQWxHZzl0Yi1hdXR4TktjUVVVVnhDQ202WTZnbEd4bDNtT1l4MkdlT2xDa2lTNmJmYVZtUTVJWTRTSUlJNVhHYXRVdVZfNTVPWG9taDlxTEtNc1dvYzJhZFZ5dGJUeUdhaDlwZGNNTWRSUHZXTWlVOXhhOHJSd24wMGVqNVoyaVEydXZHS19Cay0xYmY1eEN0aW9FeVJPbU5r?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Cape factory to develop vaccines from scratch as IDC, EU commit big money &nbsp;&nbsp; News24",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-05-25T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.914848+00:00"
+    },
+    {
+      "id": "ff56ac61df73",
+      "source": "Signal:Biovac",
+      "title": "Biovac vaccine project expected create jobs in SA - Channel Africa",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0hlWUdqRzZRcnJ2T0FNYkR3Vl9zYnp4QnVzdHphM3BfWEVGeFFYVGxRc3E0S19sVGtKNTNjRXJpQXBoMUhNQnJtenYxQlNtRDlkMjdEZHBuMzM2ZXpYTVVJZEE3cGxJVWQtMUIzMnc0SVhYaTJqWXdDYjQwb1VMVmlxZlJHdU1EU3BOaUdPcXVHTW9VRTNTdzdvbVdtMHpNZ0R3?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac vaccine project expected create jobs in SA &nbsp;&nbsp; Channel Africa",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-05-26T07:17:13+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.915162+00:00"
+    },
+    {
+      "id": "798d84af1929",
+      "source": "Signal:Biovac",
+      "title": "EXCLUSIVE | Biovac secures crucial R5.3bn state vaccine contract - Business Day",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDhxbWR1WkJJRlNWS2tPVmFSXzFfbkpZY3RNbFRDRkRNQnVfT1M4OFdKQ1FXVEYxNXNoRDByZ1ZNMXZuZjJ5T0dkY2JXQ0pjaWtsSVlCOTItWmNPTGgwSV9CalMtalU4V21qN0daN3VQZkxoMGFqVHJlMlRrZi10LWZNOVl0Yk1udXFpVDd4dXJ5U1VqZG9IS052M2lVc0xfcWg0eHRha2ZUQWhlaGpSLThyWWFldw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "EXCLUSIVE | Biovac secures crucial R5.3bn state vaccine contract &nbsp;&nbsp; Business Day",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-05-13T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.915927+00:00"
+    },
+    {
+      "id": "15f71a2d2e46",
+      "source": "Signal:Biovac",
+      "title": "SA secures $110m boost for first end-to-end vaccine plant - Channel Africa",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEVtNXlzd0o4b1RoOHRBYmQ3cVczbmVmMzNFM2hneHpCRHZtNHAxeTVLRzk2TU5YUVp5S1F6ZGxuMHc0LWwwaUJkektMSWRNYVl3eXNFUWo0OXlLS0g3Mm5rc255em8zTE5fdWJSeFAxem0yNkZqWHo2UzgtbXhMb01JNnNaeWtQcmowWGNHZEVCYUxRR1JHQ3Z6ZkJ0WEJLYURxRUpZRDhQblZ6?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "SA secures $110m boost for first end-to-end vaccine plant &nbsp;&nbsp; Channel Africa",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-16T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.916994+00:00"
+    },
+    {
+      "id": "ea1ed6a83094",
+      "source": "Signal:Biovac",
+      "title": "South African pharma giant wins R1.5 billion to build the biggest vaccine facility in Africa - Daily Investor",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdTFYMUxYMEpidXF2NUNXTXp3dGtaYmctbm9qaHZBZXBZV1p0QnJqSUVnZW5QWnNTTmF0a0VzRmhqX014bzBCVUphdHQ3d1FueVBRZnl3a0FScThQWkdBRXVVQzFlUkpHUENXYVRoTUlCdHpoV3VCQmtqYm5kdmY4Sy1DY1JyZDNCcS1HV1l0T2JDalRyT3ZDV25rTjlQYmxaZ1VOWXhVYjNBb1BneVJNcGQ0c0tobUtBbkstekFpaDhLRTY0cEV6anQxaFJlSldUMEE3X19R?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South African pharma giant wins R1.5 billion to build the biggest vaccine facility in Africa &nbsp;&nbsp; Daily Investor",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-17T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.917414+00:00"
+    },
+    {
+      "id": "9edcae8be231",
+      "source": "Signal:Biovac",
+      "title": "Cape Town Biovac secures R1.8 billion for vaccine plant - Cape Town ETC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yS3hMZm9ZUXFfUGpLZDdkNzJJMG5CNmRnbUhIVmdFU1ZORGVyN0FrcU5lbzc2djVZZnloTjEwVjY3MDdtRmlrbWdWdUtIUzVxTEtpR2dZamJUZkNHbTBpOFhET0ROV2k1UG8tLS1mT2NtRFpBbFN2TzVsSlB6Q1k?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Cape Town Biovac secures R1.8 billion for vaccine plant &nbsp;&nbsp; Cape Town ETC",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-04-17T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.918130+00:00"
+    },
+    {
+      "id": "9c533fdd9faf",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Africa CDC and Aspen Pharmacare aim to boost vaccine output in Africa - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZzBwUXVHNmloT2JpZldaNXB6Sm9nd1IxMWpWc2FVTHNYWkY0LVJWM1ZJRjZlbmZnLURmWlQ2OEQ0eWZzMTFSNHg5bmRncDlCOGFoMWE1TENQRjVlQ05FZGdmTGJ2ZEZjZlU2aUxWM1NmZW1uMEU4NnY1RzlEUlNDSFdzNjR0aEZBLWJKU0ZWeWREakRUdU5vUjhhTHZoT243Nmt2TzFrb3M1d3lleU5OMWxaUERuSk84Nm80?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Africa CDC and Aspen Pharmacare aim to boost vaccine output in Africa &nbsp;&nbsp; MSN",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-05-29T17:24:02+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.919613+00:00"
+    },
+    {
+      "id": "06c90dac4b9a",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Africa CDC and Stephen Saad's Aspen strike talks on a plan to end Africa's vaccine import dependency - Billionaires.Africa",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDAya3liUG1NNXZrWmx5NWRxbzY0VzdLb1I2cElwUU5ra0Z4LVpaQ2cyMmY1VXlVTlpqV3VkSll1R1JhSERiMTFsNWtwRGxEVC1SNjN4dEZmOUhFdjljYUtoMU5naG40UkprS19RWTBKRGdxeGNsQzJsV29WT3FmZHhYaWozdG1zU1VkOXluSkMzaWZVZWt4Y014VzdFOFlTVGVydUtyTW5BTFVyNlhJQm1FX1czTEhMT3ZnaEdrc1R1MHRQLVY0SkNGVkFCSUkwemszb0xyeWdlUQ?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Africa CDC and Stephen Saad's Aspen strike talks on a plan to end Africa's vaccine import dependency &nbsp;&nbsp; Billionaires.Africa",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-05-14T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.920719+00:00"
+    },
+    {
+      "id": "de2351f4b117",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Africa CDC and top local drugmaker Aspen in vaccine supply talks - Moneyweb",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdnZhWHpEMlRZUmJKdTFfSzB4dUxBeENMb0FoTmlEdkZJUXE5TmlONDNJaDBvNmZuRldqS2x3ZVdZZkJLM0dPTXVJdTl4Sm1YQ3JSVDZVMTlMYjJQaGtJZG1YZWtMZ2VIUUZRMEtJZHZnSmNSX19SVTRtZHU0RW82RnMtbjA0OFJnUm1rNm9mSGM3STJUZlY0YzNZZjJrcmxKMTRIZHVjTTY3STlSOEstd2o3eDlTS2lt?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Africa CDC and top local drugmaker Aspen in vaccine supply talks &nbsp;&nbsp; Moneyweb",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-05-13T06:07:49+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.921055+00:00"
+    },
+    {
+      "id": "7895d9459a90",
+      "source": "Signal:Institut Pasteur Dakar",
+      "title": "Chikungunya Vaccine Development in Africa Accelerated by ACT-CHIK - Genetic Engineering and Biotechnology News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1lPZTh0YjQ5S1pGVFpXZmZrVmNTRW15ejM1Q24ta1VUUWRGZ0VWeHhOWlI2SVRkRlhJc1l4Q25fb0dlQ1RaSm9ESU5MNFR3aXgzYk05TEpzSFBYa081VUFGWGpDbWJXMVRtYXFja1ZTaGRjYkM3dEJJZTJ3U3VndndzNFhaZEhMWmxlVl9oYVgtdUZjdHJob1o2ZHdiak5hTzZNMTVITktNNE45RGg5eVNWYkt5VDMwanB1QQ?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Chikungunya Vaccine Development in Africa Accelerated by ACT-CHIK &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Institut Pasteur Dakar",
+        "published": "2026-06-08T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.923064+00:00"
+    },
+    {
+      "id": "adf00a925a02",
+      "source": "Signal:Institut Pasteur Dakar",
+      "title": "CEPI and Pasteur Network partner to advance regional vaccine R&D and outbreak preparedness - CEPI",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmlxVU9EQkMwUGl0T0VxVDRVRWZYZFAxU042dVY3cnNxOWt6NnFSUTBVS044OEVIeVQtVFRVT2JOSzEyQWZMN091cDJZU0JOek91WjBUWGxYdUllaG80ZmR0NnRVTlBERS1nSUhvUUlIT3RJYjhfU2dPdmtmcUZjWHhzYjY5UTcyVFZQejZDS1Z0REFLUFpaUlJjRFFOT21RQV96NUFR?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "CEPI and Pasteur Network partner to advance regional vaccine R&D and outbreak preparedness &nbsp;&nbsp; CEPI",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Institut Pasteur Dakar",
+        "published": "2026-04-20T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.923465+00:00"
+    },
+    {
+      "id": "98d8035f72fc",
+      "source": "Signal:Institut Pasteur Dakar",
+      "title": "Accelerating chikungunya vaccine development in Africa: Launch of the ACT-CHIK Project - EurekAlert!",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vT3RLQUprMGt3a2VlbS1INk5uVDFYQnV0MHFzMng0LW55ZnljUkxKZ2hsT1N5a19DMjNQSFpwOGg2cG5CaHZvYXVCRnVzRzU2c25pMlAzSGJqZ0h3?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Accelerating chikungunya vaccine development in Africa: Launch of the ACT-CHIK Project &nbsp;&nbsp; EurekAlert!",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Institut Pasteur Dakar",
+        "published": "2026-06-08T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-06-22T11:52:59.923860+00:00"
+    },
+    {
+      "id": "b96a3e8af844",
+      "source": "Signal:AFD",
+      "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AFD",
+        "published": "2026-05-11T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-06-22T11:52:59.924432+00:00"
+    }
+  ]
+}
