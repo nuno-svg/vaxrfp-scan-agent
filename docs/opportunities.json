@@ -35,7 +35,45 @@
       "published": "2026-05-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.121317+00:00"
+    "fetched_at": "2026-06-25T09:24:15.606218+00:00"
+  },
+  {
+    "id": "379670ef5c21",
+    "source": "Signal:Aspen Pharmacare",
+    "title": "Africa CDC, Aspen in talks on long-term vaccine supply to boost local manufacturing - The Edge Malaysia",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aLXdYanpFM2tpME1DclBwRV92RmJqZnNQaDViSW1QWXgwclZQcmY4RWdOTXg5emp3YUtvOS1MQ3h6VnJWbGtNbnlwdVRRdWVT?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Africa CDC, Aspen in talks on long-term vaccine supply to boost local manufacturing &nbsp;&nbsp; The Edge Malaysia",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 8,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 8,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Aspen Pharmacare",
+      "published": "2026-05-12T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-06-25T09:24:15.609004+00:00"
   },
   {
     "id": "404918114864",
@@ -73,7 +111,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.114036+00:00"
+    "fetched_at": "2026-06-25T09:24:15.599742+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -111,7 +149,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-06-24T09:28:30.127972+00:00"
+    "fetched_at": "2026-06-25T09:24:15.612760+00:00"
   },
   {
     "id": "b8d6a6f15cd5",
@@ -120,7 +158,7 @@
     "url": "https://www.ungm.org/Public/Notice/301110",
     "country": "JO",
     "deadline": "2026-07-02",
-    "deadline_days": 8,
+    "deadline_days": 7,
     "value_usd": null,
     "description": "Agency: UNIDO. Type: Request for quotation. Reference: 7000008516. Matched query: cold chain.",
     "fit_per_area": {
@@ -137,7 +175,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": false,
+      "urgent_deadline": true,
       "expired": false
     },
     "flag_notes": {
@@ -152,7 +190,7 @@
       "ungm_query": "cold chain",
       "published": "2026-06-15"
     },
-    "fetched_at": "2026-06-24T09:28:30.109323+00:00"
+    "fetched_at": "2026-06-25T09:24:15.595687+00:00"
   },
   {
     "id": "ed532603dba5",
@@ -190,7 +228,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.112137+00:00"
+    "fetched_at": "2026-06-25T09:24:15.598068+00:00"
   },
   {
     "id": "27ac670bbb00",
@@ -228,7 +266,7 @@
       "published": "2026-05-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.114197+00:00"
+    "fetched_at": "2026-06-25T09:24:15.599887+00:00"
   },
   {
     "id": "dbd79f01d6b8",
@@ -266,18 +304,18 @@
       "published": "2026-06-03T17:51:45+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.115620+00:00"
+    "fetched_at": "2026-06-25T09:24:15.600725+00:00"
   },
   {
-    "id": "8f00423363c8",
+    "id": "9c3a49126d9b",
     "source": "Signal:Biovac",
-    "title": "Biovac expansion positions South Africa as continental vaccine manufacturing hub - businessreport.co.za",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc2RyVG9aWHBFdzZWNlFTSWh4aU9oM200LWFZTEtqMk02My1LV0xFZnJRM1AzYjJkREdILWdwbDl0aVh1ck5UQU94M2w1a1dKVHFJWFFpdDNjenFpMzZpSUlmZjZlMTNLRXFxZVYtU0hFYWJhOHZlTzRVT20tdjJjLU9EeDBEVDB1S24yNlpTYkFrdjNDdW15bEYyN2cyWTZIQTN1bmdSaVZZME4yWGVORERnSmhKMVp0U3dpaldn?oc=5",
+    "title": "Biovac expansion positions South Africa as continental vaccine manufacturing hub - Sunday Tribune",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZE5WYnEzRHMySTE3ekV1bXNJcWpENU0xYWdrVVhsNXNoNVdvTW10dUh0d00zWUpIR0NFOW9aQ29Ud001dEFBbDFzQ1hHNWh4cExLT2pBeHRFOE5hcWRDWS13ZW0xNFp3Mkh2cmpMcUdEc0hzUnMzZ3F1Q3BINmFHdndNZGRPbk9kaWN4eFpYbkhtaFBNQnJMU1ZPdFhzZndzRWNZQ2Y1dFA5TjF0YkVxTDdld0s4OFM4NEJPX1RETVlEVjRaeDJQRjA0b3l4bmxueVE?oc=5",
     "country": "ZA",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Biovac expansion positions South Africa as continental vaccine manufacturing hub &nbsp;&nbsp; businessreport.co.za",
+    "description": "Biovac expansion positions South Africa as continental vaccine manufacturing hub &nbsp;&nbsp; Sunday Tribune",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 4,
@@ -301,10 +339,48 @@
     },
     "raw": {
       "manufacturer": "Biovac",
-      "published": "2026-05-25T07:00:00+00:00",
+      "published": "2026-06-15T17:33:08+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.115784+00:00"
+    "fetched_at": "2026-06-25T09:24:15.601157+00:00"
+  },
+  {
+    "id": "b137cf8c9e61",
+    "source": "Signal:Biovac",
+    "title": "South Africa launches expanded Biovac facility to enhance local vaccine manufacturing capacity - Tech Review Africa",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRllJclByZ3lBOUVmN3JrNmZ0UnJUM2hYQVNuZ0FrNUR0UDdHbEYzVWpNaEdQOVA5RVBCYnZvenFvdnF3d3kxeW4wdzhPWEkzM3FReWc3dTVPN2lWM2EwTTVsNHNieGdvMWFROGJlRlZkTXhKaURtWHJIRVZqSmhqajY0cUdjbjVCaDFGSVJEVlJQRmtIOHlNQVVoUFBnbUlVbmYxOW1rd0Nrd2wtOU5NMVhueGNUT3BOMTBYTUk1REVFWnV6SnVRMWhET29UQQ?oc=5",
+    "country": "ZA",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "South Africa launches expanded Biovac facility to enhance local vaccine manufacturing capacity &nbsp;&nbsp; Tech Review Africa",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-05-26T12:11:27+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-06-25T09:24:15.601681+00:00"
   },
   {
     "id": "428be1b62fdb",
@@ -342,7 +418,7 @@
       "published": "2026-05-12T09:47:25+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.118010+00:00"
+    "fetched_at": "2026-06-25T09:24:15.602975+00:00"
   },
   {
     "id": "95ddc1cb255e",
@@ -380,7 +456,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.118444+00:00"
+    "fetched_at": "2026-06-25T09:24:15.603346+00:00"
   },
   {
     "id": "31245162c412",
@@ -418,7 +494,45 @@
       "published": "2026-04-17T05:57:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.119002+00:00"
+    "fetched_at": "2026-06-25T09:24:15.604049+00:00"
+  },
+  {
+    "id": "05962f72b7b0",
+    "source": "Signal:Biovac",
+    "title": "Biovac expansion positions South Africa as continental vaccine manufacturing hub - IOL",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMGdtanItUThacEJjdTVzM2c0NlVWN0NyLUVfR2NqNkJaV3AzbUs0MEkwaDdPN1FsZXJmYVR3cnJUaE85aDRHOFUzbEhsc3ZFY0hocmNjMEhPMFd5ZVp2WGNjWnVXWHQ3cWRBNk5rVzBlaHpmcTdUNFRMcHdPRDJ3NW1RU0psaFRreERYSl9ZbkNTc3pTbkFyMF9wOGxqejZWYzhsbExYeXkza1hjczhxYmtuUDNZcE5CbnhnbUlrNU9QeUE4?oc=5",
+    "country": "ZA",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac expansion positions South Africa as continental vaccine manufacturing hub &nbsp;&nbsp; IOL",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-05-25T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-06-25T09:24:15.604955+00:00"
   },
   {
     "id": "3c511eba2bf5",
@@ -456,7 +570,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.120290+00:00"
+    "fetched_at": "2026-06-25T09:24:15.605323+00:00"
   },
   {
     "id": "79f77cfe6238",
@@ -491,10 +605,10 @@
     },
     "raw": {
       "manufacturer": "Afrigen",
-      "published": "2026-06-15T05:00:00+00:00",
+      "published": "2026-06-15T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.121523+00:00"
+    "fetched_at": "2026-06-25T09:24:15.606379+00:00"
   },
   {
     "id": "29ea3281ca35",
@@ -503,7 +617,7 @@
     "url": "https://africacdc.org/opportunity/recruitment-of-one-senior-social-development-consultant-for-the-piu-to-support-the-es-specialist-on-social-safeguards-activities/",
     "country": "_AU",
     "deadline": "2026-06-26",
-    "deadline_days": 2,
+    "deadline_days": 1,
     "value_usd": null,
     "description": "Africa CDC is implementing a portfolio of public health initiatives aimed at strengthening health systems, disease surveillance, laboratory capacity, and emergency preparedness across Africa. To support sustainable implementation of its activities, Africa CDC has adopted an Environmental, Social, and Governance (ESG) Policy and applies relevant environmental and social requirements, including the World Bank’s Environmental and Social Commitment Plan (ESCP), for partner-financed activities. In this context, Africa CDC seeks to engage a Senior Social Development Consultant to support the management of social risks and impacts and strengthen alignment with the ESG Policy, the ESCP, and donor requirements. The objective of this assignment is to support the identification, assessment, and management of social risks and impacts across Africa CDC activities, ensuring compliance with the World Bank Environmental and Social Commitment Plan (ESCP) and alignment with the Africa CDC Environmental, Social, and Governance (ESG) Policy. The Senior Social Development Consultant will contribute to strengthening stakeholder engagement, social inclusion, grievance management, and institutional capacity for social risk management, while supporting the effective implementation and monitoring of social safeguard measures across project activities. Under the guidance and supervision of the PIU Coordinator, the Senior Social Development Consultant will be responsible for supporting the implementatio",
     "fit_per_area": {
@@ -528,7 +642,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-06-24T09:28:30.096456+00:00"
+    "fetched_at": "2026-06-25T09:24:15.583033+00:00"
   },
   {
     "id": "241c8cabef85",
@@ -537,7 +651,7 @@
     "url": "https://africacdc.org/opportunity/supply-delivery-installation-and-training-of-an-enterprise-ai-gpu-enables-high-performance-computing-server-for-africa-centres-for-disease-control-and-prevention-africa-cdc/",
     "country": "_AU",
     "deadline": "2026-07-02",
-    "deadline_days": 8,
+    "deadline_days": 7,
     "value_usd": null,
     "description": "1. The Africa Union has received financing from the World Bank toward the cost of the Africa Centres for Disease Control Support Program to Combat Current and Future Public Health Threats Project (P178633) and intends to apply part of the proceeds toward payments under the contract [1] for Supply, Delivery, Installation and Training of an Enterprise AI/GPU-Enables High-Performance Computing Server for Africa Centres for Disease Control and Prevention (Africa CDC). 2. The African Centres for Disease Control and Prevision (Africa CDC) now invites sealed Bids from eligible Bidders for Supply, Delivery, Installation and Training of an Enterprise AI/GPU-Enables High-Performance Computing Server for Africa Centres for Disease Control and Prevention (Africa CDC), details provided in the bidding document, within 90 calendar days after contract signing date. Margin of preference is not applicable for this contract. 3.  Bidding will be conducted through competitive procurement using a Request for Bids (RFB) as specified in the World Bank’s “Procurement Regulations for IPF Borrowers July 2016 Revised February 2025 (“Procurement Regulations”) and is open to all eligible Bidders as defined in the Procurement Regulations. 4.  Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5.  The bidding document in English may be requested by interested ",
     "fit_per_area": {
@@ -554,7 +668,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": false,
+      "urgent_deadline": true,
       "expired": false
     },
     "flag_notes": {
@@ -562,7 +676,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-06-24T09:28:30.095678+00:00"
+    "fetched_at": "2026-06-25T09:24:15.582418+00:00"
   },
   {
     "id": "6d6d72343a74",
@@ -571,7 +685,7 @@
     "url": "https://africacdc.org/opportunity/consultancy-to-scaling-of-the-africa-cdc-continental-public-health-data-intelligence-hdi/",
     "country": "_AU",
     "deadline": "2026-07-07",
-    "deadline_days": 13,
+    "deadline_days": 12,
     "value_usd": null,
     "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites qualified firms to submit proposals for the Scaling of the Africa CDC Continental Public Health Data Intelligence (HDI). The service request for Phase 2 of the HDI platform is focused on enhancing and expanding the existing platform delivered in Phase 1, while preserving and reusing the current system architecture and investments. Duration: 6 months Location: Africa CDC, Addis Ababa, Ethiopia Submission Deadline: July 7, 2026, Submission Email: procurement@africacdc.org Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested bidders must demonstrate experience in delivering large-scale data platforms, deploying solutions on both on-premises and cloud environments (especially Azure), and implementing federated public health and AI-driven systems. They should have strong open-source expertise, experience working with governments and sensitive health data, and the ability to enhance existing systems incrementally while preserving Phase 1 investments. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. Phase 2 aims to enhance and scale the existing HDI platform to enable secure public health data sharing, advanced analytics and AI-driven disease intelligence, reliable performance in low-connectivity environments, and strong governance, privacy, and compliance",
     "fit_per_area": {
@@ -596,7 +710,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-06-24T09:28:30.094669+00:00"
+    "fetched_at": "2026-06-25T09:24:15.581644+00:00"
   },
   {
     "id": "e2b3c9234f0e",
@@ -605,7 +719,7 @@
     "url": "https://africacdc.org/opportunity/provision-of-landscaping-gardening-and-maintenance-services-at-the-africa-cdc-compound/",
     "country": null,
     "deadline": "2026-07-10",
-    "deadline_days": 16,
+    "deadline_days": 15,
     "value_usd": null,
     "description": "Date of Publication : 10 June 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) Headquarters located at Haile Garment, Addis Ababa kindly request that you submit your quotation for the provision of landscaping, gardening and maintenance services at the Africa CDC Compound for a period as indicated in the attached contract. This scope of work is prepared for the Africa CDC landscaping, gardening and maintenance work, and it includes the necessary information and detail required for the maintenance work. The contractor shall be committed to employing sustainable and environmentally friendly approaches in all aspects of the landscape maintenance work. Submission Deadline : Technical and Financial proposal must be delivered on or before 10 July 2026 at 15:00 Hours Local Time. Validity : Proposals should be valid for at 60 Calendar days from the closing date. Proposal Opening : Proposals will be opened immediately after the closing hours in the presence of bidders or bidders’ representatives who wish to attend. Late submission will be rejected and returned unopened to service provider. Contract Start Date : 01 September 2026 and ends on 31 st August 2028.  The Service Contract shall be for an initial period of two (2) years from the date of commencement. At the end of the first year, Africa CDC shall undertake a formal performance appraisal of the service provider to assess performance, service quality, compliance with contractual obligations, and overall mar",
     "fit_per_area": {
@@ -630,7 +744,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-06-24T09:28:30.077921+00:00"
+    "fetched_at": "2026-06-25T09:24:15.570885+00:00"
   },
   {
     "id": "21965644006a",
@@ -639,7 +753,7 @@
     "url": "https://africacdc.org/opportunity/provision-of-catering-services-within-the-africa-cdc-hq-compound/",
     "country": "_AU",
     "deadline": "2026-07-10",
-    "deadline_days": 16,
+    "deadline_days": 15,
     "value_usd": null,
     "description": "Date of Publication : 10 June 2026 Africa Centres for Disease Control and Prevention (Africa CDC) is a continental autonomous health agency of the African Union established to support public health initiatives of Member States and strengthen the capacity of their public health institutions to detect, prevent, control and respond quickly and effectively to disease threats. Africa CDC supports African Union Member States in providing coordinated and integrated solutions to the inadequacies in their public health infrastructure, human resource capacity, disease surveillance, laboratory diagnostics, and preparedness and response to health emergencies and disasters. The Africa CDC Headquarters in Addis Ababa, Ethiopia currently comprises of more than 200 staff members operating in a multicultural and multi-linguistic environment and seeks to provide professional and authentic top-notch continental wide catering services in-order to satisfy its staff, invited delegates and guests to meet multicultural and multi-diverse needs. The Africa CDC wishes to engage professional service providers for Provision of Catering Service within the Africa CDC premises. The Africa CDC is inviting eligible and qualified catering service providers in Africa to participate in this competitive bidding process and to submit their proposals for the management and operations of catering spaces situated within the Africa CDC’s premises in Addis Ababa, Ethiopia as follow; The objectives of the provision of c",
     "fit_per_area": {
@@ -664,7 +778,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-06-24T09:28:30.078770+00:00"
+    "fetched_at": "2026-06-25T09:24:15.571560+00:00"
   },
   {
     "id": "5b3be3903810",
@@ -673,7 +787,7 @@
     "url": "https://africacdc.org/opportunity/provision-of-security-services-at-africa-cdc/",
     "country": null,
     "deadline": "2026-07-10",
-    "deadline_days": 16,
+    "deadline_days": 15,
     "value_usd": null,
     "description": "Date of Publication: 10 June 2026 The African Centres for Disease Control and Prevention (Africa CDC) has allocated funds for the procurement of security services and now invites sealed offers from eligible bidders for the Provision of Security Services as per attached Terms of Reference. Services providers shall be selected under the Least Cost Selection criteria . Bids that are responsive, qualified, technically compliant will be ranked according to price. Submission Deadline: Technical and Financial proposal must be delivered on or before 22 nd July 2026 at 15:00 Hours Local Time. Proposal must be accompanied by: Validity: Proposals should be valid for at 60 Calendar days from the closing date. Proposal Opening: Proposals will be opened immediately after the closing hours in the presence of bidders or bidders’ representatives who wish to attend. Late submission will be rejected and returned unopened to service provider. Contract Start Date: 01 September 2026 and ends on 31 st August 2028.  The Service Contract shall be for an initial period of two (2) years from the date of commencement. At the end of the first year, Africa CDC shall undertake a formal performance appraisal of the service provider to assess performance, service quality, compliance with contractual obligations, and overall market competitiveness. Continuation into the second year shall be subject to satisfactory performance assessment by Africa CDC. Either party shall provide ninety (90) days written notice",
     "fit_per_area": {
@@ -698,7 +812,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-06-24T09:28:30.086308+00:00"
+    "fetched_at": "2026-06-25T09:24:15.576178+00:00"
   },
   {
     "id": "5a8cb9827443",
@@ -707,7 +821,7 @@
     "url": "https://africacdc.org/opportunity/provision-of-cleaning-janitorial-and-pest-control-services-in-the-africa-cdc-compound/",
     "country": null,
     "deadline": "2026-07-10",
-    "deadline_days": 16,
+    "deadline_days": 15,
     "value_usd": null,
     "description": "Date of Publication: 10 June 2026 The African Centres for Disease Control and Prevention (Africa CDC) has allocated funds for the procurement of Cleaning, Janitorial and Pest Control Services and now invites sealed offers from eligible bidders for the Provision of Provision of Cleaning, Janitorial and Pest Control Services as per attached Terms of Reference. Services providers shall be selected under the Least Cost Selection criteria . Bids that are responsive, qualified, technically compliant will be ranked according to price. Service Providers are expected to demonstrate their capability, experiences and understanding of the requirements of the Africa CDC. Submission Deadline: Technical and Financial proposal must be delivered on or before 10 th July 2026 at 15:00 Hours Local Time. Proposal must be accompanied by: Validity: Proposals should be valid for at 60 Calendar days from the closing date. Proposal Opening: Proposals will be opened immediately after the closing hours in the presence of bidders or bidders’ representatives who wish to attend. Late submission will be rejected and remain unopened. Contract Start Date: 01 September 2026 and ends on 31 st August 2028.  The Service Contract shall be for an initial period of two (2) years from the date of commencement. At the end of the first year, Africa CDC shall undertake a formal performance appraisal of the service provider to assess performance, service quality, compliance with contractual obligations, and overall marke",
     "fit_per_area": {
@@ -732,7 +846,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-06-24T09:28:30.093879+00:00"
+    "fetched_at": "2026-06-25T09:24:15.581024+00:00"
   },
   {
     "id": "6ae5c26a97d8",
@@ -741,7 +855,7 @@
     "url": "https://africacdc.org/opportunity/conduct-annual-calibration-and-maintenance-of-biological-safety-cabinets-bscs-negative-pressure-system-and-other-lab-equipment-at-the-africa-cdc-reference-laboratory/",
     "country": "_AU",
     "deadline": "2026-07-22",
-    "deadline_days": 28,
+    "deadline_days": 27,
     "value_usd": null,
     "description": "Africa Centres for Disease Control and Prevention (Africa CDC) Supply Chain Division Administration Directorate Lafto Square, Haile Garment Africa CDC Office, NKOSAZANA DLAMINI – ZUMA TOWER 4th Floor, Room No. 408 Addis Ababa, Ethiopia For clarification and requesting bidding / solicitation documents: E-mail: procurement@africacdc.org (Please submit your request for the bidding document and clarification to both emails) ​Africa CDC strengthens the capacity and capability of Africa’s public health institutions as well as partnerships to detect and respond quickly and effectively to disease threats and outbreaks, based on data-driven interventions and programmes. Tel: +251 11 551 77 00 | communications@africacdc.org Visit Africa CDC on the African Union website . © All rights reserved Africa CDC",
     "fit_per_area": {
@@ -766,185 +880,33 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-06-24T09:28:30.069995+00:00"
+    "fetched_at": "2026-06-25T09:24:15.565941+00:00"
   },
   {
-    "id": "9bd81bbc74b1",
-    "source": "World Bank",
-    "title": "Contratação de Consultor Especialista em salvaguardas sociais e ambientais",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452821",
-    "country": "BR",
-    "deadline": "2026-07-07",
-    "deadline_days": 13,
+    "id": "67da32267df9",
+    "source": "Africa CDC",
+    "title": "Supply, Delivery, Installation and Training of Laboratory Equipment for Two Member State, Ghana and Egypt",
+    "url": "https://africacdc.org/opportunity/supply-delivery-installation-and-training-of-laboratory-equipment-for-two-member-state-ghana-and-egypt/",
+    "country": "_AU",
+    "deadline": null,
+    "deadline_days": null,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Project Preparation in relation to the MPA -TRANSFORMING BRAZIL’S AGRIFOOD SYSTEM. Country: Brazil. Reference: BR-SEAG-ES-528179-CS-INDV.",
+    "description": "SPECIFIC PROCUREMENT NOTICE (SPN) REQUEST FOR BIDS| (ONE- ENVELOPE BIDDING PROCESS) RFB NO: ACDC/LMH/G/01 1. The Africa Union has received financing from the Coalition for Epidemic Preparedness Innovations (CEPI) toward the payments under the contract for the Supply, Delivery, Installation and Training of Laboratory Equipment for Ghana and Egypt. 2. The African Centres for Disease Control and Prevention (Africa CDC) now invites sealed Bids from eligible Bidders for Supply, Delivery, Installation and Training of Laboratory Equipment for two Member State, Ghana and Egypt under two (2) lots , details provided in the bidding document, within 90 calendar days after contract signing date. Margin of preference is not applicable for this contract. 3. Bidding will be conducted through international competitive procurement using a Request for Bids (RFB) as specified in the African Union Procurement Manual Issued March 2024 and is open to all eligible Bidders as defined in the Procurement Manual. 4. Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5. The bidding document in English may be requested by interested eligible Bidders upon the submission of a written application to the address below. The solicitation document will be sent by email upon request to procurement@africacdc.org . 6. Bids must be delivered to the address below on or ",
     "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P181963",
-      "wb_reference": "BR-SEAG-ES-528179-CS-INDV"
-    },
-    "fetched_at": "2026-06-24T09:28:30.105798+00:00"
-  },
-  {
-    "id": "9ff9edd9331a",
-    "source": "World Bank",
-    "title": "Contratação de Consultor Especialista em Monitoramento e Avaliacao",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452816",
-    "country": "BR",
-    "deadline": "2026-07-07",
-    "deadline_days": 13,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Project Preparation in relation to the MPA -TRANSFORMING BRAZIL’S AGRIFOOD SYSTEM. Country: Brazil. Reference: BR-SEAG-ES-528184-CS-INDV.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P181963",
-      "wb_reference": "BR-SEAG-ES-528184-CS-INDV"
-    },
-    "fetched_at": "2026-06-24T09:28:30.106367+00:00"
-  },
-  {
-    "id": "6362181a33d5",
-    "source": "World Bank",
-    "title": "Servicio de Supervisión de la acción 3 Construcción del proyecto \"SERPENTARIO DEL CENTRO MACRORREGIONAL DE SALUD PÚBLICA CENTRO - CMC\"",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452915",
-    "country": "PE",
-    "deadline": "2026-07-10",
-    "deadline_days": 16,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Peru: Strengthening of the Public Health Emergency Preparedness and Response. Country: Peru. Reference: PE-INS-557079-CW-RFB.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P174177",
-      "wb_reference": "PE-INS-557079-CW-RFB"
-    },
-    "fetched_at": "2026-06-24T09:28:30.105369+00:00"
-  },
-  {
-    "id": "b554dd1ac4d1",
-    "source": "World Bank",
-    "title": "Consultancy services for establishment and management of Project Management Unit (PMU), including recruitment, payroll, and management of PMU personnel for project preparation.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452730",
-    "country": "FI",
-    "deadline": "2026-07-10",
-    "deadline_days": 16,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Fiji: Promoting Scalable Rural Prosperity and Economic Resilience (PROSPER). Country: Fiji. Reference: FJ-MRMDDM-556342-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P508806",
-      "wb_reference": "FJ-MRMDDM-556342-CS-CQS"
-    },
-    "fetched_at": "2026-06-24T09:28:30.106252+00:00"
-  },
-  {
-    "id": "182d59be6a5b",
-    "source": "GAVI",
-    "title": "RFP: Invitation to tender for Gavi’s 042-2026-GAVI-RFP Provision of French language training for Gavi employees",
-    "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-gavis-042-2026-gavi-rfp-provision-french-language",
-    "country": null,
-    "deadline": "2026-06-24",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "RFP: Invitation to tender for Gavi’s 042-2026-GAVI-RFP Provision of French language training for Gavi employees",
-    "fit_per_area": {
-      "cold_chain": 0,
+      "cold_chain": 3,
       "manufacturing": 0,
       "regulatory": 0,
       "procurement": 0,
       "mel": 0
     },
-    "fit_total": 0,
+    "fit_total": 3,
     "fit_top_area": "cold_chain",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": true,
+      "urgent_deadline": false,
       "expired": false
     },
     "flag_notes": {
@@ -952,7 +914,83 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-06-24T09:28:30.069563+00:00"
+    "fetched_at": "2026-06-25T09:24:15.565610+00:00"
+  },
+  {
+    "id": "1ed3dff22ea6",
+    "source": "World Bank",
+    "title": "Consultancy Services for Design Review of the 800-Bed Erciyes University Medical Faculty Hospital",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453223",
+    "country": "TU",
+    "deadline": "2026-07-03",
+    "deadline_days": 8,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Advancing Preparation of Türkiye University Hospital Resilience Project. Country: Turkiye. Reference: GFPP/CS-DESREV-01.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P515705",
+      "wb_reference": "GFPP/CS-DESREV-01"
+    },
+    "fetched_at": "2026-06-25T09:24:15.592593+00:00"
+  },
+  {
+    "id": "ebb738602208",
+    "source": "World Bank",
+    "title": "Gap Analysis to build EDC capacity building in preparation of financial reports in full compliance with International Financial Reporting Standards",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00448675",
+    "country": "CA",
+    "deadline": "2026-07-07",
+    "deadline_days": 12,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Cambodia Sustainable Energy Transition Project Preparation. Country: Cambodia. Reference: CSET-EDC-CS05.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P182080",
+      "wb_reference": "CSET-EDC-CS05"
+    },
+    "fetched_at": "2026-06-25T09:24:15.591131+00:00"
   },
   {
     "id": "2238e5ba74ca",
@@ -961,7 +999,7 @@
     "url": "https://www.ungm.org/Public/Notice/303442",
     "country": "KE",
     "deadline": "2026-06-29",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Agency: UNFPA. Type: Request for proposal. Reference: UNFPA-HQ1-00003. Matched query: EPI.",
     "fit_per_area": {
@@ -993,7 +1031,48 @@
       "ungm_query": "EPI",
       "published": "2026-06-08"
     },
-    "fetched_at": "2026-06-24T09:28:30.110255+00:00"
+    "fetched_at": "2026-06-25T09:24:15.596646+00:00"
+  },
+  {
+    "id": "42e7b272693a",
+    "source": "UNICEF",
+    "title": "UNITED NATIONS CHILDREN’S FUND AND GAVI, THE VACCINE ALLIANCE REQUEST FOR EXPRESSION OF INTEREST (EOI) - VACCINES AGAINST BUNDIBUGYO VIRUS",
+    "url": "https://www.ungm.org/Public/Notice/305143",
+    "country": "MU",
+    "deadline": "2026-07-10",
+    "deadline_days": 15,
+    "value_usd": null,
+    "description": "Agency: UNICEF. Type: Request for EOI. Reference: EOI-VC-2026-01. Matched query: vaccine.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ungm_id": "305143",
+      "ungm_agency": "UNICEF",
+      "ungm_notice_type": "Request for EOI",
+      "ungm_reference": "EOI-VC-2026-01",
+      "ungm_query": "vaccine",
+      "published": "2026-06-24"
+    },
+    "fetched_at": "2026-06-25T09:24:15.592832+00:00"
   },
   {
     "id": "73af18270e0f",
@@ -1029,7 +1108,7 @@
     "raw": {
       "ted_publication_number": "285046-2026"
     },
-    "fetched_at": "2026-06-24T09:28:30.098928+00:00"
+    "fetched_at": "2026-06-25T09:24:15.585000+00:00"
   },
   {
     "id": "4db365511153",
@@ -1067,7 +1146,7 @@
       "published": "2026-04-20T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.111349+00:00"
+    "fetched_at": "2026-06-25T09:24:15.597549+00:00"
   },
   {
     "id": "61c87d68b656",
@@ -1105,7 +1184,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.112528+00:00"
+    "fetched_at": "2026-06-25T09:24:15.598411+00:00"
   },
   {
     "id": "a571e9d35662",
@@ -1143,7 +1222,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.112688+00:00"
+    "fetched_at": "2026-06-25T09:24:15.598557+00:00"
   },
   {
     "id": "1496082cf21e",
@@ -1181,7 +1260,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.112831+00:00"
+    "fetched_at": "2026-06-25T09:24:15.598690+00:00"
   },
   {
     "id": "955d8c8354c8",
@@ -1219,7 +1298,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.113339+00:00"
+    "fetched_at": "2026-06-25T09:24:15.599128+00:00"
   },
   {
     "id": "4a5eee8825f9",
@@ -1257,7 +1336,7 @@
       "published": "2026-05-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.113541+00:00"
+    "fetched_at": "2026-06-25T09:24:15.599309+00:00"
   },
   {
     "id": "22c380ff4ae8",
@@ -1295,7 +1374,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.114818+00:00"
+    "fetched_at": "2026-06-25T09:24:15.600314+00:00"
   },
   {
     "id": "2a61f0e571fa",
@@ -1333,7 +1412,7 @@
       "published": "2026-05-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.116181+00:00"
+    "fetched_at": "2026-06-25T09:24:15.601523+00:00"
   },
   {
     "id": "798d84af1929",
@@ -1371,7 +1450,7 @@
       "published": "2026-05-13T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.116892+00:00"
+    "fetched_at": "2026-06-25T09:24:15.602294+00:00"
   },
   {
     "id": "6bcba987f5b4",
@@ -1409,7 +1488,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.117257+00:00"
+    "fetched_at": "2026-06-25T09:24:15.602634+00:00"
   },
   {
     "id": "ff56ac61df73",
@@ -1447,7 +1526,7 @@
       "published": "2026-05-26T07:17:13+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.117619+00:00"
+    "fetched_at": "2026-06-25T09:24:15.603671+00:00"
   },
   {
     "id": "15f71a2d2e46",
@@ -1485,7 +1564,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.119383+00:00"
+    "fetched_at": "2026-06-25T09:24:15.604388+00:00"
   },
   {
     "id": "ea1ed6a83094",
@@ -1523,7 +1602,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.119877+00:00"
+    "fetched_at": "2026-06-25T09:24:15.604821+00:00"
   },
   {
     "id": "9edcae8be231",
@@ -1561,7 +1640,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.120667+00:00"
+    "fetched_at": "2026-06-25T09:24:15.605663+00:00"
   },
   {
     "id": "1c23e3bd4b83",
@@ -1599,7 +1678,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.122723+00:00"
+    "fetched_at": "2026-06-25T09:24:15.607446+00:00"
   },
   {
     "id": "de2351f4b117",
@@ -1637,7 +1716,7 @@
       "published": "2026-05-13T06:07:49+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.123976+00:00"
+    "fetched_at": "2026-06-25T09:24:15.608126+00:00"
   },
   {
     "id": "06c90dac4b9a",
@@ -1675,7 +1754,7 @@
       "published": "2026-05-14T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.124506+00:00"
+    "fetched_at": "2026-06-25T09:24:15.608594+00:00"
   },
   {
     "id": "7895d9459a90",
@@ -1713,7 +1792,7 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.126310+00:00"
+    "fetched_at": "2026-06-25T09:24:15.610977+00:00"
   },
   {
     "id": "adf00a925a02",
@@ -1751,7 +1830,7 @@
       "published": "2026-04-20T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.126769+00:00"
+    "fetched_at": "2026-06-25T09:24:15.611359+00:00"
   },
   {
     "id": "98d8035f72fc",
@@ -1789,6 +1868,44 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-06-24T09:28:30.127214+00:00"
+    "fetched_at": "2026-06-25T09:24:15.611759+00:00"
+  },
+  {
+    "id": "b96a3e8af844",
+    "source": "Signal:AFD",
+    "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "donor": "AFD",
+      "published": "2026-05-11T07:00:00+00:00",
+      "signal_type": "donor"
+    },
+    "fetched_at": "2026-06-25T09:24:15.612334+00:00"
   }
 ]
