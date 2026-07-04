@@ -35,7 +35,7 @@
       "published": "2026-06-30T10:21:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.510216+00:00"
+    "fetched_at": "2026-07-04T08:36:21.908622+00:00"
   },
   {
     "id": "df909349c9a8",
@@ -73,56 +73,18 @@
       "published": "2026-05-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.510419+00:00"
+    "fetched_at": "2026-07-04T08:36:21.908834+00:00"
   },
   {
-    "id": "379670ef5c21",
-    "source": "Signal:Aspen Pharmacare",
-    "title": "Africa CDC, Aspen in talks on long-term vaccine supply to boost local manufacturing - The Edge Malaysia",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aLXdYanpFM2tpME1DclBwRV92RmJqZnNQaDViSW1QWXgwclZQcmY4RWdOTXg5emp3YUtvOS1MQ3h6VnJWbGtNbnlwdVRRdWVT?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Africa CDC, Aspen in talks on long-term vaccine supply to boost local manufacturing &nbsp;&nbsp; The Edge Malaysia",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 8,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 8,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Aspen Pharmacare",
-      "published": "2026-05-12T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-03T09:17:31.512461+00:00"
-  },
-  {
-    "id": "fb8705ad1f74",
+    "id": "404918114864",
     "source": "Signal:Biovac",
-    "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - Business Report",
+    "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - businessreport.co.za",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkRvRThBLWZBbl9oWmpzU1pmekNUc1ZqLWV3eFhCM0lUa1BnLXZSUDBDeVJyYTFaVjNQMlo4QU5VbDJ4M1hwWXRBbFVfRzc3QmJRWFRvRzBTbFB3VHRIYXgydkJaMi14cHVVMjV3UHljNzA1c2l2TEhUMkp3dC1zRWVIaE5XdUJZU09JXzFtdWREQzBzLTljY1VyYjNHYW1MaW9TQmY3a3h5LW1nRzYyU0xlNHI4LWNHMTQ0RGFnX0NoR0lHdkVydGYydw?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity &nbsp;&nbsp; Business Report",
+    "description": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity &nbsp;&nbsp; businessreport.co.za",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 7,
@@ -149,18 +111,18 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.503400+00:00"
+    "fetched_at": "2026-07-04T08:36:21.902332+00:00"
   },
   {
-    "id": "42adcd05ec2e",
+    "id": "e605320efc1a",
     "source": "Signal:AVMA",
-    "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - Business Report",
+    "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - businessreport.co.za",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkRvRThBLWZBbl9oWmpzU1pmekNUc1ZqLWV3eFhCM0lUa1BnLXZSUDBDeVJyYTFaVjNQMlo4QU5VbDJ4M1hwWXRBbFVfRzc3QmJRWFRvRzBTbFB3VHRIYXgydkJaMi14cHVVMjV3UHljNzA1c2l2TEhUMkp3dC1zRWVIaE5XdUJZU09JXzFtdWREQzBzLTljY1VyYjNHYW1MaW9TQmY3a3h5LW1nRzYyU0xlNHI4LWNHMTQ0RGFnX0NoR0lHdkVydGYydw?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity &nbsp;&nbsp; Business Report",
+    "description": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity &nbsp;&nbsp; businessreport.co.za",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 7,
@@ -187,7 +149,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-07-03T09:17:31.514978+00:00"
+    "fetched_at": "2026-07-04T08:36:21.912817+00:00"
   },
   {
     "id": "b8d6a6f15cd5",
@@ -196,7 +158,7 @@
     "url": "https://www.ungm.org/Public/Notice/301110",
     "country": "JO",
     "deadline": "2026-07-16",
-    "deadline_days": 13,
+    "deadline_days": 12,
     "value_usd": null,
     "description": "Agency: UNIDO. Type: Request for quotation. Reference: 7000008516. Matched query: cold chain.",
     "fit_per_area": {
@@ -228,7 +190,7 @@
       "ungm_query": "cold chain",
       "published": "2026-06-29"
     },
-    "fetched_at": "2026-07-03T09:17:31.499442+00:00"
+    "fetched_at": "2026-07-04T08:36:21.898437+00:00"
   },
   {
     "id": "182ee2a3b7f9",
@@ -237,7 +199,7 @@
     "url": "https://ted.europa.eu/en/notice/304650-2026",
     "country": "NL",
     "deadline": "2026-08-27",
-    "deadline_days": 55,
+    "deadline_days": 54,
     "value_usd": null,
     "description": "Sociaal Domein Flevoland. Deze aanbestedingsprocedure kent een perceelindeling op grond van de vier productgroepen en een indeling in gemeenten, namelijk: Perceel 1- Basis Begeleiding: Gemeenten Noordoostpolder en Urk Perceel 2A - Multi Specialistische Begeleiding: Gemeenten DUN Perceel 2B - Multi Specialistische Begeleiding: Gemeente Almere Perceel 3A - Multi Behandeling: Gemeenten DUN Perceel 3B - Multi Behandeling: Gemeente Almere Perceel 4 - Multi Gezinsbehandeling intensief: Regio De raamovereenkomst gaat in op 1 januari 2027 en loopt tot en met 31 december 2030. Opdrachtgever kan de raamovereenkomst na het verstrijken van de looptijd vier (4) keer schriftelijk geheel of gedeeltelijk verlengen met steeds een periode van vierentwintig (24) kalendermaanden. Gedurende de maximale looptijd van de raamovereenkomst zal de onderstaande maximumbedragen van de (sub)percelen niet worden overschreden. Perceel 1 - Basis begeleiding (NOP en Urk): € 3.132.000 Perceel 2A - Multi Specialistische Begeleiding (Dronten, NOP en Urk): € 5.163.000 Perceel 2B - Multi Specialistische Begeleiding (Almere): € 15.000.000 Perceel 3A - Multi Behandeling (Dronten, NOP en Urk): € 5.100.000 Perceel 3B - Multi Behandeling (Almere) exclusief/inclusief LVB: € € 2.850.000/€ 4.950.000 Perceel 4 - Multi Gezinsbehandeling intensief (Regio): 2.670.000 Deze bedragen zijn excl. BTW",
     "fit_per_area": {
@@ -264,79 +226,7 @@
     "raw": {
       "ted_publication_number": "304650-2026"
     },
-    "fetched_at": "2026-07-03T09:17:31.493720+00:00"
-  },
-  {
-    "id": "aee70a2ca46b",
-    "source": "TED",
-    "title": "Germany – Pharmaceutical products – Abschluss nicht-exklusiver Rabattvereinbarungen nach § 130 a Abs. 8 SGB V für Verträge biosimilarer Wirkstoffe",
-    "url": "https://ted.europa.eu/en/notice/303271-2026",
-    "country": "DE",
-    "deadline": "2026-11-10",
-    "deadline_days": 130,
-    "value_usd": null,
-    "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nichtexklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.04.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter http://vergabeportal.gwq-serviceplus.de einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.03.2026 kann eine erstmalige Meldung zum 01.04.2026 realisiert werden. Folgende Unterlagen sind einzureichen: unterzeichneter Vertrag in doppelter Ausfertigung; einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug aus dem öffentlichen Teil der AMIceDatenbank; unterzeichnete Eigenerklärung (Anlage 6). Liste der vertragsgegenständlichen PZN (Anlage 5), Eigenerklärung zur EU-Verordnung (Anlage 7)",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 4
-    },
-    "fit_total": 4,
-    "fit_top_area": "mel",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "303271-2026"
-    },
-    "fetched_at": "2026-07-03T09:17:31.491419+00:00"
-  },
-  {
-    "id": "99a52cbb5e9c",
-    "source": "TED",
-    "title": "Germany – Pharmaceutical products – Abschluss nicht-exklusiver Rabattvereinbarungen nach § 130 a Abs. 8 SGB V ab dem 01.07.2026",
-    "url": "https://ted.europa.eu/en/notice/302376-2026",
-    "country": "DE",
-    "deadline": "2028-05-10",
-    "deadline_days": 677,
-    "value_usd": null,
-    "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nichtexklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.07.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter https://vergabeportal.gwq-serviceplus.de/arzneimittel einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.06.2026 kann eine erstmalige Meldung zum 01.07.2026 realisiert werden. Folgende Unterlagen sind einzureichen: postalisch in doppelter Ausfertigung oder elektronisch mit qualifizierter elektronischer Signatur (QES); einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug aus dem öffentlichen Teil der AMIceDatenbank; Liste der vertragsgegenständlichen PZN (Anlage 5); unterzeichnete Eigenerklärung (Anlage 6); unterzeichnete Eigenerklärung zur EU-Verordn",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 4
-    },
-    "fit_total": 4,
-    "fit_top_area": "mel",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "302376-2026"
-    },
-    "fetched_at": "2026-07-03T09:17:31.490448+00:00"
+    "fetched_at": "2026-07-04T08:36:21.885364+00:00"
   },
   {
     "id": "ed532603dba5",
@@ -374,7 +264,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.501774+00:00"
+    "fetched_at": "2026-07-04T08:36:21.900699+00:00"
   },
   {
     "id": "c528ecb8b5b8",
@@ -412,7 +302,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.502983+00:00"
+    "fetched_at": "2026-07-04T08:36:21.901918+00:00"
   },
   {
     "id": "b137cf8c9e61",
@@ -450,7 +340,7 @@
       "published": "2026-05-26T12:11:27+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.503557+00:00"
+    "fetched_at": "2026-07-04T08:36:21.902485+00:00"
   },
   {
     "id": "27ac670bbb00",
@@ -488,7 +378,45 @@
       "published": "2026-05-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.504144+00:00"
+    "fetched_at": "2026-07-04T08:36:21.903071+00:00"
+  },
+  {
+    "id": "8f00423363c8",
+    "source": "Signal:Biovac",
+    "title": "Biovac expansion positions South Africa as continental vaccine manufacturing hub - businessreport.co.za",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc2RyVG9aWHBFdzZWNlFTSWh4aU9oM200LWFZTEtqMk02My1LV0xFZnJRM1AzYjJkREdILWdwbDl0aVh1ck5UQU94M2w1a1dKVHFJWFFpdDNjenFpMzZpSUlmZjZlMTNLRXFxZVYtU0hFYWJhOHZlTzRVT20tdjJjLU9EeDBEVDB1S24yNlpTYkFrdjNDdW15bEYyN2cyWTZIQTN1bmdSaVZZME4yWGVORERnSmhKMVp0U3dpaldn?oc=5",
+    "country": "ZA",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac expansion positions South Africa as continental vaccine manufacturing hub &nbsp;&nbsp; businessreport.co.za",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-05-25T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-07-04T08:36:21.903957+00:00"
   },
   {
     "id": "95ddc1cb255e",
@@ -526,7 +454,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.506422+00:00"
+    "fetched_at": "2026-07-04T08:36:21.904977+00:00"
   },
   {
     "id": "428be1b62fdb",
@@ -564,7 +492,7 @@
       "published": "2026-05-12T09:47:25+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.507076+00:00"
+    "fetched_at": "2026-07-04T08:36:21.905313+00:00"
   },
   {
     "id": "31245162c412",
@@ -602,45 +530,7 @@
       "published": "2026-04-17T05:57:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.507800+00:00"
-  },
-  {
-    "id": "05962f72b7b0",
-    "source": "Signal:Biovac",
-    "title": "Biovac expansion positions South Africa as continental vaccine manufacturing hub - IOL",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMGdtanItUThacEJjdTVzM2c0NlVWN0NyLUVfR2NqNkJaV3AzbUs0MEkwaDdPN1FsZXJmYVR3cnJUaE85aDRHOFUzbEhsc3ZFY0hocmNjMEhPMFd5ZVp2WGNjWnVXWHQ3cWRBNk5rVzBlaHpmcTdUNFRMcHdPRDJ3NW1RU0psaFRreERYSl9ZbkNTc3pTbkFyMF9wOGxqejZWYzhsbExYeXkza1hjczhxYmtuUDNZcE5CbnhnbUlrNU9QeUE4?oc=5",
-    "country": "ZA",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac expansion positions South Africa as continental vaccine manufacturing hub &nbsp;&nbsp; IOL",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-05-25T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-03T09:17:31.507937+00:00"
+    "fetched_at": "2026-07-04T08:36:21.906018+00:00"
   },
   {
     "id": "3c511eba2bf5",
@@ -678,45 +568,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.508743+00:00"
-  },
-  {
-    "id": "a0d6366e66d3",
-    "source": "Signal:Biovac",
-    "title": "Biovac just levelled up vaccine manufacturing in SA - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQNG1fZldlTkZPTTJCY0I0WnV5NUhhX0JXdUF5LUVHaVVyZFVmeWRWYktfNGVmTFBpQ1RPRDBZbTZIeE1DemlDUnJEM1JiV0wxVldIdC1TM2ZQQUc2dHZ4RENPX1FUT3p5SFlqSk5jMWFJZ09fSXNERlA4SnJUZXptVXcyWm9GNEZROS1KcjFaNC16X05mMVI2VXFUc0tpZ2NtU2VfRWRCcTlNb1VyN2w4Nzkxck9uN3FDaUxfbURsUmsxMUE5bWEtVmZESXFqb3JVS0xLYm1UcFY1ckdSaDdYcS1NVzZNSkpCRmY2WWprZzFkbTFva3NTZzZqVk1PMlJKOTRTcDNmTmNXN3laWHJ3QUtMTEZCWElTVmpvd3o1MnVhSnMyaGhKY2VkVHNKMml0aG51ekxuZzk?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac just levelled up vaccine manufacturing in SA &nbsp;&nbsp; MSN",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-06-06T13:38:58+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-03T09:17:31.509387+00:00"
+    "fetched_at": "2026-07-04T08:36:21.907484+00:00"
   },
   {
     "id": "79f77cfe6238",
@@ -754,7 +606,7 @@
       "published": "2026-06-15T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.510580+00:00"
+    "fetched_at": "2026-07-04T08:36:21.908997+00:00"
   },
   {
     "id": "6d6d72343a74",
@@ -763,7 +615,7 @@
     "url": "https://africacdc.org/opportunity/consultancy-to-scaling-of-the-africa-cdc-continental-public-health-data-intelligence-hdi/",
     "country": "_AU",
     "deadline": "2026-07-07",
-    "deadline_days": 4,
+    "deadline_days": 3,
     "value_usd": null,
     "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites qualified firms to submit proposals for the Scaling of the Africa CDC Continental Public Health Data Intelligence (HDI). The service request for Phase 2 of the HDI platform is focused on enhancing and expanding the existing platform delivered in Phase 1, while preserving and reusing the current system architecture and investments. Duration: 6 months Location: Africa CDC, Addis Ababa, Ethiopia Submission Deadline: July 7, 2026, Submission Email: procurement@africacdc.org Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested bidders must demonstrate experience in delivering large-scale data platforms, deploying solutions on both on-premises and cloud environments (especially Azure), and implementing federated public health and AI-driven systems. They should have strong open-source expertise, experience working with governments and sensitive health data, and the ability to enhance existing systems incrementally while preserving Phase 1 investments. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. Phase 2 aims to enhance and scale the existing HDI platform to enable secure public health data sharing, advanced analytics and AI-driven disease intelligence, reliable performance in low-connectivity environments, and strong governance, privacy, and compliance",
     "fit_per_area": {
@@ -788,7 +640,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-03T09:17:31.484961+00:00"
+    "fetched_at": "2026-07-04T08:36:21.884742+00:00"
   },
   {
     "id": "95a1e095c0de",
@@ -797,7 +649,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454799",
     "country": "BR",
     "deadline": "2026-07-07",
-    "deadline_days": 4,
+    "deadline_days": 3,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation and Readiness Support for the implementation of the Progestão Projects in selected state. Country: Brazil. Reference: BR-SEAD-520521-CS-INDV.",
     "fit_per_area": {
@@ -826,7 +678,7 @@
       "wb_project_id": "P181966",
       "wb_reference": "BR-SEAD-520521-CS-INDV"
     },
-    "fetched_at": "2026-07-03T09:17:31.496242+00:00"
+    "fetched_at": "2026-07-04T08:36:21.895322+00:00"
   },
   {
     "id": "e2b3c9234f0e",
@@ -835,7 +687,7 @@
     "url": "https://africacdc.org/opportunity/provision-of-landscaping-gardening-and-maintenance-services-at-the-africa-cdc-compound/",
     "country": null,
     "deadline": "2026-07-10",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Date of Publication : 10 June 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) Headquarters located at Haile Garment, Addis Ababa kindly request that you submit your quotation for the provision of landscaping, gardening and maintenance services at the Africa CDC Compound for a period as indicated in the attached contract. This scope of work is prepared for the Africa CDC landscaping, gardening and maintenance work, and it includes the necessary information and detail required for the maintenance work. The contractor shall be committed to employing sustainable and environmentally friendly approaches in all aspects of the landscape maintenance work. Submission Deadline : Technical and Financial proposal must be delivered on or before 10 July 2026 at 15:00 Hours Local Time. Validity : Proposals should be valid for at 60 Calendar days from the closing date. Proposal Opening : Proposals will be opened immediately after the closing hours in the presence of bidders or bidders’ representatives who wish to attend. Late submission will be rejected and returned unopened to service provider. Contract Start Date : 01 September 2026 and ends on 31 st August 2028.  The Service Contract shall be for an initial period of two (2) years from the date of commencement. At the end of the first year, Africa CDC shall undertake a formal performance appraisal of the service provider to assess performance, service quality, compliance with contractual obligations, and overall mar",
     "fit_per_area": {
@@ -860,7 +712,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-03T09:17:31.474224+00:00"
+    "fetched_at": "2026-07-04T08:36:21.874144+00:00"
   },
   {
     "id": "21965644006a",
@@ -869,7 +721,7 @@
     "url": "https://africacdc.org/opportunity/provision-of-catering-services-within-the-africa-cdc-hq-compound/",
     "country": "_AU",
     "deadline": "2026-07-10",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Date of Publication : 10 June 2026 Africa Centres for Disease Control and Prevention (Africa CDC) is a continental autonomous health agency of the African Union established to support public health initiatives of Member States and strengthen the capacity of their public health institutions to detect, prevent, control and respond quickly and effectively to disease threats. Africa CDC supports African Union Member States in providing coordinated and integrated solutions to the inadequacies in their public health infrastructure, human resource capacity, disease surveillance, laboratory diagnostics, and preparedness and response to health emergencies and disasters. The Africa CDC Headquarters in Addis Ababa, Ethiopia currently comprises of more than 200 staff members operating in a multicultural and multi-linguistic environment and seeks to provide professional and authentic top-notch continental wide catering services in-order to satisfy its staff, invited delegates and guests to meet multicultural and multi-diverse needs. The Africa CDC wishes to engage professional service providers for Provision of Catering Service within the Africa CDC premises. The Africa CDC is inviting eligible and qualified catering service providers in Africa to participate in this competitive bidding process and to submit their proposals for the management and operations of catering spaces situated within the Africa CDC’s premises in Addis Ababa, Ethiopia as follow; The objectives of the provision of c",
     "fit_per_area": {
@@ -894,7 +746,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-03T09:17:31.474876+00:00"
+    "fetched_at": "2026-07-04T08:36:21.874811+00:00"
   },
   {
     "id": "5b3be3903810",
@@ -903,7 +755,7 @@
     "url": "https://africacdc.org/opportunity/provision-of-security-services-at-africa-cdc/",
     "country": null,
     "deadline": "2026-07-10",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Date of Publication: 10 June 2026 The African Centres for Disease Control and Prevention (Africa CDC) has allocated funds for the procurement of security services and now invites sealed offers from eligible bidders for the Provision of Security Services as per attached Terms of Reference. Services providers shall be selected under the Least Cost Selection criteria . Bids that are responsive, qualified, technically compliant will be ranked according to price. Submission Deadline: Technical and Financial proposal must be delivered on or before 22 nd July 2026 at 15:00 Hours Local Time. Proposal must be accompanied by: Validity: Proposals should be valid for at 60 Calendar days from the closing date. Proposal Opening: Proposals will be opened immediately after the closing hours in the presence of bidders or bidders’ representatives who wish to attend. Late submission will be rejected and returned unopened to service provider. Contract Start Date: 01 September 2026 and ends on 31 st August 2028.  The Service Contract shall be for an initial period of two (2) years from the date of commencement. At the end of the first year, Africa CDC shall undertake a formal performance appraisal of the service provider to assess performance, service quality, compliance with contractual obligations, and overall market competitiveness. Continuation into the second year shall be subject to satisfactory performance assessment by Africa CDC. Either party shall provide ninety (90) days written notice",
     "fit_per_area": {
@@ -928,7 +780,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-03T09:17:31.479585+00:00"
+    "fetched_at": "2026-07-04T08:36:21.879462+00:00"
   },
   {
     "id": "5a8cb9827443",
@@ -937,7 +789,7 @@
     "url": "https://africacdc.org/opportunity/provision-of-cleaning-janitorial-and-pest-control-services-in-the-africa-cdc-compound/",
     "country": null,
     "deadline": "2026-07-10",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Date of Publication: 10 June 2026 The African Centres for Disease Control and Prevention (Africa CDC) has allocated funds for the procurement of Cleaning, Janitorial and Pest Control Services and now invites sealed offers from eligible bidders for the Provision of Provision of Cleaning, Janitorial and Pest Control Services as per attached Terms of Reference. Services providers shall be selected under the Least Cost Selection criteria . Bids that are responsive, qualified, technically compliant will be ranked according to price. Service Providers are expected to demonstrate their capability, experiences and understanding of the requirements of the Africa CDC. Submission Deadline: Technical and Financial proposal must be delivered on or before 10 th July 2026 at 15:00 Hours Local Time. Proposal must be accompanied by: Validity: Proposals should be valid for at 60 Calendar days from the closing date. Proposal Opening: Proposals will be opened immediately after the closing hours in the presence of bidders or bidders’ representatives who wish to attend. Late submission will be rejected and remain unopened. Contract Start Date: 01 September 2026 and ends on 31 st August 2028.  The Service Contract shall be for an initial period of two (2) years from the date of commencement. At the end of the first year, Africa CDC shall undertake a formal performance appraisal of the service provider to assess performance, service quality, compliance with contractual obligations, and overall marke",
     "fit_per_area": {
@@ -962,7 +814,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-03T09:17:31.484357+00:00"
+    "fetched_at": "2026-07-04T08:36:21.884152+00:00"
   },
   {
     "id": "881ddbc70465",
@@ -971,7 +823,7 @@
     "url": "https://africacdc.org/opportunity/call-for-expressions-of-interest-membership-of-the-africa-cdc-continental-immunization-advisory-council/",
     "country": null,
     "deadline": "2026-07-21",
-    "deadline_days": 18,
+    "deadline_days": 17,
     "value_usd": null,
     "description": "Africa CDC invites expressions of interest from distinguished African leaders, experts, and advocates to serve as members of the Continental Immunization Advisory Council (CIAC). The CIAC is a high-level strategic advisory and action-oriented platform established to accelerate the delivery of the Africa CDC Continental Immunization Strategy 2026–2030 (CIS) and broader Continental Immunization priority issues in Africa. The CIS Strategy positions immunization as a foundational pillar of resilient, epidemic-ready primary health care, health security, equity, and sustainable development across Africa. CIAC members will serve as senior strategic advisors, advocates, and accelerators for the implementation of the Continental Immunization Strategy. Members will be expected to bring independent judgment, leadership experience, technical insight, political influence, financing expertise, community perspectives, or institutional networks that can help drive momentum in advancing immunization in Africa. Members will provide high-level strategic advice to Africa CDC on opportunities, risks, and bottlenecks affecting immunization systems; champion immunization as a priority for primary health care, health security, equity, and human capital; and support advocacy for sustainable domestic financing, partner alignment, and accountability. They may also be invited to contribute to targeted working groups, policy dialogues, problem solving, advocacy engagements, or follow-up actions linked to",
     "fit_per_area": {
@@ -996,7 +848,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-03T09:17:31.469315+00:00"
+    "fetched_at": "2026-07-04T08:36:21.868988+00:00"
   },
   {
     "id": "6ae5c26a97d8",
@@ -1005,7 +857,7 @@
     "url": "https://africacdc.org/opportunity/conduct-annual-calibration-and-maintenance-of-biological-safety-cabinets-bscs-negative-pressure-system-and-other-lab-equipment-at-the-africa-cdc-reference-laboratory/",
     "country": "_AU",
     "deadline": "2026-07-22",
-    "deadline_days": 19,
+    "deadline_days": 18,
     "value_usd": null,
     "description": "Africa Centres for Disease Control and Prevention (Africa CDC) Supply Chain Division Administration Directorate Lafto Square, Haile Garment Africa CDC Office, NKOSAZANA DLAMINI – ZUMA TOWER 4th Floor, Room No. 408 Addis Ababa, Ethiopia For clarification and requesting bidding / solicitation documents: E-mail: procurement@africacdc.org (Please submit your request for the bidding document and clarification to both emails) ​Africa CDC strengthens the capacity and capability of Africa’s public health institutions as well as partnerships to detect and respond quickly and effectively to disease threats and outbreaks, based on data-driven interventions and programmes. Tel: +251 11 551 77 00 | communications@africacdc.org Visit Africa CDC on the African Union website . © All rights reserved Africa CDC",
     "fit_per_area": {
@@ -1030,7 +882,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-03T09:17:31.464861+00:00"
+    "fetched_at": "2026-07-04T08:36:21.864603+00:00"
   },
   {
     "id": "67da32267df9",
@@ -1064,7 +916,43 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-03T09:17:31.464541+00:00"
+    "fetched_at": "2026-07-04T08:36:21.864285+00:00"
+  },
+  {
+    "id": "a98d0642db40",
+    "source": "TED",
+    "title": "France – Research and development services and related consultancy services – R&D ON THE PREPARATION OF A RESPONSIVE ARCHITECTURE FOR STM ACTIVITIES",
+    "url": "https://ted.europa.eu/en/notice/307659-2026",
+    "country": "FR",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "CENTRE NATIONAL D'ETUDES SPATIALES - TOULOUSE. Firm tranche: • Task 1 – Detailed Analysis and State of the Art, until 31 March 2028, Firm price • Task 2 – Solution design, until 31 March 2028, Firm price • Task 3 – Development and prototyping, until 31 March 2028, Firm price • Task 4 – Evaluation and Validation, until 31 March 2028, Firm price • Task 5 – Consolidation and recommendations, until 31 March 2028, Firm price • Task 6 – Valuation, until 31 March 2028, Firm price",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 3
+    },
+    "fit_total": 3,
+    "fit_top_area": "mel",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "307659-2026"
+    },
+    "fetched_at": "2026-07-04T08:36:21.891887+00:00"
   },
   {
     "id": "42e7b272693a",
@@ -1073,7 +961,7 @@
     "url": "https://www.ungm.org/Public/Notice/305143",
     "country": "MU",
     "deadline": "2026-07-10",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for EOI. Reference: EOI-VC-2026-01. Matched query: vaccine.",
     "fit_per_area": {
@@ -1105,7 +993,7 @@
       "ungm_query": "vaccine",
       "published": "2026-06-24"
     },
-    "fetched_at": "2026-07-03T09:17:31.496744+00:00"
+    "fetched_at": "2026-07-04T08:36:21.895832+00:00"
   },
   {
     "id": "7208b7bdcf72",
@@ -1114,7 +1002,7 @@
     "url": "https://www.ungm.org/Public/Notice/305358",
     "country": "MU",
     "deadline": "2026-07-24",
-    "deadline_days": 21,
+    "deadline_days": 20,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503929. Matched query: vaccine.",
     "fit_per_area": {
@@ -1146,7 +1034,48 @@
       "ungm_query": "vaccine",
       "published": "2026-06-26"
     },
-    "fetched_at": "2026-07-03T09:17:31.496668+00:00"
+    "fetched_at": "2026-07-04T08:36:21.895744+00:00"
+  },
+  {
+    "id": "f3220e946ee9",
+    "source": "UNICEF",
+    "title": "Strengthening Immunisation resources on the Department of Health's, Side-by-Side, Website",
+    "url": "https://www.ungm.org/Public/Notice/306094",
+    "country": "SO",
+    "deadline": "2026-07-26",
+    "deadline_days": 22,
+    "value_usd": null,
+    "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9204834. Matched query: immunisation.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ungm_id": "306094",
+      "ungm_agency": "UNICEF",
+      "ungm_notice_type": "Request for proposal",
+      "ungm_reference": "LRPS-2026-9204834",
+      "ungm_query": "immunisation",
+      "published": "2026-07-03"
+    },
+    "fetched_at": "2026-07-04T08:36:21.897675+00:00"
   },
   {
     "id": "4db365511153",
@@ -1184,7 +1113,7 @@
       "published": "2026-04-20T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.501258+00:00"
+    "fetched_at": "2026-07-04T08:36:21.900185+00:00"
   },
   {
     "id": "5fa5a32d5033",
@@ -1222,7 +1151,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.502138+00:00"
+    "fetched_at": "2026-07-04T08:36:21.901064+00:00"
   },
   {
     "id": "a571e9d35662",
@@ -1260,7 +1189,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.502274+00:00"
+    "fetched_at": "2026-07-04T08:36:21.901195+00:00"
   },
   {
     "id": "16a3c0a1659d",
@@ -1298,7 +1227,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.502408+00:00"
+    "fetched_at": "2026-07-04T08:36:21.901328+00:00"
   },
   {
     "id": "4a5eee8825f9",
@@ -1336,7 +1265,7 @@
       "published": "2026-05-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.502589+00:00"
+    "fetched_at": "2026-07-04T08:36:21.901506+00:00"
   },
   {
     "id": "22c380ff4ae8",
@@ -1374,7 +1303,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.503984+00:00"
+    "fetched_at": "2026-07-04T08:36:21.902926+00:00"
   },
   {
     "id": "955d8c8354c8",
@@ -1412,45 +1341,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.504579+00:00"
-  },
-  {
-    "id": "2a61f0e571fa",
-    "source": "Signal:Biovac",
-    "title": "Cape factory to develop vaccines from scratch as IDC, EU commit big money - News24",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHNleXdvOXBRT1RZYjh3N0FzRU92WXpxLWN3eG1pRTJNZmdxQWxHZzl0Yi1hdXR4TktjUVVVVnhDQ202WTZnbEd4bDNtT1l4MkdlT2xDa2lTNmJmYVZtUTVJWTRTSUlJNVhHYXRVdVZfNTVPWG9taDlxTEtNc1dvYzJhZFZ5dGJUeUdhaDlwZGNNTWRSUHZXTWlVOXhhOHJSd24wMGVqNVoyaVEydXZHS19Cay0xYmY1eEN0aW9FeVJPbU5r?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Cape factory to develop vaccines from scratch as IDC, EU commit big money &nbsp;&nbsp; News24",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-05-25T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-03T09:17:31.505397+00:00"
+    "fetched_at": "2026-07-04T08:36:21.903504+00:00"
   },
   {
     "id": "798d84af1929",
@@ -1488,45 +1379,7 @@
       "published": "2026-05-13T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.505746+00:00"
-  },
-  {
-    "id": "6bcba987f5b4",
-    "source": "Signal:Biovac",
-    "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-05-11T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-03T09:17:31.506746+00:00"
+    "fetched_at": "2026-07-04T08:36:21.904571+00:00"
   },
   {
     "id": "ff56ac61df73",
@@ -1564,7 +1417,7 @@
       "published": "2026-05-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.507415+00:00"
+    "fetched_at": "2026-07-04T08:36:21.905621+00:00"
   },
   {
     "id": "ea1ed6a83094",
@@ -1602,7 +1455,83 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.508379+00:00"
+    "fetched_at": "2026-07-04T08:36:21.906437+00:00"
+  },
+  {
+    "id": "6bcba987f5b4",
+    "source": "Signal:Biovac",
+    "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-05-11T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-07-04T08:36:21.906760+00:00"
+  },
+  {
+    "id": "2a61f0e571fa",
+    "source": "Signal:Biovac",
+    "title": "Cape factory to develop vaccines from scratch as IDC, EU commit big money - News24",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHNleXdvOXBRT1RZYjh3N0FzRU92WXpxLWN3eG1pRTJNZmdxQWxHZzl0Yi1hdXR4TktjUVVVVnhDQ202WTZnbEd4bDNtT1l4MkdlT2xDa2lTNmJmYVZtUTVJWTRTSUlJNVhHYXRVdVZfNTVPWG9taDlxTEtNc1dvYzJhZFZ5dGJUeUdhaDlwZGNNTWRSUHZXTWlVOXhhOHJSd24wMGVqNVoyaVEydXZHS19Cay0xYmY1eEN0aW9FeVJPbU5r?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Cape factory to develop vaccines from scratch as IDC, EU commit big money &nbsp;&nbsp; News24",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-05-25T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-07-04T08:36:21.907123+00:00"
   },
   {
     "id": "9edcae8be231",
@@ -1640,7 +1569,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.509066+00:00"
+    "fetched_at": "2026-07-04T08:36:21.907821+00:00"
   },
   {
     "id": "1c23e3bd4b83",
@@ -1678,7 +1607,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.511354+00:00"
+    "fetched_at": "2026-07-04T08:36:21.909746+00:00"
   },
   {
     "id": "de2351f4b117",
@@ -1716,7 +1645,7 @@
       "published": "2026-05-13T06:07:49+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.512027+00:00"
+    "fetched_at": "2026-07-04T08:36:21.910396+00:00"
   },
   {
     "id": "adf00a925a02",
@@ -1754,7 +1683,7 @@
       "published": "2026-04-20T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.513423+00:00"
+    "fetched_at": "2026-07-04T08:36:21.911593+00:00"
   },
   {
     "id": "7895d9459a90",
@@ -1792,7 +1721,7 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.513837+00:00"
+    "fetched_at": "2026-07-04T08:36:21.912014+00:00"
   },
   {
     "id": "98d8035f72fc",
@@ -1830,44 +1759,6 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-03T09:17:31.514251+00:00"
-  },
-  {
-    "id": "b96a3e8af844",
-    "source": "Signal:AFD",
-    "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "donor": "AFD",
-      "published": "2026-05-11T07:00:00+00:00",
-      "signal_type": "donor"
-    },
-    "fetched_at": "2026-07-03T09:17:31.514578+00:00"
+    "fetched_at": "2026-07-04T08:36:21.912396+00:00"
   }
 ]
