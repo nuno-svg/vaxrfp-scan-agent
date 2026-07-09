@@ -35,7 +35,7 @@
       "published": "2026-05-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.161898+00:00"
+    "fetched_at": "2026-07-09T09:38:04.665023+00:00"
   },
   {
     "id": "6cf6b3992da2",
@@ -73,7 +73,7 @@
       "published": "2026-06-30T10:21:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.162351+00:00"
+    "fetched_at": "2026-07-09T09:38:04.665501+00:00"
   },
   {
     "id": "404918114864",
@@ -111,7 +111,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.155501+00:00"
+    "fetched_at": "2026-07-09T09:38:04.658936+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -149,7 +149,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-07-08T08:28:17.167706+00:00"
+    "fetched_at": "2026-07-09T09:38:04.671339+00:00"
   },
   {
     "id": "b8d6a6f15cd5",
@@ -158,7 +158,7 @@
     "url": "https://www.ungm.org/Public/Notice/301110",
     "country": "JO",
     "deadline": "2026-07-16",
-    "deadline_days": 8,
+    "deadline_days": 7,
     "value_usd": null,
     "description": "Agency: UNIDO. Type: Request for quotation. Reference: 7000008516. Matched query: cold chain.",
     "fit_per_area": {
@@ -175,7 +175,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": false,
+      "urgent_deadline": true,
       "expired": false
     },
     "flag_notes": {
@@ -190,7 +190,7 @@
       "ungm_query": "cold chain",
       "published": "2026-06-29"
     },
-    "fetched_at": "2026-07-08T08:28:17.151127+00:00"
+    "fetched_at": "2026-07-09T09:38:04.654592+00:00"
   },
   {
     "id": "ed532603dba5",
@@ -228,7 +228,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.153486+00:00"
+    "fetched_at": "2026-07-09T09:38:04.656937+00:00"
   },
   {
     "id": "c528ecb8b5b8",
@@ -266,7 +266,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.154756+00:00"
+    "fetched_at": "2026-07-09T09:38:04.658186+00:00"
   },
   {
     "id": "27ac670bbb00",
@@ -304,7 +304,7 @@
       "published": "2026-05-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.156089+00:00"
+    "fetched_at": "2026-07-09T09:38:04.659540+00:00"
   },
   {
     "id": "b137cf8c9e61",
@@ -342,7 +342,7 @@
       "published": "2026-05-26T12:11:27+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.156986+00:00"
+    "fetched_at": "2026-07-09T09:38:04.660455+00:00"
   },
   {
     "id": "8f00423363c8",
@@ -380,7 +380,7 @@
       "published": "2026-05-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.157133+00:00"
+    "fetched_at": "2026-07-09T09:38:04.660602+00:00"
   },
   {
     "id": "95ddc1cb255e",
@@ -418,7 +418,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.158123+00:00"
+    "fetched_at": "2026-07-09T09:38:04.661329+00:00"
   },
   {
     "id": "428be1b62fdb",
@@ -456,7 +456,7 @@
       "published": "2026-05-12T09:47:25+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.158456+00:00"
+    "fetched_at": "2026-07-09T09:38:04.662317+00:00"
   },
   {
     "id": "31245162c412",
@@ -494,7 +494,7 @@
       "published": "2026-04-17T05:57:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.159499+00:00"
+    "fetched_at": "2026-07-09T09:38:04.663019+00:00"
   },
   {
     "id": "3c511eba2bf5",
@@ -532,7 +532,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.160648+00:00"
+    "fetched_at": "2026-07-09T09:38:04.663770+00:00"
   },
   {
     "id": "79f77cfe6238",
@@ -570,7 +570,7 @@
       "published": "2026-06-15T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.162510+00:00"
+    "fetched_at": "2026-07-09T09:38:04.665666+00:00"
   },
   {
     "id": "3301c0539fa2",
@@ -608,7 +608,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-07-08T08:28:17.168121+00:00"
+    "fetched_at": "2026-07-09T09:38:04.671751+00:00"
   },
   {
     "id": "e2b3c9234f0e",
@@ -617,7 +617,7 @@
     "url": "https://africacdc.org/opportunity/provision-of-landscaping-gardening-and-maintenance-services-at-the-africa-cdc-compound/",
     "country": null,
     "deadline": "2026-07-10",
-    "deadline_days": 2,
+    "deadline_days": 1,
     "value_usd": null,
     "description": "Date of Publication : 10 June 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) Headquarters located at Haile Garment, Addis Ababa kindly request that you submit your quotation for the provision of landscaping, gardening and maintenance services at the Africa CDC Compound for a period as indicated in the attached contract. This scope of work is prepared for the Africa CDC landscaping, gardening and maintenance work, and it includes the necessary information and detail required for the maintenance work. The contractor shall be committed to employing sustainable and environmentally friendly approaches in all aspects of the landscape maintenance work. Submission Deadline : Technical and Financial proposal must be delivered on or before 10 July 2026 at 15:00 Hours Local Time. Validity : Proposals should be valid for at 60 Calendar days from the closing date. Proposal Opening : Proposals will be opened immediately after the closing hours in the presence of bidders or bidders’ representatives who wish to attend. Late submission will be rejected and returned unopened to service provider. Contract Start Date : 01 September 2026 and ends on 31 st August 2028.  The Service Contract shall be for an initial period of two (2) years from the date of commencement. At the end of the first year, Africa CDC shall undertake a formal performance appraisal of the service provider to assess performance, service quality, compliance with contractual obligations, and overall mar",
     "fit_per_area": {
@@ -642,7 +642,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-08T08:28:17.126943+00:00"
+    "fetched_at": "2026-07-09T09:38:04.630370+00:00"
   },
   {
     "id": "21965644006a",
@@ -651,7 +651,7 @@
     "url": "https://africacdc.org/opportunity/provision-of-catering-services-within-the-africa-cdc-hq-compound/",
     "country": "_AU",
     "deadline": "2026-07-10",
-    "deadline_days": 2,
+    "deadline_days": 1,
     "value_usd": null,
     "description": "Date of Publication : 10 June 2026 Africa Centres for Disease Control and Prevention (Africa CDC) is a continental autonomous health agency of the African Union established to support public health initiatives of Member States and strengthen the capacity of their public health institutions to detect, prevent, control and respond quickly and effectively to disease threats. Africa CDC supports African Union Member States in providing coordinated and integrated solutions to the inadequacies in their public health infrastructure, human resource capacity, disease surveillance, laboratory diagnostics, and preparedness and response to health emergencies and disasters. The Africa CDC Headquarters in Addis Ababa, Ethiopia currently comprises of more than 200 staff members operating in a multicultural and multi-linguistic environment and seeks to provide professional and authentic top-notch continental wide catering services in-order to satisfy its staff, invited delegates and guests to meet multicultural and multi-diverse needs. The Africa CDC wishes to engage professional service providers for Provision of Catering Service within the Africa CDC premises. The Africa CDC is inviting eligible and qualified catering service providers in Africa to participate in this competitive bidding process and to submit their proposals for the management and operations of catering spaces situated within the Africa CDC’s premises in Addis Ababa, Ethiopia as follow; The objectives of the provision of c",
     "fit_per_area": {
@@ -676,7 +676,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-08T08:28:17.127597+00:00"
+    "fetched_at": "2026-07-09T09:38:04.631182+00:00"
   },
   {
     "id": "5b3be3903810",
@@ -685,7 +685,7 @@
     "url": "https://africacdc.org/opportunity/provision-of-security-services-at-africa-cdc/",
     "country": null,
     "deadline": "2026-07-10",
-    "deadline_days": 2,
+    "deadline_days": 1,
     "value_usd": null,
     "description": "Date of Publication: 10 June 2026 The African Centres for Disease Control and Prevention (Africa CDC) has allocated funds for the procurement of security services and now invites sealed offers from eligible bidders for the Provision of Security Services as per attached Terms of Reference. Services providers shall be selected under the Least Cost Selection criteria . Bids that are responsive, qualified, technically compliant will be ranked according to price. Submission Deadline: Technical and Financial proposal must be delivered on or before 22 nd July 2026 at 15:00 Hours Local Time. Proposal must be accompanied by: Validity: Proposals should be valid for at 60 Calendar days from the closing date. Proposal Opening: Proposals will be opened immediately after the closing hours in the presence of bidders or bidders’ representatives who wish to attend. Late submission will be rejected and returned unopened to service provider. Contract Start Date: 01 September 2026 and ends on 31 st August 2028.  The Service Contract shall be for an initial period of two (2) years from the date of commencement. At the end of the first year, Africa CDC shall undertake a formal performance appraisal of the service provider to assess performance, service quality, compliance with contractual obligations, and overall market competitiveness. Continuation into the second year shall be subject to satisfactory performance assessment by Africa CDC. Either party shall provide ninety (90) days written notice",
     "fit_per_area": {
@@ -710,7 +710,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-08T08:28:17.132240+00:00"
+    "fetched_at": "2026-07-09T09:38:04.635822+00:00"
   },
   {
     "id": "5a8cb9827443",
@@ -719,7 +719,7 @@
     "url": "https://africacdc.org/opportunity/provision-of-cleaning-janitorial-and-pest-control-services-in-the-africa-cdc-compound/",
     "country": null,
     "deadline": "2026-07-10",
-    "deadline_days": 2,
+    "deadline_days": 1,
     "value_usd": null,
     "description": "Date of Publication: 10 June 2026 The African Centres for Disease Control and Prevention (Africa CDC) has allocated funds for the procurement of Cleaning, Janitorial and Pest Control Services and now invites sealed offers from eligible bidders for the Provision of Provision of Cleaning, Janitorial and Pest Control Services as per attached Terms of Reference. Services providers shall be selected under the Least Cost Selection criteria . Bids that are responsive, qualified, technically compliant will be ranked according to price. Service Providers are expected to demonstrate their capability, experiences and understanding of the requirements of the Africa CDC. Submission Deadline: Technical and Financial proposal must be delivered on or before 10 th July 2026 at 15:00 Hours Local Time. Proposal must be accompanied by: Validity: Proposals should be valid for at 60 Calendar days from the closing date. Proposal Opening: Proposals will be opened immediately after the closing hours in the presence of bidders or bidders’ representatives who wish to attend. Late submission will be rejected and remain unopened. Contract Start Date: 01 September 2026 and ends on 31 st August 2028.  The Service Contract shall be for an initial period of two (2) years from the date of commencement. At the end of the first year, Africa CDC shall undertake a formal performance appraisal of the service provider to assess performance, service quality, compliance with contractual obligations, and overall marke",
     "fit_per_area": {
@@ -744,7 +744,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-08T08:28:17.136963+00:00"
+    "fetched_at": "2026-07-09T09:38:04.640657+00:00"
   },
   {
     "id": "881ddbc70465",
@@ -753,7 +753,7 @@
     "url": "https://africacdc.org/opportunity/call-for-expressions-of-interest-membership-of-the-africa-cdc-continental-immunization-advisory-council/",
     "country": null,
     "deadline": "2026-07-21",
-    "deadline_days": 13,
+    "deadline_days": 12,
     "value_usd": null,
     "description": "Africa CDC invites expressions of interest from distinguished African leaders, experts, and advocates to serve as members of the Continental Immunization Advisory Council (CIAC). The CIAC is a high-level strategic advisory and action-oriented platform established to accelerate the delivery of the Africa CDC Continental Immunization Strategy 2026–2030 (CIS) and broader Continental Immunization priority issues in Africa. The CIS Strategy positions immunization as a foundational pillar of resilient, epidemic-ready primary health care, health security, equity, and sustainable development across Africa. CIAC members will serve as senior strategic advisors, advocates, and accelerators for the implementation of the Continental Immunization Strategy. Members will be expected to bring independent judgment, leadership experience, technical insight, political influence, financing expertise, community perspectives, or institutional networks that can help drive momentum in advancing immunization in Africa. Members will provide high-level strategic advice to Africa CDC on opportunities, risks, and bottlenecks affecting immunization systems; champion immunization as a priority for primary health care, health security, equity, and human capital; and support advocacy for sustainable domestic financing, partner alignment, and accountability. They may also be invited to contribute to targeted working groups, policy dialogues, problem solving, advocacy engagements, or follow-up actions linked to",
     "fit_per_area": {
@@ -778,7 +778,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-08T08:28:17.122009+00:00"
+    "fetched_at": "2026-07-09T09:38:04.625438+00:00"
   },
   {
     "id": "6ae5c26a97d8",
@@ -787,7 +787,7 @@
     "url": "https://africacdc.org/opportunity/conduct-annual-calibration-and-maintenance-of-biological-safety-cabinets-bscs-negative-pressure-system-and-other-lab-equipment-at-the-africa-cdc-reference-laboratory/",
     "country": "_AU",
     "deadline": "2026-07-22",
-    "deadline_days": 14,
+    "deadline_days": 13,
     "value_usd": null,
     "description": "Africa Centres for Disease Control and Prevention (Africa CDC) Supply Chain Division Administration Directorate Lafto Square, Haile Garment Africa CDC Office, NKOSAZANA DLAMINI – ZUMA TOWER 4th Floor, Room No. 408 Addis Ababa, Ethiopia For clarification and requesting bidding / solicitation documents: E-mail: procurement@africacdc.org (Please submit your request for the bidding document and clarification to both emails) ​Africa CDC strengthens the capacity and capability of Africa’s public health institutions as well as partnerships to detect and respond quickly and effectively to disease threats and outbreaks, based on data-driven interventions and programmes. Tel: +251 11 551 77 00 | communications@africacdc.org Visit Africa CDC on the African Union website . © All rights reserved Africa CDC",
     "fit_per_area": {
@@ -812,7 +812,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-08T08:28:17.115108+00:00"
+    "fetched_at": "2026-07-09T09:38:04.618917+00:00"
   },
   {
     "id": "67da32267df9",
@@ -846,7 +846,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-08T08:28:17.114644+00:00"
+    "fetched_at": "2026-07-09T09:38:04.618569+00:00"
   },
   {
     "id": "42e7b272693a",
@@ -855,7 +855,7 @@
     "url": "https://www.ungm.org/Public/Notice/305143",
     "country": "MU",
     "deadline": "2026-07-10",
-    "deadline_days": 2,
+    "deadline_days": 1,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for EOI. Reference: EOI-VC-2026-01. Matched query: vaccine.",
     "fit_per_area": {
@@ -887,7 +887,7 @@
       "ungm_query": "vaccine",
       "published": "2026-06-24"
     },
-    "fetched_at": "2026-07-08T08:28:17.148426+00:00"
+    "fetched_at": "2026-07-09T09:38:04.651851+00:00"
   },
   {
     "id": "60da51e72fab",
@@ -896,7 +896,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00455010",
     "country": "BR",
     "deadline": "2026-07-21",
-    "deadline_days": 13,
+    "deadline_days": 12,
     "value_usd": null,
     "description": "Request for Expression of Interest. Least Cost Selection. Project: Accelerating Project preparation with CAIXA for electromobility, digital, and sustainable housing de. Country: Brazil. Reference: GEHPJ - ESTUDO RETROFIT.",
     "fit_per_area": {
@@ -925,7 +925,7 @@
       "wb_project_id": "P181962",
       "wb_reference": "GEHPJ - ESTUDO RETROFIT"
     },
-    "fetched_at": "2026-07-08T08:28:17.145549+00:00"
+    "fetched_at": "2026-07-09T09:38:04.651469+00:00"
   },
   {
     "id": "7208b7bdcf72",
@@ -934,7 +934,7 @@
     "url": "https://www.ungm.org/Public/Notice/305358",
     "country": "MU",
     "deadline": "2026-07-24",
-    "deadline_days": 16,
+    "deadline_days": 15,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503929. Matched query: vaccine.",
     "fit_per_area": {
@@ -966,7 +966,7 @@
       "ungm_query": "vaccine",
       "published": "2026-06-26"
     },
-    "fetched_at": "2026-07-08T08:28:17.148350+00:00"
+    "fetched_at": "2026-07-09T09:38:04.651777+00:00"
   },
   {
     "id": "f3220e946ee9",
@@ -975,7 +975,7 @@
     "url": "https://www.ungm.org/Public/Notice/306094",
     "country": "SO",
     "deadline": "2026-07-26",
-    "deadline_days": 18,
+    "deadline_days": 17,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9204834. Matched query: immunisation.",
     "fit_per_area": {
@@ -1007,7 +1007,7 @@
       "ungm_query": "immunisation",
       "published": "2026-07-03"
     },
-    "fetched_at": "2026-07-08T08:28:17.150349+00:00"
+    "fetched_at": "2026-07-09T09:38:04.653774+00:00"
   },
   {
     "id": "1bd16f69a09c",
@@ -1016,7 +1016,7 @@
     "url": "https://www.ungm.org/Public/Notice/306200",
     "country": "BA",
     "deadline": "2026-07-29",
-    "deadline_days": 21,
+    "deadline_days": 20,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9204842. Matched query: immunization.",
     "fit_per_area": {
@@ -1048,7 +1048,7 @@
       "ungm_query": "immunization",
       "published": "2026-07-05"
     },
-    "fetched_at": "2026-07-08T08:28:17.149648+00:00"
+    "fetched_at": "2026-07-09T09:38:04.653067+00:00"
   },
   {
     "id": "1bf73a455eff",
@@ -1057,7 +1057,7 @@
     "url": "https://www.ungm.org/Public/Notice/306403",
     "country": "BA",
     "deadline": "2026-08-02",
-    "deadline_days": 25,
+    "deadline_days": 24,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9204843. Matched query: immunization.",
     "fit_per_area": {
@@ -1089,7 +1089,45 @@
       "ungm_query": "immunization",
       "published": "2026-07-07"
     },
-    "fetched_at": "2026-07-08T08:28:17.149581+00:00"
+    "fetched_at": "2026-07-09T09:38:04.652999+00:00"
+  },
+  {
+    "id": "0fddc9318930",
+    "source": "World Bank",
+    "title": "Servicio de Levantamiento Topográfico con Tecnología LiDAR Multihaz en las Áreas Geotérmicas de Tecuamburro y Moyuta",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00455292",
+    "country": "GU",
+    "deadline": "2026-08-17",
+    "deadline_days": 39,
+    "value_usd": null,
+    "description": "Invitation for Bids. Request for Bids. Project: Support the preparation of the Guatemala Energy Transition Support Project implemented by INDE. Country: Guatemala. Reference: GT-INDE-529881-NC-RFB.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Invitation for Bids",
+      "wb_project_id": "P181930",
+      "wb_reference": "GT-INDE-529881-NC-RFB"
+    },
+    "fetched_at": "2026-07-09T09:38:04.650408+00:00"
   },
   {
     "id": "839b215c4572",
@@ -1098,7 +1136,7 @@
     "url": "https://ted.europa.eu/en/notice/322835-2026",
     "country": "DE",
     "deadline": "2029-12-31",
-    "deadline_days": 1272,
+    "deadline_days": 1271,
     "value_usd": null,
     "description": "AOK PLUS - Die Gesundheitskasse für Sachsen und Thüringen. Gegenstand dieser Veröffentlichung ist der Abschluss von nicht-exklusiven Kooperationsvereinbarungen zur bedarfsorientierten Umsetzung des Teilprozesses \"Betriebliches Gesundheitsmanagement (BGM)\" bei Firmenkunden der AOK PLUS - Die Gesundheitskasse für Sachsen und Thüringen. Die AOK PLUS initiiert, unterstützt und begleitet Präventions- und Gesundheitsförderungsprojekte und -programme bei ihren Firmenkunden. Gemessen am Bedarf des Firmenkunden ist mitunter nur ein Teilprozess des BGM durchzuführen z. B. zum Thema Bewegung, Stress oder Führung. Der Kooperationspartner unterstützt und berät die Firmenkunden bei der Implementierung und Durchführung eines solchen Teilprozesses und evaluiert die getroffenen Maßnahmen nach näherer Maßgabe der Leistungsbeschreibung (Anlage 1 des Teilnahmeantrages) mit dem Ziel, diese mit der selbstständigen Nutzung der geschaffenen BGM-Strukturen und weiteren Umsetzung des implementierten Regelkreislaufes zu befähigen. Der Vertragsschluss erfolgt im Rahmen eines sog. open-house-Verfahrens, d. h. mit jedem interessierten Unternehmen, welches die Teilnahmevoraussetzungen erfüllt, wird unter Vorgabe einheitlicher Konditionen sowie eines einheitlichen Zugangsverfahrens eine Kooperationsvereinbarung abgeschlossen. Die Abnahmemenge ist bei Abschluss der Vereinbarung unbekannt und insbesondere vom Beratungsbedarf der Firmenkunden sowie der Auswahl unter den im Rahmen dieses Verfahrens vertraglich ",
     "fit_per_area": {
@@ -1125,7 +1163,7 @@
     "raw": {
       "ted_publication_number": "322835-2026"
     },
-    "fetched_at": "2026-07-08T08:28:17.143653+00:00"
+    "fetched_at": "2026-07-09T09:38:04.647398+00:00"
   },
   {
     "id": "4db365511153",
@@ -1163,7 +1201,7 @@
       "published": "2026-04-20T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.152933+00:00"
+    "fetched_at": "2026-07-09T09:38:04.656407+00:00"
   },
   {
     "id": "5fa5a32d5033",
@@ -1201,7 +1239,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.153862+00:00"
+    "fetched_at": "2026-07-09T09:38:04.657311+00:00"
   },
   {
     "id": "a571e9d35662",
@@ -1239,7 +1277,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.153995+00:00"
+    "fetched_at": "2026-07-09T09:38:04.657448+00:00"
   },
   {
     "id": "16a3c0a1659d",
@@ -1277,7 +1315,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.154129+00:00"
+    "fetched_at": "2026-07-09T09:38:04.657582+00:00"
   },
   {
     "id": "4a5eee8825f9",
@@ -1315,7 +1353,7 @@
       "published": "2026-05-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.154310+00:00"
+    "fetched_at": "2026-07-09T09:38:04.657765+00:00"
   },
   {
     "id": "8bb764219eae",
@@ -1353,7 +1391,7 @@
       "published": "2026-04-16T13:21:16+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.155086+00:00"
+    "fetched_at": "2026-07-09T09:38:04.658516+00:00"
   },
   {
     "id": "22c380ff4ae8",
@@ -1391,7 +1429,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.155943+00:00"
+    "fetched_at": "2026-07-09T09:38:04.659389+00:00"
   },
   {
     "id": "955d8c8354c8",
@@ -1429,7 +1467,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.156524+00:00"
+    "fetched_at": "2026-07-09T09:38:04.659982+00:00"
   },
   {
     "id": "6bcba987f5b4",
@@ -1467,7 +1505,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.157744+00:00"
+    "fetched_at": "2026-07-09T09:38:04.660933+00:00"
   },
   {
     "id": "798d84af1929",
@@ -1505,7 +1543,7 @@
       "published": "2026-05-13T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.158814+00:00"
+    "fetched_at": "2026-07-09T09:38:04.661680+00:00"
   },
   {
     "id": "ff56ac61df73",
@@ -1543,45 +1581,7 @@
       "published": "2026-05-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.159126+00:00"
-  },
-  {
-    "id": "ea1ed6a83094",
-    "source": "Signal:Biovac",
-    "title": "South African pharma giant wins R1.5 billion to build the biggest vaccine facility in Africa - Daily Investor",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdTFYMUxYMEpidXF2NUNXTXp3dGtaYmctbm9qaHZBZXBZV1p0QnJqSUVnZW5QWnNTTmF0a0VzRmhqX014bzBCVUphdHQ3d1FueVBRZnl3a0FScThQWkdBRXVVQzFlUkpHUENXYVRoTUlCdHpoV3VCQmtqYm5kdmY4Sy1DY1JyZDNCcS1HV1l0T2JDalRyT3ZDV25rTjlQYmxaZ1VOWXhVYjNBb1BneVJNcGQ0c0tobUtBbkstekFpaDhLRTY0cEV6anQxaFJlSldUMEE3X19R?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "South African pharma giant wins R1.5 billion to build the biggest vaccine facility in Africa &nbsp;&nbsp; Daily Investor",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-17T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-08T08:28:17.159935+00:00"
+    "fetched_at": "2026-07-09T09:38:04.662636+00:00"
   },
   {
     "id": "2a61f0e571fa",
@@ -1619,7 +1619,7 @@
       "published": "2026-05-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.160287+00:00"
+    "fetched_at": "2026-07-09T09:38:04.663397+00:00"
   },
   {
     "id": "15f71a2d2e46",
@@ -1657,7 +1657,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.161006+00:00"
+    "fetched_at": "2026-07-09T09:38:04.664127+00:00"
   },
   {
     "id": "9edcae8be231",
@@ -1695,7 +1695,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.161331+00:00"
+    "fetched_at": "2026-07-09T09:38:04.664463+00:00"
   },
   {
     "id": "1c23e3bd4b83",
@@ -1733,7 +1733,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.162989+00:00"
+    "fetched_at": "2026-07-09T09:38:04.666154+00:00"
   },
   {
     "id": "2e6882527e2e",
@@ -1771,7 +1771,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.163345+00:00"
+    "fetched_at": "2026-07-09T09:38:04.666520+00:00"
   },
   {
     "id": "de2351f4b117",
@@ -1809,7 +1809,7 @@
       "published": "2026-05-13T06:07:49+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.164369+00:00"
+    "fetched_at": "2026-07-09T09:38:04.667571+00:00"
   },
   {
     "id": "06c90dac4b9a",
@@ -1847,7 +1847,7 @@
       "published": "2026-05-14T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.164853+00:00"
+    "fetched_at": "2026-07-09T09:38:04.668031+00:00"
   },
   {
     "id": "69e9cdbd541c",
@@ -1885,7 +1885,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.165713+00:00"
+    "fetched_at": "2026-07-09T09:38:04.669288+00:00"
   },
   {
     "id": "adf00a925a02",
@@ -1923,7 +1923,7 @@
       "published": "2026-04-20T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.166148+00:00"
+    "fetched_at": "2026-07-09T09:38:04.669683+00:00"
   },
   {
     "id": "7895d9459a90",
@@ -1961,7 +1961,7 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.166563+00:00"
+    "fetched_at": "2026-07-09T09:38:04.670113+00:00"
   },
   {
     "id": "98d8035f72fc",
@@ -1999,7 +1999,7 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-08T08:28:17.166967+00:00"
+    "fetched_at": "2026-07-09T09:38:04.670509+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -2037,6 +2037,6 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-07-08T08:28:17.167293+00:00"
+    "fetched_at": "2026-07-09T09:38:04.670843+00:00"
   }
 ]
