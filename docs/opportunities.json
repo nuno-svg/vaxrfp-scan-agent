@@ -31,7 +31,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-15T08:08:31.075560+00:00"
+    "fetched_at": "2026-07-16T08:12:29.769961+00:00"
   },
   {
     "id": "df909349c9a8",
@@ -69,7 +69,7 @@
       "published": "2026-05-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.106324+00:00"
+    "fetched_at": "2026-07-16T08:12:29.795539+00:00"
   },
   {
     "id": "983a714551c9",
@@ -107,7 +107,7 @@
       "published": "2026-06-30T12:13:43+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.106823+00:00"
+    "fetched_at": "2026-07-16T08:12:29.795967+00:00"
   },
   {
     "id": "379670ef5c21",
@@ -145,7 +145,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.108495+00:00"
+    "fetched_at": "2026-07-16T08:12:29.797411+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -183,7 +183,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-07-15T08:08:31.112615+00:00"
+    "fetched_at": "2026-07-16T08:12:29.800217+00:00"
   },
   {
     "id": "b8d6a6f15cd5",
@@ -192,7 +192,7 @@
     "url": "https://www.ungm.org/Public/Notice/301110",
     "country": "JO",
     "deadline": "2026-07-16",
-    "deadline_days": 1,
+    "deadline_days": 0,
     "value_usd": null,
     "description": "Agency: UNIDO. Type: Request for quotation. Reference: 7000008516. Matched query: cold chain.",
     "fit_per_area": {
@@ -224,7 +224,7 @@
       "ungm_query": "cold chain",
       "published": "2026-06-29"
     },
-    "fetched_at": "2026-07-15T08:08:31.098163+00:00"
+    "fetched_at": "2026-07-16T08:12:29.790223+00:00"
   },
   {
     "id": "958ed8b7e34f",
@@ -233,7 +233,7 @@
     "url": "https://www.ungm.org/Public/Notice/307225",
     "country": "CH",
     "deadline": "2026-08-06",
-    "deadline_days": 22,
+    "deadline_days": 21,
     "value_usd": null,
     "description": "Agency: UNOPS. Type: Invitation to bid. Reference: ITB/2026/63677. Matched query: cold chain.",
     "fit_per_area": {
@@ -265,7 +265,7 @@
       "ungm_query": "cold chain",
       "published": "2026-07-14"
     },
-    "fetched_at": "2026-07-15T08:08:31.098101+00:00"
+    "fetched_at": "2026-07-16T08:12:29.790166+00:00"
   },
   {
     "id": "27ac670bbb00",
@@ -303,7 +303,7 @@
       "published": "2026-05-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.101816+00:00"
+    "fetched_at": "2026-07-16T08:12:29.792246+00:00"
   },
   {
     "id": "b137cf8c9e61",
@@ -341,7 +341,7 @@
       "published": "2026-05-26T12:11:27+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.102260+00:00"
+    "fetched_at": "2026-07-16T08:12:29.792395+00:00"
   },
   {
     "id": "95ddc1cb255e",
@@ -379,7 +379,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.102646+00:00"
+    "fetched_at": "2026-07-16T08:12:29.793021+00:00"
   },
   {
     "id": "428be1b62fdb",
@@ -417,45 +417,7 @@
       "published": "2026-05-12T09:47:25+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.103325+00:00"
-  },
-  {
-    "id": "31245162c412",
-    "source": "Signal:Biovac",
-    "title": "Biovac's €75m cash injection to boost vaccine production and create jobs - Bizcommunity",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2xDR1lVV19USjk0TXN6NXVYZElONTlRMDk0bW95Rng5QVlYNGlibVR3NkQ3cm9KY0FiNWR6cTR1TzhGWXlkMnYzb01qeGlzTGxxeXJsQnlNNUNuS2RicVVEOFh5VFNrSi1wOE1lenFXc0tQeGVxWFNNMFY0MDVhY19HNFJGdDV5V0ZCUmlQTFdtVTBZZlV5M2FtV1UxYnZBZXhCSHRuVzBNM255ZjRSVGVjeGE?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac's €75m cash injection to boost vaccine production and create jobs &nbsp;&nbsp; Bizcommunity",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-17T05:57:59+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-15T08:08:31.104343+00:00"
+    "fetched_at": "2026-07-16T08:12:29.793617+00:00"
   },
   {
     "id": "05962f72b7b0",
@@ -493,7 +455,45 @@
       "published": "2026-05-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.104916+00:00"
+    "fetched_at": "2026-07-16T08:12:29.794301+00:00"
+  },
+  {
+    "id": "3c511eba2bf5",
+    "source": "Signal:Biovac",
+    "title": "SA moves closer to vaccine manufacturing hub with $1.5 bln investment - Channel Africa",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVZpallXVmNOWjRLUUl4YkItNVV4SmVPd1FMVHlmckUtakxRZURqd05sX3RNblFtbFozX0R2dWxCQk5mVlB1QjFVVERhZWRSTnhydGJOenhjVjRZLTBpU3BDM0dRd3VHT21oemctanlNTXZ4d0Fnc2hmeF9zeFh1YlFGb0t1bzg4S0VfN3F1Ny1Cemt5T2xqSnBGOWhoRFlpU18tNFc1WHFrUHliOENEM1E1QUJ3M3dIcFRJag?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "SA moves closer to vaccine manufacturing hub with $1.5 bln investment &nbsp;&nbsp; Channel Africa",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-05-11T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-07-16T08:12:29.794925+00:00"
   },
   {
     "id": "8b881fa1150a",
@@ -531,7 +531,7 @@
       "published": "2026-05-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.106116+00:00"
+    "fetched_at": "2026-07-16T08:12:29.795363+00:00"
   },
   {
     "id": "79f77cfe6238",
@@ -569,7 +569,7 @@
       "published": "2026-06-15T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.106987+00:00"
+    "fetched_at": "2026-07-16T08:12:29.796106+00:00"
   },
   {
     "id": "881ddbc70465",
@@ -578,7 +578,7 @@
     "url": "https://africacdc.org/opportunity/call-for-expressions-of-interest-membership-of-the-africa-cdc-continental-immunization-advisory-council/",
     "country": null,
     "deadline": "2026-07-21",
-    "deadline_days": 6,
+    "deadline_days": 5,
     "value_usd": null,
     "description": "Africa CDC invites expressions of interest from distinguished African leaders, experts, and advocates to serve as members of the Continental Immunization Advisory Council (CIAC). The CIAC is a high-level strategic advisory and action-oriented platform established to accelerate the delivery of the Africa CDC Continental Immunization Strategy 2026–2030 (CIS) and broader Continental Immunization priority issues in Africa. The CIS Strategy positions immunization as a foundational pillar of resilient, epidemic-ready primary health care, health security, equity, and sustainable development across Africa. CIAC members will serve as senior strategic advisors, advocates, and accelerators for the implementation of the Continental Immunization Strategy. Members will be expected to bring independent judgment, leadership experience, technical insight, political influence, financing expertise, community perspectives, or institutional networks that can help drive momentum in advancing immunization in Africa. Members will provide high-level strategic advice to Africa CDC on opportunities, risks, and bottlenecks affecting immunization systems; champion immunization as a priority for primary health care, health security, equity, and human capital; and support advocacy for sustainable domestic financing, partner alignment, and accountability. They may also be invited to contribute to targeted working groups, policy dialogues, problem solving, advocacy engagements, or follow-up actions linked to",
     "fit_per_area": {
@@ -603,7 +603,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-15T08:08:31.084016+00:00"
+    "fetched_at": "2026-07-16T08:12:29.777255+00:00"
   },
   {
     "id": "6ae5c26a97d8",
@@ -612,7 +612,7 @@
     "url": "https://africacdc.org/opportunity/conduct-annual-calibration-and-maintenance-of-biological-safety-cabinets-bscs-negative-pressure-system-and-other-lab-equipment-at-the-africa-cdc-reference-laboratory/",
     "country": "_AU",
     "deadline": "2026-07-22",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Africa Centres for Disease Control and Prevention (Africa CDC) Supply Chain Division Administration Directorate Lafto Square, Haile Garment Africa CDC Office, NKOSAZANA DLAMINI – ZUMA TOWER 4th Floor, Room No. 408 Addis Ababa, Ethiopia For clarification and requesting bidding / solicitation documents: E-mail: procurement@africacdc.org (Please submit your request for the bidding document and clarification to both emails) ​Africa CDC strengthens the capacity and capability of Africa’s public health institutions as well as partnerships to detect and respond quickly and effectively to disease threats and outbreaks, based on data-driven interventions and programmes. Tel: +251 11 551 77 00 | communications@africacdc.org Visit Africa CDC on the African Union website . © All rights reserved Africa CDC",
     "fit_per_area": {
@@ -637,7 +637,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-15T08:08:31.077872+00:00"
+    "fetched_at": "2026-07-16T08:12:29.771925+00:00"
   },
   {
     "id": "21965644006a",
@@ -646,7 +646,7 @@
     "url": "https://africacdc.org/opportunity/provision-of-catering-services-within-the-africa-cdc-hq-compound/",
     "country": "_AU",
     "deadline": "2026-07-24",
-    "deadline_days": 9,
+    "deadline_days": 8,
     "value_usd": null,
     "description": "Date of Publication : 10 June 2026 Africa Centres for Disease Control and Prevention (Africa CDC) is a continental autonomous health agency of the African Union established to support public health initiatives of Member States and strengthen the capacity of their public health institutions to detect, prevent, control and respond quickly and effectively to disease threats. Africa CDC supports African Union Member States in providing coordinated and integrated solutions to the inadequacies in their public health infrastructure, human resource capacity, disease surveillance, laboratory diagnostics, and preparedness and response to health emergencies and disasters. The Africa CDC Headquarters in Addis Ababa, Ethiopia currently comprises of more than 200 staff members operating in a multicultural and multi-linguistic environment and seeks to provide professional and authentic top-notch continental wide catering services in-order to satisfy its staff, invited delegates and guests to meet multicultural and multi-diverse needs. The Africa CDC wishes to engage professional service providers for Provision of Catering Service within the Africa CDC premises. The Africa CDC is inviting eligible and qualified catering service providers in Africa to participate in this competitive bidding process and to submit their proposals for the management and operations of catering spaces situated within the Africa CDC’s premises in Addis Ababa, Ethiopia as follow; The objectives of the provision of c",
     "fit_per_area": {
@@ -671,7 +671,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-15T08:08:31.077502+00:00"
+    "fetched_at": "2026-07-16T08:12:29.771606+00:00"
   },
   {
     "id": "67da32267df9",
@@ -705,7 +705,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-15T08:08:31.076793+00:00"
+    "fetched_at": "2026-07-16T08:12:29.771001+00:00"
   },
   {
     "id": "36ec4ac40cd5",
@@ -714,7 +714,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00456458",
     "country": "CH",
     "deadline": "2026-07-27",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Chad MSME Development and Access To Finance Project. Country: Chad. Reference: TD-INSEED_PREP_MSME-538632-CS-INDV.",
     "fit_per_area": {
@@ -743,18 +743,18 @@
       "wb_project_id": "P182134",
       "wb_reference": "TD-INSEED_PREP_MSME-538632-CS-INDV"
     },
-    "fetched_at": "2026-07-15T08:08:31.093002+00:00"
+    "fetched_at": "2026-07-16T08:12:29.787124+00:00"
   },
   {
-    "id": "ad9aaf95f046",
+    "id": "28de1445a2d7",
     "source": "World Bank",
-    "title": "Sélection d'un consultant individuel pour l'étude visant à élaborer des propositions de révision de la structure institutionnelle des réformes du climat d'investissement",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00456468",
-    "country": "CH",
-    "deadline": "2026-07-27",
-    "deadline_days": 12,
+    "title": "Consultancy Services for the Preparation of the Castries Urban Stormwater Management Plan",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00456784",
+    "country": "ST",
+    "deadline": "2026-08-05",
+    "deadline_days": 20,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Chad MSME Development and Access To Finance Project. Country: Chad. Reference: TD-INSEED_PREP_MSME-538635-CS-INDV.",
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Saint Lucia Urban Resilient Flood Investment Project. Country: St. Lucia. Reference: SLU-SURFIN-STMWTR-QCBS-26.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -778,10 +778,10 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182134",
-      "wb_reference": "TD-INSEED_PREP_MSME-538635-CS-INDV"
+      "wb_project_id": "P504998",
+      "wb_reference": "SLU-SURFIN-STMWTR-QCBS-26"
     },
-    "fetched_at": "2026-07-15T08:08:31.093617+00:00"
+    "fetched_at": "2026-07-16T08:12:29.785782+00:00"
   },
   {
     "id": "7208b7bdcf72",
@@ -790,7 +790,7 @@
     "url": "https://www.ungm.org/Public/Notice/305358",
     "country": "MU",
     "deadline": "2026-07-24",
-    "deadline_days": 9,
+    "deadline_days": 8,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503929. Matched query: vaccine.",
     "fit_per_area": {
@@ -822,7 +822,7 @@
       "ungm_query": "vaccine",
       "published": "2026-06-26"
     },
-    "fetched_at": "2026-07-15T08:08:31.095285+00:00"
+    "fetched_at": "2026-07-16T08:12:29.787527+00:00"
   },
   {
     "id": "f3220e946ee9",
@@ -831,7 +831,7 @@
     "url": "https://www.ungm.org/Public/Notice/306094",
     "country": "SO",
     "deadline": "2026-07-26",
-    "deadline_days": 11,
+    "deadline_days": 10,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9204834. Matched query: immunisation.",
     "fit_per_area": {
@@ -863,18 +863,18 @@
       "ungm_query": "immunisation",
       "published": "2026-07-03"
     },
-    "fetched_at": "2026-07-15T08:08:31.097288+00:00"
+    "fetched_at": "2026-07-16T08:12:29.789453+00:00"
   },
   {
-    "id": "e30afa083a21",
+    "id": "1d0faca1a629",
     "source": "World Bank",
-    "title": "Recrutement d’un cabinet chargé du diagnostic du cadre opérationnel des tribunaux de commerce et d’évaluer la nécessité d’actualiser le cadre législatif et le code de procédure commerciale",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00456462",
-    "country": "CH",
-    "deadline": "2026-07-27",
+    "title": "Consulting Services for Municipality-Wide Infrastructure Needs Assessment, Feasibility Studies, Detailed Engineering Designs, And Preparation of Procurement Documents and Environmental and Social Instruments – Coast and Eastern Regions - Kenya",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454182",
+    "country": "KE",
+    "deadline": "2026-07-28",
     "deadline_days": 12,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Chad MSME Development and Access To Finance Project. Country: Chad. Reference: TD-INSEED_PREP_MSME-538618-CS-QCBS.",
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Second Kenya Urban Support Program. Country: Kenya. Reference: KE-MOTI-558659-CS-QCBS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -898,21 +898,21 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182134",
-      "wb_reference": "TD-INSEED_PREP_MSME-538618-CS-QCBS"
+      "wb_project_id": "P177048",
+      "wb_reference": "KE-MOTI-558659-CS-QCBS"
     },
-    "fetched_at": "2026-07-15T08:08:31.094475+00:00"
+    "fetched_at": "2026-07-16T08:12:29.785329+00:00"
   },
   {
-    "id": "d36963602ae0",
+    "id": "c6dedaf8a8d3",
     "source": "World Bank",
-    "title": "Recrutement d’un cabinet chargé de l’évaluation et de proposer une nouvelle architecture du processus d’enregistrement des entreprises et d’octroi de licences",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00456472",
-    "country": "CH",
-    "deadline": "2026-07-27",
+    "title": "Consulting Services for Municipality-Wide Infrastructure Needs Assessment, Feasibility Studies, Detailed Engineering Designs, And Preparation of Procurement Documents and Environmental and Social Instruments – Rift Valley Region - Kenya",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454191",
+    "country": "KE",
+    "deadline": "2026-07-28",
     "deadline_days": 12,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Chad MSME Development and Access To Finance Project. Country: Chad. Reference: TD-INSEED_PREP_MSME-538617-CS-QCBS.",
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Second Kenya Urban Support Program. Country: Kenya. Reference: KE-MOTI-558670-CS-QCBS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -936,10 +936,124 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182134",
-      "wb_reference": "TD-INSEED_PREP_MSME-538617-CS-QCBS"
+      "wb_project_id": "P177048",
+      "wb_reference": "KE-MOTI-558670-CS-QCBS"
     },
-    "fetched_at": "2026-07-15T08:08:31.094703+00:00"
+    "fetched_at": "2026-07-16T08:12:29.785885+00:00"
+  },
+  {
+    "id": "f607476f1e90",
+    "source": "World Bank",
+    "title": "Consulting Services for Municipality-Wide Infrastructure Needs Assessment, Feasibility Studies, Detailed Engineering Designs, And Preparation of Procurement Documents and Environmental and Social Instruments – Central Region – Kenya",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454184",
+    "country": "KE",
+    "deadline": "2026-07-28",
+    "deadline_days": 12,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Second Kenya Urban Support Program. Country: Kenya. Reference: KE-MOTI-558667-CS-QCBS.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P177048",
+      "wb_reference": "KE-MOTI-558667-CS-QCBS"
+    },
+    "fetched_at": "2026-07-16T08:12:29.786086+00:00"
+  },
+  {
+    "id": "69ac52089f9e",
+    "source": "World Bank",
+    "title": "Consulting Services for Municipality-Wide Infrastructure Needs Assessment, Feasibility Studies, Detailed Engineering Designs, And Preparation of Procurement Documents and Environmental and Social Instruments – Nyanza and Western Regions - Kenya",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454187",
+    "country": "KE",
+    "deadline": "2026-07-28",
+    "deadline_days": 12,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Second Kenya Urban Support Program. Country: Kenya. Reference: KE-MOTI-558675-CS-QCBS.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P177048",
+      "wb_reference": "KE-MOTI-558675-CS-QCBS"
+    },
+    "fetched_at": "2026-07-16T08:12:29.786545+00:00"
+  },
+  {
+    "id": "a93177d640d6",
+    "source": "World Bank",
+    "title": "Consulting Services for Municipality-Wide Infrastructure Needs Assessment, Feasibility Studies, Detailed Engineering Designs, And Preparation of Procurement Documents and Environmental and Social Instruments – North Eastern Region - Kenya",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454189",
+    "country": "KE",
+    "deadline": "2026-07-28",
+    "deadline_days": 12,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Second Kenya Urban Support Program. Country: Kenya. Reference: KE-MOTI-558665-CS-QCBS.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P177048",
+      "wb_reference": "KE-MOTI-558665-CS-QCBS"
+    },
+    "fetched_at": "2026-07-16T08:12:29.786630+00:00"
   },
   {
     "id": "1bd16f69a09c",
@@ -948,7 +1062,7 @@
     "url": "https://www.ungm.org/Public/Notice/306200",
     "country": "BA",
     "deadline": "2026-07-29",
-    "deadline_days": 14,
+    "deadline_days": 13,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9204842. Matched query: immunization.",
     "fit_per_area": {
@@ -980,7 +1094,7 @@
       "ungm_query": "immunization",
       "published": "2026-07-05"
     },
-    "fetched_at": "2026-07-15T08:08:31.096651+00:00"
+    "fetched_at": "2026-07-16T08:12:29.788817+00:00"
   },
   {
     "id": "1bf73a455eff",
@@ -989,7 +1103,7 @@
     "url": "https://www.ungm.org/Public/Notice/306403",
     "country": "BA",
     "deadline": "2026-08-02",
-    "deadline_days": 18,
+    "deadline_days": 17,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9204843. Matched query: immunization.",
     "fit_per_area": {
@@ -1021,7 +1135,7 @@
       "ungm_query": "immunization",
       "published": "2026-07-07"
     },
-    "fetched_at": "2026-07-15T08:08:31.096563+00:00"
+    "fetched_at": "2026-07-16T08:12:29.788746+00:00"
   },
   {
     "id": "97c78cbcc39a",
@@ -1030,7 +1144,7 @@
     "url": "https://www.ungm.org/Public/Notice/307289",
     "country": "MU",
     "deadline": "2026-08-04",
-    "deadline_days": 20,
+    "deadline_days": 19,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFPS-NYH-2026-503937. Matched query: immunization.",
     "fit_per_area": {
@@ -1062,7 +1176,7 @@
       "ungm_query": "immunization",
       "published": "2026-07-14"
     },
-    "fetched_at": "2026-07-15T08:08:31.096495+00:00"
+    "fetched_at": "2026-07-16T08:12:29.788682+00:00"
   },
   {
     "id": "e2493996ca93",
@@ -1071,7 +1185,7 @@
     "url": "https://www.ungm.org/Public/Notice/307346",
     "country": "PH",
     "deadline": "2026-08-05",
-    "deadline_days": 21,
+    "deadline_days": 20,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9205058. Matched query: vaccination.",
     "fit_per_area": {
@@ -1103,45 +1217,7 @@
       "ungm_query": "vaccination",
       "published": "2026-07-15"
     },
-    "fetched_at": "2026-07-15T08:08:31.095728+00:00"
-  },
-  {
-    "id": "08c8592f9a10",
-    "source": "World Bank",
-    "title": "eGovernment services: 1. Hukumati UI/UX 2. CMS Module 3. Notification Module 4. Appointment Reservation 5. Vaccination Records",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00456415",
-    "country": "WE",
-    "deadline": "2026-09-06",
-    "deadline_days": 53,
-    "value_usd": null,
-    "description": "Invitation for Bids. Request for Proposals. Project: Digital West Bank & Gaza Project. Country: West Bank and Gaza. Reference: GZ-MTIT-552849-GO-RFP.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Invitation for Bids",
-      "wb_project_id": "P174355",
-      "wb_reference": "GZ-MTIT-552849-GO-RFP"
-    },
-    "fetched_at": "2026-07-15T08:08:31.094589+00:00"
+    "fetched_at": "2026-07-16T08:12:29.787951+00:00"
   },
   {
     "id": "4db365511153",
@@ -1179,121 +1255,7 @@
       "published": "2026-04-20T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.099992+00:00"
-  },
-  {
-    "id": "a571e9d35662",
-    "source": "Signal:Biovac",
-    "title": "Biovac gets $108M backing for vaccine factory in South Africa - Endpoints News",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG8wd1JyZUlsaXFnRzhzc2tQWjB5V2w5NmhoZWw1YU9JM2p6OGNIU1dsRXEtOEM4LTJrR0l6bFFMVmZLQ3RFNHBiV1g4d2xqMm5XQjRiSlFBWXFDTEZWMTlDa3N6cWU1Wm1XSl9EdFphNmd1bVQ4Z2JlYVZSWFl0UllJUE5SME1McDZCSg?oc=5",
-    "country": "ZA",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac gets $108M backing for vaccine factory in South Africa &nbsp;&nbsp; Endpoints News",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-17T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-15T08:08:31.100133+00:00"
-  },
-  {
-    "id": "16a3c0a1659d",
-    "source": "Signal:Biovac",
-    "title": "EIB, EU and IFC back Biovac vaccine facility in South Africa - The Pharma Letter",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM01LVjh6Zk1CeWZIQkpnNkJlNjFMQVh3ZDZzWGd6RWo1OTdzWFpwZDlOcklqM0tpeHI5WUxGZmcxczR4RHN0NC1zbTVqeFRvemNUSDZMbURtclBaNTRIMlVncERLU1M3cWJTdFROWXVHWmJ0ZmswRHBEODh2a3V0ZF80aFVsZ2lBbTZ2Z3VtbWF6Q29WelFRd2g1VmZxRlJNMW8tSW1n?oc=5",
-    "country": "ZA",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "EIB, EU and IFC back Biovac vaccine facility in South Africa &nbsp;&nbsp; The Pharma Letter",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-17T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-15T08:08:31.100267+00:00"
-  },
-  {
-    "id": "955d8c8354c8",
-    "source": "Signal:Biovac",
-    "title": "New Private Capital Comes Rushing Into Africa Vaccine Ambition, With IFC Doubling Down On Biovac - pan african visions",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNHA0NVpsVklpUTZUWVlLNVBMalE0ZndUSDVRWDNXYWpwNmV1U3Yya2d3TGNXRXgyQXRWZm5zbGZlUjZBRF9SQ0g4UmxOVGRCSGk1aHNhQW9OTWtRZGVzSThyZkFWeFhMLUlRbVJSZjg2UWxrRks2Y0FKd05XUGkxUG5ReUw1c2xVOF92bFRfSXNKUS00ZmJHRlY2d3hWVkZzc2Vaa281Y09HUDZZV3VFa3BiODlKT01JZnBGdVNUNlV3Z0N6RXZuSUJhTm5pdmM?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "New Private Capital Comes Rushing Into Africa Vaccine Ambition, With IFC Doubling Down On Biovac &nbsp;&nbsp; pan african visions",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-05-12T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-15T08:08:31.100724+00:00"
+    "fetched_at": "2026-07-16T08:12:29.791917+00:00"
   },
   {
     "id": "4a5eee8825f9",
@@ -1331,83 +1293,7 @@
       "published": "2026-05-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.100908+00:00"
-  },
-  {
-    "id": "8bb764219eae",
-    "source": "Signal:Biovac",
-    "title": "Biovac wins EU, IFC money to build biggest Africa vaccine plant - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNk9uckE1MERGS2EtTi1QajU5Y1ZPWnJfX2ppYjdGS1VRa3l0eWtMV1ZpVFE1SVM1RnJMT1VVak9odzhjXzNnMF9tTVBxX1BxeERZRFhNUjA5OW1tZ0hSajN3U2wtcm5XQUpkWTAwcnZpNG5waDdNSlJfZ3loaUlJMGY5OEdyMXBUVWZpNFlGSXdPYXVZT0xfbWlMMUpOVkdYUEdIQnhieGpfYURQM2lGMzBKdUFuQ0RYc0Z1ak9za0FKS1NndnNyNkZ5aHhIS08xUk0ydw?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac wins EU, IFC money to build biggest Africa vaccine plant &nbsp;&nbsp; MSN",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-16T13:21:16+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-15T08:08:31.101230+00:00"
-  },
-  {
-    "id": "22c380ff4ae8",
-    "source": "Signal:Biovac",
-    "title": "Africa’s first end-to-end multi-vaccine plant to be built in SA - South African Government News Agency",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnViRi1TakFMX3JJdC1YaS1XSkhEZjVHYzNLQXhSQktKU3R6cEVNd1FERVozVEJKazY4ZG11bkQwZkxibHIyRWcyVllhcTBQMDJaWjNBM1NaVk10b0Q5djBjM2VKRXdad1puX2YtUkFmSXBtX25uX3JwWDlJNmNhX3BkdlJpY3dUQ3VYVUlqUGJGSXBXTHdN?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Africa’s first end-to-end multi-vaccine plant to be built in SA &nbsp;&nbsp; South African Government News Agency",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-17T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-15T08:08:31.101673+00:00"
+    "fetched_at": "2026-07-16T08:12:29.792108+00:00"
   },
   {
     "id": "798d84af1929",
@@ -1445,7 +1331,7 @@
       "published": "2026-05-13T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.102990+00:00"
+    "fetched_at": "2026-07-16T08:12:29.793320+00:00"
   },
   {
     "id": "6bcba987f5b4",
@@ -1483,7 +1369,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.103658+00:00"
+    "fetched_at": "2026-07-16T08:12:29.793916+00:00"
   },
   {
     "id": "ff56ac61df73",
@@ -1521,45 +1407,7 @@
       "published": "2026-05-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.103962+00:00"
-  },
-  {
-    "id": "ea1ed6a83094",
-    "source": "Signal:Biovac",
-    "title": "South African pharma giant wins R1.5 billion to build the biggest vaccine facility in Africa - Daily Investor",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdTFYMUxYMEpidXF2NUNXTXp3dGtaYmctbm9qaHZBZXBZV1p0QnJqSUVnZW5QWnNTTmF0a0VzRmhqX014bzBCVUphdHQ3d1FueVBRZnl3a0FScThQWkdBRXVVQzFlUkpHUENXYVRoTUlCdHpoV3VCQmtqYm5kdmY4Sy1DY1JyZDNCcS1HV1l0T2JDalRyT3ZDV25rTjlQYmxaZ1VOWXhVYjNBb1BneVJNcGQ0c0tobUtBbkstekFpaDhLRTY0cEV6anQxaFJlSldUMEE3X19R?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "South African pharma giant wins R1.5 billion to build the biggest vaccine facility in Africa &nbsp;&nbsp; Daily Investor",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-17T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-15T08:08:31.104782+00:00"
+    "fetched_at": "2026-07-16T08:12:29.794186+00:00"
   },
   {
     "id": "2a61f0e571fa",
@@ -1597,45 +1445,7 @@
       "published": "2026-05-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.105274+00:00"
-  },
-  {
-    "id": "9edcae8be231",
-    "source": "Signal:Biovac",
-    "title": "Cape Town Biovac secures R1.8 billion for vaccine plant - Cape Town ETC",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yS3hMZm9ZUXFfUGpLZDdkNzJJMG5CNmRnbUhIVmdFU1ZORGVyN0FrcU5lbzc2djVZZnloTjEwVjY3MDdtRmlrbWdWdUtIUzVxTEtpR2dZamJUZkNHbTBpOFhET0ROV2k1UG8tLS1mT2NtRFpBbFN2TzVsSlB6Q1k?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Cape Town Biovac secures R1.8 billion for vaccine plant &nbsp;&nbsp; Cape Town ETC",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-04-17T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-15T08:08:31.105603+00:00"
+    "fetched_at": "2026-07-16T08:12:29.794604+00:00"
   },
   {
     "id": "1c23e3bd4b83",
@@ -1673,7 +1483,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.107458+00:00"
+    "fetched_at": "2026-07-16T08:12:29.796514+00:00"
   },
   {
     "id": "de2351f4b117",
@@ -1711,83 +1521,7 @@
       "published": "2026-05-13T06:07:49+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.108080+00:00"
-  },
-  {
-    "id": "06c90dac4b9a",
-    "source": "Signal:Aspen Pharmacare",
-    "title": "Africa CDC and Stephen Saad's Aspen strike talks on a plan to end Africa's vaccine import dependency - Billionaires.Africa",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDAya3liUG1NNXZrWmx5NWRxbzY0VzdLb1I2cElwUU5ra0Z4LVpaQ2cyMmY1VXlVTlpqV3VkSll1R1JhSERiMTFsNWtwRGxEVC1SNjN4dEZmOUhFdjljYUtoMU5naG40UkprS19RWTBKRGdxeGNsQzJsV29WT3FmZHhYaWozdG1zU1VkOXluSkMzaWZVZWt4Y014VzdFOFlTVGVydUtyTW5BTFVyNlhJQm1FX1czTEhMT3ZnaEdrc1R1MHRQLVY0SkNGVkFCSUkwemszb0xyeWdlUQ?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Africa CDC and Stephen Saad's Aspen strike talks on a plan to end Africa's vaccine import dependency &nbsp;&nbsp; Billionaires.Africa",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Aspen Pharmacare",
-      "published": "2026-05-14T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-15T08:08:31.108971+00:00"
-  },
-  {
-    "id": "69e9cdbd541c",
-    "source": "Signal:Aspen Pharmacare",
-    "title": "Africa CDC and Aspen move to secure long-term African vaccine supply partnership - African News Agency",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2p6U0g4bDZva2RtYmZuY0huYVZhSmZ4Q1J6dVpqTTVOckw4THFDUzdDZk1XMEtqMUViMWUxY19Hb2VtSTVaMmhmWDZpaHpzYmlqT2U2d2RWdE82VkpyYlVaWTZmZ1lMSWZMYUpSSlBXZkk0MUx0OHoxbDdHeGM2b3l4MUJRRDdBemo4Ui1jMHdCWFk3bzdvSlJKVWZiajl0SjlraXB3NnY2SElnNHplbw?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Africa CDC and Aspen move to secure long-term African vaccine supply partnership &nbsp;&nbsp; African News Agency",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Aspen Pharmacare",
-      "published": "2026-05-12T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-15T08:08:31.110976+00:00"
+    "fetched_at": "2026-07-16T08:12:29.797051+00:00"
   },
   {
     "id": "113b46aadfe4",
@@ -1825,7 +1559,7 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.111388+00:00"
+    "fetched_at": "2026-07-16T08:12:29.799137+00:00"
   },
   {
     "id": "adf00a925a02",
@@ -1863,7 +1597,7 @@
       "published": "2026-04-20T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.111785+00:00"
+    "fetched_at": "2026-07-16T08:12:29.799478+00:00"
   },
   {
     "id": "7895d9459a90",
@@ -1901,6 +1635,6 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-15T08:08:31.112190+00:00"
+    "fetched_at": "2026-07-16T08:12:29.799840+00:00"
   }
 ]
