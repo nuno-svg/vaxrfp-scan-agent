@@ -31,7 +31,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-21T08:27:39.853164+00:00"
+    "fetched_at": "2026-07-22T08:27:38.833666+00:00"
   },
   {
     "id": "df909349c9a8",
@@ -69,45 +69,7 @@
       "published": "2026-05-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.884194+00:00"
-  },
-  {
-    "id": "983a714551c9",
-    "source": "Signal:Afrigen",
-    "title": "Afrigen secures SAHPRA GMP certification for Africa’s first end-to-end mRNA manufacturing facility - The National Law Review",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPak9KWWVNOWxfalhwRDM4YzNESmJSTTgtYklFQnptUnEydElvekR1LVltX3o0WlNSVThPMGt6WU5BcDFvWklZMkkwdVlrR09TTXM0dzhqUWxxMHdzSURRVW9SMnJnQ09pS2xqNUdjZ2pveGFFenEyQmZMTVVpOS1nZ3NFWTQwLUtHZGRIbDJuQk55T2E3c0tzSFFkbERvbVhhcmtSMTc3cmFmMGc?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Afrigen secures SAHPRA GMP certification for Africa’s first end-to-end mRNA manufacturing facility &nbsp;&nbsp; The National Law Review",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 10,
-      "regulatory": 5,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 10,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 1,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Afrigen",
-      "published": "2026-06-30T12:13:43+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-21T08:27:39.884693+00:00"
+    "fetched_at": "2026-07-22T08:27:38.859574+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -145,7 +107,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-07-21T08:27:39.889411+00:00"
+    "fetched_at": "2026-07-22T08:27:38.864375+00:00"
   },
   {
     "id": "958ed8b7e34f",
@@ -154,7 +116,7 @@
     "url": "https://www.ungm.org/Public/Notice/307225",
     "country": "CH",
     "deadline": "2026-08-06",
-    "deadline_days": 16,
+    "deadline_days": 15,
     "value_usd": null,
     "description": "Agency: UNOPS. Type: Invitation to bid. Reference: ITB/2026/63677. Matched query: cold chain.",
     "fit_per_area": {
@@ -186,7 +148,43 @@
       "ungm_query": "cold chain",
       "published": "2026-07-14"
     },
-    "fetched_at": "2026-07-21T08:27:39.878289+00:00"
+    "fetched_at": "2026-07-22T08:27:38.853282+00:00"
+  },
+  {
+    "id": "ce0b61cce7dd",
+    "source": "TED",
+    "title": "Germany – Pharmaceutical products – Abschluss nicht-exklusiver Rabattvereinbarung nach § 130a Abs. 8 SGB V zu patentgeschützten Wirkstoffen-VV90",
+    "url": "https://ted.europa.eu/en/notice/356112-2026",
+    "country": "DE",
+    "deadline": "2027-08-10",
+    "deadline_days": 384,
+    "value_usd": null,
+    "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nichtexklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.07.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter https://vergabeportal.gwq-serviceplus.de/arzneimittel einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.06.2026 kann eine erstmalige Meldung zum 01.07.2026 realisiert werden. Folgende Unterlagen sind einzureichen: Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.06.2026 kann eine erstmalige Meldung zum 01.07.2026 realisiert werden. Folgende Unterlagen sind einzureichen: unterzeichneter Vertrag in doppelter Ausfertigung oder mit qualifizierter elektrinischer Signatur (QES); einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 4
+    },
+    "fit_total": 4,
+    "fit_top_area": "mel",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "356112-2026"
+    },
+    "fetched_at": "2026-07-22T08:27:38.842610+00:00"
   },
   {
     "id": "27ac670bbb00",
@@ -224,7 +222,7 @@
       "published": "2026-05-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.880551+00:00"
+    "fetched_at": "2026-07-22T08:27:38.855890+00:00"
   },
   {
     "id": "b137cf8c9e61",
@@ -262,7 +260,7 @@
       "published": "2026-05-26T12:11:27+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.880709+00:00"
+    "fetched_at": "2026-07-22T08:27:38.856048+00:00"
   },
   {
     "id": "8f00423363c8",
@@ -300,7 +298,7 @@
       "published": "2026-05-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.881487+00:00"
+    "fetched_at": "2026-07-22T08:27:38.856836+00:00"
   },
   {
     "id": "95ddc1cb255e",
@@ -338,7 +336,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.881865+00:00"
+    "fetched_at": "2026-07-22T08:27:38.857220+00:00"
   },
   {
     "id": "428be1b62fdb",
@@ -376,7 +374,7 @@
       "published": "2026-05-12T09:47:25+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.882569+00:00"
+    "fetched_at": "2026-07-22T08:27:38.857922+00:00"
   },
   {
     "id": "3c511eba2bf5",
@@ -414,7 +412,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.883624+00:00"
+    "fetched_at": "2026-07-22T08:27:38.858984+00:00"
   },
   {
     "id": "79f77cfe6238",
@@ -452,41 +450,7 @@
       "published": "2026-06-15T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.884854+00:00"
-  },
-  {
-    "id": "881ddbc70465",
-    "source": "Africa CDC",
-    "title": "Membership of the Africa CDC Continental Immunization Advisory Council",
-    "url": "https://africacdc.org/opportunity/call-for-expressions-of-interest-membership-of-the-africa-cdc-continental-immunization-advisory-council/",
-    "country": null,
-    "deadline": "2026-07-21",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "Africa CDC invites expressions of interest from distinguished African leaders, experts, and advocates to serve as members of the Continental Immunization Advisory Council (CIAC). The CIAC is a high-level strategic advisory and action-oriented platform established to accelerate the delivery of the Africa CDC Continental Immunization Strategy 2026–2030 (CIS) and broader Continental Immunization priority issues in Africa. The CIS Strategy positions immunization as a foundational pillar of resilient, epidemic-ready primary health care, health security, equity, and sustainable development across Africa. CIAC members will serve as senior strategic advisors, advocates, and accelerators for the implementation of the Continental Immunization Strategy. Members will be expected to bring independent judgment, leadership experience, technical insight, political influence, financing expertise, community perspectives, or institutional networks that can help drive momentum in advancing immunization in Africa. Members will provide high-level strategic advice to Africa CDC on opportunities, risks, and bottlenecks affecting immunization systems; champion immunization as a priority for primary health care, health security, equity, and human capital; and support advocacy for sustainable domestic financing, partner alignment, and accountability. They may also be invited to contribute to targeted working groups, policy dialogues, problem solving, advocacy engagements, or follow-up actions linked to",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 3,
-      "mel": 0
-    },
-    "fit_total": 3,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {},
-    "fetched_at": "2026-07-21T08:27:39.862230+00:00"
+    "fetched_at": "2026-07-22T08:27:38.859736+00:00"
   },
   {
     "id": "6ae5c26a97d8",
@@ -495,7 +459,7 @@
     "url": "https://africacdc.org/opportunity/conduct-annual-calibration-and-maintenance-of-biological-safety-cabinets-bscs-negative-pressure-system-and-other-lab-equipment-at-the-africa-cdc-reference-laboratory/",
     "country": "_AU",
     "deadline": "2026-07-22",
-    "deadline_days": 1,
+    "deadline_days": 0,
     "value_usd": null,
     "description": "Africa Centres for Disease Control and Prevention (Africa CDC) Supply Chain Division Administration Directorate Lafto Square, Haile Garment Africa CDC Office, NKOSAZANA DLAMINI – ZUMA TOWER 4th Floor, Room No. 408 Addis Ababa, Ethiopia For clarification and requesting bidding / solicitation documents: E-mail: procurement@africacdc.org (Please submit your request for the bidding document and clarification to both emails) ​Africa CDC strengthens the capacity and capability of Africa’s public health institutions as well as partnerships to detect and respond quickly and effectively to disease threats and outbreaks, based on data-driven interventions and programmes. Tel: +251 11 551 77 00 | communications@africacdc.org Visit Africa CDC on the African Union website . © All rights reserved Africa CDC",
     "fit_per_area": {
@@ -520,7 +484,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-21T08:27:39.855888+00:00"
+    "fetched_at": "2026-07-22T08:27:38.836358+00:00"
   },
   {
     "id": "21965644006a",
@@ -529,7 +493,7 @@
     "url": "https://africacdc.org/opportunity/provision-of-catering-services-within-the-africa-cdc-hq-compound/",
     "country": "_AU",
     "deadline": "2026-07-24",
-    "deadline_days": 3,
+    "deadline_days": 2,
     "value_usd": null,
     "description": "Date of Publication : 10 June 2026 Africa Centres for Disease Control and Prevention (Africa CDC) is a continental autonomous health agency of the African Union established to support public health initiatives of Member States and strengthen the capacity of their public health institutions to detect, prevent, control and respond quickly and effectively to disease threats. Africa CDC supports African Union Member States in providing coordinated and integrated solutions to the inadequacies in their public health infrastructure, human resource capacity, disease surveillance, laboratory diagnostics, and preparedness and response to health emergencies and disasters. The Africa CDC Headquarters in Addis Ababa, Ethiopia currently comprises of more than 200 staff members operating in a multicultural and multi-linguistic environment and seeks to provide professional and authentic top-notch continental wide catering services in-order to satisfy its staff, invited delegates and guests to meet multicultural and multi-diverse needs. The Africa CDC wishes to engage professional service providers for Provision of Catering Service within the Africa CDC premises. The Africa CDC is inviting eligible and qualified catering service providers in Africa to participate in this competitive bidding process and to submit their proposals for the management and operations of catering spaces situated within the Africa CDC’s premises in Addis Ababa, Ethiopia as follow; The objectives of the provision of c",
     "fit_per_area": {
@@ -554,7 +518,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-21T08:27:39.855136+00:00"
+    "fetched_at": "2026-07-22T08:27:38.835635+00:00"
   },
   {
     "id": "67da32267df9",
@@ -588,45 +552,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-21T08:27:39.854424+00:00"
-  },
-  {
-    "id": "4fc39cdd3af6",
-    "source": "World Bank",
-    "title": "Assisting Invest Moldova Agency (MIA) in selecting and preparing Moldovan SMEs for B2B Export Missions",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00457346",
-    "country": "MO",
-    "deadline": "2026-07-27",
-    "deadline_days": 6,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: MSME Competitiveness Project. Country: Moldova. Reference: MD-CEP-560558-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P177895",
-      "wb_reference": "MD-CEP-560558-CS-CQS"
-    },
-    "fetched_at": "2026-07-21T08:27:39.874981+00:00"
+    "fetched_at": "2026-07-22T08:27:38.834895+00:00"
   },
   {
     "id": "c98ed94a15db",
@@ -635,7 +561,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00456496",
     "country": "TA",
     "deadline": "2026-08-04",
-    "deadline_days": 14,
+    "deadline_days": 13,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: DAR ES SALAAM METROPOLITAN DEVELOPMENT PROJECT PHASE 2. Country: Tanzania. Reference: TZ-PO-RALG-557254-CS-QCBS.",
     "fit_per_area": {
@@ -664,18 +590,18 @@
       "wb_project_id": "P180298",
       "wb_reference": "TZ-PO-RALG-557254-CS-QCBS"
     },
-    "fetched_at": "2026-07-21T08:27:39.874037+00:00"
+    "fetched_at": "2026-07-22T08:27:38.850148+00:00"
   },
   {
-    "id": "cb5dafa5da94",
+    "id": "40b780804a04",
     "source": "TED",
-    "title": "Norway – Procurement consultancy services – Framework agreement for procurement assistance",
-    "url": "https://ted.europa.eu/en/notice/351305-2026",
-    "country": "NO",
-    "deadline": "2026-08-07",
-    "deadline_days": 17,
+    "title": "Spain – Telecommunication consultancy services – Sistema dinámico de compra para la transformación digital, la innovación y la dinamización del I+D+i del ecosistema navarro",
+    "url": "https://ted.europa.eu/en/notice/355789-2026",
+    "country": "ES",
+    "deadline": null,
+    "deadline_days": null,
     "value_usd": null,
-    "description": "STATENS PENSJONSKASSE. The aim of the procurement is to enter into a framework agreement with one - 1 - tenderer who has the procurement capacity and competence that is relevant for SPK's procurement profile. The contract shall primarily ensure SPK effective access to assistance with the execution of procurements. In addition the contract shall ensure SPK access to legal assistance within public procurements as needed. In periods there can be more general procurement assistance connected to related services. For example, in periods with a need for specific procurement related competence. The contract includes the following service areas: Operative procurement assistance, Legal assistance, other procurement related services, Total financial scope for the entire framework agreement period of four years, is estimated to be between NOK 3 million and NOK 6 million. Excluding VAT. The framework agreement ́s upper framework is NOK 6 million. Excluding VAT. See the requirement specifications, see the tender documentation part B Annex 1 for further information on the contract's extent and content",
+    "description": "Navarra de Servicios y tecnologías, S.A. (NASERTIC). Microsoft 365 se considera una suite de aplicaciones de productividad, eje fundamental en la transformación digital y creación de cultura de trabajo colaborativo e información organizativa en las entidades que lo adoptan. Se incluyen en esta categoría los servicios de implantación, evolución, formación, consultoría, parametrización, documentación, metodologías y procedimientos, diseño y soporte, relativos a la utilización en las Administraciones Públicas de la suite Microsoft 365 y de todos sus componentes y aplicaciones. Asimismo, se incluyen los servicios necesarios para garantizar el cumplimiento de los requisitos normativos, de protección de datos y de seguridad de la información aplicables a la plataforma y a la gestión de la información (incluyendo, cuando proceda, ENS y RGPD), abarcando la definición y aplicación de políticas de gobierno, clasificación y protección de la información (por ejemplo, etiquetado de sensibilidad, prevención de pérdida de datos y conservación/retención), así como las actuaciones de verificación y auditoría que resulten necesarias en el ámbito del servicio. Se incorporan específicamente servicios de seguridad avanzados que abarcan la gestión de identidades, migraciones críticas y la garantía de cumplimiento normativo en el entorno corporativo, así como la realización de configuraciones, despliegues, integraciones, auditorías, migraciones y fusiones de Tenants. Aunque el alcance incluye cualq",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -698,9 +624,9 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "351305-2026"
+      "ted_publication_number": "355789-2026"
     },
-    "fetched_at": "2026-07-21T08:27:39.864375+00:00"
+    "fetched_at": "2026-07-22T08:27:38.841743+00:00"
   },
   {
     "id": "7208b7bdcf72",
@@ -709,7 +635,7 @@
     "url": "https://www.ungm.org/Public/Notice/305358",
     "country": "MU",
     "deadline": "2026-07-24",
-    "deadline_days": 3,
+    "deadline_days": 2,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503929. Matched query: vaccine.",
     "fit_per_area": {
@@ -741,7 +667,7 @@
       "ungm_query": "vaccine",
       "published": "2026-06-26"
     },
-    "fetched_at": "2026-07-21T08:27:39.875498+00:00"
+    "fetched_at": "2026-07-22T08:27:38.850414+00:00"
   },
   {
     "id": "f3220e946ee9",
@@ -750,7 +676,7 @@
     "url": "https://www.ungm.org/Public/Notice/306094",
     "country": "SO",
     "deadline": "2026-07-26",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9204834. Matched query: immunisation.",
     "fit_per_area": {
@@ -782,7 +708,7 @@
       "ungm_query": "immunisation",
       "published": "2026-07-03"
     },
-    "fetched_at": "2026-07-21T08:27:39.877500+00:00"
+    "fetched_at": "2026-07-22T08:27:38.852451+00:00"
   },
   {
     "id": "1bd16f69a09c",
@@ -791,7 +717,7 @@
     "url": "https://www.ungm.org/Public/Notice/306200",
     "country": "BA",
     "deadline": "2026-07-29",
-    "deadline_days": 8,
+    "deadline_days": 7,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9204842. Matched query: immunization.",
     "fit_per_area": {
@@ -808,7 +734,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": false,
+      "urgent_deadline": true,
       "expired": false
     },
     "flag_notes": {
@@ -823,7 +749,7 @@
       "ungm_query": "immunization",
       "published": "2026-07-05"
     },
-    "fetched_at": "2026-07-21T08:27:39.876871+00:00"
+    "fetched_at": "2026-07-22T08:27:38.851809+00:00"
   },
   {
     "id": "1bf73a455eff",
@@ -832,7 +758,7 @@
     "url": "https://www.ungm.org/Public/Notice/306403",
     "country": "BA",
     "deadline": "2026-08-02",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9204843. Matched query: immunization.",
     "fit_per_area": {
@@ -864,7 +790,43 @@
       "ungm_query": "immunization",
       "published": "2026-07-07"
     },
-    "fetched_at": "2026-07-21T08:27:39.876800+00:00"
+    "fetched_at": "2026-07-22T08:27:38.851736+00:00"
+  },
+  {
+    "id": "1f599f9ef4a3",
+    "source": "TED",
+    "title": "Netherlands – Company health services – Europees Openbare Aanbesteding - Arbodienstverlening",
+    "url": "https://ted.europa.eu/en/notice/357968-2026",
+    "country": "NL",
+    "deadline": "2026-08-03",
+    "deadline_days": 12,
+    "value_usd": null,
+    "description": "WIJ Groningen. Stichting WIJ Groningen (hierna: WIJ Groningen) heeft het voornemen één opdrachtnemer te contracteren voor de uitvoering van arbodienstverlening. De opdracht heeft tot doel WIJ Groningen te ondersteunen bij de uitvoering en verdere doorontwikkeling van haar preventie‑, inzetbaarheids‑ en verzuimbeleid, passend bij het eigen‑regiemodel en de gedragsmatige visie op inzetbaarheid en verzuim, en bij de ontwikkelfase waarin de organisatie zich bevindt. Deze opdracht betreft een raamovereenkomst met een geraamde waarde van € 836.000. De maximale waarde bedraagt €936.000,- exclusief BTW. Er kunnen geen rechten ontleend worden aan deze raming",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "357968-2026"
+    },
+    "fetched_at": "2026-07-22T08:27:38.847914+00:00"
   },
   {
     "id": "97c78cbcc39a",
@@ -873,7 +835,7 @@
     "url": "https://www.ungm.org/Public/Notice/307289",
     "country": "MU",
     "deadline": "2026-08-04",
-    "deadline_days": 14,
+    "deadline_days": 13,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFPS-NYH-2026-503937. Matched query: immunization.",
     "fit_per_area": {
@@ -905,7 +867,7 @@
       "ungm_query": "immunization",
       "published": "2026-07-14"
     },
-    "fetched_at": "2026-07-21T08:27:39.876734+00:00"
+    "fetched_at": "2026-07-22T08:27:38.851668+00:00"
   },
   {
     "id": "e2493996ca93",
@@ -914,7 +876,7 @@
     "url": "https://www.ungm.org/Public/Notice/307346",
     "country": "PH",
     "deadline": "2026-08-05",
-    "deadline_days": 15,
+    "deadline_days": 14,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9205058. Matched query: vaccination.",
     "fit_per_area": {
@@ -946,7 +908,7 @@
       "ungm_query": "vaccination",
       "published": "2026-07-15"
     },
-    "fetched_at": "2026-07-21T08:27:39.875993+00:00"
+    "fetched_at": "2026-07-22T08:27:38.850976+00:00"
   },
   {
     "id": "39e924266bbe",
@@ -955,7 +917,7 @@
     "url": "https://www.ungm.org/Public/Notice/307717",
     "country": "PH",
     "deadline": "2026-08-07",
-    "deadline_days": 17,
+    "deadline_days": 16,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9205106. Matched query: vaccination.",
     "fit_per_area": {
@@ -987,18 +949,18 @@
       "ungm_query": "vaccination",
       "published": "2026-07-17"
     },
-    "fetched_at": "2026-07-21T08:27:39.875943+00:00"
+    "fetched_at": "2026-07-22T08:27:38.850925+00:00"
   },
   {
-    "id": "a41ea9f1e21d",
-    "source": "TED",
-    "title": "Germany – Miscellaneous health services – Open House \"Atemwegsversorgung\"",
-    "url": "https://ted.europa.eu/en/notice/350339-2026",
-    "country": "DE",
-    "deadline": "2028-05-29",
-    "deadline_days": 678,
+    "id": "3ed387e739f6",
+    "source": "UNGM (ICC)",
+    "title": "Vaccinations Services",
+    "url": "https://www.ungm.org/Public/Notice/308042",
+    "country": "NE",
+    "deadline": "2026-08-28",
+    "deadline_days": 37,
     "value_usd": null,
-    "description": "GWQ ServicePlus AG. Gegenstand dieser Veröffentlichung ist der Abschluss von Verträgen nach § 140a SGB V über die Versorgung von Versicherten mit Asthma Bronchiale, chronisch obstruktiver Lungenerkrankung (COPD) oder bösartiger Neubildung der Bronchien und/oder der Lunge mittels einer App im Rahmen eines sogenannten Open-House Verfahrens. Unter Vorgabe einheitlicher Vertragskonditionen sowie eines einheitlichen Zugangsverfahrens wird allen geeigneten und interessierten Anbietern jederzeit der Abschluss dieses Vertrag angeboten. Individuelle Vertragsverhandlungen werden nicht geführt, einzelnen Vertragspartnern wird keine Exklusivität zugesichert. Ein Vertragsabschluss erfolgt mit allen Anbietern, die die Voraussetzungen zum Vertrag erfüllen und dies durch ihre Unterschrift auf den auszufüllenden Erklärungen bzw. dem Vertrag bestätigt haben",
+    "description": "Agency: ICC. Type: Request for EOI. Reference: EOI 134790. Matched query: vaccination.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1021,20 +983,97 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "350339-2026"
+      "ungm_id": "308042",
+      "ungm_agency": "ICC",
+      "ungm_notice_type": "Request for EOI",
+      "ungm_reference": "EOI 134790",
+      "ungm_query": "vaccination",
+      "published": "2026-07-21"
     },
-    "fetched_at": "2026-07-21T08:27:39.862589+00:00"
+    "fetched_at": "2026-07-22T08:27:38.850859+00:00"
   },
   {
-    "id": "117723f1b588",
+    "id": "73ab57c84dcc",
     "source": "TED",
-    "title": "Norway – Public relations services – Boards",
-    "url": "https://ted.europa.eu/en/notice/350697-2026",
-    "country": "NO",
+    "title": "Netherlands – Company health services – Arbodienstverlening",
+    "url": "https://ted.europa.eu/en/notice/357958-2026",
+    "country": "NL",
+    "deadline": "2026-09-08",
+    "deadline_days": 48,
+    "value_usd": null,
+    "description": "Gemeente Zaanstad. Wij zijn op zoek naar een duurzame en professionele samenwerking met een arbodienstverlener die als betrokken partner bijdraagt aan gezonde, vitale en duurzaam inzetbare medewerkers. De opdracht beoogt de continuïteit van arbodienstverlening te waarborgen, waarbij de opdrachtnemer aantoonbaar aansluit bij het binnen de gemeente gehanteerde ‘eigen-regiemodel’ voor verzuimaanpak. Het grootste gedeelte van de gevraagde arbodienstverlening wordt bepaald door Gemeente Zaanstad in het kader van haar eigen beleid en de in de Wet verbetering Poortwachter geformuleerde dienstverlening ten aanzien van de aanpak en begeleiding van ziekteverzuim en re-integratie. Binnen deze kaders is gemeente Zaanstad op zoek naar een integrale arbodienstverlening die gericht is op zowel preventie als begeleiding bij (dreigend) en bestaand verzuim.Zie aanbestedingsdocumenten. De geraamde opdrachtwaarde is circa €650.000,- excl. BTW per jaar. Deze raming is gebaseerd op de gegevens van de afgelopen jaren en de verwachte groei van de organisatie. Met deze raming(en) willen wij een zo goed mogelijk beeld geven van de omvang van de opdracht. Het betreft slechts een inschatting, u kunt hier geen rechten aan ontlenen. Het is voor de gemeente niet op voorhand vast te stellen wat het daadwerkelijke verzuim zal zijn in de komende jaren. Deze gegevens zullen pas later bekend worden en zullen mogelijk leiden tot bijstelling van de hoeveelheden, afhankelijk van het beschikbaar budget. Zie aanbest",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "357958-2026"
+    },
+    "fetched_at": "2026-07-22T08:27:38.847737+00:00"
+  },
+  {
+    "id": "238006139a27",
+    "source": "TED",
+    "title": "Germany – Pharmaceutical products – Offene Rahmenvereinbarung über Arzneimittelrabatte gemäß § 130a Abs.8 SGB V mit jederzeitiger Beitrittsmöglichkeit, sog. Zulassungsmodell 2025-10",
+    "url": "https://ted.europa.eu/en/notice/354844-2026",
+    "country": "DE",
+    "deadline": "2027-10-05",
+    "deadline_days": 440,
+    "value_usd": null,
+    "description": "Deutsche Rentenversicherung Knappschaft-Bahn-See. Die vorliegende Bekanntmachung dient dem Abschluss von Vereinbarungen zu dem Wirkstoff „Abirateron - 500 mg - 90 Stück, Darreichungsform: FTA (ATC-Code: L02BX03)“ mit pharmazeutischen Unternehmen im Sinne von § 130a Abs. 8 Satz 1 Sozialgesetzbuch, fünftes Buch (SGB V) (Rabattverträge). Gemäß § 130a Abs. 8 Satz 1 SGB V ist die Aufforderung zur Teilnahme nur an pharmazeutische Unternehmer oder Arbeitnehmergemeinschaften pharmazeutischer Unternehmer im Sinne des § 4 Abs. 18 Arzneimittelgesetz (AMG) gerichtet. Es handelt sich nicht um ein Offenes Verfahren, sondern um eine Veröffentlichung der Aufforderung zum Abschluss/Beitritt von/zu Rabattverträgen mit für alle Teilnehmer festgelegten und nicht verhandelbaren Konditionen einschließlich der Höhe des Rabattes. Die entsprechenden Angaben unter dem Punkt 2.1 \"Verfahrensart\" sowie unter dem Punkt 5.1.12 \"Bedingung für die Auftragsvergabe_hier: Frist, bis zu der das Angebot gültig sein muss\" sind nur der Systematik dieses Vordruckes geschuldet. Vertragspartner können unbegrenzt viele pharmazeutische Unternehmer oder Arbeitnehmergemeinschaften pharmazeutischer Unternehmer im Sinne des § 4 Abs. 18 Arzneimittelgesetz (AMG) werden. Der Vertragsabschluss oder ein Beitritt erfolgt, indem die geforderten ausgefüllten Eigenerklärungen bzw. Nachweise sowie den Vertrag bzw. die Verträge entweder: a) Handschriftlich unterschrieben (Schriftform nach § 126 BGB) per Post oder b) Mit einer qualifiz",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "354844-2026"
+    },
+    "fetched_at": "2026-07-22T08:27:38.839440+00:00"
+  },
+  {
+    "id": "5b293b87fbb6",
+    "source": "Signal:Biovac",
+    "title": "Biovac vaccine project expected to create jobs in SA - SABC News",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1d5NXhCclhXMUozYUtOWENia0E2OXZEeUpYQlZscFJIcE1OWjRtaktjYVVqSFlpMHhFZFF5cDN5SnRxRG9nSTU3emdfMW9YdjQyUFpTeFU2VktTYTdkeFoyU0N3cXFOZUtQTXFHV2szVTJ3TmdEYm8xVzZfYW1ZYUxwZExpdkk1eXBQaA?oc=5",
+    "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Bane NOR SF. The agreement includes assistance in concept and idea development, message design in text, communication consulting, visual communication and production of communication suitable for different channels, surfaces and formats, as well as the preparation of reports as needed. The contract includes deliveries of i.a. film and video, photos, animation and 3D modelling for use in communication purposes or various forms of information materials such as brochures, publications, presentations and equivalent deliveries",
+    "description": "Biovac vaccine project expected to create jobs in SA &nbsp;&nbsp; SABC News",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1057,9 +1096,11 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "350697-2026"
+      "manufacturer": "Biovac",
+      "published": "2026-07-21T10:32:44+00:00",
+      "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.863275+00:00"
+    "fetched_at": "2026-07-22T08:27:38.855083+00:00"
   },
   {
     "id": "955d8c8354c8",
@@ -1097,7 +1138,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.880203+00:00"
+    "fetched_at": "2026-07-22T08:27:38.855551+00:00"
   },
   {
     "id": "4a5eee8825f9",
@@ -1135,7 +1176,7 @@
       "published": "2026-05-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.880406+00:00"
+    "fetched_at": "2026-07-22T08:27:38.855742+00:00"
   },
   {
     "id": "6bcba987f5b4",
@@ -1173,7 +1214,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.881040+00:00"
+    "fetched_at": "2026-07-22T08:27:38.856688+00:00"
   },
   {
     "id": "798d84af1929",
@@ -1211,7 +1252,7 @@
       "published": "2026-05-13T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.882216+00:00"
+    "fetched_at": "2026-07-22T08:27:38.857582+00:00"
   },
   {
     "id": "ff56ac61df73",
@@ -1249,7 +1290,7 @@
       "published": "2026-05-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.882881+00:00"
+    "fetched_at": "2026-07-22T08:27:38.858235+00:00"
   },
   {
     "id": "2a61f0e571fa",
@@ -1287,45 +1328,7 @@
       "published": "2026-05-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.883240+00:00"
-  },
-  {
-    "id": "61d57525b67a",
-    "source": "Signal:Aspen Pharmacare",
-    "title": "Africa CDC and Top Local Drugmaker Aspen in Vaccine Supply Talks - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeUdzWmZlYTVwYXJZQ2VTeXVieDlwSi1lenFMOTh0YTJDVDJFeGVQbVc0NVBEQlJJTHBMZTJqQkc4cHU2emVIbnA4cmw3SmRJWGtVaWI1dFYyc1VraVUyYkxac1VWZUdzRmhJdlRfOWoyMTNLSDRIOWdzdUhCQW05ajlETVhhb0hjTkhHbmhhQXRra1J5SWszNy01UEV0Vmhzem5iUkxBQ0p5ZWRvZG5zUUt5THlBUQ?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Africa CDC and Top Local Drugmaker Aspen in Vaccine Supply Talks &nbsp;&nbsp; Bloomberg.com",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Aspen Pharmacare",
-      "published": "2026-05-12T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-07-21T08:27:39.885207+00:00"
+    "fetched_at": "2026-07-22T08:27:38.858608+00:00"
   },
   {
     "id": "830eb18bb48c",
@@ -1363,7 +1366,45 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.885868+00:00"
+    "fetched_at": "2026-07-22T08:27:38.860500+00:00"
+  },
+  {
+    "id": "61d57525b67a",
+    "source": "Signal:Aspen Pharmacare",
+    "title": "Africa CDC and Top Local Drugmaker Aspen in Vaccine Supply Talks - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeUdzWmZlYTVwYXJZQ2VTeXVieDlwSi1lenFMOTh0YTJDVDJFeGVQbVc0NVBEQlJJTHBMZTJqQkc4cHU2emVIbnA4cmw3SmRJWGtVaWI1dFYyc1VraVUyYkxac1VWZUdzRmhJdlRfOWoyMTNLSDRIOWdzdUhCQW05ajlETVhhb0hjTkhHbmhhQXRra1J5SWszNy01UEV0Vmhzem5iUkxBQ0p5ZWRvZG5zUUt5THlBUQ?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Africa CDC and Top Local Drugmaker Aspen in Vaccine Supply Talks &nbsp;&nbsp; Bloomberg.com",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Aspen Pharmacare",
+      "published": "2026-05-12T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-07-22T08:27:38.860850+00:00"
   },
   {
     "id": "de2351f4b117",
@@ -1401,7 +1442,7 @@
       "published": "2026-05-13T06:07:49+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.886307+00:00"
+    "fetched_at": "2026-07-22T08:27:38.861182+00:00"
   },
   {
     "id": "113b46aadfe4",
@@ -1439,18 +1480,18 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.888286+00:00"
+    "fetched_at": "2026-07-22T08:27:38.863190+00:00"
   },
   {
-    "id": "964138115442",
+    "id": "7895d9459a90",
     "source": "Signal:Institut Pasteur Dakar",
-    "title": "Chikungunya Vaccine Development in Africa Accelerated by ACT-CHIK - genengnews.com",
+    "title": "Chikungunya Vaccine Development in Africa Accelerated by ACT-CHIK - Genetic Engineering and Biotechnology News",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1lPZTh0YjQ5S1pGVFpXZmZrVmNTRW15ejM1Q24ta1VUUWRGZ0VWeHhOWlI2SVRkRlhJc1l4Q25fb0dlQ1RaSm9ESU5MNFR3aXgzYk05TEpzSFBYa081VUFGWGpDbWJXMVRtYXFja1ZTaGRjYkM3dEJJZTJ3U3VndndzNFhaZEhMWmxlVl9oYVgtdUZjdHJob1o2ZHdiak5hTzZNMTVITktNNE45RGg5eVNWYkt5VDMwanB1QQ?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Chikungunya Vaccine Development in Africa Accelerated by ACT-CHIK &nbsp;&nbsp; genengnews.com",
+    "description": "Chikungunya Vaccine Development in Africa Accelerated by ACT-CHIK &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1477,7 +1518,7 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-21T08:27:39.888640+00:00"
+    "fetched_at": "2026-07-22T08:27:38.863615+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -1515,6 +1556,6 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-07-21T08:27:39.888968+00:00"
+    "fetched_at": "2026-07-22T08:27:38.863947+00:00"
   }
 ]
