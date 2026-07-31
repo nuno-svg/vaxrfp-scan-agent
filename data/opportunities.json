@@ -1,5 +1,43 @@
 [
   {
+    "id": "f123ac12cb14",
+    "source": "World Bank",
+    "title": "Monitoring and Evaluation (M&E) Specialist",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00459477",
+    "country": "PH",
+    "deadline": "2026-08-04",
+    "deadline_days": 4,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Disaster Preparedness through Science, Technology and Innovation Project. Country: Philippines. Reference: PH-DOST-537856-CS-INDV.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 10
+    },
+    "fit_total": 10,
+    "fit_top_area": "mel",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P181911",
+      "wb_reference": "PH-DOST-537856-CS-INDV"
+    },
+    "fetched_at": "2026-07-31T08:48:57.021571+00:00"
+  },
+  {
     "id": "a7d2f9016e1b",
     "source": "Africa CDC",
     "title": "Consultancy for the Development of an Emergency Response Plan (ERP) for Africa CDC (Individual Consultant)",
@@ -31,7 +69,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-30T08:25:12.791427+00:00"
+    "fetched_at": "2026-07-31T08:48:57.006696+00:00"
   },
   {
     "id": "df909349c9a8",
@@ -69,18 +107,18 @@
       "published": "2026-05-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.818423+00:00"
+    "fetched_at": "2026-07-31T08:48:57.034735+00:00"
   },
   {
-    "id": "6cf6b3992da2",
+    "id": "39beedc38373",
     "source": "Signal:Afrigen",
-    "title": "Afrigen secures SAHPRA GMP certification for Africa’s first end-to-end mRNA manufacturing facility - EIN Presswire",
+    "title": "Afrigen secures SAHPRA GMP certification for Africa’s first end-to-end mRNA manufacturing facility - einpresswire.com",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbDhWbnhBcnFzVFM5ZzNta0pzcjBvQ1JPWjZzOHlTbmZLaUNMdGh3ZGtncnRqMXliSXQzU0ppMjBPRGV2c2ZaWDFjYVpSUmE3NlhZX1BEWVk0MDdsN0Rua2FBR2lJc2VHbjVNSERUOUZQNHVfdUVsMGFPWXNtRGY3eUl1Sko2WFprSGVCZ1hKMXZPZERKaXpobERrLWEtdHMybnBEdDY0cGE2aEhQNG03YjNySi10aWlfYUtLWnlxSUZPTWJsNjlVN19RZFpmeTNGMTV1andpMXROVHNQd1E?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Afrigen secures SAHPRA GMP certification for Africa’s first end-to-end mRNA manufacturing facility &nbsp;&nbsp; EIN Presswire",
+    "description": "Afrigen secures SAHPRA GMP certification for Africa’s first end-to-end mRNA manufacturing facility &nbsp;&nbsp; einpresswire.com",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 10,
@@ -107,7 +145,7 @@
       "published": "2026-06-30T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.818890+00:00"
+    "fetched_at": "2026-07-31T08:48:57.035179+00:00"
   },
   {
     "id": "e6021568e474",
@@ -116,7 +154,7 @@
     "url": "https://www.ungm.org/Public/Notice/308236",
     "country": "BA",
     "deadline": "2026-08-12",
-    "deadline_days": 13,
+    "deadline_days": 12,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9205166. Matched query: cold chain.",
     "fit_per_area": {
@@ -148,7 +186,7 @@
       "ungm_query": "cold chain",
       "published": "2026-07-22"
     },
-    "fetched_at": "2026-07-30T08:25:12.808553+00:00"
+    "fetched_at": "2026-07-31T08:48:57.025437+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -186,7 +224,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-07-30T08:25:12.824045+00:00"
+    "fetched_at": "2026-07-31T08:48:57.040590+00:00"
   },
   {
     "id": "1fa77097460f",
@@ -220,7 +258,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-30T08:25:12.792743+00:00"
+    "fetched_at": "2026-07-31T08:48:57.008020+00:00"
   },
   {
     "id": "958ed8b7e34f",
@@ -229,7 +267,7 @@
     "url": "https://www.ungm.org/Public/Notice/307225",
     "country": "CH",
     "deadline": "2026-08-06",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Agency: UNOPS. Type: Invitation to bid. Reference: ITB/2026/63677. Matched query: cold chain.",
     "fit_per_area": {
@@ -261,7 +299,7 @@
       "ungm_query": "cold chain",
       "published": "2026-07-14"
     },
-    "fetched_at": "2026-07-30T08:25:12.808609+00:00"
+    "fetched_at": "2026-07-31T08:48:57.025498+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -299,7 +337,7 @@
       "published": "2026-07-24T18:37:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.810608+00:00"
+    "fetched_at": "2026-07-31T08:48:57.027693+00:00"
   },
   {
     "id": "8c14f740881c",
@@ -337,7 +375,7 @@
       "published": "2026-07-27T09:15:43+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.813012+00:00"
+    "fetched_at": "2026-07-31T08:48:57.029152+00:00"
   },
   {
     "id": "54072a9f872e",
@@ -375,7 +413,7 @@
       "published": "2026-07-24T17:35:47+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.814037+00:00"
+    "fetched_at": "2026-07-31T08:48:57.030882+00:00"
   },
   {
     "id": "27ac670bbb00",
@@ -413,18 +451,18 @@
       "published": "2026-05-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.814624+00:00"
+    "fetched_at": "2026-07-31T08:48:57.031023+00:00"
   },
   {
-    "id": "22d87c8cd18d",
+    "id": "b137cf8c9e61",
     "source": "Signal:Biovac",
-    "title": "South Africa launches expanded Biovac facility to enhance local vaccine manufacturing capacity - techreviewafrica.com",
+    "title": "South Africa launches expanded Biovac facility to enhance local vaccine manufacturing capacity - Tech Review Africa",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRllJclByZ3lBOUVmN3JrNmZ0UnJUM2hYQVNuZ0FrNUR0UDdHbEYzVWpNaEdQOVA5RVBCYnZvenFvdnF3d3kxeW4wdzhPWEkzM3FReWc3dTVPN2lWM2EwTTVsNHNieGdvMWFROGJlRlZkTXhKaURtWHJIRVZqSmhqajY0cUdjbjVCaDFGSVJEVlJQRmtIOHlNQVVoUFBnbUlVbmYxOW1rd0Nrd2wtOU5NMVhueGNUT3BOMTBYTUk1REVFWnV6SnVRMWhET29UQQ?oc=5",
     "country": "ZA",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "South Africa launches expanded Biovac facility to enhance local vaccine manufacturing capacity &nbsp;&nbsp; techreviewafrica.com",
+    "description": "South Africa launches expanded Biovac facility to enhance local vaccine manufacturing capacity &nbsp;&nbsp; Tech Review Africa",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 4,
@@ -451,7 +489,7 @@
       "published": "2026-05-26T12:11:27+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.814978+00:00"
+    "fetched_at": "2026-07-31T08:48:57.031369+00:00"
   },
   {
     "id": "95ddc1cb255e",
@@ -489,7 +527,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.815988+00:00"
+    "fetched_at": "2026-07-31T08:48:57.032341+00:00"
   },
   {
     "id": "428be1b62fdb",
@@ -527,7 +565,7 @@
       "published": "2026-05-12T09:47:25+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.816320+00:00"
+    "fetched_at": "2026-07-31T08:48:57.032685+00:00"
   },
   {
     "id": "05962f72b7b0",
@@ -565,7 +603,7 @@
       "published": "2026-05-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.816772+00:00"
+    "fetched_at": "2026-07-31T08:48:57.033113+00:00"
   },
   {
     "id": "3c511eba2bf5",
@@ -603,7 +641,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.817855+00:00"
+    "fetched_at": "2026-07-31T08:48:57.034167+00:00"
   },
   {
     "id": "fd9be5800bc0",
@@ -641,7 +679,7 @@
       "published": "2026-06-15T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.819054+00:00"
+    "fetched_at": "2026-07-31T08:48:57.035336+00:00"
   },
   {
     "id": "7957d095f782",
@@ -679,7 +717,7 @@
       "published": "2026-07-24T18:37:44+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-07-30T08:25:12.824247+00:00"
+    "fetched_at": "2026-07-31T08:48:57.040800+00:00"
   },
   {
     "id": "67da32267df9",
@@ -713,7 +751,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-07-30T08:25:12.793466+00:00"
+    "fetched_at": "2026-07-31T08:48:57.008786+00:00"
   },
   {
     "id": "03d7401001e8",
@@ -749,18 +787,18 @@
     "raw": {
       "ted_publication_number": "373993-2026"
     },
-    "fetched_at": "2026-07-30T08:25:12.798850+00:00"
+    "fetched_at": "2026-07-31T08:48:57.014635+00:00"
   },
   {
-    "id": "a701dd6f1497",
+    "id": "279dbb1b06e5",
     "source": "World Bank",
-    "title": "Recrutement d'un expert en sauvegarde sociale de la CPU",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00459205",
-    "country": "CO",
-    "deadline": "2026-08-10",
-    "deadline_days": 11,
+    "title": "Contratação de uma empresa para realização de auditoria A&S independente ao QGAS e instrumentos de gestão ambiental e social preparados para o projecto.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00459567",
+    "country": "AN",
+    "deadline": "2026-08-12",
+    "deadline_days": 12,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation Grant for DRC Secondary Cities Improvement Project. Country: Congo, Democratic Republic of. Reference: ZR-CPU-564114-CS-INDV.",
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Smallholder Agricultural Transformation Project. Country: Angola. Reference: 172/C3/C/MOSAP3/26.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -784,10 +822,10 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P517144",
-      "wb_reference": "ZR-CPU-564114-CS-INDV"
+      "wb_project_id": "P177305",
+      "wb_reference": "172/C3/C/MOSAP3/26"
     },
-    "fetched_at": "2026-07-30T08:25:12.805376+00:00"
+    "fetched_at": "2026-07-31T08:48:57.020477+00:00"
   },
   {
     "id": "1bf73a455eff",
@@ -796,7 +834,7 @@
     "url": "https://www.ungm.org/Public/Notice/306403",
     "country": "BA",
     "deadline": "2026-08-02",
-    "deadline_days": 3,
+    "deadline_days": 2,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9204843. Matched query: immunization.",
     "fit_per_area": {
@@ -828,7 +866,45 @@
       "ungm_query": "immunization",
       "published": "2026-07-07"
     },
-    "fetched_at": "2026-07-30T08:25:12.807079+00:00"
+    "fetched_at": "2026-07-31T08:48:57.023881+00:00"
+  },
+  {
+    "id": "dd40fc09bbe6",
+    "source": "World Bank",
+    "title": "Consulting Services for the Preparation of Detailed Designs and Environmental and Social Studies for the Vilankulos Coastal Protection Project",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00456906",
+    "country": "MO",
+    "deadline": "2026-08-10",
+    "deadline_days": 10,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Access to Finance & Economic Opportunities Project – Mais Oportunidades. Country: Mozambique. Reference: MZ-MEF-DNT-556716-CS-QCBS.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P178658",
+      "wb_reference": "MZ-MEF-DNT-556716-CS-QCBS"
+    },
+    "fetched_at": "2026-07-31T08:48:57.021407+00:00"
   },
   {
     "id": "e2493996ca93",
@@ -837,7 +913,7 @@
     "url": "https://www.ungm.org/Public/Notice/307346",
     "country": "PH",
     "deadline": "2026-08-12",
-    "deadline_days": 13,
+    "deadline_days": 12,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9205058. Matched query: vaccination.",
     "fit_per_area": {
@@ -869,45 +945,7 @@
       "ungm_query": "vaccination",
       "published": "2026-07-30"
     },
-    "fetched_at": "2026-07-30T08:25:12.806305+00:00"
-  },
-  {
-    "id": "7d2d92555256",
-    "source": "World Bank",
-    "title": "CONSULTING SERVICES FOR DETAILED STRUCTURAL INSPECTION AND PREPARATION OF\nMAINTENANCE AND REHABILITATION REQUIREMENTS OF SPECIAL BRIDGES",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00459222",
-    "country": "NE",
-    "deadline": "2026-08-13",
-    "deadline_days": 14,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Third Bridges Improvement and Maintenance Program. Country: Nepal. Reference: BIMPIII-DOR-CS-QCBS-013.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P507516",
-      "wb_reference": "BIMPIII-DOR-CS-QCBS-013"
-    },
-    "fetched_at": "2026-07-30T08:25:12.804319+00:00"
+    "fetched_at": "2026-07-31T08:48:57.023085+00:00"
   },
   {
     "id": "39e924266bbe",
@@ -916,7 +954,7 @@
     "url": "https://www.ungm.org/Public/Notice/307717",
     "country": "PH",
     "deadline": "2026-08-14",
-    "deadline_days": 15,
+    "deadline_days": 14,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9205106. Matched query: vaccination.",
     "fit_per_area": {
@@ -948,7 +986,7 @@
       "ungm_query": "vaccination",
       "published": "2026-07-30"
     },
-    "fetched_at": "2026-07-30T08:25:12.806255+00:00"
+    "fetched_at": "2026-07-31T08:48:57.023034+00:00"
   },
   {
     "id": "97c78cbcc39a",
@@ -957,7 +995,7 @@
     "url": "https://www.ungm.org/Public/Notice/307289",
     "country": "MU",
     "deadline": "2026-08-18",
-    "deadline_days": 19,
+    "deadline_days": 18,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFPS-NYH-2026-503937. Matched query: immunization.",
     "fit_per_area": {
@@ -989,7 +1027,7 @@
       "ungm_query": "immunization",
       "published": "2026-07-29"
     },
-    "fetched_at": "2026-07-30T08:25:12.807015+00:00"
+    "fetched_at": "2026-07-31T08:48:57.023813+00:00"
   },
   {
     "id": "7bd677c2cb72",
@@ -998,7 +1036,7 @@
     "url": "https://www.ungm.org/Public/Notice/308367",
     "country": "MU",
     "deadline": "2026-08-24",
-    "deadline_days": 25,
+    "deadline_days": 24,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503936. Matched query: vaccine.",
     "fit_per_area": {
@@ -1030,7 +1068,7 @@
       "ungm_query": "vaccine",
       "published": "2026-07-23"
     },
-    "fetched_at": "2026-07-30T08:25:12.805711+00:00"
+    "fetched_at": "2026-07-31T08:48:57.022563+00:00"
   },
   {
     "id": "5ab769596e50",
@@ -1039,7 +1077,7 @@
     "url": "https://ted.europa.eu/en/notice/373365-2026",
     "country": "NL",
     "deadline": "2026-08-28",
-    "deadline_days": 29,
+    "deadline_days": 28,
     "value_usd": null,
     "description": "Laurentius Stichting voor Katholiek Primair Onderwijs. Zie beschrijvend document",
     "fit_per_area": {
@@ -1066,7 +1104,7 @@
     "raw": {
       "ted_publication_number": "373365-2026"
     },
-    "fetched_at": "2026-07-30T08:25:12.797600+00:00"
+    "fetched_at": "2026-07-31T08:48:57.013258+00:00"
   },
   {
     "id": "d9d652f693c9",
@@ -1075,7 +1113,7 @@
     "url": "https://ted.europa.eu/en/notice/375560-2026",
     "country": "NO",
     "deadline": "2026-08-28",
-    "deadline_days": 29,
+    "deadline_days": 28,
     "value_usd": null,
     "description": "Høgskolen i Østfold. Østfold University College shall enter into a new framework agreement for the purchase of company health services. The aim of the procurement is to ensure Østfold University College access to competent and relevant company health services for all campuses and locations. The company health service shall support the university college in the work of ensuring a fully reliable working environment in accordance with the Working Environment Act, as well as contribute to systematic HSE work throughout the organisation. The start date of the agreement is 01.01.2027",
     "fit_per_area": {
@@ -1102,7 +1140,7 @@
     "raw": {
       "ted_publication_number": "375560-2026"
     },
-    "fetched_at": "2026-07-30T08:25:12.802256+00:00"
+    "fetched_at": "2026-07-31T08:48:57.018356+00:00"
   },
   {
     "id": "3ed387e739f6",
@@ -1111,7 +1149,7 @@
     "url": "https://www.ungm.org/Public/Notice/308042",
     "country": "NE",
     "deadline": "2026-08-28",
-    "deadline_days": 29,
+    "deadline_days": 28,
     "value_usd": null,
     "description": "Agency: ICC. Type: Request for EOI. Reference: EOI 134790. Matched query: vaccination.",
     "fit_per_area": {
@@ -1143,7 +1181,89 @@
       "ungm_query": "vaccination",
       "published": "2026-07-21"
     },
-    "fetched_at": "2026-07-30T08:25:12.806351+00:00"
+    "fetched_at": "2026-07-31T08:48:57.023130+00:00"
+  },
+  {
+    "id": "3c45323f7b30",
+    "source": "UNICEF",
+    "title": "UNICEF Request for Proposal RFP-DAN-2026-503926 for Inactivated Poliovirus Vaccines for Delivery During the Period 2028 – 2030",
+    "url": "https://www.ungm.org/Public/Notice/309297",
+    "country": "MU",
+    "deadline": "2026-09-04",
+    "deadline_days": 35,
+    "value_usd": null,
+    "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503926. Matched query: vaccine.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ungm_id": "309297",
+      "ungm_agency": "UNICEF",
+      "ungm_notice_type": "Request for proposal",
+      "ungm_reference": "RFP-DAN-2026-503926",
+      "ungm_query": "vaccine",
+      "published": "2026-07-31"
+    },
+    "fetched_at": "2026-07-31T08:48:57.022391+00:00"
+  },
+  {
+    "id": "ea14e3401a66",
+    "source": "UNICEF",
+    "title": "UNICEF Request for Proposal RFP-DAN-2026-503939 for DTwP-HepB-Hib (Pentavalent) and DTwP-HepB-Hib-IPV (Hexavalent) Vaccines for Delivery During the Period 2028 – 2032",
+    "url": "https://www.ungm.org/Public/Notice/309299",
+    "country": "MU",
+    "deadline": "2026-09-04",
+    "deadline_days": 35,
+    "value_usd": null,
+    "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503939. Matched query: vaccine.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ungm_id": "309299",
+      "ungm_agency": "UNICEF",
+      "ungm_notice_type": "Request for proposal",
+      "ungm_reference": "RFP-DAN-2026-503939",
+      "ungm_query": "vaccine",
+      "published": "2026-07-31"
+    },
+    "fetched_at": "2026-07-31T08:48:57.022477+00:00"
   },
   {
     "id": "c59bb47dceef",
@@ -1152,7 +1272,7 @@
     "url": "https://ted.europa.eu/en/notice/372206-2026",
     "country": "DE",
     "deadline": "2028-07-31",
-    "deadline_days": 732,
+    "deadline_days": 731,
     "value_usd": null,
     "description": "Techniker Krankenkasse. Die TK verfolgt das Ziel, mit allen geeigneten pharmazeutischen Unternehmern Rabattverträge nach § 130a Abs. 8 SGB V zu dem Wirkstoff Peginterferon beta 1a zu schließen",
     "fit_per_area": {
@@ -1179,7 +1299,7 @@
     "raw": {
       "ted_publication_number": "372206-2026"
     },
-    "fetched_at": "2026-07-30T08:25:12.795502+00:00"
+    "fetched_at": "2026-07-31T08:48:57.010962+00:00"
   },
   {
     "id": "b129a66ef1b9",
@@ -1217,7 +1337,7 @@
       "published": "2026-07-27T15:14:19+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.810834+00:00"
+    "fetched_at": "2026-07-31T08:48:57.027472+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -1255,7 +1375,7 @@
       "published": "2026-07-29T10:38:23+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.812065+00:00"
+    "fetched_at": "2026-07-31T08:48:57.029446+00:00"
   },
   {
     "id": "414891241c08",
@@ -1293,7 +1413,7 @@
       "published": "2026-07-25T12:35:53+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.813350+00:00"
+    "fetched_at": "2026-07-31T08:48:57.029778+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -1331,7 +1451,7 @@
       "published": "2026-07-25T09:23:30+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.813657+00:00"
+    "fetched_at": "2026-07-31T08:48:57.030079+00:00"
   },
   {
     "id": "955d8c8354c8",
@@ -1369,7 +1489,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.814475+00:00"
+    "fetched_at": "2026-07-31T08:48:57.030533+00:00"
   },
   {
     "id": "4a5eee8825f9",
@@ -1407,18 +1527,18 @@
       "published": "2026-05-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.814822+00:00"
+    "fetched_at": "2026-07-31T08:48:57.031208+00:00"
   },
   {
-    "id": "f23a8b008c7b",
+    "id": "6bcba987f5b4",
     "source": "Signal:Biovac",
-    "title": "Biovac gets $20m for vaccine expansion from French lenders - businessday.co.za",
+    "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; businessday.co.za",
+    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1445,7 +1565,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.815599+00:00"
+    "fetched_at": "2026-07-31T08:48:57.031971+00:00"
   },
   {
     "id": "ff56ac61df73",
@@ -1483,18 +1603,18 @@
       "published": "2026-05-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.816627+00:00"
+    "fetched_at": "2026-07-31T08:48:57.032984+00:00"
   },
   {
-    "id": "527d50c9ab0d",
+    "id": "798d84af1929",
     "source": "Signal:Biovac",
-    "title": "EXCLUSIVE | Biovac secures crucial R5.3bn state vaccine contract - businessday.co.za",
+    "title": "EXCLUSIVE | Biovac secures crucial R5.3bn state vaccine contract - Business Day",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDhxbWR1WkJJRlNWS2tPVmFSXzFfbkpZY3RNbFRDRkRNQnVfT1M4OFdKQ1FXVEYxNXNoRDByZ1ZNMXZuZjJ5T0dkY2JXQ0pjaWtsSVlCOTItWmNPTGgwSV9CalMtalU4V21qN0daN3VQZkxoMGFqVHJlMlRrZi10LWZNOVl0Yk1udXFpVDd4dXJ5U1VqZG9IS052M2lVc0xfcWg0eHRha2ZUQWhlaGpSLThyWWFldw?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "EXCLUSIVE | Biovac secures crucial R5.3bn state vaccine contract &nbsp;&nbsp; businessday.co.za",
+    "description": "EXCLUSIVE | Biovac secures crucial R5.3bn state vaccine contract &nbsp;&nbsp; Business Day",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1521,7 +1641,7 @@
       "published": "2026-05-13T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.817131+00:00"
+    "fetched_at": "2026-07-31T08:48:57.033457+00:00"
   },
   {
     "id": "2a61f0e571fa",
@@ -1559,7 +1679,7 @@
       "published": "2026-05-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.817479+00:00"
+    "fetched_at": "2026-07-31T08:48:57.033807+00:00"
   },
   {
     "id": "830eb18bb48c",
@@ -1597,7 +1717,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.819511+00:00"
+    "fetched_at": "2026-07-31T08:48:57.035810+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -1635,7 +1755,7 @@
       "published": "2026-07-24T14:41:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.819989+00:00"
+    "fetched_at": "2026-07-31T08:48:57.036288+00:00"
   },
   {
     "id": "236d8fbc44bc",
@@ -1670,10 +1790,10 @@
     },
     "raw": {
       "manufacturer": "Aspen Pharmacare",
-      "published": "2026-07-24T14:25:35+00:00",
+      "published": "2026-07-24T15:31:14+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.820361+00:00"
+    "fetched_at": "2026-07-31T08:48:57.036670+00:00"
   },
   {
     "id": "61d57525b67a",
@@ -1711,7 +1831,7 @@
       "published": "2026-05-12T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.820700+00:00"
+    "fetched_at": "2026-07-31T08:48:57.037015+00:00"
   },
   {
     "id": "06c90dac4b9a",
@@ -1749,7 +1869,7 @@
       "published": "2026-05-14T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.821163+00:00"
+    "fetched_at": "2026-07-31T08:48:57.037508+00:00"
   },
   {
     "id": "de2351f4b117",
@@ -1787,7 +1907,7 @@
       "published": "2026-05-13T06:07:49+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.821488+00:00"
+    "fetched_at": "2026-07-31T08:48:57.037838+00:00"
   },
   {
     "id": "113b46aadfe4",
@@ -1825,18 +1945,18 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.822948+00:00"
+    "fetched_at": "2026-07-31T08:48:57.039439+00:00"
   },
   {
-    "id": "964138115442",
+    "id": "7895d9459a90",
     "source": "Signal:Institut Pasteur Dakar",
-    "title": "Chikungunya Vaccine Development in Africa Accelerated by ACT-CHIK - genengnews.com",
+    "title": "Chikungunya Vaccine Development in Africa Accelerated by ACT-CHIK - Genetic Engineering and Biotechnology News",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1lPZTh0YjQ5S1pGVFpXZmZrVmNTRW15ejM1Q24ta1VUUWRGZ0VWeHhOWlI2SVRkRlhJc1l4Q25fb0dlQ1RaSm9ESU5MNFR3aXgzYk05TEpzSFBYa081VUFGWGpDbWJXMVRtYXFja1ZTaGRjYkM3dEJJZTJ3U3VndndzNFhaZEhMWmxlVl9oYVgtdUZjdHJob1o2ZHdiak5hTzZNMTVITktNNE45RGg5eVNWYkt5VDMwanB1QQ?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Chikungunya Vaccine Development in Africa Accelerated by ACT-CHIK &nbsp;&nbsp; genengnews.com",
+    "description": "Chikungunya Vaccine Development in Africa Accelerated by ACT-CHIK &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1863,18 +1983,18 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-07-30T08:25:12.823289+00:00"
+    "fetched_at": "2026-07-31T08:48:57.039847+00:00"
   },
   {
-    "id": "b9bea59ff0eb",
+    "id": "b96a3e8af844",
     "source": "Signal:AFD",
-    "title": "Biovac gets $20m for vaccine expansion from French lenders - businessday.co.za",
+    "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; businessday.co.za",
+    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1901,6 +2021,6 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-07-30T08:25:12.823621+00:00"
+    "fetched_at": "2026-07-31T08:48:57.040167+00:00"
   }
 ]
