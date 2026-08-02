@@ -1,0 +1,910 @@
+{
+  "meta": {
+    "last_run": "2026-08-02T08:27:01.016241+00:00",
+    "duration_seconds": 323.577539,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 4,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 2,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 61,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 97,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 0,
+        "errors": 0
+      }
+    },
+    "total_kept": 22,
+    "total_excluded": 242,
+    "exclusion_breakdown": {
+      "goods": 15,
+      "gate": 174,
+      "expired": 50,
+      "sanctioned": 3
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "a7d2f9016e1b",
+      "source": "Africa CDC",
+      "title": "Consultancy for the Development of an Emergency Response Plan (ERP) for Africa CDC (Individual Consultant)",
+      "url": "https://africacdc.org/opportunity/consultancy-for-the-development-of-an-emergency-response-plan-erp-for-africa-cdc-individual-consultant/",
+      "country": "_AU",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Loan No./Credit No./ Grant No.: IDA-E1110 Reference No.: ET-AUC-545053-CS-INDV (CONSULTING SERVICES– Individual SELECTION) Name of Project: Africa Centres for Disease Control Support Program to Combat Current and Future Public Health Threats Project (P178633) The Africa Centres for Disease Control and Prevention (Africa CDC), a specialized technical institution of the African Union, is committed to ensuring a safe, secure, and healthy work environment for its staff, partners, and visitors. As part of its Occupational Safety and Health (OSH) efforts, Africa CDC aims to strengthen its preparedness and response capacity for emergencies across its Headquarters (HQ) and Regional Collaborating Centres (RCCs). In line with this commitment, and in compliance with the World Bank Environmental and Social Framework (ESF), particularly ESS2 (Labor and Working Conditions), ESS4 (Community Health and Safety), and ESS10 (Stakeholder Engagement), Africa CDC recognizes the critical importance of safeguarding personnel against a wide range of potential threats. These include, but are not limited to, physical hazards, natural disasters, public health emergencies, and security-related incidents. To address these risks, Africa CDC seeks to develop a comprehensive Emergency Response Plan (ERP) that will provide a structured and coordinated framework for emergency management. The ERP will outline clear procedures and protocols for the prevention of, preparedness for, response to, and recovery from ",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 3,
+        "mel": 10
+      },
+      "fit_total": 10,
+      "fit_top_area": "mel",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-08-02T08:27:00.997803+00:00"
+    },
+    {
+      "id": "e6021568e474",
+      "source": "UNICEF",
+      "title": "Request for proposal Storage, distribution, installation of 30 Ice Lined Refrigerators (ILR) and 50 Deep Freezers (DF) procured with UNICEF Assistance, under OCV Package for Cold Chain",
+      "url": "https://www.ungm.org/Public/Notice/308236",
+      "country": "BA",
+      "deadline": "2026-08-12",
+      "deadline_days": 10,
+      "value_usd": null,
+      "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9205166. Matched query: cold chain.",
+      "fit_per_area": {
+        "cold_chain": 9,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 9,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "308236",
+        "ungm_agency": "UNICEF",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "LRPS-2026-9205166",
+        "ungm_query": "cold chain",
+        "published": "2026-07-22"
+      },
+      "fetched_at": "2026-08-02T08:27:01.014752+00:00"
+    },
+    {
+      "id": "1fa77097460f",
+      "source": "Africa CDC",
+      "title": "PROVISION OF CONSULTING SERVICE TO CONDUCT ENVIRONMENTAL AND SOCIAL AUDIT (ESA) AND DEVELOPMENT OF INFECTION CONTROL WASTE MANAGEMENT PLAN (ICWMP) FOR AFRICA CDC REFERENCE LABORATORY, ETHIOPIA",
+      "url": "https://africacdc.org/opportunity/provision-of-consulting-service-to-conduct-environmental-and-social-audit-esa-and-development-of-infection-control-waste-management-plan-icwmp-for-africa-cdc-reference-laboratory-ethiopia/",
+      "country": "_AU",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "The African Union has received financing from the World Bank toward the cost of the Africa Centres for Disease Control Support Program to Combat Current and Future Public Health Threats Project. The Project Development Objective is to enhance the capacity of Africa Centres for Disease Control and Prevention (Africa CDC) to support AU Member States in preventing, detecting, and responding to current and future public health threats and intends to apply part of the proceeds for consulting services. The Africa Centers for Disease Control and Prevention (Africa CDC) Reference Laboratory in Ethiopia has been fully constructed and is intended to support advanced diagnostic, surveillance, and research activities for high-risk infectious pathogens of regional and continental public health importance. Given the specialized nature of BSL-3 laboratories, their operation presents distinct environmental, social, occupational health and safety, and biosecurity risks, particularly related to infection control, hazardous and infectious waste management, laboratory biosafety, and community health. In line with the requirements of the international regulations, the World Bank Environmental and Social Framework (ESF), World Health Organization (WHO) laboratory biosafety guidance, and Africa CDC standards, an Environmental and Social Audit (ESA) and a standalone Infection Control Waste Management Plan (ICWMP) are required for the operational phase of the Africa CDC Reference Laboratory. The ESA ",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 3,
+        "mel": 4
+      },
+      "fit_total": 5,
+      "fit_top_area": "mel",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-08-02T08:27:00.999164+00:00"
+    },
+    {
+      "id": "958ed8b7e34f",
+      "source": "UNOPS",
+      "title": "Supply, installation, commissioning and user training of Biosafety, cold chain, weighing and laboratory water equipment in N'Djamena, Chad",
+      "url": "https://www.ungm.org/Public/Notice/307225",
+      "country": "CH",
+      "deadline": "2026-08-06",
+      "deadline_days": 4,
+      "value_usd": null,
+      "description": "Agency: UNOPS. Type: Invitation to bid. Reference: ITB/2026/63677. Matched query: cold chain.",
+      "fit_per_area": {
+        "cold_chain": 4,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "307225",
+        "ungm_agency": "UNOPS",
+        "ungm_notice_type": "Invitation to bid",
+        "ungm_reference": "ITB/2026/63677",
+        "ungm_query": "cold chain",
+        "published": "2026-07-14"
+      },
+      "fetched_at": "2026-08-02T08:27:01.014811+00:00"
+    },
+    {
+      "id": "c444cbb28159",
+      "source": "TED",
+      "title": "Netherlands – Health services – Regionale Inkoop Multidisciplinaire specialistische Jeugdhulp",
+      "url": "https://ted.europa.eu/en/notice/379948-2026",
+      "country": "NL",
+      "deadline": "2026-09-03",
+      "deadline_days": 32,
+      "value_usd": null,
+      "description": "Sociaal Domein Flevoland. Deze aanbestedingsprocedure kent een perceelindeling op grond van de vier productgroepen en een indeling in gemeenten, namelijk: Perceel 1- Basis Begeleiding: Gemeenten Noordoostpolder en Urk Perceel 2A - Multi Specialistische Begeleiding: Gemeenten DUN Perceel 2B - Multi Specialistische Begeleiding: Gemeente Almere Perceel 3A - Multi Behandeling: Gemeenten DUN Perceel 3B - Multi Behandeling: Gemeente Almere Perceel 4 - Multi Gezinsbehandeling intensief: Regio De raamovereenkomst gaat in op 1 januari 2027 en loopt tot en met 31 december 2030. Opdrachtgever kan de raamovereenkomst na het verstrijken van de looptijd vier (4) keer schriftelijk geheel of gedeeltelijk verlengen met steeds een periode van vierentwintig (24) kalendermaanden. Gedurende de maximale looptijd van de raamovereenkomst zal de onderstaande maximumbedragen van de (sub)percelen niet worden overschreden. Perceel 1 - Basis begeleiding (NOP en Urk): € 3.132.000 Perceel 2A - Multi Specialistische Begeleiding (Dronten, NOP en Urk): € 5.163.000 Perceel 2B - Multi Specialistische Begeleiding (Almere): € 15.000.000 Perceel 3A - Multi Behandeling (Dronten, NOP en Urk): € 5.100.000 Perceel 3B - Multi Behandeling (Almere) exclusief/inclusief LVB: € € 2.850.000/€ 4.950.000 Perceel 4 - Multi Gezinsbehandeling intensief (Regio): 2.670.000 Deze bedragen zijn excl. BTW",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 4
+      },
+      "fit_total": 4,
+      "fit_top_area": "mel",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ted_publication_number": "379948-2026"
+      },
+      "fetched_at": "2026-08-02T08:27:01.002866+00:00"
+    },
+    {
+      "id": "793ef46500e1",
+      "source": "World Bank",
+      "title": "Contratacao de servico de consultoria individual para apoiar a execucao das atividades de planejamento e desdobramentos para o subcomponente de Saude do Projeto Progestao Amapa",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00460027",
+      "country": "BR",
+      "deadline": "2026-08-17",
+      "deadline_days": 15,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation and Readiness Support for the implementation of the Progestão Projects in selected state. Country: Brazil. Reference: BR-AGEAMAPA-552758-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 3,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "regulatory",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P181966",
+        "wb_reference": "BR-AGEAMAPA-552758-CS-INDV"
+      },
+      "fetched_at": "2026-08-02T08:27:01.009916+00:00"
+    },
+    {
+      "id": "9304cfa8fddc",
+      "source": "World Bank",
+      "title": "Contratacao de servico de consultoria individual especialista gestao financeira para apoiar a implementacao do Projeto Progestao Amapa.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00459124",
+      "country": "BR",
+      "deadline": "2026-08-17",
+      "deadline_days": 15,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation and Readiness Support for the implementation of the Progestão Projects in selected state. Country: Brazil. Reference: BR-AGEAMAPA-552759-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 3,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "regulatory",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P181966",
+        "wb_reference": "BR-AGEAMAPA-552759-CS-INDV"
+      },
+      "fetched_at": "2026-08-02T08:27:01.010381+00:00"
+    },
+    {
+      "id": "67da32267df9",
+      "source": "Africa CDC",
+      "title": "Supply, Delivery, Installation and Training of Laboratory Equipment for Two Member State, Ghana and Egypt",
+      "url": "https://africacdc.org/opportunity/supply-delivery-installation-and-training-of-laboratory-equipment-for-two-member-state-ghana-and-egypt/",
+      "country": "_AU",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "SPECIFIC PROCUREMENT NOTICE (SPN) REQUEST FOR BIDS| (ONE- ENVELOPE BIDDING PROCESS) RFB NO: ACDC/LMH/G/01 1. The Africa Union has received financing from the Coalition for Epidemic Preparedness Innovations (CEPI) toward the payments under the contract for the Supply, Delivery, Installation and Training of Laboratory Equipment for Ghana and Egypt. 2. The African Centres for Disease Control and Prevention (Africa CDC) now invites sealed Bids from eligible Bidders for Supply, Delivery, Installation and Training of Laboratory Equipment for two Member State, Ghana and Egypt under two (2) lots , details provided in the bidding document, within 90 calendar days after contract signing date. Margin of preference is not applicable for this contract. 3. Bidding will be conducted through international competitive procurement using a Request for Bids (RFB) as specified in the African Union Procurement Manual Issued March 2024 and is open to all eligible Bidders as defined in the Procurement Manual. 4. Interested eligible Bidders may obtain further information from African CDC and inspect the bidding document during office hours from 8.00AM to 5.00PM from Monday to Friday at the address given below. 5. The bidding document in English may be requested by interested eligible Bidders upon the submission of a written application to the address below. The solicitation document will be sent by email upon request to procurement@africacdc.org . 6. Bids must be delivered to the address below on or ",
+      "fit_per_area": {
+        "cold_chain": 3,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-08-02T08:27:00.999962+00:00"
+    },
+    {
+      "id": "71e72db6811c",
+      "source": "World Bank",
+      "title": "Technical Assistance for Strengthening Urban Resilience Investment Preparation and Financing Mechanisms for Municipalities in Türkiye",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00459909",
+      "country": "TU",
+      "deadline": "2026-08-17",
+      "deadline_days": 15,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Türkiye Earthquake, Floods, and Wildfires Emergency Reconstruction Project. Country: Turkiye. Reference: TEFWER-TA-01.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P176608",
+        "wb_reference": "TEFWER-TA-01"
+      },
+      "fetched_at": "2026-08-02T08:27:01.009448+00:00"
+    },
+    {
+      "id": "9c7b02972dd0",
+      "source": "World Bank",
+      "title": "Analytical Study to Support the Preparation of the Connectivity and Logistics Programme for the Commonwealth of Dominica",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00459857",
+      "country": "CA",
+      "deadline": "2026-08-17",
+      "deadline_days": 15,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Caribbean Regional Connectivity and Logistics MPA. Country: Caribbean. Reference: DM-CSU-564635-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 2,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P182034",
+        "wb_reference": "DM-CSU-564635-CS-INDV"
+      },
+      "fetched_at": "2026-08-02T08:27:01.010902+00:00"
+    },
+    {
+      "id": "1bf73a455eff",
+      "source": "UNICEF",
+      "title": "Integrated urban immunization and surveillance systems strengthening, digital systems optimization, and evidence generation program across seven city corporations",
+      "url": "https://www.ungm.org/Public/Notice/306403",
+      "country": "BA",
+      "deadline": "2026-08-02",
+      "deadline_days": 0,
+      "value_usd": null,
+      "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9204843. Matched query: immunization.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "306403",
+        "ungm_agency": "UNICEF",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "LRPS-2026-9204843",
+        "ungm_query": "immunization",
+        "published": "2026-07-07"
+      },
+      "fetched_at": "2026-08-02T08:27:01.013086+00:00"
+    },
+    {
+      "id": "81ec94c3f7f5",
+      "source": "World Bank",
+      "title": "Road User Satisfaction Survey &Preparation of Necessary reports of Road Projects Under provincial and Local Road Improvement Program.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00458289",
+      "country": "NE",
+      "deadline": "2026-08-07",
+      "deadline_days": 5,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Provincial and Local Roads Improvement Program - Phase 1. Country: Nepal. Reference: PLRIP-CPCU-RUSS-FIRM-01-082/83.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P171836",
+        "wb_reference": "PLRIP-CPCU-RUSS-FIRM-01-082/83"
+      },
+      "fetched_at": "2026-08-02T08:27:01.010154+00:00"
+    },
+    {
+      "id": "e2493996ca93",
+      "source": "UNICEF",
+      "title": "Pre- and Post-campaign Survey for HPV Vaccination",
+      "url": "https://www.ungm.org/Public/Notice/307346",
+      "country": "PH",
+      "deadline": "2026-08-12",
+      "deadline_days": 10,
+      "value_usd": null,
+      "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9205058. Matched query: vaccination.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "307346",
+        "ungm_agency": "UNICEF",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "LRPS-2026-9205058",
+        "ungm_query": "vaccination",
+        "published": "2026-07-30"
+      },
+      "fetched_at": "2026-08-02T08:27:01.012298+00:00"
+    },
+    {
+      "id": "39e924266bbe",
+      "source": "UNICEF",
+      "title": "Support to the Planning and Implementation of the Human Papillomavirus (HPV) Vaccination Expansion in Priority Areas in the Philippines",
+      "url": "https://www.ungm.org/Public/Notice/307717",
+      "country": "PH",
+      "deadline": "2026-08-14",
+      "deadline_days": 12,
+      "value_usd": null,
+      "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9205106. Matched query: vaccination.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "307717",
+        "ungm_agency": "UNICEF",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "LRPS-2026-9205106",
+        "ungm_query": "vaccination",
+        "published": "2026-07-30"
+      },
+      "fetched_at": "2026-08-02T08:27:01.012238+00:00"
+    },
+    {
+      "id": "97c78cbcc39a",
+      "source": "UNICEF",
+      "title": "This procurement opportunity meets the requirements to be considered as sustainable. Click on the procurement opportunity to learn more. Status of Inequity in Immunization and Programmatic Implications",
+      "url": "https://www.ungm.org/Public/Notice/307289",
+      "country": "MU",
+      "deadline": "2026-08-18",
+      "deadline_days": 16,
+      "value_usd": null,
+      "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFPS-NYH-2026-503937. Matched query: immunization.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "307289",
+        "ungm_agency": "UNICEF",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "RFPS-NYH-2026-503937",
+        "ungm_query": "immunization",
+        "published": "2026-07-29"
+      },
+      "fetched_at": "2026-08-02T08:27:01.013016+00:00"
+    },
+    {
+      "id": "76f99b639fa4",
+      "source": "TED",
+      "title": "Norway – Medical equipments, pharmaceuticals and personal care products – Drainage set for pleura and peritoneal drainage for the health authorities in The South-East Health Authority.",
+      "url": "https://ted.europa.eu/en/notice/381565-2026",
+      "country": "NO",
+      "deadline": "2026-08-19",
+      "deadline_days": 17,
+      "value_usd": null,
+      "description": "SYKEHUSINNKJØP HF. Framework agreement for a thorax drainage system, pleura and peritoneal drainage for Helse Sør-Øst HF. The equipment shall be attached to the hospital and sent with a patient home for their own treatment. See the requirement specification and price form for further information. There has not been a previous agreement on this equipment. Questions about this tender will not be answered in July",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ted_publication_number": "381565-2026"
+      },
+      "fetched_at": "2026-08-02T08:27:01.007030+00:00"
+    },
+    {
+      "id": "7bd677c2cb72",
+      "source": "UNICEF",
+      "title": "Request for Proposal for supply of Japanese Encephalitis Vaccines",
+      "url": "https://www.ungm.org/Public/Notice/308367",
+      "country": "MU",
+      "deadline": "2026-08-24",
+      "deadline_days": 22,
+      "value_usd": null,
+      "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503936. Matched query: vaccine.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "308367",
+        "ungm_agency": "UNICEF",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "RFP-DAN-2026-503936",
+        "ungm_query": "vaccine",
+        "published": "2026-07-23"
+      },
+      "fetched_at": "2026-08-02T08:27:01.011762+00:00"
+    },
+    {
+      "id": "3ed387e739f6",
+      "source": "UNGM (ICC)",
+      "title": "Vaccinations Services",
+      "url": "https://www.ungm.org/Public/Notice/308042",
+      "country": "NE",
+      "deadline": "2026-08-28",
+      "deadline_days": 26,
+      "value_usd": null,
+      "description": "Agency: ICC. Type: Request for EOI. Reference: EOI 134790. Matched query: vaccination.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "308042",
+        "ungm_agency": "ICC",
+        "ungm_notice_type": "Request for EOI",
+        "ungm_reference": "EOI 134790",
+        "ungm_query": "vaccination",
+        "published": "2026-07-21"
+      },
+      "fetched_at": "2026-08-02T08:27:01.012343+00:00"
+    },
+    {
+      "id": "34c191650d1f",
+      "source": "TED",
+      "title": "Sweden – Company health services – Företagshälsovård",
+      "url": "https://ted.europa.eu/en/notice/379199-2026",
+      "country": "SE",
+      "deadline": "2026-09-01",
+      "deadline_days": 30,
+      "value_usd": null,
+      "description": "Forshaga kommun (Inköpscentral). Upphandlingen omfattar företagshälsovård (FHV) som en oberoende expertresurs inom områdena arbetsmiljö och rehabilitering. Det innebär att företagshälsovården ska vara kopplad till kommunens systematiska arbetsmiljöarbete med huvudinriktningen att arbeta förebyggande och utveckla hälsofrämjandearbetet och därutöver också med arbetslivsinriktad rehabilitering. Ingående parter: Forshaga och Kil kommun, samt dess kommunala bolag. Grums kommun tillsammans med dess bolag har rätt att ansluta under avtalstiden",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ted_publication_number": "379199-2026"
+      },
+      "fetched_at": "2026-08-02T08:27:01.001816+00:00"
+    },
+    {
+      "id": "3c45323f7b30",
+      "source": "UNICEF",
+      "title": "UNICEF Request for Proposal RFP-DAN-2026-503926 for Inactivated Poliovirus Vaccines for Delivery During the Period 2028 – 2030",
+      "url": "https://www.ungm.org/Public/Notice/309297",
+      "country": "MU",
+      "deadline": "2026-09-04",
+      "deadline_days": 33,
+      "value_usd": null,
+      "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503926. Matched query: vaccine.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "309297",
+        "ungm_agency": "UNICEF",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "RFP-DAN-2026-503926",
+        "ungm_query": "vaccine",
+        "published": "2026-07-31"
+      },
+      "fetched_at": "2026-08-02T08:27:01.011598+00:00"
+    },
+    {
+      "id": "ea14e3401a66",
+      "source": "UNICEF",
+      "title": "UNICEF Request for Proposal RFP-DAN-2026-503939 for DTwP-HepB-Hib (Pentavalent) and DTwP-HepB-Hib-IPV (Hexavalent) Vaccines for Delivery During the Period 2028 – 2032",
+      "url": "https://www.ungm.org/Public/Notice/309299",
+      "country": "MU",
+      "deadline": "2026-09-04",
+      "deadline_days": 33,
+      "value_usd": null,
+      "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503939. Matched query: vaccine.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "309299",
+        "ungm_agency": "UNICEF",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "RFP-DAN-2026-503939",
+        "ungm_query": "vaccine",
+        "published": "2026-07-31"
+      },
+      "fetched_at": "2026-08-02T08:27:01.011677+00:00"
+    },
+    {
+      "id": "9385ba58592a",
+      "source": "TED",
+      "title": "Lithuania – Health services – Darbuotojų profilaktinių sveikatos tikrinimų ir vakcinavimo paslaugos",
+      "url": "https://ted.europa.eu/en/notice/379750-2026",
+      "country": "LT",
+      "deadline": "2031-07-04",
+      "deadline_days": 1797,
+      "value_usd": null,
+      "description": "Greitosios medicinos pagalbos tarnyba (PV). Darbuotojų profilaktinių sveikatos tikrinimų ir vakcinavimo paslaugos",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ted_publication_number": "379750-2026"
+      },
+      "fetched_at": "2026-08-02T08:27:01.002464+00:00"
+    }
+  ]
+}
