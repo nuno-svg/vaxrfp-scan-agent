@@ -35,7 +35,7 @@
       "published": "2026-05-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.495038+00:00"
+    "fetched_at": "2026-08-17T06:52:36.056550+00:00"
   },
   {
     "id": "6cf6b3992da2",
@@ -73,7 +73,7 @@
       "published": "2026-06-30T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.495494+00:00"
+    "fetched_at": "2026-08-17T06:52:36.057022+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -111,7 +111,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-16T06:37:54.498665+00:00"
+    "fetched_at": "2026-08-17T06:52:36.060402+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -149,7 +149,45 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.492052+00:00"
+    "fetched_at": "2026-08-17T06:52:36.053357+00:00"
+  },
+  {
+    "id": "9f2f4dfd0fd7",
+    "source": "Signal:Biovac",
+    "title": "AfDB and Biovac sign $15 million agreement to advance Africa’s first end-to-end cholera vaccine production - The Sierra Leone Telegraph",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS2Y2V1hhR1BxMDUyRHExWFk3MDE1YUlCX0RFc2dPZmZ1WENadV9LZFBHV0twYVlvX254eU51RUNVODhWTFgxekRJRm9ydHRWakloclFFVzE0U3dQZjFKMnBaNDJmWTNUTXVVb0JCR3JJdUlHelRObUlLaXhzU054ZnZsQmZvYzR2S3JYX19kbGlEVklncmJaM0s1LVRPUTRVay1XcjFqZHZFand4NHdDSUNYMlJGUk5sQ3BjS3pHTTdGMm1ucnN6TFp2dkd6enFlYWt3ZTBQSktVcTNFcVE?oc=5",
+    "country": "SL",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "AfDB and Biovac sign $15 million agreement to advance Africa’s first end-to-end cholera vaccine production &nbsp;&nbsp; The Sierra Leone Telegraph",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-07-26T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-08-17T06:52:36.054092+00:00"
   },
   {
     "id": "37737e671331",
@@ -187,45 +225,7 @@
       "published": "2026-08-07T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.492940+00:00"
-  },
-  {
-    "id": "b137cf8c9e61",
-    "source": "Signal:Biovac",
-    "title": "South Africa launches expanded Biovac facility to enhance local vaccine manufacturing capacity - Tech Review Africa",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRllJclByZ3lBOUVmN3JrNmZ0UnJUM2hYQVNuZ0FrNUR0UDdHbEYzVWpNaEdQOVA5RVBCYnZvenFvdnF3d3kxeW4wdzhPWEkzM3FReWc3dTVPN2lWM2EwTTVsNHNieGdvMWFROGJlRlZkTXhKaURtWHJIRVZqSmhqajY0cUdjbjVCaDFGSVJEVlJQRmtIOHlNQVVoUFBnbUlVbmYxOW1rd0Nrd2wtOU5NMVhueGNUT3BOMTBYTUk1REVFWnV6SnVRMWhET29UQQ?oc=5",
-    "country": "ZA",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "South Africa launches expanded Biovac facility to enhance local vaccine manufacturing capacity &nbsp;&nbsp; Tech Review Africa",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-05-26T12:11:27+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-08-16T06:37:54.493116+00:00"
+    "fetched_at": "2026-08-17T06:52:36.054472+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -263,7 +263,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.494030+00:00"
+    "fetched_at": "2026-08-17T06:52:36.055494+00:00"
   },
   {
     "id": "05962f72b7b0",
@@ -301,7 +301,7 @@
       "published": "2026-05-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.494477+00:00"
+    "fetched_at": "2026-08-17T06:52:36.056349+00:00"
   },
   {
     "id": "79f77cfe6238",
@@ -339,7 +339,7 @@
       "published": "2026-06-15T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.495653+00:00"
+    "fetched_at": "2026-08-17T06:52:36.057184+00:00"
   },
   {
     "id": "7957d095f782",
@@ -377,7 +377,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-16T06:37:54.498254+00:00"
+    "fetched_at": "2026-08-17T06:52:36.059968+00:00"
   },
   {
     "id": "3301c0539fa2",
@@ -415,23 +415,23 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-16T06:37:54.499310+00:00"
+    "fetched_at": "2026-08-17T06:52:36.061071+00:00"
   },
   {
-    "id": "c5a09928ddc3",
+    "id": "013466f5eb88",
     "source": "TED",
-    "title": "Sweden – Company health services – Företagshälsovård",
-    "url": "https://ted.europa.eu/en/notice/410303-2026",
-    "country": "SE",
-    "deadline": "2026-08-25",
-    "deadline_days": 9,
+    "title": "Finland – Company health services – Työterveyspalveluiden hankinta",
+    "url": "https://ted.europa.eu/en/notice/418850-2026",
+    "country": "FI",
+    "deadline": "2026-08-20",
+    "deadline_days": 3,
     "value_usd": null,
-    "description": "Örnsköldsviks kommun. Örnsköldsviks kommun bjuder in leverantörer att lämna anbud på offentlig upphandling av ramavtal gällande företagshälsa-tjänster. Beställaren vill ha en aktör inom företagshälsa som kan leverera ett brett utbud av tjänster, med personal som har gemensam syn på vad modern företagshälsa innebär. Beställaren arbetar utifrån ett hälsofrämjande perspektiv i arbetsmiljöarbetet. Med hälsofrämjande menar vi den process som ger människor möjlighet att öka kontrollen över sin hälsa och främja den. Därför ska flera av företagshälsans insatser ha ett tydligt hälsofrämjande fokus. Företagshälsan ska också stötta arbetsgivaren i arbetsmiljöarbetet, viket innebär ett tidigt arbete med att kartlägga risker, förebygga sjukskrivningar samt en effektiv arbetslivsinriktad rehabilitering och arbetsanpassning. Här har cheferna en särskilt viktig roll och leverantören ska stötta dem i detta. Företagshälsa, leverans av tjänster till Örnsköldsviks kommuns förvaltningar och kommunala bolag med ca 5.600 anställda enligt avtal för successivt uttag under avtalstiden. Observera! Under perioden 2026-06-24 - 2026-08-03 kan frågor ställas men kommer inte att besvaras förrän tidigast 2026-08-04",
+    "description": "Siuntion kunta. Siuntion kunta pyytää tarjoustanne työterveyshuollon palveluista Siuntion kunnan työtekijöille. Palvelu tulee kattamaan n. 220 henkilön työterveyspalvelut. Kilpailutettava palvelu sisältää lakisääteiset (Työterveyshuoltolaki 1383/2001) toiminnot ennaltaehkäisevänä toimintana (KL1- toiminta) sekä rokotukset, joita tarvitaan työssä. Työterveyspalvelut tuotetaan palveluntarjoajan tiloissa ja etäpalveluina. Tilaaja voi järjestää pienimuotoiseen toimintaan, esim. rokotusten antoon tilat toimittajalle hetkellisesti. Hankinnan optiona on työterveyshuoltolain 1383/2001 mukaiset työkykypainotteiset yleis- ja erikoislääkäritasoisen sairaanhoidon (KL 2-toiminta). Tilaaja tulee ottamaan ainakin osan optiosta käyttöön sopimuskauden alussa, eli option alaiset palvelut otetaan käyttöön osittain, tai kokonaisuudessaan. Hankinnasta on rajattu pois kroonisten sairauksien hoito, vuosiloman siirto (työntekijä sairastuu lomalla, hakeutuu työterveyden piiriin ja pyytää vuosiloman siirtoa), reseptin uusimiset ja vapaa-ajalla tapahtuneet tapaturmat sekä päivystysluoteinen toiminta osana työterveyttä",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
       "regulatory": 3,
-      "procurement": 0,
+      "procurement": 2,
       "mel": 0
     },
     "fit_total": 3,
@@ -441,7 +441,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": false,
+      "urgent_deadline": true,
       "expired": false
     },
     "flag_notes": {
@@ -449,45 +449,9 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "410303-2026"
+      "ted_publication_number": "418850-2026"
     },
-    "fetched_at": "2026-08-16T06:37:54.470921+00:00"
-  },
-  {
-    "id": "30e0e8680841",
-    "source": "TED",
-    "title": "Belgium – Business and management consultancy and related services – Review of the Conflict Minerals Regulation (EU(2017)821)",
-    "url": "https://ted.europa.eu/en/notice/410506-2026",
-    "country": "AN",
-    "deadline": "2026-09-02",
-    "deadline_days": 17,
-    "value_usd": null,
-    "description": "European Commission, DG TRADE - Trade. According to Article 17(2) of Regulation (EU) 2017/821, the Commission has to present a review on the functioning and effectiveness of the Regulation to the Council and European Parliament every three years. The first review report was published on 24 September 2024. The 2027 review will focus primarily on how to improve the implementation and enforcement of the CMR in the EU. It will also seek to analyse 3TG supply chains feeding into the EU market and the uptake of due diligence by EU companies and the role of due diligence schemes. Further, the review will seek to identify concrete potential for easing burden on businesses under the current Regulation. The review will cover notably burden on SMEs and how facilitative measures (existing or new ones) can contribute to ease this burden, whilst not changing the reporting requirements foreseen in the regulation and keeping the alignment with the OECD international standard. The review will be desk-based and include stakeholder consultations",
-    "fit_per_area": {
-      "cold_chain": 3,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 3,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "410506-2026"
-    },
-    "fetched_at": "2026-08-16T06:37:54.472670+00:00"
+    "fetched_at": "2026-08-17T06:52:36.040866+00:00"
   },
   {
     "id": "481c9c9874b9",
@@ -496,7 +460,7 @@
     "url": "https://africacdc.org/opportunity/consultancy-services-to-support-africa-cdc-and-the-african-union-in-assessing-the-feasibility-of-the-implementation-of-a-continental-health-financing-observatory-for-au-member-states/",
     "country": "_AU",
     "deadline": "2026-09-04",
-    "deadline_days": 19,
+    "deadline_days": 18,
     "value_usd": null,
     "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites eligible and qualified bilingual English/French consultancy firms to submit proposals for the Feasibility Assessment of the Establishment and Implementation of a Continental Health Financing Observatory for African Union Member States. The consultancy will undertake a comprehensive feasibility assessment for the proposed Sustainable African Centre for Investment in Health Accountability (SACIA) Observatory, including the development of an institutional model, governance framework, financial sustainability pathway, and phased implementation roadmap to strengthen health financing intelligence, foster fiscal dialogue and evidence-informed decision-making and policy reforms across AU Member States. Duration : Three (3) months with the possibility of extension based on project needs. Location : Remote, with in-country missions in two (2) AU Member States. Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested firms must be legally registered, bilingual (English/French) consultancy firm or consortium with demonstrated expertise in health financing, public financial management (PFM), governance, institutional analysis, and multidisciplinary project management. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. Objective The objective of the consultancy is to a",
     "fit_per_area": {
@@ -521,7 +485,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-08-16T06:37:54.468701+00:00"
+    "fetched_at": "2026-08-17T06:52:36.033406+00:00"
   },
   {
     "id": "67da32267df9",
@@ -555,7 +519,43 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-08-16T06:37:54.469841+00:00"
+    "fetched_at": "2026-08-17T06:52:36.034549+00:00"
+  },
+  {
+    "id": "8a14f594b536",
+    "source": "TED",
+    "title": "Finland – Medical consumables – Apteekin elatusaineet",
+    "url": "https://ted.europa.eu/en/notice/417663-2026",
+    "country": "AN",
+    "deadline": "2026-08-19",
+    "deadline_days": 2,
+    "value_usd": null,
+    "description": "Pohjois-Pohjanmaan hyvinvointialue. Pohjois-Pohjanmaan hyvinvointialue (Pohde) pyytää omasta ja siihen kuuluvan yhteistyöalueen yksiköiden puolesta tarjoustanne apteekin steriileistä elatusaineista. Yhteistyöalueeseen kuuluvat Pohteen lisäksi Kainuun, Lapin ja Keski-Pohjanmaan hyvinvointialueet. Hankinnan kohteena ovat apteekin steriilit mikrobiologiset elatusaineet, joita käytetään puhdastilaympäristössä steriilien lääkevalmisteiden valmistusprosessien kontrollointiin sekä aseptisten työmenetelmien testaukseen. Hankintaan sisältyvät erityisesti tryptone soya broth -pohjaiset elatusaineet eri pakkausmuodoissa sekä elatusaineiden käyttöön soveltuvat steriilit injektiopullot. Osa tuotteista on tarkoitettu käytettäviksi automaatiorobotilla, jolloin tuotteiden on täytettävä erillisessä liitteessä määritellyt mitoitusvaatimukset. Hankinnan tarkempi sisältö, tuotteet, pakkausvaatimukset sekä kulutusmäärät on esitetty liitteessä ”Tuotteet ja hinnat”. Tarjoajan tulee tarjota kaikki liitteessä esitetyt vertailuun sisältyvät tuotteet. Ilmoitetut kulutusmäärät ovat arvioita, eivätkä ne muodosta hankintayksikölle määräostovelvoitetta. Sopimuskausi on arviolta 1.10.2026 - 30.9.2028. Sopimusta voidaan jatkaa kahdella yhden vuoden mittaisella optiokaudella. Tarjouspyynnössä ilmoitetut hankintamäärät ovat arvioituja yhden vuoden kulutusmääriä ja ne ilmoitetaan tarjoajille ainoastaan tarjouksen tekemisen tueksi. Hankintasopimus ei muodosta hankintayksikölle määräostovelvoitetta, vaan todellin",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "417663-2026"
+    },
+    "fetched_at": "2026-08-17T06:52:36.035655+00:00"
   },
   {
     "id": "679b370d7a5e",
@@ -564,7 +564,7 @@
     "url": "https://www.ungm.org/Public/Notice/309592",
     "country": "VA",
     "deadline": "2026-08-20",
-    "deadline_days": 4,
+    "deadline_days": 3,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for quotation. Reference: LRFQ 2026-9205451. Matched query: vaccine.",
     "fit_per_area": {
@@ -596,7 +596,43 @@
       "ungm_query": "vaccine",
       "published": "2026-08-04"
     },
-    "fetched_at": "2026-08-16T06:37:54.487120+00:00"
+    "fetched_at": "2026-08-17T06:52:36.048393+00:00"
+  },
+  {
+    "id": "1ef62b09a6d2",
+    "source": "TED",
+    "title": "Netherlands – Company health services – Arbodienstverlening",
+    "url": "https://ted.europa.eu/en/notice/420801-2026",
+    "country": "NL",
+    "deadline": "2026-08-17",
+    "deadline_days": 0,
+    "value_usd": null,
+    "description": "Gemeente Enschede. De gemeente Enschede, als aanbestedende dienst, wenst op grond van behoefte een opdrachtnemer te contracteren voor het leveren van arbodienstverlening voor de Sociale Werkvoorziening gemeente Enschede (DCW). Gemeente Enschede treedt in deze aanbesteding ook op als penvoerder voor de SWB, Onderhoud Enschede en Uniqo. De geraamde waarde bedraagt in totaal €3.960.000 voor de duur van zes (6) jaar. Iedere deelnemer sluit voor zichzelf een raamovereenkomst af",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "420801-2026"
+    },
+    "fetched_at": "2026-08-17T06:52:36.045767+00:00"
   },
   {
     "id": "97c78cbcc39a",
@@ -605,7 +641,7 @@
     "url": "https://www.ungm.org/Public/Notice/307289",
     "country": "MU",
     "deadline": "2026-08-18",
-    "deadline_days": 2,
+    "deadline_days": 1,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFPS-NYH-2026-503937. Matched query: immunization.",
     "fit_per_area": {
@@ -637,7 +673,7 @@
       "ungm_query": "immunization",
       "published": "2026-07-29"
     },
-    "fetched_at": "2026-08-16T06:37:54.488501+00:00"
+    "fetched_at": "2026-08-17T06:52:36.049793+00:00"
   },
   {
     "id": "39e924266bbe",
@@ -646,7 +682,7 @@
     "url": "https://www.ungm.org/Public/Notice/307717",
     "country": "PH",
     "deadline": "2026-08-21",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9205106. Matched query: vaccination.",
     "fit_per_area": {
@@ -678,7 +714,43 @@
       "ungm_query": "vaccination",
       "published": "2026-08-14"
     },
-    "fetched_at": "2026-08-16T06:37:54.487772+00:00"
+    "fetched_at": "2026-08-17T06:52:36.049064+00:00"
+  },
+  {
+    "id": "1a65e2bdfa91",
+    "source": "TED",
+    "title": "Sweden – Company health services – Företagshälsovård",
+    "url": "https://ted.europa.eu/en/notice/419109-2026",
+    "country": "SE",
+    "deadline": "2026-08-24",
+    "deadline_days": 7,
+    "value_usd": null,
+    "description": "Region Kronoberg. Företagshälsovård",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "419109-2026"
+    },
+    "fetched_at": "2026-08-17T06:52:36.041301+00:00"
   },
   {
     "id": "7bd677c2cb72",
@@ -687,7 +759,7 @@
     "url": "https://www.ungm.org/Public/Notice/308367",
     "country": "MU",
     "deadline": "2026-08-24",
-    "deadline_days": 8,
+    "deadline_days": 7,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503936. Matched query: vaccine.",
     "fit_per_area": {
@@ -704,7 +776,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": false,
+      "urgent_deadline": true,
       "expired": false
     },
     "flag_notes": {
@@ -719,7 +791,7 @@
       "ungm_query": "vaccine",
       "published": "2026-07-23"
     },
-    "fetched_at": "2026-08-16T06:37:54.487444+00:00"
+    "fetched_at": "2026-08-17T06:52:36.048734+00:00"
   },
   {
     "id": "301d79ea49ed",
@@ -728,7 +800,7 @@
     "url": "https://www.ungm.org/Public/Notice/310156",
     "country": "PA",
     "deadline": "2026-08-24",
-    "deadline_days": 8,
+    "deadline_days": 7,
     "value_usd": null,
     "description": "Agency: WHO. Type: Request for proposal. Reference: EM/ACO/PAK/P/0009309. Matched query: EPI.",
     "fit_per_area": {
@@ -745,7 +817,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": false,
+      "urgent_deadline": true,
       "expired": false
     },
     "flag_notes": {
@@ -760,7 +832,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-07"
     },
-    "fetched_at": "2026-08-16T06:37:54.490670+00:00"
+    "fetched_at": "2026-08-17T06:52:36.051972+00:00"
   },
   {
     "id": "579a54e478ec",
@@ -769,7 +841,7 @@
     "url": "https://www.ungm.org/Public/Notice/309712",
     "country": "MU",
     "deadline": "2026-08-26",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Agency: WHO. Type: Request for proposal. Reference: WHO-SHQ-RFP-26-2023. Matched query: vaccine.",
     "fit_per_area": {
@@ -801,7 +873,7 @@
       "ungm_query": "vaccine",
       "published": "2026-08-04"
     },
-    "fetched_at": "2026-08-16T06:37:54.487170+00:00"
+    "fetched_at": "2026-08-17T06:52:36.048442+00:00"
   },
   {
     "id": "b1cea726c189",
@@ -810,7 +882,7 @@
     "url": "https://www.ungm.org/Public/Notice/310935",
     "country": "PA",
     "deadline": "2026-08-26",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Agency: WHO. Type: Invitation to bid. Reference: EM/RGO/DAF/LSP/P/0009362. Matched query: EPI.",
     "fit_per_area": {
@@ -842,7 +914,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-13"
     },
-    "fetched_at": "2026-08-16T06:37:54.490557+00:00"
+    "fetched_at": "2026-08-17T06:52:36.051859+00:00"
   },
   {
     "id": "3ed387e739f6",
@@ -851,7 +923,7 @@
     "url": "https://www.ungm.org/Public/Notice/308042",
     "country": "NE",
     "deadline": "2026-08-28",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "Agency: ICC. Type: Request for EOI. Reference: EOI 134790. Matched query: vaccination.",
     "fit_per_area": {
@@ -883,7 +955,7 @@
       "ungm_query": "vaccination",
       "published": "2026-07-21"
     },
-    "fetched_at": "2026-08-16T06:37:54.487890+00:00"
+    "fetched_at": "2026-08-17T06:52:36.049182+00:00"
   },
   {
     "id": "29dcacefce82",
@@ -892,7 +964,7 @@
     "url": "https://www.ungm.org/Public/Notice/309998",
     "country": "UZ",
     "deadline": "2026-08-28",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "Agency: UNOPS. Type: Request for proposal. Reference: RFP/2026/64083. Matched query: EPI.",
     "fit_per_area": {
@@ -924,7 +996,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-06"
     },
-    "fetched_at": "2026-08-16T06:37:54.490725+00:00"
+    "fetched_at": "2026-08-17T06:52:36.052026+00:00"
   },
   {
     "id": "bf9efbb3fa94",
@@ -933,7 +1005,7 @@
     "url": "https://www.ungm.org/Public/Notice/309584",
     "country": "MU",
     "deadline": "2026-08-31",
-    "deadline_days": 15,
+    "deadline_days": 14,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24604. Matched query: EPI.",
     "fit_per_area": {
@@ -965,7 +1037,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-03"
     },
-    "fetched_at": "2026-08-16T06:37:54.490774+00:00"
+    "fetched_at": "2026-08-17T06:52:36.052073+00:00"
   },
   {
     "id": "fcfaa05b6234",
@@ -974,7 +1046,7 @@
     "url": "https://www.ungm.org/Public/Notice/310797",
     "country": "MU",
     "deadline": "2026-09-02",
-    "deadline_days": 17,
+    "deadline_days": 16,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24624. Matched query: EPI.",
     "fit_per_area": {
@@ -1006,7 +1078,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-12"
     },
-    "fetched_at": "2026-08-16T06:37:54.490617+00:00"
+    "fetched_at": "2026-08-17T06:52:36.051919+00:00"
   },
   {
     "id": "3c45323f7b30",
@@ -1015,7 +1087,7 @@
     "url": "https://www.ungm.org/Public/Notice/309297",
     "country": "MU",
     "deadline": "2026-09-04",
-    "deadline_days": 19,
+    "deadline_days": 18,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503926. Matched query: vaccine.",
     "fit_per_area": {
@@ -1047,7 +1119,7 @@
       "ungm_query": "vaccine",
       "published": "2026-07-31"
     },
-    "fetched_at": "2026-08-16T06:37:54.487287+00:00"
+    "fetched_at": "2026-08-17T06:52:36.048559+00:00"
   },
   {
     "id": "ea14e3401a66",
@@ -1056,7 +1128,7 @@
     "url": "https://www.ungm.org/Public/Notice/309299",
     "country": "MU",
     "deadline": "2026-09-04",
-    "deadline_days": 19,
+    "deadline_days": 18,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503939. Matched query: vaccine.",
     "fit_per_area": {
@@ -1088,7 +1160,7 @@
       "ungm_query": "vaccine",
       "published": "2026-07-31"
     },
-    "fetched_at": "2026-08-16T06:37:54.487364+00:00"
+    "fetched_at": "2026-08-17T06:52:36.048652+00:00"
   },
   {
     "id": "94e200e08086",
@@ -1097,7 +1169,7 @@
     "url": "https://www.ungm.org/Public/Notice/310955",
     "country": "MO",
     "deadline": "2026-09-07",
-    "deadline_days": 22,
+    "deadline_days": 21,
     "value_usd": null,
     "description": "Agency: IFAD. Type: Request for proposal. Reference: IFAD/2026/022/RFP. Matched query: EPI.",
     "fit_per_area": {
@@ -1129,7 +1201,43 @@
       "ungm_query": "EPI",
       "published": "2026-08-13"
     },
-    "fetched_at": "2026-08-16T06:37:54.490512+00:00"
+    "fetched_at": "2026-08-17T06:52:36.051815+00:00"
+  },
+  {
+    "id": "f39db8d1f763",
+    "source": "TED",
+    "title": "Netherlands – Health services – Arbodienstverlening GGD Brabant-Zuidoost",
+    "url": "https://ted.europa.eu/en/notice/419223-2026",
+    "country": "NL",
+    "deadline": "2026-09-09",
+    "deadline_days": 23,
+    "value_usd": null,
+    "description": "GGD Brabant-Zuidoost. Met deze aanbesteding wil de aanbestedende dienst de veiligheid, de gezondheid en het welzijn van de medewerkers bevorderen, zodat deze vitaal en duurzaam inzetbaar zijn en blijven én inzetten op verzuim-beheersing en -preventie. Binnen de GGD BZO werken mensen met grote betrokkenheid aan de gezondheid van onze inwoners. Tegelijkertijd zien we de druk in ons werk en op (de gezondheid van) onze medewerkers toenemen. Gezondheid en inzetbaarheid zijn geen vanzelfsprekendheid, maar vragen om bewuste aandacht en gerichte keuzes. De druk op gezondheid en inzetbaarheid neemt toe o.a. door: Tekorten arbeidsmarkt Oplopende pensioenleeftijd –langer doorwerken Groei van mantelzorgtaken onder medewerkers Toename werkdruk en stress –mentale gezondheid Zware fysieke en mentale belasting Deze ontwikkelingen vragen om een gerichte en samenhangende aanpak, waarin de GGD kiest voor gezondheid als vertrekpunt, wat vastgelegd wordt in een organisatiebreed gezondheidsbeleid. Dit beleid moet een strategisch kader bieden voor gezondheid en inzetbaarheid van medewerkers, gericht op duurzame gedragsverandering (geen losse initiatieven). Het beleid moet aansluiten op de missie, visie, doelstellingen én behoeften van medewerkers. Het zal gaan over een combinatie van generieke én doelgroepgerichte aanpak die aansluit bij de leeftijdsfase, aard van de werkzaamheden en/of persoonlijke situatie van medewerkers. Naast de uitvoering van de wettelijk vastgelegde Arbodienstverleningstaken",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "419223-2026"
+    },
+    "fetched_at": "2026-08-17T06:52:36.042072+00:00"
   },
   {
     "id": "36863da48ecc",
@@ -1138,7 +1246,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00462183",
     "country": "IN",
     "deadline": "2026-09-24",
-    "deadline_days": 39,
+    "deadline_days": 38,
     "value_usd": null,
     "description": "Invitation for Bids. Request for Bids. Project: Indonesia Health Systems Strengthening Project. Country: Indonesia. Reference: ID-PMU SOPHI-542999-GO-RFB.",
     "fit_per_area": {
@@ -1167,13 +1275,13 @@
       "wb_project_id": "P180811",
       "wb_reference": "ID-PMU SOPHI-542999-GO-RFB"
     },
-    "fetched_at": "2026-08-16T06:37:54.486228+00:00"
+    "fetched_at": "2026-08-17T06:52:36.047586+00:00"
   },
   {
-    "id": "96f6a59c8d45",
+    "id": "5502aaa16803",
     "source": "TED",
     "title": "Finland – Medical equipments, pharmaceuticals and personal care products – Osallistumisilmoitus Haartmaninkatu 3 Patologian ja Genetiikka muutokset Hankintaosio KSL 1",
-    "url": "https://ted.europa.eu/en/notice/410666-2026",
+    "url": "https://ted.europa.eu/en/notice/420799-2026",
     "country": "FI",
     "deadline": null,
     "deadline_days": null,
@@ -1201,9 +1309,9 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "410666-2026"
+      "ted_publication_number": "420799-2026"
     },
-    "fetched_at": "2026-08-16T06:37:54.473250+00:00"
+    "fetched_at": "2026-08-17T06:52:36.045634+00:00"
   },
   {
     "id": "e5bd231a32b4",
@@ -1241,18 +1349,18 @@
       "published": "2026-08-15T09:09:24+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.491829+00:00"
+    "fetched_at": "2026-08-17T06:52:36.053139+00:00"
   },
   {
-    "id": "b129a66ef1b9",
+    "id": "c2354d5646f6",
     "source": "Signal:Biovac",
-    "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - Business Insider Africa",
+    "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - africa.businessinsider.com",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEh4cENadER6WDhtSzhRMnhPMjdHalJvanJRYm5IODZOS1lWNk5xYU1ScmRwbXBMLURYUnFTY2VQMzVPTmxjWkxmSll0MVFxOGRfZF9FUE15MXZTXzFvYkpLQ0QtZmFPMEJxMlRZOTRiVHN0Q00xVmc5UV82bzlRLXJCOVZjQ09Uc1lsVGNsMW1zQmRWWENsMFpyMDNUanBDUGhxdUxLekRWbDFwcDlfTXpmX204cnE2eVh4X2ozYjhUREw3U2kxWnZUQkt1d0JaQ01VZkZWWXE?oc=5",
     "country": "ZA",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant &nbsp;&nbsp; Business Insider Africa",
+    "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant &nbsp;&nbsp; africa.businessinsider.com",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1279,7 +1387,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.492252+00:00"
+    "fetched_at": "2026-08-17T06:52:36.053557+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -1317,7 +1425,7 @@
       "published": "2026-08-12T02:39:30+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.492559+00:00"
+    "fetched_at": "2026-08-17T06:52:36.053896+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -1355,18 +1463,18 @@
       "published": "2026-07-29T10:38:23+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.493399+00:00"
+    "fetched_at": "2026-08-17T06:52:36.055098+00:00"
   },
   {
-    "id": "ff56ac61df73",
+    "id": "1f2cbe063916",
     "source": "Signal:Biovac",
-    "title": "Biovac vaccine project expected create jobs in SA - Channel Africa",
+    "title": "Biovac vaccine project expected create jobs in SA - channelafrica.co.za",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0hlWUdqRzZRcnJ2T0FNYkR3Vl9zYnp4QnVzdHphM3BfWEVGeFFYVGxRc3E0S19sVGtKNTNjRXJpQXBoMUhNQnJtenYxQlNtRDlkMjdEZHBuMzM2ZXpYTVVJZEE3cGxJVWQtMUIzMnc0SVhYaTJqWXdDYjQwb1VMVmlxZlJHdU1EU3BOaUdPcXVHTW9VRTNTdzdvbVdtMHpNZ0R3?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Biovac vaccine project expected create jobs in SA &nbsp;&nbsp; Channel Africa",
+    "description": "Biovac vaccine project expected create jobs in SA &nbsp;&nbsp; channelafrica.co.za",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1393,7 +1501,7 @@
       "published": "2026-05-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.494345+00:00"
+    "fetched_at": "2026-08-17T06:52:36.055845+00:00"
   },
   {
     "id": "2a61f0e571fa",
@@ -1431,7 +1539,7 @@
       "published": "2026-05-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.494825+00:00"
+    "fetched_at": "2026-08-17T06:52:36.056213+00:00"
   },
   {
     "id": "c2b50944abe4",
@@ -1469,7 +1577,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.496234+00:00"
+    "fetched_at": "2026-08-17T06:52:36.057791+00:00"
   },
   {
     "id": "3d15e0ee53ad",
@@ -1507,18 +1615,18 @@
       "published": "2026-08-05T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.497364+00:00"
+    "fetched_at": "2026-08-17T06:52:36.058973+00:00"
   },
   {
-    "id": "964138115442",
+    "id": "7895d9459a90",
     "source": "Signal:Institut Pasteur Dakar",
-    "title": "Chikungunya Vaccine Development in Africa Accelerated by ACT-CHIK - genengnews.com",
+    "title": "Chikungunya Vaccine Development in Africa Accelerated by ACT-CHIK - Genetic Engineering and Biotechnology News",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1lPZTh0YjQ5S1pGVFpXZmZrVmNTRW15ejM1Q24ta1VUUWRGZ0VWeHhOWlI2SVRkRlhJc1l4Q25fb0dlQ1RaSm9ESU5MNFR3aXgzYk05TEpzSFBYa081VUFGWGpDbWJXMVRtYXFja1ZTaGRjYkM3dEJJZTJ3U3VndndzNFhaZEhMWmxlVl9oYVgtdUZjdHJob1o2ZHdiak5hTzZNMTVITktNNE45RGg5eVNWYkt5VDMwanB1QQ?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Chikungunya Vaccine Development in Africa Accelerated by ACT-CHIK &nbsp;&nbsp; genengnews.com",
+    "description": "Chikungunya Vaccine Development in Africa Accelerated by ACT-CHIK &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1545,7 +1653,7 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-16T06:37:54.497708+00:00"
+    "fetched_at": "2026-08-17T06:52:36.059404+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -1583,7 +1691,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-16T06:37:54.498044+00:00"
+    "fetched_at": "2026-08-17T06:52:36.059757+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -1621,6 +1729,6 @@
       "published": "2026-08-01T04:48:20+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-16T06:37:54.498898+00:00"
+    "fetched_at": "2026-08-17T06:52:36.060650+00:00"
   }
 ]
