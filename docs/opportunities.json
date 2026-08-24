@@ -35,7 +35,7 @@
       "published": "2026-05-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-23T06:39:03.429425+00:00"
+    "fetched_at": "2026-08-24T06:55:41.653425+00:00"
   },
   {
     "id": "983a714551c9",
@@ -73,7 +73,7 @@
       "published": "2026-06-30T12:13:43+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-23T06:39:03.429900+00:00"
+    "fetched_at": "2026-08-24T06:55:41.653922+00:00"
   },
   {
     "id": "53d3b797e94c",
@@ -82,7 +82,7 @@
     "url": "https://www.ungm.org/Public/Notice/311756",
     "country": "MU",
     "deadline": "2026-09-18",
-    "deadline_days": 26,
+    "deadline_days": 25,
     "value_usd": null,
     "description": "Agency: WHO. Type: Request for proposal. Reference: WHO-SHQ-RFP-26-2031. Matched query: immunization.",
     "fit_per_area": {
@@ -114,7 +114,7 @@
       "ungm_query": "immunization",
       "published": "2026-08-20"
     },
-    "fetched_at": "2026-08-23T06:39:03.423175+00:00"
+    "fetched_at": "2026-08-24T06:55:41.647765+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -152,43 +152,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-23T06:39:03.433020+00:00"
-  },
-  {
-    "id": "f85eff0adeab",
-    "source": "TED",
-    "title": "Belgium – Research and experimental development services – Long-term API stockpiling and rapid finished dose form manufacture",
-    "url": "https://ted.europa.eu/en/notice/428485-2026",
-    "country": "AN",
-    "deadline": "2026-09-29",
-    "deadline_days": 37,
-    "value_usd": null,
-    "description": "Health and Digital Executive Agency (HaDEA) , HADEA - Health and Digital Executive Agency. The European Health and Digital Executive Agency (HaDEA) is planning to launch a call for tenders on \"Long-term API stockpiling and rapid finished dose form manufacture\", a feasibility project to assess its application in crisis preparedness. This project aims to support the development of and access to technologies that can prolong the shelf-life of Active Pharmaceutical Ingredients (APIs) stored in bulk and advanced manufacturing technologies to produce finished dose forms from those bulk APIs rapidly, enhancing crisis preparedness by exploring potential gains in sustainability, resiliency, and flexibility to respond to future health emergencies. The upcoming call for tenders will request the development of a pilot feasibility project to test this concept, assess its viability, and provide recommendations on how to operationalise the approach",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "428485-2026"
-    },
-    "fetched_at": "2026-08-23T06:39:03.410344+00:00"
+    "fetched_at": "2026-08-24T06:55:41.657670+00:00"
   },
   {
     "id": "a73989a6284f",
@@ -197,7 +161,7 @@
     "url": "https://ted.europa.eu/en/notice/431738-2026",
     "country": "DE",
     "deadline": "2028-05-10",
-    "deadline_days": 626,
+    "deadline_days": 625,
     "value_usd": null,
     "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nichtexklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.08.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter https://vergabeportal.gwq-serviceplus.de/arzneimittel einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.07.2026 kann eine erstmalige Meldung zum 01.08.2026 realisiert werden. Folgende Unterlagen sind einzureichen: unterzeichneter Vertrag in doppelter Ausfertigung; einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug aus dem öffentlichen Teil der AMIceDatenbank; unterzeichnete Eigenerklärung (Anlage 3). Liste der vertragsgegenständlichen PZN (Anlage 4), Eigenerklärung zur EU-Verordnung (Anlage 5)",
     "fit_per_area": {
@@ -224,7 +188,7 @@
     "raw": {
       "ted_publication_number": "431738-2026"
     },
-    "fetched_at": "2026-08-23T06:39:03.416553+00:00"
+    "fetched_at": "2026-08-24T06:55:41.634126+00:00"
   },
   {
     "id": "b137cf8c9e61",
@@ -262,7 +226,7 @@
       "published": "2026-05-26T12:11:27+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-23T06:39:03.427009+00:00"
+    "fetched_at": "2026-08-24T06:55:41.651330+00:00"
   },
   {
     "id": "9f2f4dfd0fd7",
@@ -300,7 +264,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-23T06:39:03.427202+00:00"
+    "fetched_at": "2026-08-24T06:55:41.651536+00:00"
   },
   {
     "id": "37737e671331",
@@ -338,45 +302,7 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-23T06:39:03.428449+00:00"
-  },
-  {
-    "id": "05962f72b7b0",
-    "source": "Signal:Biovac",
-    "title": "Biovac expansion positions South Africa as continental vaccine manufacturing hub - IOL",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMGdtanItUThacEJjdTVzM2c0NlVWN0NyLUVfR2NqNkJaV3AzbUs0MEkwaDdPN1FsZXJmYVR3cnJUaE85aDRHOFUzbEhsc3ZFY0hocmNjMEhPMFd5ZVp2WGNjWnVXWHQ3cWRBNk5rVzBlaHpmcTdUNFRMcHdPRDJ3NW1RU0psaFRreERYSl9ZbkNTc3pTbkFyMF9wOGxqejZWYzhsbExYeXkza1hjczhxYmtuUDNZcE5CbnhnbUlrNU9QeUE4?oc=5",
-    "country": "ZA",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Biovac expansion positions South Africa as continental vaccine manufacturing hub &nbsp;&nbsp; IOL",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-05-25T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-08-23T06:39:03.429230+00:00"
+    "fetched_at": "2026-08-24T06:55:41.652881+00:00"
   },
   {
     "id": "79f77cfe6238",
@@ -414,7 +340,7 @@
       "published": "2026-06-15T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-23T06:39:03.430059+00:00"
+    "fetched_at": "2026-08-24T06:55:41.654085+00:00"
   },
   {
     "id": "7957d095f782",
@@ -452,7 +378,83 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-23T06:39:03.432609+00:00"
+    "fetched_at": "2026-08-24T06:55:41.657219+00:00"
+  },
+  {
+    "id": "3301c0539fa2",
+    "source": "Signal:AVMA",
+    "title": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion - fundsforNGOs News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkxxZEZoekVWTzNMZXNZOUZnYXVPRERWNFpDQ19lVTBTdHFFeHgzcFZXVXUtaHBfWmpIdkUxSXliWWI0aS02TlZtZUYzMWU1RWFhN3hXb3pZWXo1MWJ0RDR2ckY5WkxyZGRUbERYaDU3QzJtdzBxQ29ZZV9uWDVFZXd5N2hGWXJtSFVyd1laN0RlQzk3MXhoUkxGWTRTODJ0NTZSeVdVT0JOQW9VaTRHSDRHU3E5dzFJVi1wT1ViYw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion &nbsp;&nbsp; fundsforNGOs News",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "donor": "AVMA",
+      "published": "2026-04-17T07:00:00+00:00",
+      "signal_type": "donor"
+    },
+    "fetched_at": "2026-08-24T06:55:41.658342+00:00"
+  },
+  {
+    "id": "efaed8a418ae",
+    "source": "World Bank",
+    "title": "CI para a preparacao do Manual Operacional do Projeto (MOP) do  AETA",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00463305",
+    "country": "BR",
+    "deadline": "2026-09-02",
+    "deadline_days": 9,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: GFPP - Accelerating Energy Transition in the Amazon. Country: Brazil. Reference: BASA_09.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 3,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 3,
+    "fit_top_area": "regulatory",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P181941",
+      "wb_reference": "BASA_09"
+    },
+    "fetched_at": "2026-08-24T06:55:41.646304+00:00"
   },
   {
     "id": "481c9c9874b9",
@@ -461,7 +463,7 @@
     "url": "https://africacdc.org/opportunity/consultancy-services-to-support-africa-cdc-and-the-african-union-in-assessing-the-feasibility-of-the-implementation-of-a-continental-health-financing-observatory-for-au-member-states/",
     "country": "_AU",
     "deadline": "2026-09-04",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites eligible and qualified bilingual English/French consultancy firms to submit proposals for the Feasibility Assessment of the Establishment and Implementation of a Continental Health Financing Observatory for African Union Member States. The consultancy will undertake a comprehensive feasibility assessment for the proposed Sustainable African Centre for Investment in Health Accountability (SACIA) Observatory, including the development of an institutional model, governance framework, financial sustainability pathway, and phased implementation roadmap to strengthen health financing intelligence, foster fiscal dialogue and evidence-informed decision-making and policy reforms across AU Member States. Duration : Three (3) months with the possibility of extension based on project needs. Location : Remote, with in-country missions in two (2) AU Member States. Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested firms must be legally registered, bilingual (English/French) consultancy firm or consortium with demonstrated expertise in health financing, public financial management (PFM), governance, institutional analysis, and multidisciplinary project management. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. Objective The objective of the consultancy is to a",
     "fit_per_area": {
@@ -486,157 +488,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-08-23T06:39:03.409527+00:00"
-  },
-  {
-    "id": "cda6dfec9f46",
-    "source": "World Bank",
-    "title": "Consultant for Tourism Committee/ Expert in Tourism Cluster Development Plan Preparation",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00463810",
-    "country": "AR",
-    "deadline": "2026-09-04",
-    "deadline_days": 12,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Armenia Tourism and Regional Infrastructure Project. Country: Armenia. Reference: TRIP-IC-02.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P504282",
-      "wb_reference": "TRIP-IC-02"
-    },
-    "fetched_at": "2026-08-23T06:39:03.421584+00:00"
-  },
-  {
-    "id": "9c3220f66715",
-    "source": "World Bank",
-    "title": "TA for Review of the Feasibility Study, Preparation of Environmental and Social Requirements, Detailed Design, and Construction Supervision for the ISUV Residues and Contaminants Laboratory",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00463691",
-    "country": "AL",
-    "deadline": "2026-09-06",
-    "deadline_days": 14,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Climate Resilience and Agriculture Development Project. Country: Albania. Reference: AL-MARD-560510-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P178715",
-      "wb_reference": "AL-MARD-560510-CS-CQS"
-    },
-    "fetched_at": "2026-08-23T06:39:03.421014+00:00"
-  },
-  {
-    "id": "af0a87365f29",
-    "source": "World Bank",
-    "title": "Oficial de Adquisiciones (2) para la UAP-PROSALH",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00463850",
-    "country": "HO",
-    "deadline": "2026-09-07",
-    "deadline_days": 15,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Restoring Essential Services for Health and Advancing Preparedness for Emergencies Project. Country: Honduras. Reference: HN-SESAL-567143-CS-INDV.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P176532",
-      "wb_reference": "HN-SESAL-567143-CS-INDV"
-    },
-    "fetched_at": "2026-08-23T06:39:03.420889+00:00"
-  },
-  {
-    "id": "dd876c484b69",
-    "source": "TED",
-    "title": "Sweden – Health services – DIS - Vårdtjänster",
-    "url": "https://ted.europa.eu/en/notice/429142-2026",
-    "country": "AN",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Region Norrbotten. Region Norrbotten inbjuder till att ansöka om att delta i ett dynamiskt inköpssystem – Vårdtjänster, enligt bifogade instruktioner och handlingar. En inledande ansökningsperiod löper under 30 dagar från att Inköpssystemet annonserats. Alla ansökningar som inkommit inom den inledande 30-dagarsperioden ska utvärderas innan Region Norrbotten får börja använda Inköpssystemet och bjuda in till anbudsgivning för specifika uppdrag. Region Norrbotten avser upphandla hälso-och sjukvårdstjänster som innefattar medicinsk bedömning, behandling, diagnostik, omvårdnad och rådgivning inom hälso - och sjukvård. Uppdragen i detta inköpssystem kan komma att omfatta olika områden inom vårdsektorn, exempelvis: OrtopediKirurgiUrologiGynekologiÖNHÖgonRöntgen",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "429142-2026"
-    },
-    "fetched_at": "2026-08-23T06:39:03.411183+00:00"
+    "fetched_at": "2026-08-24T06:55:41.633089+00:00"
   },
   {
     "id": "1b823930c398",
@@ -672,7 +524,7 @@
     "raw": {
       "ted_publication_number": "432259-2026"
     },
-    "fetched_at": "2026-08-23T06:39:03.417599+00:00"
+    "fetched_at": "2026-08-24T06:55:41.635069+00:00"
   },
   {
     "id": "679b370d7a5e",
@@ -681,7 +533,7 @@
     "url": "https://www.ungm.org/Public/Notice/309592",
     "country": "VA",
     "deadline": "2026-08-27",
-    "deadline_days": 4,
+    "deadline_days": 3,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for quotation. Reference: LRFQ 2026-9205451. Matched query: vaccine.",
     "fit_per_area": {
@@ -713,7 +565,7 @@
       "ungm_query": "vaccine",
       "published": "2026-08-04"
     },
-    "fetched_at": "2026-08-23T06:39:03.421760+00:00"
+    "fetched_at": "2026-08-24T06:55:41.646393+00:00"
   },
   {
     "id": "7bd677c2cb72",
@@ -722,7 +574,7 @@
     "url": "https://www.ungm.org/Public/Notice/308367",
     "country": "MU",
     "deadline": "2026-08-24",
-    "deadline_days": 1,
+    "deadline_days": 0,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503936. Matched query: vaccine.",
     "fit_per_area": {
@@ -754,18 +606,18 @@
       "ungm_query": "vaccine",
       "published": "2026-07-23"
     },
-    "fetched_at": "2026-08-23T06:39:03.422099+00:00"
+    "fetched_at": "2026-08-24T06:55:41.646720+00:00"
   },
   {
-    "id": "fb3b07c07ef7",
+    "id": "3884f889276c",
     "source": "TED",
-    "title": "Norway – Medical equipments, pharmaceuticals and personal care products – 2661 Seasonal flu vaccines",
-    "url": "https://ted.europa.eu/en/notice/429971-2026",
-    "country": "NO",
-    "deadline": "2026-08-26",
-    "deadline_days": 3,
+    "title": "Sweden – Medical equipments, pharmaceuticals and personal care products – Hygienprodukter, Etiketter och Övningsläkemedel",
+    "url": "https://ted.europa.eu/en/notice/433215-2026",
+    "country": "SE",
+    "deadline": "2026-08-25",
+    "deadline_days": 1,
     "value_usd": null,
-    "description": "SYKEHUSINNKJØP HF. Sykehusinnkjøp shall, on behalf of the contracting authority, procure Seasonal flu vaccines. This applies to the areas of ordinary, strengthened and nasal influenza vaccine. See the tender documentation for further information",
+    "description": "Försvarsmakten. Upphandlingen delas upp i två (2) olika delområden; Delområde A: Hygienprodukter Delområde B: Etiketter och Övningsläkemedel    Upphandlingen omfattar följande delområden; Hygienprodukter Detta område innefattar Försvarsmaktens löpande behov av hygienprodukter för menstruation som enligt beslut ska finnas tillgängligt för Försvarsmaktens personal.  Etiketter och Övningsläkemedel Detta område innefattar Försvarsmaktens löpande behov av förbrukningsmateriel för övning inom läkemedelsområdet i syfte att öva korrekt hantering och administration av läkemedel. Avtalet omfattas även sprutetiketter för övningsändamål och för skarp verksamhet i Försvarsmakten",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -788,9 +640,9 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "429971-2026"
+      "ted_publication_number": "433215-2026"
     },
-    "fetched_at": "2026-08-23T06:39:03.412909+00:00"
+    "fetched_at": "2026-08-24T06:55:41.637001+00:00"
   },
   {
     "id": "579a54e478ec",
@@ -799,7 +651,7 @@
     "url": "https://www.ungm.org/Public/Notice/309712",
     "country": "MU",
     "deadline": "2026-08-26",
-    "deadline_days": 3,
+    "deadline_days": 2,
     "value_usd": null,
     "description": "Agency: WHO. Type: Request for proposal. Reference: WHO-SHQ-RFP-26-2023. Matched query: vaccine.",
     "fit_per_area": {
@@ -831,7 +683,7 @@
       "ungm_query": "vaccine",
       "published": "2026-08-04"
     },
-    "fetched_at": "2026-08-23T06:39:03.421810+00:00"
+    "fetched_at": "2026-08-24T06:55:41.646442+00:00"
   },
   {
     "id": "39e924266bbe",
@@ -840,7 +692,7 @@
     "url": "https://www.ungm.org/Public/Notice/307717",
     "country": "PH",
     "deadline": "2026-08-28",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9205106. Matched query: vaccination.",
     "fit_per_area": {
@@ -872,7 +724,7 @@
       "ungm_query": "vaccination",
       "published": "2026-08-19"
     },
-    "fetched_at": "2026-08-23T06:39:03.422435+00:00"
+    "fetched_at": "2026-08-24T06:55:41.647045+00:00"
   },
   {
     "id": "3ed387e739f6",
@@ -881,7 +733,7 @@
     "url": "https://www.ungm.org/Public/Notice/308042",
     "country": "NE",
     "deadline": "2026-08-28",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Agency: ICC. Type: Request for EOI. Reference: EOI 134790. Matched query: vaccination.",
     "fit_per_area": {
@@ -913,7 +765,7 @@
       "ungm_query": "vaccination",
       "published": "2026-07-21"
     },
-    "fetched_at": "2026-08-23T06:39:03.422559+00:00"
+    "fetched_at": "2026-08-24T06:55:41.647160+00:00"
   },
   {
     "id": "29dcacefce82",
@@ -922,7 +774,7 @@
     "url": "https://www.ungm.org/Public/Notice/309998",
     "country": "UZ",
     "deadline": "2026-08-28",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Agency: UNOPS. Type: Request for proposal. Reference: RFP/2026/64083. Matched query: EPI.",
     "fit_per_area": {
@@ -954,7 +806,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-06"
     },
-    "fetched_at": "2026-08-23T06:39:03.425543+00:00"
+    "fetched_at": "2026-08-24T06:55:41.650061+00:00"
   },
   {
     "id": "0117817bf333",
@@ -963,7 +815,7 @@
     "url": "https://www.ungm.org/Public/Notice/311414",
     "country": "PA",
     "deadline": "2026-08-30",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Agency: WHO. Type: Invitation to bid. Reference: EM/RGO/DAF/LSP/P/0009465. Matched query: EPI.",
     "fit_per_area": {
@@ -995,7 +847,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-21"
     },
-    "fetched_at": "2026-08-23T06:39:03.425271+00:00"
+    "fetched_at": "2026-08-24T06:55:41.649802+00:00"
   },
   {
     "id": "301d79ea49ed",
@@ -1004,7 +856,7 @@
     "url": "https://www.ungm.org/Public/Notice/310156",
     "country": "PA",
     "deadline": "2026-08-31",
-    "deadline_days": 8,
+    "deadline_days": 7,
     "value_usd": null,
     "description": "Agency: WHO. Type: Request for proposal. Reference: EM/ACO/PAK/P/0009309. Matched query: EPI.",
     "fit_per_area": {
@@ -1021,7 +873,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": false,
+      "urgent_deadline": true,
       "expired": false
     },
     "flag_notes": {
@@ -1036,7 +888,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-21"
     },
-    "fetched_at": "2026-08-23T06:39:03.425327+00:00"
+    "fetched_at": "2026-08-24T06:55:41.649856+00:00"
   },
   {
     "id": "bf9efbb3fa94",
@@ -1045,9 +897,50 @@
     "url": "https://www.ungm.org/Public/Notice/309584",
     "country": "MU",
     "deadline": "2026-08-31",
-    "deadline_days": 8,
+    "deadline_days": 7,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24604. Matched query: EPI.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ungm_id": "309584",
+      "ungm_agency": "UN Secretariat",
+      "ungm_notice_type": "Request for EOI",
+      "ungm_reference": "EOIUNPD24604",
+      "ungm_query": "EPI",
+      "published": "2026-08-03"
+    },
+    "fetched_at": "2026-08-24T06:55:41.650110+00:00"
+  },
+  {
+    "id": "7d2d92555256",
+    "source": "World Bank",
+    "title": "CONSULTING SERVICES FOR DETAILED STRUCTURAL INSPECTION AND PREPARATION OF\nMAINTENANCE AND REHABILITATION REQUIREMENTS OF SPECIAL BRIDGES",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00459222",
+    "country": "NE",
+    "deadline": "2026-09-01",
+    "deadline_days": 8,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Third Bridges Improvement and Maintenance Program. Country: Nepal. Reference: BIMPIII-DOR-CS-QCBS-013.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1070,14 +963,11 @@
       "eligibility": ""
     },
     "raw": {
-      "ungm_id": "309584",
-      "ungm_agency": "UN Secretariat",
-      "ungm_notice_type": "Request for EOI",
-      "ungm_reference": "EOIUNPD24604",
-      "ungm_query": "EPI",
-      "published": "2026-08-03"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P507516",
+      "wb_reference": "BIMPIII-DOR-CS-QCBS-013"
     },
-    "fetched_at": "2026-08-23T06:39:03.425594+00:00"
+    "fetched_at": "2026-08-24T06:55:41.645530+00:00"
   },
   {
     "id": "fcfaa05b6234",
@@ -1086,7 +976,7 @@
     "url": "https://www.ungm.org/Public/Notice/310797",
     "country": "MU",
     "deadline": "2026-09-02",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24624. Matched query: EPI.",
     "fit_per_area": {
@@ -1118,7 +1008,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-12"
     },
-    "fetched_at": "2026-08-23T06:39:03.425485+00:00"
+    "fetched_at": "2026-08-24T06:55:41.650006+00:00"
   },
   {
     "id": "3c45323f7b30",
@@ -1127,7 +1017,7 @@
     "url": "https://www.ungm.org/Public/Notice/309297",
     "country": "MU",
     "deadline": "2026-09-04",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503926. Matched query: vaccine.",
     "fit_per_area": {
@@ -1159,7 +1049,7 @@
       "ungm_query": "vaccine",
       "published": "2026-07-31"
     },
-    "fetched_at": "2026-08-23T06:39:03.421939+00:00"
+    "fetched_at": "2026-08-24T06:55:41.646560+00:00"
   },
   {
     "id": "ea14e3401a66",
@@ -1168,7 +1058,7 @@
     "url": "https://www.ungm.org/Public/Notice/309299",
     "country": "MU",
     "deadline": "2026-09-04",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503939. Matched query: vaccine.",
     "fit_per_area": {
@@ -1200,7 +1090,7 @@
       "ungm_query": "vaccine",
       "published": "2026-07-31"
     },
-    "fetched_at": "2026-08-23T06:39:03.422020+00:00"
+    "fetched_at": "2026-08-24T06:55:41.646642+00:00"
   },
   {
     "id": "94e200e08086",
@@ -1209,7 +1099,7 @@
     "url": "https://www.ungm.org/Public/Notice/310955",
     "country": "MO",
     "deadline": "2026-09-07",
-    "deadline_days": 15,
+    "deadline_days": 14,
     "value_usd": null,
     "description": "Agency: IFAD. Type: Request for proposal. Reference: IFAD/2026/022/RFP. Matched query: EPI.",
     "fit_per_area": {
@@ -1241,79 +1131,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-13"
     },
-    "fetched_at": "2026-08-23T06:39:03.425423+00:00"
-  },
-  {
-    "id": "6933637252e4",
-    "source": "TED",
-    "title": "France – Company health services – Prestations de Santé au Travail : Médecine préventive",
-    "url": "https://ted.europa.eu/en/notice/431310-2026",
-    "country": "FR",
-    "deadline": "2026-09-08",
-    "deadline_days": 16,
-    "value_usd": null,
-    "description": "Ville de Roubaix. Cet accord-cadre fixe toutes les conditions d'exécution des prestations, il est exécuté au fur et à mesure de l'émission de bons de commande émis par le pouvoir adjudicateur. Le présent marché a pour objet la mise à disposition de personnel qualifié pour assurer les missions de médecine de prévention au profit des agents de la Ville de Roubaix, conformément au Code Général de la Fonction Publique. Le prestataire assure le suivi médical des agents de la Ville de Roubaix et conseille la collectivité sur l'amélioration des conditions de travail. Moyens humains et organisation L'équipe dédiée intervient selon le calendrier suivant: Médecin du travail : 2 vacations par semaine (soit 1 jour complet). Capacité : Chaque vacation (demi-journée) permet d'accueillir entre 5 et 7 agents Infirmière Santé Travail : 4 vacations par semaine (soit 2 jours complets)",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "431310-2026"
-    },
-    "fetched_at": "2026-08-23T06:39:03.415436+00:00"
-  },
-  {
-    "id": "e42125c63461",
-    "source": "TED",
-    "title": "Italy – Diagnostic systems – PROCEDURA APERTA PER LA FORNITURA QUINQUENNALE DI UN SISTEMA DI FAST MICROBIOLOGY PER L’ U.O.C. PATOLOGIA CLINICA",
-    "url": "https://ted.europa.eu/en/notice/430821-2026",
-    "country": "IT",
-    "deadline": "2026-09-10",
-    "deadline_days": 18,
-    "value_usd": null,
-    "description": "A.O. SAN PIO DI BENEVENTO. Fornitura quinquennale di un sistema di fast microbiology",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "430821-2026"
-    },
-    "fetched_at": "2026-08-23T06:39:03.414899+00:00"
+    "fetched_at": "2026-08-24T06:55:41.649948+00:00"
   },
   {
     "id": "8d6a9399fb84",
@@ -1322,7 +1140,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-123-2026-gavi-rfp-data-inventory-and-consulting",
     "country": null,
     "deadline": "2026-09-14",
-    "deadline_days": 22,
+    "deadline_days": 21,
     "value_usd": null,
     "description": "RFP: Invitation to tender for 123-2026-GAVI-RFP for Data Inventory and consulting",
     "fit_per_area": {
@@ -1347,45 +1165,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-08-23T06:39:03.408691+00:00"
-  },
-  {
-    "id": "b129a66ef1b9",
-    "source": "Signal:Biovac",
-    "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - Business Insider Africa",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEh4cENadER6WDhtSzhRMnhPMjdHalJvanJRYm5IODZOS1lWNk5xYU1ScmRwbXBMLURYUnFTY2VQMzVPTmxjWkxmSll0MVFxOGRfZF9FUE15MXZTXzFvYkpLQ0QtZmFPMEJxMlRZOTRiVHN0Q00xVmc5UV82bzlRLXJCOVZjQ09Uc1lsVGNsMW1zQmRWWENsMFpyMDNUanBDUGhxdUxLekRWbDFwcDlfTXpmX204cnE2eVh4X2ozYjhUREw3U2kxWnZUQkt1d0JaQ01VZkZWWXE?oc=5",
-    "country": "ZA",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant &nbsp;&nbsp; Business Insider Africa",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-07-27T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-08-23T06:39:03.426440+00:00"
+    "fetched_at": "2026-08-24T06:55:41.632430+00:00"
   },
   {
     "id": "e5bd231a32b4",
@@ -1423,7 +1203,7 @@
       "published": "2026-08-15T09:09:24+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-23T06:39:03.426843+00:00"
+    "fetched_at": "2026-08-24T06:55:41.651146+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -1461,7 +1241,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-23T06:39:03.427763+00:00"
+    "fetched_at": "2026-08-24T06:55:41.652135+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -1499,45 +1279,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-23T06:39:03.428073+00:00"
-  },
-  {
-    "id": "2a61f0e571fa",
-    "source": "Signal:Biovac",
-    "title": "Cape factory to develop vaccines from scratch as IDC, EU commit big money - News24",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHNleXdvOXBRT1RZYjh3N0FzRU92WXpxLWN3eG1pRTJNZmdxQWxHZzl0Yi1hdXR4TktjUVVVVnhDQ202WTZnbEd4bDNtT1l4MkdlT2xDa2lTNmJmYVZtUTVJWTRTSUlJNVhHYXRVdVZfNTVPWG9taDlxTEtNc1dvYzJhZFZ5dGJUeUdhaDlwZGNNTWRSUHZXTWlVOXhhOHJSd24wMGVqNVoyaVEydXZHS19Cay0xYmY1eEN0aW9FeVJPbU5r?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Cape factory to develop vaccines from scratch as IDC, EU commit big money &nbsp;&nbsp; News24",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-05-25T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-08-23T06:39:03.428791+00:00"
+    "fetched_at": "2026-08-24T06:55:41.652474+00:00"
   },
   {
     "id": "ff56ac61df73",
@@ -1575,7 +1317,45 @@
       "published": "2026-05-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-23T06:39:03.429101+00:00"
+    "fetched_at": "2026-08-24T06:55:41.653208+00:00"
+  },
+  {
+    "id": "30b1a13b60b0",
+    "source": "Signal:Aspen Pharmacare",
+    "title": "Aspen Pharmacare Expands Access Ambitions for HIV Prevention Across Africa through New Agreement with MSD - Novus Press Bulletin",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeVc2NFFQazlNRC00eHdpVHotU21yRHRKMThFbVVBWjJBb1ExUzJEU08tbVIwTHJhY2J3TE1hbFAxYVB2dzY3VWp5WEFrNUQ3MktMcENkMmZyck5nTHk3dl9LUV9pNEpsWlRZNE13THJIOGJmNmpKZXpFNXZsZDVKYVAzbW95cHppSlh1MUZobGVpa1NQRmdidl9RTFJSUXFJUjRERHcwcXpuc29UVjBISVEyT2N2bk40RVJkWGwwTGFKNjJyYXVnN1p3VDlnZGE2ZGtRUUdvMXNoZVk?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Aspen Pharmacare Expands Access Ambitions for HIV Prevention Across Africa through New Agreement with MSD &nbsp;&nbsp; Novus Press Bulletin",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Aspen Pharmacare",
+      "published": "2026-07-24T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-08-24T06:55:41.654701+00:00"
   },
   {
     "id": "c2b50944abe4",
@@ -1613,7 +1393,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-23T06:39:03.430619+00:00"
+    "fetched_at": "2026-08-24T06:55:41.655050+00:00"
   },
   {
     "id": "995425970e27",
@@ -1651,7 +1431,7 @@
       "published": "2026-06-09T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-23T06:39:03.431685+00:00"
+    "fetched_at": "2026-08-24T06:55:41.656212+00:00"
   },
   {
     "id": "7895d9459a90",
@@ -1689,7 +1469,7 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-23T06:39:03.432093+00:00"
+    "fetched_at": "2026-08-24T06:55:41.656664+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -1727,7 +1507,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-23T06:39:03.432408+00:00"
+    "fetched_at": "2026-08-24T06:55:41.657005+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -1765,6 +1545,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-23T06:39:03.433245+00:00"
+    "fetched_at": "2026-08-24T06:55:41.657909+00:00"
   }
 ]
