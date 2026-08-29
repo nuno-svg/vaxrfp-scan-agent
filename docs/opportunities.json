@@ -35,7 +35,7 @@
       "published": "2026-06-30T12:13:43+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-28T18:14:21.556072+00:00"
+    "fetched_at": "2026-08-29T12:20:08.552773+00:00"
   },
   {
     "id": "53d3b797e94c",
@@ -44,7 +44,7 @@
     "url": "https://www.ungm.org/Public/Notice/311756",
     "country": "MU",
     "deadline": "2026-09-18",
-    "deadline_days": 21,
+    "deadline_days": 20,
     "value_usd": null,
     "description": "Agency: WHO. Type: Request for proposal. Reference: WHO-SHQ-RFP-26-2031. Matched query: immunization.",
     "fit_per_area": {
@@ -76,7 +76,7 @@
       "ungm_query": "immunization",
       "published": "2026-08-20"
     },
-    "fetched_at": "2026-08-28T18:14:21.550375+00:00"
+    "fetched_at": "2026-08-29T12:20:08.547000+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -114,7 +114,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-28T18:14:21.559412+00:00"
+    "fetched_at": "2026-08-29T12:20:08.556320+00:00"
   },
   {
     "id": "9f2f4dfd0fd7",
@@ -152,7 +152,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-28T18:14:21.553821+00:00"
+    "fetched_at": "2026-08-29T12:20:08.550482+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -190,7 +190,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-28T18:14:21.554561+00:00"
+    "fetched_at": "2026-08-29T12:20:08.551235+00:00"
   },
   {
     "id": "37737e671331",
@@ -228,7 +228,7 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-28T18:14:21.555574+00:00"
+    "fetched_at": "2026-08-29T12:20:08.552268+00:00"
   },
   {
     "id": "79f77cfe6238",
@@ -266,45 +266,7 @@
       "published": "2026-06-15T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-28T18:14:21.556235+00:00"
-  },
-  {
-    "id": "7957d095f782",
-    "source": "Signal:AVMA",
-    "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
-    "country": "ZA",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "donor": "AVMA",
-      "published": "2026-07-24T07:00:00+00:00",
-      "signal_type": "donor"
-    },
-    "fetched_at": "2026-08-28T18:14:21.558981+00:00"
+    "fetched_at": "2026-08-29T12:20:08.552960+00:00"
   },
   {
     "id": "3301c0539fa2",
@@ -342,7 +304,45 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-28T18:14:21.560058+00:00"
+    "fetched_at": "2026-08-29T12:20:08.555896+00:00"
+  },
+  {
+    "id": "7957d095f782",
+    "source": "Signal:AVMA",
+    "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
+    "country": "ZA",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "donor": "AVMA",
+      "published": "2026-07-24T07:00:00+00:00",
+      "signal_type": "donor"
+    },
+    "fetched_at": "2026-08-29T12:20:08.556529+00:00"
   },
   {
     "id": "481c9c9874b9",
@@ -351,7 +351,7 @@
     "url": "https://africacdc.org/opportunity/consultancy-services-to-support-africa-cdc-and-the-african-union-in-assessing-the-feasibility-of-the-implementation-of-a-continental-health-financing-observatory-for-au-member-states/",
     "country": "_AU",
     "deadline": "2026-09-04",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites eligible and qualified bilingual English/French consultancy firms to submit proposals for the Feasibility Assessment of the Establishment and Implementation of a Continental Health Financing Observatory for African Union Member States. The consultancy will undertake a comprehensive feasibility assessment for the proposed Sustainable African Centre for Investment in Health Accountability (SACIA) Observatory, including the development of an institutional model, governance framework, financial sustainability pathway, and phased implementation roadmap to strengthen health financing intelligence, foster fiscal dialogue and evidence-informed decision-making and policy reforms across AU Member States. Duration : Three (3) months with the possibility of extension based on project needs. Location : Remote, with in-country missions in two (2) AU Member States. Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested firms must be legally registered, bilingual (English/French) consultancy firm or consortium with demonstrated expertise in health financing, public financial management (PFM), governance, institutional analysis, and multidisciplinary project management. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. Objective The objective of the consultancy is to a",
     "fit_per_area": {
@@ -376,7 +376,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-08-28T18:14:21.538084+00:00"
+    "fetched_at": "2026-08-29T12:20:08.533660+00:00"
   },
   {
     "id": "ff27771778e5",
@@ -385,7 +385,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465213",
     "country": "IN",
     "deadline": "2026-09-17",
-    "deadline_days": 20,
+    "deadline_days": 19,
     "value_usd": null,
     "description": "Invitation for Bids. Request for Quotations. Project: Uttarakhand Disaster Preparedness and Resilience Project. Country: India. Reference: IN-DRINKING WATER-554228-CW-RFQ.",
     "fit_per_area": {
@@ -414,27 +414,27 @@
       "wb_project_id": "P179749",
       "wb_reference": "IN-DRINKING WATER-554228-CW-RFQ"
     },
-    "fetched_at": "2026-08-28T18:14:21.546961+00:00"
+    "fetched_at": "2026-08-29T12:20:08.545191+00:00"
   },
   {
-    "id": "c4e8f07877da",
+    "id": "3fb5739d9bb1",
     "source": "World Bank",
-    "title": "UJN - Repaing and Cleaning of Damaged & Chocked Sewer Line in Rispana River from Balbeer Road Bridge to Chuna Bhatta Bridge, Dehradun (M.H. No 44 to 60) (Phase-2)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465209",
-    "country": "IN",
-    "deadline": "2026-09-17",
-    "deadline_days": 20,
+    "title": "Consultancy Services for undertaking Field Assessment, Detailed Engineering Design and Preparation of Procurement Documents for Rehabilitation of Railway Track and Structures (Bridge & Culverts) along Kilosa - Gulwe section (120 km).",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00464838",
+    "country": "TA",
+    "deadline": "2026-09-11",
+    "deadline_days": 13,
     "value_usd": null,
-    "description": "Invitation for Bids. Request for Quotations. Project: Uttarakhand Disaster Preparedness and Resilience Project. Country: India. Reference: IN-DRINKING WATER-554227-CW-RFQ.",
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Second Tanzania Intermodal and Rail Development Project. Country: Tanzania. Reference: TZ-TRC-556527-CS-QCBS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
-      "regulatory": 3,
-      "procurement": 0,
+      "regulatory": 0,
+      "procurement": 2,
       "mel": 0
     },
-    "fit_total": 3,
-    "fit_top_area": "regulatory",
+    "fit_total": 2,
+    "fit_top_area": "procurement",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
@@ -448,37 +448,37 @@
       "eligibility": ""
     },
     "raw": {
-      "wb_notice_type": "Invitation for Bids",
-      "wb_project_id": "P179749",
-      "wb_reference": "IN-DRINKING WATER-554227-CW-RFQ"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P176682",
+      "wb_reference": "TZ-TRC-556527-CS-QCBS"
     },
-    "fetched_at": "2026-08-28T18:14:21.548297+00:00"
+    "fetched_at": "2026-08-29T12:20:08.544265+00:00"
   },
   {
-    "id": "39e924266bbe",
-    "source": "UNICEF",
-    "title": "Support to the Planning and Implementation of the Human Papillomavirus (HPV) Vaccination Expansion in Priority Areas in the Philippines",
-    "url": "https://www.ungm.org/Public/Notice/307717",
-    "country": "PH",
-    "deadline": "2026-08-28",
-    "deadline_days": 0,
+    "id": "eb55c5174f31",
+    "source": "World Bank",
+    "title": "Expert construction / ingénieur civil BTP",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465576",
+    "country": "CO",
+    "deadline": "2026-09-14",
+    "deadline_days": 16,
     "value_usd": null,
-    "description": "Agency: UNICEF. Type: Request for proposal. Reference: LRPS-2026-9205106. Matched query: vaccination.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation Grant for DRC Secondary Cities Improvement Project. Country: Congo, Democratic Republic of. Reference: ZR-CPU-564195-CS-INDV.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
       "regulatory": 0,
-      "procurement": 0,
+      "procurement": 2,
       "mel": 0
     },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
+    "fit_total": 2,
+    "fit_top_area": "procurement",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": true,
+      "urgent_deadline": false,
       "expired": false
     },
     "flag_notes": {
@@ -486,40 +486,37 @@
       "eligibility": ""
     },
     "raw": {
-      "ungm_id": "307717",
-      "ungm_agency": "UNICEF",
-      "ungm_notice_type": "Request for proposal",
-      "ungm_reference": "LRPS-2026-9205106",
-      "ungm_query": "vaccination",
-      "published": "2026-08-19"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P517144",
+      "wb_reference": "ZR-CPU-564195-CS-INDV"
     },
-    "fetched_at": "2026-08-28T18:14:21.549648+00:00"
+    "fetched_at": "2026-08-29T12:20:08.544063+00:00"
   },
   {
-    "id": "3ed387e739f6",
-    "source": "UNGM (ICC)",
-    "title": "Vaccinations Services",
-    "url": "https://www.ungm.org/Public/Notice/308042",
-    "country": "NE",
-    "deadline": "2026-08-28",
-    "deadline_days": 0,
+    "id": "4013f9e6b0f2",
+    "source": "World Bank",
+    "title": "Expert Urbaniste de la CPU",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465573",
+    "country": "CO",
+    "deadline": "2026-09-14",
+    "deadline_days": 16,
     "value_usd": null,
-    "description": "Agency: ICC. Type: Request for EOI. Reference: EOI 134790. Matched query: vaccination.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation Grant for DRC Secondary Cities Improvement Project. Country: Congo, Democratic Republic of. Reference: ZR-CPU-564194-CS-INDV.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
       "regulatory": 0,
-      "procurement": 0,
+      "procurement": 2,
       "mel": 0
     },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
+    "fit_total": 2,
+    "fit_top_area": "procurement",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": true,
+      "urgent_deadline": false,
       "expired": false
     },
     "flag_notes": {
@@ -527,40 +524,37 @@
       "eligibility": ""
     },
     "raw": {
-      "ungm_id": "308042",
-      "ungm_agency": "ICC",
-      "ungm_notice_type": "Request for EOI",
-      "ungm_reference": "EOI 134790",
-      "ungm_query": "vaccination",
-      "published": "2026-07-21"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P517144",
+      "wb_reference": "ZR-CPU-564194-CS-INDV"
     },
-    "fetched_at": "2026-08-28T18:14:21.549766+00:00"
+    "fetched_at": "2026-08-29T12:20:08.544493+00:00"
   },
   {
-    "id": "29dcacefce82",
-    "source": "UNOPS",
-    "title": "Training on Fundamentals and ICT infrastructure in Healthcare and Sanitary-Epidemiological Well-Being and Public Health (SES)",
-    "url": "https://www.ungm.org/Public/Notice/309998",
-    "country": "UZ",
-    "deadline": "2026-08-28",
-    "deadline_days": 0,
+    "id": "8553ea2ce972",
+    "source": "World Bank",
+    "title": "Recrutement d'un (e) réceptionniste pour la CPU",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465569",
+    "country": "CO",
+    "deadline": "2026-09-14",
+    "deadline_days": 16,
     "value_usd": null,
-    "description": "Agency: UNOPS. Type: Request for proposal. Reference: RFP/2026/64083. Matched query: EPI.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation Grant for DRC Secondary Cities Improvement Project. Country: Congo, Democratic Republic of. Reference: ZR-CPU-564141-CS-INDV.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
       "regulatory": 0,
-      "procurement": 0,
+      "procurement": 2,
       "mel": 0
     },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
+    "fit_total": 2,
+    "fit_top_area": "procurement",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": true,
+      "urgent_deadline": false,
       "expired": false
     },
     "flag_notes": {
@@ -568,14 +562,49 @@
       "eligibility": ""
     },
     "raw": {
-      "ungm_id": "309998",
-      "ungm_agency": "UNOPS",
-      "ungm_notice_type": "Request for proposal",
-      "ungm_reference": "RFP/2026/64083",
-      "ungm_query": "EPI",
-      "published": "2026-08-06"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P517144",
+      "wb_reference": "ZR-CPU-564141-CS-INDV"
     },
-    "fetched_at": "2026-08-28T18:14:21.552733+00:00"
+    "fetched_at": "2026-08-29T12:20:08.544685+00:00"
+  },
+  {
+    "id": "a915fe483336",
+    "source": "World Bank",
+    "title": "Consultancy services for the system identification study, detailed designs and tender documents preparation for the SMART Corridor.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465182",
+    "country": "ZA",
+    "deadline": "2026-09-23",
+    "deadline_days": 25,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Transport Corridors for Economic Resilience (TRACER). Country: Zambia. Reference: ZM-RTSA-444824-CS-QCBS.",
+    "fit_per_area": {
+      "cold_chain": 1,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P180801",
+      "wb_reference": "ZM-RTSA-444824-CS-QCBS"
+    },
+    "fetched_at": "2026-08-29T12:20:08.544386+00:00"
   },
   {
     "id": "0117817bf333",
@@ -584,7 +613,7 @@
     "url": "https://www.ungm.org/Public/Notice/311414",
     "country": "PA",
     "deadline": "2026-08-30",
-    "deadline_days": 2,
+    "deadline_days": 1,
     "value_usd": null,
     "description": "Agency: WHO. Type: Invitation to bid. Reference: EM/RGO/DAF/LSP/P/0009465. Matched query: EPI.",
     "fit_per_area": {
@@ -616,7 +645,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-21"
     },
-    "fetched_at": "2026-08-28T18:14:21.552584+00:00"
+    "fetched_at": "2026-08-29T12:20:08.549223+00:00"
   },
   {
     "id": "bf9efbb3fa94",
@@ -625,7 +654,7 @@
     "url": "https://www.ungm.org/Public/Notice/309584",
     "country": "MU",
     "deadline": "2026-08-31",
-    "deadline_days": 3,
+    "deadline_days": 2,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24604. Matched query: EPI.",
     "fit_per_area": {
@@ -657,7 +686,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-03"
     },
-    "fetched_at": "2026-08-28T18:14:21.552783+00:00"
+    "fetched_at": "2026-08-29T12:20:08.549420+00:00"
   },
   {
     "id": "3c45323f7b30",
@@ -666,7 +695,7 @@
     "url": "https://www.ungm.org/Public/Notice/309297",
     "country": "MU",
     "deadline": "2026-09-04",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503926. Matched query: vaccine.",
     "fit_per_area": {
@@ -698,7 +727,7 @@
       "ungm_query": "vaccine",
       "published": "2026-07-31"
     },
-    "fetched_at": "2026-08-28T18:14:21.549162+00:00"
+    "fetched_at": "2026-08-29T12:20:08.545779+00:00"
   },
   {
     "id": "ea14e3401a66",
@@ -707,7 +736,7 @@
     "url": "https://www.ungm.org/Public/Notice/309299",
     "country": "MU",
     "deadline": "2026-09-04",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503939. Matched query: vaccine.",
     "fit_per_area": {
@@ -739,7 +768,7 @@
       "ungm_query": "vaccine",
       "published": "2026-07-31"
     },
-    "fetched_at": "2026-08-28T18:14:21.549241+00:00"
+    "fetched_at": "2026-08-29T12:20:08.545874+00:00"
   },
   {
     "id": "301d79ea49ed",
@@ -748,7 +777,7 @@
     "url": "https://www.ungm.org/Public/Notice/310156",
     "country": "PA",
     "deadline": "2026-09-06",
-    "deadline_days": 9,
+    "deadline_days": 8,
     "value_usd": null,
     "description": "Agency: WHO. Type: Request for proposal. Reference: EM/ACO/PAK/P/0009309. Matched query: EPI.",
     "fit_per_area": {
@@ -780,7 +809,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-28"
     },
-    "fetched_at": "2026-08-28T18:14:21.552472+00:00"
+    "fetched_at": "2026-08-29T12:20:08.549109+00:00"
   },
   {
     "id": "94e200e08086",
@@ -789,7 +818,7 @@
     "url": "https://www.ungm.org/Public/Notice/310955",
     "country": "MO",
     "deadline": "2026-09-07",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Agency: IFAD. Type: Request for proposal. Reference: IFAD/2026/022/RFP. Matched query: EPI.",
     "fit_per_area": {
@@ -821,83 +850,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-13"
     },
-    "fetched_at": "2026-08-28T18:14:21.552677+00:00"
-  },
-  {
-    "id": "beadeff7be9b",
-    "source": "World Bank",
-    "title": "Feasibility study for Mandalgobi Road",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00464527",
-    "country": "MO",
-    "deadline": "2026-09-09",
-    "deadline_days": 12,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Gobi Connectivity Improvement Project Preparation. Country: Mongolia. Reference: MN-MRT-MANDALGOBI ROAD FS-CS-QCBS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P514972",
-      "wb_reference": "MN-MRT-MANDALGOBI ROAD FS-CS-QCBS"
-    },
-    "fetched_at": "2026-08-28T18:14:21.548698+00:00"
-  },
-  {
-    "id": "f236edfb97d4",
-    "source": "World Bank",
-    "title": "Preparation of Airport feasibility study",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465103",
-    "country": "MO",
-    "deadline": "2026-09-10",
-    "deadline_days": 13,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Gobi Connectivity Improvement Project Preparation. Country: Mongolia. Reference: MN-MRT-AIRPORT FS-CS-QCBS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P514972",
-      "wb_reference": "MN-MRT-AIRPORT FS-CS-QCBS"
-    },
-    "fetched_at": "2026-08-28T18:14:21.547740+00:00"
+    "fetched_at": "2026-08-29T12:20:08.549318+00:00"
   },
   {
     "id": "fcfaa05b6234",
@@ -906,7 +859,7 @@
     "url": "https://www.ungm.org/Public/Notice/310797",
     "country": "MU",
     "deadline": "2026-09-11",
-    "deadline_days": 14,
+    "deadline_days": 13,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24624. Matched query: EPI.",
     "fit_per_area": {
@@ -938,7 +891,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-28"
     },
-    "fetched_at": "2026-08-28T18:14:21.552534+00:00"
+    "fetched_at": "2026-08-29T12:20:08.549171+00:00"
   },
   {
     "id": "06b69591f7af",
@@ -947,7 +900,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-data-inventory-and-consulting",
     "country": null,
     "deadline": "2026-09-14",
-    "deadline_days": 17,
+    "deadline_days": 16,
     "value_usd": null,
     "description": "Gavi is seeking IT services to establish a clear, evidence-based understanding of its data estate and to define a practical, implementation-ready approach for data clean-up, information classification, Microsoft Purview Information Protection, Data Loss Prevention, retention, and related controls.",
     "fit_per_area": {
@@ -972,7 +925,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-08-28T18:14:21.537426+00:00"
+    "fetched_at": "2026-08-29T12:20:08.533014+00:00"
   },
   {
     "id": "19f6b52a89a2",
@@ -981,7 +934,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-cyber-security-services",
     "country": null,
     "deadline": "2026-09-18",
-    "deadline_days": 21,
+    "deadline_days": 20,
     "value_usd": null,
     "description": "Gavi is seeking a managed SOC service provider to strengthen and support its cybersecurity operations and capabilities.",
     "fit_per_area": {
@@ -1006,7 +959,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-08-28T18:14:21.536786+00:00"
+    "fetched_at": "2026-08-29T12:20:08.532366+00:00"
   },
   {
     "id": "3cc28b6814a5",
@@ -1015,7 +968,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-supporting-immunization-program-sudan-strengtheningenhancing-governance",
     "country": "SD",
     "deadline": "2026-09-24",
-    "deadline_days": 27,
+    "deadline_days": 26,
     "value_usd": null,
     "description": "RFP: Supporting Immunization Program in Sudan: Strengthening/Enhancing Governance, Quality, Evidence, Demand and Surveillance",
     "fit_per_area": {
@@ -1040,7 +993,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-08-28T18:14:21.536117+00:00"
+    "fetched_at": "2026-08-29T12:20:08.531651+00:00"
   },
   {
     "id": "b129a66ef1b9",
@@ -1078,7 +1031,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-28T18:14:21.553621+00:00"
+    "fetched_at": "2026-08-29T12:20:08.550279+00:00"
   },
   {
     "id": "414891241c08",
@@ -1116,7 +1069,7 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-28T18:14:21.554159+00:00"
+    "fetched_at": "2026-08-29T12:20:08.550827+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -1154,7 +1107,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-28T18:14:21.554874+00:00"
+    "fetched_at": "2026-08-29T12:20:08.551552+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -1192,7 +1145,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-28T18:14:21.555165+00:00"
+    "fetched_at": "2026-08-29T12:20:08.551867+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -1230,7 +1183,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-28T18:14:21.556828+00:00"
+    "fetched_at": "2026-08-29T12:20:08.553550+00:00"
   },
   {
     "id": "c2b50944abe4",
@@ -1268,7 +1221,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-28T18:14:21.557493+00:00"
+    "fetched_at": "2026-08-29T12:20:08.553905+00:00"
   },
   {
     "id": "618dbbcffcf8",
@@ -1306,7 +1259,7 @@
       "published": "2026-06-09T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-28T18:14:21.558358+00:00"
+    "fetched_at": "2026-08-29T12:20:08.555060+00:00"
   },
   {
     "id": "7895d9459a90",
@@ -1344,7 +1297,7 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-28T18:14:21.558775+00:00"
+    "fetched_at": "2026-08-29T12:20:08.555479+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -1382,6 +1335,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-28T18:14:21.559656+00:00"
+    "fetched_at": "2026-08-29T12:20:08.556771+00:00"
   }
 ]
