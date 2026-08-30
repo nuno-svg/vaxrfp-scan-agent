@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-29T12:20:08.556820+00:00",
-  "duration_seconds": 81.718701,
+  "last_run": "2026-08-30T11:18:56.349740+00:00",
+  "duration_seconds": 90.941553,
   "source_stats": {
     "ReliefWeb": {
       "fetched": 0,
@@ -31,7 +31,7 @@
       "errors": 0
     },
     "World Bank": {
-      "fetched": 53,
+      "fetched": 52,
       "errors": 0
     },
     "UNGM": {
@@ -39,7 +39,7 @@
       "errors": 0
     },
     "Manufacturer Signals": {
-      "fetched": 17,
+      "fetched": 18,
       "errors": 0
     },
     "Donor Signals": {
@@ -47,13 +47,13 @@
       "errors": 0
     }
   },
-  "total_kept": 35,
-  "total_excluded": 242,
+  "total_kept": 37,
+  "total_excluded": 240,
   "exclusion_breakdown": {
-    "gate": 164,
-    "goods": 13,
-    "expired": 61,
+    "expired": 60,
+    "gate": 162,
     "sanctioned": 2,
+    "goods": 14,
     "bmgf_strict": 2
   },
   "min_value_usd": 50000,
