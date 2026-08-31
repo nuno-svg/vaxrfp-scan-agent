@@ -35,7 +35,7 @@
       "published": "2026-06-30T12:13:43+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-30T11:18:56.345621+00:00"
+    "fetched_at": "2026-08-31T12:47:03.859607+00:00"
   },
   {
     "id": "53d3b797e94c",
@@ -44,7 +44,7 @@
     "url": "https://www.ungm.org/Public/Notice/311756",
     "country": "MU",
     "deadline": "2026-09-18",
-    "deadline_days": 19,
+    "deadline_days": 18,
     "value_usd": null,
     "description": "Agency: WHO. Type: Request for proposal. Reference: WHO-SHQ-RFP-26-2031. Matched query: immunization.",
     "fit_per_area": {
@@ -76,7 +76,7 @@
       "ungm_query": "immunization",
       "published": "2026-08-20"
     },
-    "fetched_at": "2026-08-30T11:18:56.339745+00:00"
+    "fetched_at": "2026-08-31T12:47:03.853615+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -114,7 +114,43 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-30T11:18:56.349236+00:00"
+    "fetched_at": "2026-08-31T12:47:03.863670+00:00"
+  },
+  {
+    "id": "15a3432573c9",
+    "source": "TED",
+    "title": "Sweden – Medical equipments, pharmaceuticals and personal care products – Odlingsinkubator med timelapse-system",
+    "url": "https://ted.europa.eu/en/notice/456448-2026",
+    "country": "SE",
+    "deadline": "2026-09-04",
+    "deadline_days": 4,
+    "value_usd": null,
+    "description": "Västra Götalandsregionen. Ersätta 2 Timelapse inkubatorer",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 4
+    },
+    "fit_total": 4,
+    "fit_top_area": "mel",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "456448-2026"
+    },
+    "fetched_at": "2026-08-31T12:47:03.849188+00:00"
   },
   {
     "id": "9f2f4dfd0fd7",
@@ -152,7 +188,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-30T11:18:56.343371+00:00"
+    "fetched_at": "2026-08-31T12:47:03.857310+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -190,7 +226,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-30T11:18:56.344111+00:00"
+    "fetched_at": "2026-08-31T12:47:03.858070+00:00"
   },
   {
     "id": "37737e671331",
@@ -228,7 +264,7 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-30T11:18:56.345115+00:00"
+    "fetched_at": "2026-08-31T12:47:03.859096+00:00"
   },
   {
     "id": "79f77cfe6238",
@@ -266,7 +302,7 @@
       "published": "2026-06-15T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-30T11:18:56.345784+00:00"
+    "fetched_at": "2026-08-31T12:47:03.859781+00:00"
   },
   {
     "id": "3301c0539fa2",
@@ -304,7 +340,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-30T11:18:56.348803+00:00"
+    "fetched_at": "2026-08-31T12:47:03.863235+00:00"
   },
   {
     "id": "7957d095f782",
@@ -342,43 +378,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-30T11:18:56.349453+00:00"
-  },
-  {
-    "id": "08dbe4e4a439",
-    "source": "TED",
-    "title": "Norway – Research services – Evaluation of trials with work orientated introduction programme 2026-2029 - INTROFAM",
-    "url": "https://ted.europa.eu/en/notice/450543-2026",
-    "country": "AN",
-    "deadline": "2026-08-31",
-    "deadline_days": 1,
-    "value_usd": null,
-    "description": "Integrerings- og mangfoldsdirektoratet (IMDi). A new experimental scheme have been established expanding the introduction program to immigrant women who have been granted family immigration with Norwegian and Nordic citizens or persons with permanent residence permits. The procurement is for the evaluation of the trial. The purpose of the evaluation is to gain more knowledge of the prerequisites and barriers that women with family immigration get to work through a tailor-made qualification course",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 3
-    },
-    "fit_total": 3,
-    "fit_top_area": "mel",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "450543-2026"
-    },
-    "fetched_at": "2026-08-30T11:18:56.327199+00:00"
+    "fetched_at": "2026-08-31T12:47:03.863893+00:00"
   },
   {
     "id": "481c9c9874b9",
@@ -387,7 +387,7 @@
     "url": "https://africacdc.org/opportunity/consultancy-services-to-support-africa-cdc-and-the-african-union-in-assessing-the-feasibility-of-the-implementation-of-a-continental-health-financing-observatory-for-au-member-states/",
     "country": "_AU",
     "deadline": "2026-09-04",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites eligible and qualified bilingual English/French consultancy firms to submit proposals for the Feasibility Assessment of the Establishment and Implementation of a Continental Health Financing Observatory for African Union Member States. The consultancy will undertake a comprehensive feasibility assessment for the proposed Sustainable African Centre for Investment in Health Accountability (SACIA) Observatory, including the development of an institutional model, governance framework, financial sustainability pathway, and phased implementation roadmap to strengthen health financing intelligence, foster fiscal dialogue and evidence-informed decision-making and policy reforms across AU Member States. Duration : Three (3) months with the possibility of extension based on project needs. Location : Remote, with in-country missions in two (2) AU Member States. Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested firms must be legally registered, bilingual (English/French) consultancy firm or consortium with demonstrated expertise in health financing, public financial management (PFM), governance, institutional analysis, and multidisciplinary project management. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. Objective The objective of the consultancy is to a",
     "fit_per_area": {
@@ -412,45 +412,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-08-30T11:18:56.325127+00:00"
-  },
-  {
-    "id": "ff27771778e5",
-    "source": "World Bank",
-    "title": "UJN - Repaing and Cleaning of Damaged & Chocked Sewer Line in Rispana River from Chuna Bhatta Bridge to Mayur Vihar Bridge Dehradun (M.H. No 83- 95) (Phase-2)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465213",
-    "country": "IN",
-    "deadline": "2026-09-17",
-    "deadline_days": 18,
-    "value_usd": null,
-    "description": "Invitation for Bids. Request for Quotations. Project: Uttarakhand Disaster Preparedness and Resilience Project. Country: India. Reference: IN-DRINKING WATER-554228-CW-RFQ.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 3,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 3,
-    "fit_top_area": "regulatory",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Invitation for Bids",
-      "wb_project_id": "P179749",
-      "wb_reference": "IN-DRINKING WATER-554228-CW-RFQ"
-    },
-    "fetched_at": "2026-08-30T11:18:56.337994+00:00"
+    "fetched_at": "2026-08-31T12:47:03.839440+00:00"
   },
   {
     "id": "3fb5739d9bb1",
@@ -459,7 +421,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00464838",
     "country": "TA",
     "deadline": "2026-09-11",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Second Tanzania Intermodal and Rail Development Project. Country: Tanzania. Reference: TZ-TRC-556527-CS-QCBS.",
     "fit_per_area": {
@@ -488,7 +450,7 @@
       "wb_project_id": "P176682",
       "wb_reference": "TZ-TRC-556527-CS-QCBS"
     },
-    "fetched_at": "2026-08-30T11:18:56.336978+00:00"
+    "fetched_at": "2026-08-31T12:47:03.851962+00:00"
   },
   {
     "id": "eb55c5174f31",
@@ -497,7 +459,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465576",
     "country": "CO",
     "deadline": "2026-09-14",
-    "deadline_days": 15,
+    "deadline_days": 14,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation Grant for DRC Secondary Cities Improvement Project. Country: Congo, Democratic Republic of. Reference: ZR-CPU-564195-CS-INDV.",
     "fit_per_area": {
@@ -526,7 +488,7 @@
       "wb_project_id": "P517144",
       "wb_reference": "ZR-CPU-564195-CS-INDV"
     },
-    "fetched_at": "2026-08-30T11:18:56.336747+00:00"
+    "fetched_at": "2026-08-31T12:47:03.851665+00:00"
   },
   {
     "id": "4013f9e6b0f2",
@@ -535,7 +497,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465573",
     "country": "CO",
     "deadline": "2026-09-14",
-    "deadline_days": 15,
+    "deadline_days": 14,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation Grant for DRC Secondary Cities Improvement Project. Country: Congo, Democratic Republic of. Reference: ZR-CPU-564194-CS-INDV.",
     "fit_per_area": {
@@ -564,45 +526,7 @@
       "wb_project_id": "P517144",
       "wb_reference": "ZR-CPU-564194-CS-INDV"
     },
-    "fetched_at": "2026-08-30T11:18:56.337224+00:00"
-  },
-  {
-    "id": "8553ea2ce972",
-    "source": "World Bank",
-    "title": "Recrutement d'un (e) réceptionniste pour la CPU",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465569",
-    "country": "CO",
-    "deadline": "2026-09-14",
-    "deadline_days": 15,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation Grant for DRC Secondary Cities Improvement Project. Country: Congo, Democratic Republic of. Reference: ZR-CPU-564141-CS-INDV.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P517144",
-      "wb_reference": "ZR-CPU-564141-CS-INDV"
-    },
-    "fetched_at": "2026-08-30T11:18:56.337424+00:00"
+    "fetched_at": "2026-08-31T12:47:03.852135+00:00"
   },
   {
     "id": "a915fe483336",
@@ -611,7 +535,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465182",
     "country": "ZA",
     "deadline": "2026-09-23",
-    "deadline_days": 24,
+    "deadline_days": 23,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Transport Corridors for Economic Resilience (TRACER). Country: Zambia. Reference: ZM-RTSA-444824-CS-QCBS.",
     "fit_per_area": {
@@ -640,48 +564,7 @@
       "wb_project_id": "P180801",
       "wb_reference": "ZM-RTSA-444824-CS-QCBS"
     },
-    "fetched_at": "2026-08-30T11:18:56.337053+00:00"
-  },
-  {
-    "id": "0117817bf333",
-    "source": "WHO",
-    "title": "Provision, Installation, and Configuration of Data System Servers and Software Licenses for EPI-Pakistan",
-    "url": "https://www.ungm.org/Public/Notice/311414",
-    "country": "PA",
-    "deadline": "2026-08-30",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "Agency: WHO. Type: Invitation to bid. Reference: EM/RGO/DAF/LSP/P/0009465. Matched query: EPI.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ungm_id": "311414",
-      "ungm_agency": "WHO",
-      "ungm_notice_type": "Invitation to bid",
-      "ungm_reference": "EM/RGO/DAF/LSP/P/0009465",
-      "ungm_query": "EPI",
-      "published": "2026-08-21"
-    },
-    "fetched_at": "2026-08-30T11:18:56.342104+00:00"
+    "fetched_at": "2026-08-31T12:47:03.851877+00:00"
   },
   {
     "id": "bf9efbb3fa94",
@@ -690,7 +573,7 @@
     "url": "https://www.ungm.org/Public/Notice/309584",
     "country": "MU",
     "deadline": "2026-08-31",
-    "deadline_days": 1,
+    "deadline_days": 0,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24604. Matched query: EPI.",
     "fit_per_area": {
@@ -722,7 +605,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-03"
     },
-    "fetched_at": "2026-08-30T11:18:56.342304+00:00"
+    "fetched_at": "2026-08-31T12:47:03.856096+00:00"
   },
   {
     "id": "26fa0e13c5fb",
@@ -731,7 +614,7 @@
     "url": "https://ted.europa.eu/en/notice/453700-2026",
     "country": "NL",
     "deadline": "2026-09-01",
-    "deadline_days": 2,
+    "deadline_days": 1,
     "value_usd": null,
     "description": "Gemeente Kerkrade, Raadhuis. Momenteel beschikt de gemeente Kerkrade een overeenkomst voor arbodienstverlening die op 31 december 2026 zal eindigen. Per 1 januari 2026 telt de gemeente Kerkrade circa 525 medewerkers die op meerdere locaties binnen de gemeente zijn gevestigd. De organisatie bestaat uit drie domeinen met diverse afdelingen, aangestuurd door drie directeuren en meerdere afdelingshoofden. De griffie ondersteunt de gemeenteraad. In totaal zijn circa veertig leidinggevenden werkzaam binnen de organisatie. Binnen de gemeente wordt gewerkt volgens het eigen-regiemodel. Dit betekent dat de organisatie zelf verantwoordelijk is voor de regie op het verzuimproces. Leidinggevenden voeren de verzuimbegeleiding uit, ondersteund door de adviseur Arbo & Personeelszorg die adviseren over verzuimcasuïstiek. De bedrijfsarts heeft binnen dit model een adviserende en geen beslissende rol. Momenteel beschikt de gemeente Kerkrade een overeenkomst voor arbodienstverlening die op 31 december 2026 zal eindigen. Per 1 januari 2026 telt de gemeente Kerkrade circa 525 medewerkers die op meerdere locaties binnen de gemeente zijn gevestigd. De organisatie bestaat uit drie domeinen met diverse afdelingen, aangestuurd door drie directeuren en meerdere afdelingshoofden. De griffie ondersteunt de gemeenteraad. In totaal zijn circa veertig leidinggevenden werkzaam binnen de organisatie. Binnen de gemeente wordt gewerkt volgens het eigen-regiemodel. Dit betekent dat de organisatie zelf verantwoor",
     "fit_per_area": {
@@ -758,7 +641,43 @@
     "raw": {
       "ted_publication_number": "453700-2026"
     },
-    "fetched_at": "2026-08-30T11:18:56.334545+00:00"
+    "fetched_at": "2026-08-31T12:47:03.842395+00:00"
+  },
+  {
+    "id": "8b68981f45b9",
+    "source": "TED",
+    "title": "Spain – Health services – Servicio de radiología destinado al control del tráfico de estupefacientes en el recinto de pasajeros dependiente de la Aduana del Aeropuerto Josep Tarradellas Barcelona-El Prat",
+    "url": "https://ted.europa.eu/en/notice/455798-2026",
+    "country": "ES",
+    "deadline": "2026-09-04",
+    "deadline_days": 4,
+    "value_usd": null,
+    "description": "Delegación Especial de la Agencia Estatal de Administración Tributaria en Cataluña. Las necesidades y requisitos que deben satisfacerse en este procedimiento son las definidas en el Pliego de Cláusulas Administrativas Particulares",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "455798-2026"
+    },
+    "fetched_at": "2026-08-31T12:47:03.847913+00:00"
   },
   {
     "id": "3c45323f7b30",
@@ -767,7 +686,7 @@
     "url": "https://www.ungm.org/Public/Notice/309297",
     "country": "MU",
     "deadline": "2026-09-04",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503926. Matched query: vaccine.",
     "fit_per_area": {
@@ -799,7 +718,7 @@
       "ungm_query": "vaccine",
       "published": "2026-07-31"
     },
-    "fetched_at": "2026-08-30T11:18:56.338517+00:00"
+    "fetched_at": "2026-08-31T12:47:03.852395+00:00"
   },
   {
     "id": "ea14e3401a66",
@@ -808,7 +727,7 @@
     "url": "https://www.ungm.org/Public/Notice/309299",
     "country": "MU",
     "deadline": "2026-09-04",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503939. Matched query: vaccine.",
     "fit_per_area": {
@@ -840,7 +759,48 @@
       "ungm_query": "vaccine",
       "published": "2026-07-31"
     },
-    "fetched_at": "2026-08-30T11:18:56.338598+00:00"
+    "fetched_at": "2026-08-31T12:47:03.852473+00:00"
+  },
+  {
+    "id": "0117817bf333",
+    "source": "WHO",
+    "title": "Provision, Installation, and Configuration of Data System Servers and Software Licenses for EPI-Pakistan",
+    "url": "https://www.ungm.org/Public/Notice/311414",
+    "country": "PA",
+    "deadline": "2026-09-06",
+    "deadline_days": 6,
+    "value_usd": null,
+    "description": "Agency: WHO. Type: Invitation to bid. Reference: EM/RGO/DAF/LSP/P/0009465. Matched query: EPI.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ungm_id": "311414",
+      "ungm_agency": "WHO",
+      "ungm_notice_type": "Invitation to bid",
+      "ungm_reference": "EM/RGO/DAF/LSP/P/0009465",
+      "ungm_query": "EPI",
+      "published": "2026-08-30"
+    },
+    "fetched_at": "2026-08-31T12:47:03.855778+00:00"
   },
   {
     "id": "301d79ea49ed",
@@ -849,7 +809,7 @@
     "url": "https://www.ungm.org/Public/Notice/310156",
     "country": "PA",
     "deadline": "2026-09-06",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Agency: WHO. Type: Request for proposal. Reference: EM/ACO/PAK/P/0009309. Matched query: EPI.",
     "fit_per_area": {
@@ -881,7 +841,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-28"
     },
-    "fetched_at": "2026-08-30T11:18:56.341987+00:00"
+    "fetched_at": "2026-08-31T12:47:03.855834+00:00"
   },
   {
     "id": "94e200e08086",
@@ -890,7 +850,7 @@
     "url": "https://www.ungm.org/Public/Notice/310955",
     "country": "MO",
     "deadline": "2026-09-07",
-    "deadline_days": 8,
+    "deadline_days": 7,
     "value_usd": null,
     "description": "Agency: IFAD. Type: Request for proposal. Reference: IFAD/2026/022/RFP. Matched query: EPI.",
     "fit_per_area": {
@@ -907,7 +867,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": false,
+      "urgent_deadline": true,
       "expired": false
     },
     "flag_notes": {
@@ -922,7 +882,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-13"
     },
-    "fetched_at": "2026-08-30T11:18:56.342198+00:00"
+    "fetched_at": "2026-08-31T12:47:03.855994+00:00"
   },
   {
     "id": "fcfaa05b6234",
@@ -931,7 +891,7 @@
     "url": "https://www.ungm.org/Public/Notice/310797",
     "country": "MU",
     "deadline": "2026-09-11",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24624. Matched query: EPI.",
     "fit_per_area": {
@@ -963,7 +923,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-28"
     },
-    "fetched_at": "2026-08-30T11:18:56.342052+00:00"
+    "fetched_at": "2026-08-31T12:47:03.855898+00:00"
   },
   {
     "id": "06b69591f7af",
@@ -972,7 +932,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-data-inventory-and-consulting",
     "country": null,
     "deadline": "2026-09-14",
-    "deadline_days": 15,
+    "deadline_days": 14,
     "value_usd": null,
     "description": "Gavi is seeking IT services to establish a clear, evidence-based understanding of its data estate and to define a practical, implementation-ready approach for data clean-up, information classification, Microsoft Purview Information Protection, Data Loss Prevention, retention, and related controls.",
     "fit_per_area": {
@@ -997,7 +957,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-08-30T11:18:56.324387+00:00"
+    "fetched_at": "2026-08-31T12:47:03.838716+00:00"
   },
   {
     "id": "19f6b52a89a2",
@@ -1006,7 +966,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-cyber-security-services",
     "country": null,
     "deadline": "2026-09-18",
-    "deadline_days": 19,
+    "deadline_days": 18,
     "value_usd": null,
     "description": "Gavi is seeking a managed SOC service provider to strengthen and support its cybersecurity operations and capabilities.",
     "fit_per_area": {
@@ -1031,7 +991,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-08-30T11:18:56.323697+00:00"
+    "fetched_at": "2026-08-31T12:47:03.838089+00:00"
   },
   {
     "id": "3cc28b6814a5",
@@ -1040,7 +1000,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-supporting-immunization-program-sudan-strengtheningenhancing-governance",
     "country": "SD",
     "deadline": "2026-09-24",
-    "deadline_days": 25,
+    "deadline_days": 24,
     "value_usd": null,
     "description": "RFP: Supporting Immunization Program in Sudan: Strengthening/Enhancing Governance, Quality, Evidence, Demand and Surveillance",
     "fit_per_area": {
@@ -1065,7 +1025,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-08-30T11:18:56.323088+00:00"
+    "fetched_at": "2026-08-31T12:47:03.837431+00:00"
   },
   {
     "id": "b129a66ef1b9",
@@ -1103,7 +1063,45 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-30T11:18:56.343170+00:00"
+    "fetched_at": "2026-08-31T12:47:03.856949+00:00"
+  },
+  {
+    "id": "f66c2f760416",
+    "source": "Signal:Biovac",
+    "title": "South Africa: AfDB grants 15 million dollar loan to Biovac for vaccine plant - Africa News Agency",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRzdKUE9TNmZTQXFodHcxcENGN0s4M1RZbFdBRnJOb3JhNk1Cbkh0WVgxWEx3c3B2YkNoenJkdFpFMDNheHdzN3VXeVFfR2dUTWR1M0xndUJSU3NETGRsSk1qc09aN1ZWWU8zYjA1QUcxVEEwVzZOSU9IWGc0YWo3SFFleUVQd00tREgzd3NTeHladW5XUHA1SlZGR0ROOHRXUXZTaDNhQjZrMHc?oc=5",
+    "country": "ZA",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "South Africa: AfDB grants 15 million dollar loan to Biovac for vaccine plant &nbsp;&nbsp; Africa News Agency",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-07-27T14:24:58+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-08-31T12:47:03.857109+00:00"
   },
   {
     "id": "414891241c08",
@@ -1141,7 +1139,7 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-30T11:18:56.343712+00:00"
+    "fetched_at": "2026-08-31T12:47:03.857662+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -1179,7 +1177,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-30T11:18:56.344419+00:00"
+    "fetched_at": "2026-08-31T12:47:03.858392+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -1217,7 +1215,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-30T11:18:56.344713+00:00"
+    "fetched_at": "2026-08-31T12:47:03.858687+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -1255,7 +1253,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-30T11:18:56.346518+00:00"
+    "fetched_at": "2026-08-31T12:47:03.860509+00:00"
   },
   {
     "id": "c2b50944abe4",
@@ -1293,7 +1291,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-30T11:18:56.346850+00:00"
+    "fetched_at": "2026-08-31T12:47:03.860868+00:00"
   },
   {
     "id": "618dbbcffcf8",
@@ -1331,7 +1329,7 @@
       "published": "2026-06-09T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-30T11:18:56.347988+00:00"
+    "fetched_at": "2026-08-31T12:47:03.862047+00:00"
   },
   {
     "id": "7895d9459a90",
@@ -1369,7 +1367,45 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-08-30T11:18:56.348407+00:00"
+    "fetched_at": "2026-08-31T12:47:03.862473+00:00"
+  },
+  {
+    "id": "b96a3e8af844",
+    "source": "Signal:AFD",
+    "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "donor": "AFD",
+      "published": "2026-05-11T07:00:00+00:00",
+      "signal_type": "donor"
+    },
+    "fetched_at": "2026-08-31T12:47:03.862820+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -1407,6 +1443,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-08-30T11:18:56.349689+00:00"
+    "fetched_at": "2026-08-31T12:47:03.864133+00:00"
   }
 ]
