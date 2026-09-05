@@ -1,24 +1,24 @@
 [
   {
-    "id": "6e1150276b06",
-    "source": "TED",
-    "title": "Luxembourg – Technical assistance services – Preparatory studies for vaccines production capacity increase project in Egypt",
-    "url": "https://ted.europa.eu/en/notice/464153-2026",
-    "country": "LU",
-    "deadline": "2026-09-24",
-    "deadline_days": 20,
+    "id": "6cf6b3992da2",
+    "source": "Signal:Afrigen",
+    "title": "Afrigen secures SAHPRA GMP certification for Africa’s first end-to-end mRNA manufacturing facility - EIN Presswire",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbDhWbnhBcnFzVFM5ZzNta0pzcjBvQ1JPWjZzOHlTbmZLaUNMdGh3ZGtncnRqMXliSXQzU0ppMjBPRGV2c2ZaWDFjYVpSUmE3NlhZX1BEWVk0MDdsN0Rua2FBR2lJc2VHbjVNSERUOUZQNHVfdUVsMGFPWXNtRGY3eUl1Sko2WFprSGVCZ1hKMXZPZERKaXpobERrLWEtdHMybnBEdDY0cGE2aEhQNG03YjNySi10aWlfYUtLWnlxSUZPTWJsNjlVN19RZFpmeTNGMTV1andpMXROVHNQd1E?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
     "value_usd": null,
-    "description": "European Investment Bank. The EIB project aims to establish a multi-product vaccine manufacturing facility at the VACSERA site in Sixth of October City, Egypt. Its goal is to strengthen national vaccine production, support the long-term sustainability of immunisation programmes, and enhance regional health security through the supply of high-quality, WHO-prequalified vaccines, in line with Egypt’s Vision 2030 and broader African self-sufficiency objectives. The present Technical Assistance (TA) assignment will support VACSERA by conducting a comprehensive feasibility study and market analysis. The consultant will provide evidence-based recommendations on the project design, vaccine production priorities, facility production capacity requirements, and implementation strategy",
+    "description": "Afrigen secures SAHPRA GMP certification for Africa’s first end-to-end mRNA manufacturing facility &nbsp;&nbsp; EIN Presswire",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 10,
-      "regulatory": 0,
-      "procurement": 2,
+      "regulatory": 5,
+      "procurement": 0,
       "mel": 0
     },
     "fit_total": 10,
     "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
+    "breadth_bonus": 1,
     "flags": {
       "sanctioned": false,
       "requires_review_sanctions": false,
@@ -31,9 +31,11 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "464153-2026"
+      "manufacturer": "Afrigen",
+      "published": "2026-06-30T07:00:00+00:00",
+      "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-04T10:38:46.701095+00:00"
+    "fetched_at": "2026-09-05T10:00:18.501537+00:00"
   },
   {
     "id": "53d3b797e94c",
@@ -42,7 +44,7 @@
     "url": "https://www.ungm.org/Public/Notice/311756",
     "country": "MU",
     "deadline": "2026-09-18",
-    "deadline_days": 14,
+    "deadline_days": 13,
     "value_usd": null,
     "description": "Agency: WHO. Type: Request for proposal. Reference: WHO-SHQ-RFP-26-2031. Matched query: immunization.",
     "fit_per_area": {
@@ -74,7 +76,45 @@
       "ungm_query": "immunization",
       "published": "2026-08-20"
     },
-    "fetched_at": "2026-09-04T10:38:46.708319+00:00"
+    "fetched_at": "2026-09-05T10:00:18.497168+00:00"
+  },
+  {
+    "id": "e605320efc1a",
+    "source": "Signal:AVMA",
+    "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - businessreport.co.za",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkRvRThBLWZBbl9oWmpzU1pmekNUc1ZqLWV3eFhCM0lUa1BnLXZSUDBDeVJyYTFaVjNQMlo4QU5VbDJ4M1hwWXRBbFVfRzc3QmJRWFRvRzBTbFB3VHRIYXgydkJaMi14cHVVMjV3UHljNzA1c2l2TEhUMkp3dC1zRWVIaE5XdUJZU09JXzFtdWREQzBzLTljY1VyYjNHYW1MaW9TQmY3a3h5LW1nRzYyU0xlNHI4LWNHMTQ0RGFnX0NoR0lHdkVydGYydw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity &nbsp;&nbsp; businessreport.co.za",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 7,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 7,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "donor": "AVMA",
+      "published": "2026-04-16T07:00:00+00:00",
+      "signal_type": "donor"
+    },
+    "fetched_at": "2026-09-05T10:00:18.505036+00:00"
   },
   {
     "id": "4949b27d9adf",
@@ -83,7 +123,7 @@
     "url": "https://www.ungm.org/Public/Notice/313024",
     "country": "KE",
     "deadline": "2026-09-14",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Agency: UNDP. Type: Request for proposal. Reference: UNDP-KEN-00748. Matched query: cold chain.",
     "fit_per_area": {
@@ -115,128 +155,18 @@
       "ungm_query": "cold chain",
       "published": "2026-09-01"
     },
-    "fetched_at": "2026-09-04T10:38:46.709999+00:00"
+    "fetched_at": "2026-09-05T10:00:18.498458+00:00"
   },
   {
-    "id": "6003e0f02611",
-    "source": "TED",
-    "title": "Germany – Pharmaceutical products – Abschluss eines nicht exklusiven Rabattvertrages nach § 130a Abs. 8 SGB V für die im Rahmen des Sprechstundenbedarfs in Niedersachsen verordnungs- und abgabefähigen Arzneimittel mit dem Wirkstoff Propofol (ATC-Code: N01AX10).",
-    "url": "https://ted.europa.eu/en/notice/460781-2026",
-    "country": "DE",
-    "deadline": "2028-06-27",
-    "deadline_days": 662,
-    "value_usd": null,
-    "description": "AOK Niedersachsen. Die Gesundheitskasse.. Die ARGE Sprechstundenbedarfsbeschaffung GbR (ARGE-SSB) beabsichtigt nicht exklusive Arzneimittelrabattverträge zu dem Wirkstoff Propofol (ATC-Code: N01AX10) mit möglichst allen Marktteilnehmern (pharmazeutische Unternehmer oder Gemeinschaften pharmazeutischer Unternehmer) im sog. „open-house-Modell“ abzuschließen. Die ARGE-SSB wird keine Auswahlentscheidung treffen und jedem interessierten pharmazeutischen Unternehmen ein identisches Vertragsangebot unterbreiten. Im open-house-Modell gelten für alle Teilnehmer einheitliche Bedingungen. Vertragsinhalte, Konditionen und Zugangsverfahren sind einheitlich – individuelle Verhandlungen werden grundsätzlich nicht geführt. Die Vertragslaufzeiten betragen maximal vierundzwanzig Monate, der früheste Vertragsbeginn ist der 01.09.2026. Alle Verträge enden spätestens am 31.08.2028, unabhängig vom Datum des jeweiligen Vertragsschlusses. Ein Beitritt bzw. ein Vertragsschluss kann innerhalb des vierundzwanzigmonatigen Zeitraumes jeweils zum Ersten eines Monats erfolgen. Es besteht ein Kündigungsrecht jeweils sechs Wochen zum Monatsende. Interessierte pharmazeutische Unternehmen können die Vertragsunterlagen sowie die Vertragsbedingungen unter der unter I.1) genannten Kontaktadresse anfordern. Verträge zu dem Wirkstoff Propofol (ATC-Code: N01AX10) werden erstmalig mit Wirkung zum 01.09.2026 abgeschlossen. Interessenten, die zu diesem Termin Vertragspartner werden möchten, haben die einzureichenden Ve",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 4
-    },
-    "fit_total": 4,
-    "fit_top_area": "mel",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "460781-2026"
-    },
-    "fetched_at": "2026-09-04T10:38:46.692187+00:00"
-  },
-  {
-    "id": "654d5eb0e978",
-    "source": "TED",
-    "title": "Germany – Pharmaceutical products – Abschluss eines nicht exklusiven Rabattvertrages nach § 130a Abs. 8 SGB V für die im Rahmen des Sprechstundenbedarfs in Niedersachsen verordnungs- und abgabefähigen Arzneimittel mit dem Wirkstoff Dexamethason (ATC-Code: H02AB02).",
-    "url": "https://ted.europa.eu/en/notice/461062-2026",
-    "country": "DE",
-    "deadline": "2028-06-27",
-    "deadline_days": 662,
-    "value_usd": null,
-    "description": "AOK Niedersachsen. Die Gesundheitskasse.. Die ARGE Sprechstundenbedarfsbeschaffung GbR (ARGE-SSB) beabsichtigt nicht exklusive Arzneimittelrabattverträge zu dem Wirkstoff Dexamethason (ATC-Code: H02AB02) mit möglichst allen Marktteilnehmern (pharmazeutische Unternehmer oder Gemeinschaften pharmazeutischer Unternehmer) im sog. „open-house-Modell“ abzuschließen. Die ARGE-SSB wird keine Auswahlentscheidung treffen und jedem interessierten pharmazeutischen Unternehmen ein identisches Vertragsangebot unterbreiten. Im open-house-Modell gelten für alle Teilnehmer einheitliche Bedingungen. Vertragsinhalte, Konditionen und Zugangsverfahren sind einheitlich – individuelle Verhandlungen werden grundsätzlich nicht geführt. Die Vertragslaufzeiten betragen maximal vierundzwanzig Monate, der früheste Vertragsbeginn ist der 01.09.2026. Alle Verträge enden spätestens am 31.08.2028, unabhängig vom Datum des jeweiligen Vertragsschlusses. Ein Beitritt bzw. ein Vertragsschluss kann innerhalb des vierundzwanzigmonatigen Zeitraumes jeweils zum Ersten eines Monats erfolgen. Es besteht ein Kündigungsrecht jeweils sechs Wochen zum Monatsende. Interessierte pharmazeutische Unternehmen können die Vertragsunterlagen sowie die Vertragsbedingungen unter der unter I.1) genannten Kontaktadresse anfordern. Verträge zu dem Wirkstoff Dexamethason (ATC-Code: H02AB02) werden erstmalig mit Wirkung zum 01.09.2026 abgeschlossen. Interessenten, die zu diesem Termin Vertragspartner werden möchten, haben die einzureich",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 4
-    },
-    "fit_total": 4,
-    "fit_top_area": "mel",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "461062-2026"
-    },
-    "fetched_at": "2026-09-04T10:38:46.693018+00:00"
-  },
-  {
-    "id": "c6e227a22d8b",
+    "id": "15b157cf1c62",
     "source": "Signal:Biovac",
-    "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
-    "country": "ZA",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-07-24T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-09-04T10:38:46.711777+00:00"
-  },
-  {
-    "id": "37737e671331",
-    "source": "Signal:Biovac",
-    "title": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production - Weekend Post",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0h6TlhWOEVyRUFkX1dENE9EYWUxY3NrR3JCQmxWdFBnNXhUWjdxNmc3YzlzMlVZMkI0Rkd3NVNtRE5DYmUwR0lQUWE4QTJoZ2I0T3pNZTV4cFpJQ0ZuOXdmSVhxSjRBd2hIMm11WWdIWWRnc29tRzN3UDctVTl5cVVEQjF6S1ppVThUb3F3UEYtSUVmUldsVEJSMA?oc=5",
+    "title": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing - IOL",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLUJkOFlza1ZvU2tLUG1hdUR4MW9Xb2FZWjJzZ0ZCMGRsMzROVmlkS0ZYRFdnU1Z4bmRwQ1FyS3Vsb1VRZVVJM1FrcnlWTmNhU0Z1a2JKUWlfTFNkbVBkcEV6M1R4VVZwejZRSUExSFpRd1phV2dCaXhJRFNLVUxxMUZjLUVXMnRIVnF2T3NxeFFnNTFqZXVBbFJLRkI1YjRPZ3FYWGdodjd0amxoQ3EyVEQ0NTJiX29jZ29qVXU2YXF5V0hOQS1odDdBVXpDQQ?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production &nbsp;&nbsp; Weekend Post",
+    "description": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing &nbsp;&nbsp; IOL",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 4,
@@ -260,10 +190,48 @@
     },
     "raw": {
       "manufacturer": "Biovac",
-      "published": "2026-07-30T08:24:59+00:00",
+      "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-04T10:38:46.713259+00:00"
+    "fetched_at": "2026-09-05T10:00:18.500882+00:00"
+  },
+  {
+    "id": "79f77cfe6238",
+    "source": "Signal:Afrigen",
+    "title": "South Africa’s Afrigen eyes Ebola vaccine role after landmark GMP certification - The Africa Report",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMWFBRTB5Um10S0VjajVsby1YNEEya2NtSDBHcFBnbjBST016N21VaThYUXZnVndDOE8zdW9EVlJEc0tPVEVNbFlMRUYyamZ4cjRJX2Q1dnQydXE0QmFVVHpwQm11eGtJQVVoQjlJSjctd1AxSXNWT3piTU4xS3Bka3JhX3B1UUwwVHVWRG5sOVV2bmQ4WnpJTXlzNWdVRk13Q1MwOTg3Tm9jYWIxbjhWWjNOTmJlZ096dlJ6elFyMTI?oc=5",
+    "country": "ZA",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "South Africa’s Afrigen eyes Ebola vaccine role after landmark GMP certification &nbsp;&nbsp; The Africa Report",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Afrigen",
+      "published": "2026-06-15T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-09-05T10:00:18.501663+00:00"
   },
   {
     "id": "7957d095f782",
@@ -301,7 +269,45 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-04T10:38:46.717144+00:00"
+    "fetched_at": "2026-09-05T10:00:18.504385+00:00"
+  },
+  {
+    "id": "3301c0539fa2",
+    "source": "Signal:AVMA",
+    "title": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion - fundsforNGOs News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkxxZEZoekVWTzNMZXNZOUZnYXVPRERWNFpDQ19lVTBTdHFFeHgzcFZXVXUtaHBfWmpIdkUxSXliWWI0aS02TlZtZUYzMWU1RWFhN3hXb3pZWXo1MWJ0RDR2ckY5WkxyZGRUbERYaDU3QzJtdzBxQ29ZZV9uWDVFZXd5N2hGWXJtSFVyd1laN0RlQzk3MXhoUkxGWTRTODJ0NTZSeVdVT0JOQW9VaTRHSDRHU3E5dzFJVi1wT1ViYw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion &nbsp;&nbsp; fundsforNGOs News",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "donor": "AVMA",
+      "published": "2026-04-17T07:00:00+00:00",
+      "signal_type": "donor"
+    },
+    "fetched_at": "2026-09-05T10:00:18.504701+00:00"
   },
   {
     "id": "481c9c9874b9",
@@ -310,7 +316,7 @@
     "url": "https://africacdc.org/opportunity/consultancy-services-to-support-africa-cdc-and-the-african-union-in-assessing-the-feasibility-of-the-implementation-of-a-continental-health-financing-observatory-for-au-member-states/",
     "country": "_AU",
     "deadline": "2026-09-10",
-    "deadline_days": 6,
+    "deadline_days": 5,
     "value_usd": null,
     "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites eligible and qualified bilingual English/French consultancy firms to submit proposals for the Feasibility Assessment of the Establishment and Implementation of a Continental Health Financing Observatory for African Union Member States. The consultancy will undertake a comprehensive feasibility assessment for the proposed Sustainable African Centre for Investment in Health Accountability (SACIA) Observatory, including the development of an institutional model, governance framework, financial sustainability pathway, and phased implementation roadmap to strengthen health financing intelligence, foster fiscal dialogue and evidence-informed decision-making and policy reforms across AU Member States. Duration : Three (3) months with the possibility of extension based on project needs. Location : Remote, with in-country missions in two (2) AU Member States. Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested firms must be legally registered, bilingual (English/French) consultancy firm or consortium with demonstrated expertise in health financing, public financial management (PFM), governance, institutional analysis, and multidisciplinary project management. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. Objective The objective of the consultancy is to a",
     "fit_per_area": {
@@ -335,7 +341,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-04T10:38:46.691762+00:00"
+    "fetched_at": "2026-09-05T10:00:18.483349+00:00"
   },
   {
     "id": "545550a345b0",
@@ -344,7 +350,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466458",
     "country": "UZ",
     "deadline": "2026-09-15",
-    "deadline_days": 11,
+    "deadline_days": 10,
     "value_usd": null,
     "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Project Preparation Assistance: Enhancing Access to Tertiary Education through Student Loan Mechanis. Country: Uzbekistan. Reference: UZ-MEF-12-CS-CQS.",
     "fit_per_area": {
@@ -373,7 +379,7 @@
       "wb_project_id": "P181956",
       "wb_reference": "UZ-MEF-12-CS-CQS"
     },
-    "fetched_at": "2026-09-04T10:38:46.706834+00:00"
+    "fetched_at": "2026-09-05T10:00:18.496036+00:00"
   },
   {
     "id": "68ea56681bc8",
@@ -382,7 +388,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466616",
     "country": "CH",
     "deadline": "2026-09-17",
-    "deadline_days": 13,
+    "deadline_days": 12,
     "value_usd": null,
     "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: China Food Safety Improvement Project. Country: China. Reference: GDCS-017AA.",
     "fit_per_area": {
@@ -411,7 +417,7 @@
       "wb_project_id": "P162178",
       "wb_reference": "GDCS-017AA"
     },
-    "fetched_at": "2026-09-04T10:38:46.706010+00:00"
+    "fetched_at": "2026-09-05T10:00:18.495424+00:00"
   },
   {
     "id": "1e2b09e0504a",
@@ -420,7 +426,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466810",
     "country": "OE",
     "deadline": "2026-09-18",
-    "deadline_days": 14,
+    "deadline_days": 13,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: OECS Data for Decision Making (DDM) Project. Country: OECS Countries. Reference: GD-PCU - GRENADA-569611-CS-QCBS.",
     "fit_per_area": {
@@ -449,89 +455,7 @@
       "wb_project_id": "P174986",
       "wb_reference": "GD-PCU - GRENADA-569611-CS-QCBS"
     },
-    "fetched_at": "2026-09-04T10:38:46.705736+00:00"
-  },
-  {
-    "id": "3c45323f7b30",
-    "source": "UNICEF",
-    "title": "UNICEF Request for Proposal RFP-DAN-2026-503926 for Inactivated Poliovirus Vaccines for Delivery During the Period 2028 – 2030",
-    "url": "https://www.ungm.org/Public/Notice/309297",
-    "country": "MU",
-    "deadline": "2026-09-04",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503926. Matched query: vaccine.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ungm_id": "309297",
-      "ungm_agency": "UNICEF",
-      "ungm_notice_type": "Request for proposal",
-      "ungm_reference": "RFP-DAN-2026-503926",
-      "ungm_query": "vaccine",
-      "published": "2026-07-31"
-    },
-    "fetched_at": "2026-09-04T10:38:46.707124+00:00"
-  },
-  {
-    "id": "ea14e3401a66",
-    "source": "UNICEF",
-    "title": "UNICEF Request for Proposal RFP-DAN-2026-503939 for DTwP-HepB-Hib (Pentavalent) and DTwP-HepB-Hib-IPV (Hexavalent) Vaccines for Delivery During the Period 2028 – 2032",
-    "url": "https://www.ungm.org/Public/Notice/309299",
-    "country": "MU",
-    "deadline": "2026-09-04",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "Agency: UNICEF. Type: Request for proposal. Reference: RFP-DAN-2026-503939. Matched query: vaccine.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ungm_id": "309299",
-      "ungm_agency": "UNICEF",
-      "ungm_notice_type": "Request for proposal",
-      "ungm_reference": "RFP-DAN-2026-503939",
-      "ungm_query": "vaccine",
-      "published": "2026-07-31"
-    },
-    "fetched_at": "2026-09-04T10:38:46.707202+00:00"
+    "fetched_at": "2026-09-05T10:00:18.495139+00:00"
   },
   {
     "id": "0117817bf333",
@@ -540,7 +464,7 @@
     "url": "https://www.ungm.org/Public/Notice/311414",
     "country": "PA",
     "deadline": "2026-09-06",
-    "deadline_days": 2,
+    "deadline_days": 1,
     "value_usd": null,
     "description": "Agency: WHO. Type: Invitation to bid. Reference: EM/RGO/DAF/LSP/P/0009465. Matched query: EPI.",
     "fit_per_area": {
@@ -572,7 +496,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-30"
     },
-    "fetched_at": "2026-09-04T10:38:46.710617+00:00"
+    "fetched_at": "2026-09-05T10:00:18.498930+00:00"
   },
   {
     "id": "301d79ea49ed",
@@ -581,7 +505,7 @@
     "url": "https://www.ungm.org/Public/Notice/310156",
     "country": "PA",
     "deadline": "2026-09-06",
-    "deadline_days": 2,
+    "deadline_days": 1,
     "value_usd": null,
     "description": "Agency: WHO. Type: Request for proposal. Reference: EM/ACO/PAK/P/0009309. Matched query: EPI.",
     "fit_per_area": {
@@ -613,7 +537,43 @@
       "ungm_query": "EPI",
       "published": "2026-08-28"
     },
-    "fetched_at": "2026-09-04T10:38:46.710673+00:00"
+    "fetched_at": "2026-09-05T10:00:18.498974+00:00"
+  },
+  {
+    "id": "e23bb31e0140",
+    "source": "TED",
+    "title": "Norway – Medical equipments, pharmaceuticals and personal care products – Drainage set for pleura and peritoneal drainage for the health authorities in The South-East Health Authority.",
+    "url": "https://ted.europa.eu/en/notice/465716-2026",
+    "country": "NO",
+    "deadline": "2026-09-08",
+    "deadline_days": 3,
+    "value_usd": null,
+    "description": "SYKEHUSINNKJØP HF. Framework agreement for a thorax drainage system, pleura and peritoneal drainage for Helse Sør-Øst HF. The equipment shall be attached to the hospital and sent with a patient home for their own treatment. See the requirement specification and price form for further information. There has not been a previous agreement on this equipment. Questions about this tender will not be answered in July",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "465716-2026"
+    },
+    "fetched_at": "2026-09-05T10:00:18.484686+00:00"
   },
   {
     "id": "94e200e08086",
@@ -622,7 +582,7 @@
     "url": "https://www.ungm.org/Public/Notice/310955",
     "country": "MO",
     "deadline": "2026-09-10",
-    "deadline_days": 6,
+    "deadline_days": 5,
     "value_usd": null,
     "description": "Agency: IFAD. Type: Request for proposal. Reference: IFAD/2026/022/RFP. Matched query: EPI.",
     "fit_per_area": {
@@ -654,7 +614,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-13"
     },
-    "fetched_at": "2026-09-04T10:38:46.710833+00:00"
+    "fetched_at": "2026-09-05T10:00:18.499105+00:00"
   },
   {
     "id": "fcfaa05b6234",
@@ -663,7 +623,7 @@
     "url": "https://www.ungm.org/Public/Notice/310797",
     "country": "MU",
     "deadline": "2026-09-11",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24624. Matched query: EPI.",
     "fit_per_area": {
@@ -695,7 +655,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-28"
     },
-    "fetched_at": "2026-09-04T10:38:46.710736+00:00"
+    "fetched_at": "2026-09-05T10:00:18.499029+00:00"
   },
   {
     "id": "06b69591f7af",
@@ -704,7 +664,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-data-inventory-and-consulting",
     "country": null,
     "deadline": "2026-09-14",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Gavi is seeking IT services to establish a clear, evidence-based understanding of its data estate and to define a practical, implementation-ready approach for data clean-up, information classification, Microsoft Purview Information Protection, Data Loss Prevention, retention, and related controls.",
     "fit_per_area": {
@@ -729,7 +689,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-04T10:38:46.691055+00:00"
+    "fetched_at": "2026-09-05T10:00:18.482789+00:00"
   },
   {
     "id": "19f6b52a89a2",
@@ -738,7 +698,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-cyber-security-services",
     "country": null,
     "deadline": "2026-09-18",
-    "deadline_days": 14,
+    "deadline_days": 13,
     "value_usd": null,
     "description": "Gavi is seeking a managed SOC service provider to strengthen and support its cybersecurity operations and capabilities.",
     "fit_per_area": {
@@ -763,7 +723,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-04T10:38:46.690415+00:00"
+    "fetched_at": "2026-09-05T10:00:18.482300+00:00"
   },
   {
     "id": "3cc28b6814a5",
@@ -772,7 +732,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-supporting-immunization-program-sudan-strengtheningenhancing-governance",
     "country": "SD",
     "deadline": "2026-09-24",
-    "deadline_days": 20,
+    "deadline_days": 19,
     "value_usd": null,
     "description": "RFP: Supporting Immunization Program in Sudan: Strengthening/Enhancing Governance, Quality, Evidence, Demand and Surveillance",
     "fit_per_area": {
@@ -797,43 +757,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-04T10:38:46.689796+00:00"
-  },
-  {
-    "id": "d17a494cd3de",
-    "source": "TED",
-    "title": "Netherlands – Company health services – EA 01-26 Arbodienstverlening en vitaliteit provincie Flevoland",
-    "url": "https://ted.europa.eu/en/notice/463923-2026",
-    "country": "NL",
-    "deadline": "2026-09-29",
-    "deadline_days": 25,
-    "value_usd": null,
-    "description": "Provincie Flevoland. Provincie Flevoland is voornemens een raamovereenkomst met één opdrachtnemer voor arbodienstverlening en vitaliteit te sluiten, waarbij opdrachtnemer zich presenteert en kenmerkt als samenwerkingspartner van de provincie Flevoland op het gebied van bedrijfsgezondheidszorg en vitaliteit. De opdracht wordt gegund aan de inschrijver die de inschrijving met de beste prijs-kwaliteitverhouding heeft gedaan. U wordt van harte uitgenodigd een inschrijving te doen. €2.600.000-,",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "463923-2026"
-    },
-    "fetched_at": "2026-09-04T10:38:46.699970+00:00"
+    "fetched_at": "2026-09-05T10:00:18.481813+00:00"
   },
   {
     "id": "7d38117001db",
@@ -842,7 +766,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466789",
     "country": "PH",
     "deadline": "2026-09-29",
-    "deadline_days": 25,
+    "deadline_days": 24,
     "value_usd": null,
     "description": "Invitation for Bids. Request for Bids. Project: Philippines Seismic Risk Reduction and Resilience Project. Country: Philippines. Reference: PH-DPWH-PSRRRP-CW-CP5.",
     "fit_per_area": {
@@ -871,7 +795,7 @@
       "wb_project_id": "P171419",
       "wb_reference": "PH-DPWH-PSRRRP-CW-CP5"
     },
-    "fetched_at": "2026-09-04T10:38:46.705255+00:00"
+    "fetched_at": "2026-09-05T10:00:18.494811+00:00"
   },
   {
     "id": "42ec9efefa93",
@@ -880,7 +804,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466792",
     "country": "PH",
     "deadline": "2026-09-29",
-    "deadline_days": 25,
+    "deadline_days": 24,
     "value_usd": null,
     "description": "Invitation for Bids. Request for Bids. Project: Philippines Seismic Risk Reduction and Resilience Project. Country: Philippines. Reference: PH-DPWH-PSRRRP-CW-CP6.",
     "fit_per_area": {
@@ -909,7 +833,7 @@
       "wb_project_id": "P171419",
       "wb_reference": "PH-DPWH-PSRRRP-CW-CP6"
     },
-    "fetched_at": "2026-09-04T10:38:46.705344+00:00"
+    "fetched_at": "2026-09-05T10:00:18.494878+00:00"
   },
   {
     "id": "49e95d7ea3ee",
@@ -918,7 +842,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466797",
     "country": "PH",
     "deadline": "2026-09-29",
-    "deadline_days": 25,
+    "deadline_days": 24,
     "value_usd": null,
     "description": "Invitation for Bids. Request for Bids. Project: Philippines Seismic Risk Reduction and Resilience Project. Country: Philippines. Reference: PH-DPWH-PSRRRP-CW-CP7.",
     "fit_per_area": {
@@ -947,7 +871,7 @@
       "wb_project_id": "P171419",
       "wb_reference": "PH-DPWH-PSRRRP-CW-CP7"
     },
-    "fetched_at": "2026-09-04T10:38:46.706647+00:00"
+    "fetched_at": "2026-09-05T10:00:18.495908+00:00"
   },
   {
     "id": "7c1278415325",
@@ -956,7 +880,7 @@
     "url": "https://www.ungm.org/Public/Notice/312986",
     "country": "IT",
     "deadline": "2026-10-01",
-    "deadline_days": 27,
+    "deadline_days": 26,
     "value_usd": null,
     "description": "Agency: ICTP. Type: Request for proposal. Reference: 26_14_RFP_CLEANING. Matched query: EPI.",
     "fit_per_area": {
@@ -988,18 +912,18 @@
       "ungm_query": "EPI",
       "published": "2026-09-01"
     },
-    "fetched_at": "2026-09-04T10:38:46.710563+00:00"
+    "fetched_at": "2026-09-05T10:00:18.498888+00:00"
   },
   {
-    "id": "8d262e89bcbb",
+    "id": "ce4ef9473e49",
     "source": "TED",
-    "title": "Germany – Health services – Open House-Verfahren Sekundärprävention - Angebot \"Ernährungsberatung\"",
-    "url": "https://ted.europa.eu/en/notice/461909-2026",
-    "country": "AN",
-    "deadline": "2026-10-05",
-    "deadline_days": 31,
+    "title": "Germany – Pharmaceutical products – Offene Rahmenvereinbarung über Arzneimittelrabatte gemäß § 130a Abs.8 SGB V mit jederzeitiger Beitrittsmöglichkeit, sog. Zulassungsmodell 2026-09",
+    "url": "https://ted.europa.eu/en/notice/468640-2026",
+    "country": "DE",
+    "deadline": "2028-07-05",
+    "deadline_days": 669,
     "value_usd": null,
-    "description": "AOK PLUS - Die Gesundheitskasse für Sachsen und Thüringen. Die AOK PLUS (nachfolgend Auftraggeberin genannt) stellt ihren Versicherten im Rahmen der Sekundärprävention folgende Angebote zur Verfügung: \"Gesunder Rücken\", \"Bewegung und Ernährung\", \"Ernährungsberatung\" und \"Mental gesund\". Für jedes dieser Angebote wird eine separate Bekanntmachung veröffentlicht. Gegenstand dieser Veröffentlichung ist der Abschluss nicht-exklusiver Rahmenvereinbarungen zur Erbringung von Leistungen der Sekundärprävention gemäß § 43 Abs. 1 Nr. 1 SGB V für das AOK PLUS Angebot \"Gesunder Rücken\". Mit jedem interessierten Unternehmen, welches innerhalb der Teilnahmefrist einen Teilnahmeantrag einreicht und die Teilnahmevoraussetzungen erfüllt, wird eine Rahmenvereinbarung abgeschlossen. Die Abnahmemenge ist bei Abschluss der Rahmenvereinbarung unbekannt und insbesondere davon abhängig, inwieweit die Versicherten der Auftraggeberin Leistungen der Sekundärprävention in Anspruch nehmen. Mindestabnahmemengen können daher nicht garantiert werden. Interessierte Unternehmen (Bewerber) können die Teilnahmeunterlagen über den unter Punkt 5.1.11 dieser Bekanntmachung genannten Link zum Projektraum des Deutschen Vergabeportals (DTVP) abrufen. Hierfür bedarf es einer Registrierung auf der Vergabeplattform (DTVP) und Freischaltung des Zugangs zum Projektraum durch die Auftraggeberin. Die Registrierung und die Freischaltung zum Projektraum ist kostenfrei. Die Teilnahmeunterlagen sind vollständig auszufüllen und ",
+    "description": "Deutsche Rentenversicherung Knappschaft-Bahn-See. Die vorliegende Bekanntmachung dient dem Abschluss von Vereinbarungen zu dem Wirkstoff „Amlodipin/ Indapamid/ Perindopril, Darreichungsform: FTA (ATC-Code: C09BX01)“ mit pharmazeutischen Unternehmen im Sinne von § 130a Abs. 8 Satz 1 Sozialgesetzbuch, fünftes Buch (SGB V) (Rabattverträge). Gemäß § 130a Abs. 8 Satz 1 SGB V ist die Aufforderung zur Teilnahme nur an pharmazeutische Unternehmer oder Arbeitnehmergemeinschaften pharmazeutischer Unternehmer im Sinne des § 4 Abs. 18 Arzneimittelgesetz (AMG) gerichtet. Es handelt sich nicht um ein Offenes Verfahren, sondern um eine Veröffentlichung der Aufforderung zum Abschluss/Beitritt von/zu Rabattverträgen mit für alle Teilnehmer festgelegten und nicht verhandelbaren Konditionen einschließlich der Höhe des Rabattes. Die entsprechenden Angaben unter dem Punkt 2.1 \"Verfahrensart\" sowie unter dem Punkt 5.1.12 \"Bedingung für die Auftragsvergabe_hier: Frist, bis zu der das Angebot gültig sein muss\" sind nur der Systematik dieses Vordruckes geschuldet. Vertragspartner können unbegrenzt viele pharmazeutische Unternehmer oder Arbeitnehmergemeinschaften pharmazeutischer Unternehmer im Sinne des § 4 Abs. 18 Arzneimittelgesetz (AMG) werden. Der Vertragsabschluss oder ein Beitritt erfolgt, indem die geforderten ausgefüllten Eigenerklärungen bzw. Nachweise sowie den Vertrag bzw. die Verträge entweder: a) Handschriftlich unterschrieben (Schriftform nach § 126 BGB) per Post oder b) Mit einer quali",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1022,117 +946,9 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "461909-2026"
+      "ted_publication_number": "468640-2026"
     },
-    "fetched_at": "2026-09-04T10:38:46.694978+00:00"
-  },
-  {
-    "id": "3931db466b38",
-    "source": "TED",
-    "title": "Germany – Health services – Open House-Verfahren Sekundärprävention - Angebot \"Gesunder Rücken\"",
-    "url": "https://ted.europa.eu/en/notice/462214-2026",
-    "country": "AN",
-    "deadline": "2026-10-05",
-    "deadline_days": 31,
-    "value_usd": null,
-    "description": "AOK PLUS - Die Gesundheitskasse für Sachsen und Thüringen. Die AOK PLUS (nachfolgend Auftraggeberin genannt) stellt ihren Versicherten im Rahmen der Sekundärprävention folgende Angebote zur Verfügung: \"Gesunder Rücken\", \"Bewegung und Ernährung\", \"Ernährungsberatung\" und \"Mental gesund\". Für jedes dieser Angebote wird eine separate Bekanntmachung veröffentlicht. Gegenstand dieser Veröffentlichung ist der Abschluss nicht-exklusiver Rahmenvereinbarungen zur Erbringung von Leistungen der Sekundärprävention gemäß § 43 Abs. 1 Nr. 1 SGB V für das AOK PLUS Angebot \"Gesunder Rücken\". Mit jedem interessierten Unternehmen, welches innerhalb der Teilnahmefrist einen Teilnahmeantrag einreicht und die Teilnahmevoraussetzungen erfüllt, wird eine Rahmenvereinbarung abgeschlossen. Die Abnahmemenge ist bei Abschluss der Rahmenvereinbarung unbekannt und insbesondere davon abhängig, inwieweit die Versicherten der Auftraggeberin Leistungen der Sekundärprävention in Anspruch nehmen. Mindestabnahmemengen können daher nicht garantiert werden. Interessierte Unternehmen (Bewerber) können die Teilnahmeunterlagen über den unter Punkt 5.1.11 dieser Bekanntmachung genannten Link zum Projektraum des Deutschen Vergabeportals (DTVP) abrufen. Hierfür bedarf es einer Registrierung auf der Vergabeplattform (DTVP) und Freischaltung des Zugangs zum Projektraum durch die Auftraggeberin. Die Registrierung und die Freischaltung zum Projektraum ist kostenfrei. Die Teilnahmeunterlagen sind vollständig auszufüllen und ",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "462214-2026"
-    },
-    "fetched_at": "2026-09-04T10:38:46.696131+00:00"
-  },
-  {
-    "id": "a88cd471b717",
-    "source": "TED",
-    "title": "Germany – Health services – Open House-Verfahren Sekundärprävention - Angebot \"Mental gesund\"",
-    "url": "https://ted.europa.eu/en/notice/463944-2026",
-    "country": "AN",
-    "deadline": "2026-10-05",
-    "deadline_days": 31,
-    "value_usd": null,
-    "description": "AOK PLUS - Die Gesundheitskasse für Sachsen und Thüringen. Die AOK PLUS (nachfolgend Auftraggeberin genannt) stellt ihren Versicherten im Rahmen der Sekundärprävention folgende Angebote zur Verfügung: \"Gesunder Rücken\", \"Bewegung und Ernährung\", \"Ernährungsberatung\" und \"Mental gesund\". Für jedes dieser Angebote wird eine separate Bekanntmachung veröffentlicht. Gegenstand dieser Veröffentlichung ist der Abschluss nicht-exklusiver Rahmenvereinbarungen zur Erbringung von Leistungen der Sekundärprävention gemäß § 43 Abs. 1 Nr. 1 SGB V für das AOK PLUS Angebot \"Mental gesund\". Mit jedem interessierten Unternehmen, welches innerhalb der Teilnahmefrist einen Teilnahmeantrag einreicht und die Teilnahmevoraussetzungen erfüllt, wird eine Rahmenvereinbarung abgeschlossen. Die Abnahmemenge ist bei Abschluss der Rahmenvereinbarung unbekannt und insbesondere davon abhängig, inwieweit die Versicherten der Auftraggeberin Leistungen der Sekundärprävention in Anspruch nehmen. Mindestabnahmemengen können daher nicht garantiert werden. Interessierte Unternehmen (Bewerber) können die Teilnahmeunterlagen über den unter Punkt 5.1.11 dieser Bekanntmachung genannten Link zum Projektraum des Deutschen Vergabeportals (DTVP) abrufen. Hierfür bedarf es einer Registrierung auf der Vergabeplattform (DTVP) und Freischaltung des Zugangs zum Projektraum durch die Auftraggeberin. Die Registrierung und die Freischaltung zum Projektraum ist kostenfrei. Die Teilnahmeunterlagen sind vollständig auszufüllen und üb",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "463944-2026"
-    },
-    "fetched_at": "2026-09-04T10:38:46.700396+00:00"
-  },
-  {
-    "id": "87c7b7f2764e",
-    "source": "TED",
-    "title": "Germany – Health services – Open House-Verfahren Sekundärprävention - Angebot \"Bewegung und Ernährung\"",
-    "url": "https://ted.europa.eu/en/notice/464601-2026",
-    "country": "AN",
-    "deadline": "2026-10-05",
-    "deadline_days": 31,
-    "value_usd": null,
-    "description": "AOK PLUS - Die Gesundheitskasse für Sachsen und Thüringen. Die AOK PLUS (nachfolgend Auftraggeberin genannt) stellt ihren Versicherten im Rahmen der Sekundärprävention folgende Angebote zur Verfügung: \"Gesunder Rücken\", \"Bewegung und Ernährung\", \"Ernährungsberatung\" und \"Mental gesund\". Für jedes dieser Angebote wird eine separate Bekanntmachung veröffentlicht. Gegenstand dieser Veröffentlichung ist der Abschluss nicht-exklusiver Rahmenvereinbarungen zur Erbringung von Leistungen der Sekundärprävention gemäß § 43 Abs. 1 Nr. 1 SGB V für das AOK PLUS Angebot \"Bewegung und Ernährung\". Mit jedem interessierten Unternehmen, welches innerhalb der Teilnahmefrist einen Teilnahmeantrag einreicht und die Teilnahmevoraussetzungen erfüllt, wird eine Rahmenvereinbarung abgeschlossen. Die Abnahmemenge ist bei Abschluss der Rahmenvereinbarung unbekannt und insbesondere davon abhängig, inwieweit die Versicherten der Auftraggeberin Leistungen der Sekundärprävention in Anspruch nehmen. Mindestabnahmemengen können daher nicht garantiert werden. Interessierte Unternehmen (Bewerber) können die Teilnahmeunterlagen über den unter Punkt 5.1.11 dieser Bekanntmachung genannten Link zum Projektraum des Deutschen Vergabeportals (DTVP) abrufen. Hierfür bedarf es einer Registrierung auf der Vergabeplattform (DTVP) und Freischaltung des Zugangs zum Projektraum durch die Auftraggeberin. Die Registrierung und die Freischaltung zum Projektraum ist kostenfrei. Die Teilnahmeunterlagen sind vollständig auszufüll",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "464601-2026"
-    },
-    "fetched_at": "2026-09-04T10:38:46.702136+00:00"
+    "fetched_at": "2026-09-05T10:00:18.491625+00:00"
   },
   {
     "id": "aea09787df35",
@@ -1170,7 +986,45 @@
       "published": "2026-07-27T15:42:05+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-04T10:38:46.712198+00:00"
+    "fetched_at": "2026-09-05T10:00:18.499958+00:00"
+  },
+  {
+    "id": "5b293b87fbb6",
+    "source": "Signal:Biovac",
+    "title": "Biovac vaccine project expected to create jobs in SA - SABC News",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1d5NXhCclhXMUozYUtOWENia0E2OXZEeUpYQlZscFJIcE1OWjRtaktjYVVqSFlpMHhFZFF5cDN5SnRxRG9nSTU3emdfMW9YdjQyUFpTeFU2VktTYTdkeFoyU0N3cXFOZUtQTXFHV2szVTJ3TmdEYm8xVzZfYW1ZYUxwZExpdkk1eXBQaA?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac vaccine project expected to create jobs in SA &nbsp;&nbsp; SABC News",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-08-21T10:55:43+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-09-05T10:00:18.500211+00:00"
   },
   {
     "id": "414891241c08",
@@ -1208,18 +1062,56 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-04T10:38:46.712557+00:00"
+    "fetched_at": "2026-09-05T10:00:18.500470+00:00"
   },
   {
-    "id": "9c9733ffa5c1",
+    "id": "1476b30ed146",
     "source": "Signal:Biovac",
-    "title": "Biovac’s cholera vaccine test for Africa’s self-reliance - The Independent Uganda",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkxDR0dHdXhEeFZub2NlTVlyQ0VwVHpwQ3k3M3hBUjJ3Vjk2Q3V5bWdGT1MxYm1IYlFuY1lHVlBISFhQMVpNQjNjUTZRSk53Y2hnZEw4ZXl3U2xZdVlKakFSb01zSEtZTHNOU2JzazA2czhzMmdUZXZNY3p5czRVRXc4SklWTEllOTdiZERR?oc=5",
-    "country": "UG",
+    "title": "Cholera and Menengitis Vaccines to be produced in South Africa from 2028 - tanzaniatimes.net",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZk9PYkl6ejRiUWFjLVpjVmJzWUhzay1JNEMzejd4RmYxOVkyZTVkZkFBVUxTaUxKX0h3MFBCR3k4SDBuQmVDQWYzVnZWMVNURUswZWlNTEJJVWZqZEdmTkxPdll5UlEwcFpQa0xGejA0TC1fN1hFd0s2ZmtBMm1UdTlVNjhBdm1CN25LTnJhbXlTTGo2ejY3NG5kZnZqYXpm?oc=5",
+    "country": "ZA",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Biovac’s cholera vaccine test for Africa’s self-reliance &nbsp;&nbsp; The Independent Uganda",
+    "description": "Cholera and Menengitis Vaccines to be produced in South Africa from 2028 &nbsp;&nbsp; tanzaniatimes.net",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-07-24T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-09-05T10:00:18.500583+00:00"
+  },
+  {
+    "id": "124aa1bfb4e1",
+    "source": "Signal:Biovac",
+    "title": "Biovac’s cholera vaccine test for Africa’s self-reliance - independent.co.ug",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkxDR0dHdXhEeFZub2NlTVlyQ0VwVHpwQ3k3M3hBUjJ3Vjk2Q3V5bWdGT1MxYm1IYlFuY1lHVlBISFhQMVpNQjNjUTZRSk53Y2hnZEw4ZXl3U2xZdVlKakFSb01zSEtZTHNOU2JzazA2czhzMmdUZXZNY3p5czRVRXc4SklWTEllOTdiZERR?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac’s cholera vaccine test for Africa’s self-reliance &nbsp;&nbsp; independent.co.ug",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1246,7 +1138,45 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-04T10:38:46.712853+00:00"
+    "fetched_at": "2026-09-05T10:00:18.501173+00:00"
+  },
+  {
+    "id": "938285e2f2eb",
+    "source": "Signal:Afrigen",
+    "title": "South Africa backs local Ebola vaccine development - SABC News",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNTd4cVhnUUVNYVlzQmp4c1pxQjNjUHc4eXY4aHpKMUdyRUNmRzRRWXJUQjlPdjFNek5DcWl2R3RUaGFjcHFCU1ZSeTJ5LTU1SVlFTWpQc0U3N19ZODRGaUIwRnE1b251TWw3VXVGUF9xOE9vemRXM19iZFRUNkoxcGVlSXpGTzdIbndIX2pB?oc=5",
+    "country": "ZA",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "South Africa backs local Ebola vaccine development &nbsp;&nbsp; SABC News",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Afrigen",
+      "published": "2026-07-03T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-09-05T10:00:18.501751+00:00"
   },
   {
     "id": "c2b50944abe4",
@@ -1284,7 +1214,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-04T10:38:46.714145+00:00"
+    "fetched_at": "2026-09-05T10:00:18.502428+00:00"
   },
   {
     "id": "618dbbcffcf8",
@@ -1322,7 +1252,7 @@
       "published": "2026-06-09T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-04T10:38:46.715804+00:00"
+    "fetched_at": "2026-09-05T10:00:18.503107+00:00"
   },
   {
     "id": "7895d9459a90",
@@ -1360,7 +1290,7 @@
       "published": "2026-06-08T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-04T10:38:46.716234+00:00"
+    "fetched_at": "2026-09-05T10:00:18.503435+00:00"
   },
   {
     "id": "debba72be073",
@@ -1398,7 +1328,45 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-04T10:38:46.716930+00:00"
+    "fetched_at": "2026-09-05T10:00:18.503953+00:00"
+  },
+  {
+    "id": "b96a3e8af844",
+    "source": "Signal:AFD",
+    "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "donor": "AFD",
+      "published": "2026-05-11T07:00:00+00:00",
+      "signal_type": "donor"
+    },
+    "fetched_at": "2026-09-05T10:00:18.504219+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -1436,6 +1404,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-04T10:38:46.717383+00:00"
+    "fetched_at": "2026-09-05T10:00:18.505223+00:00"
   }
 ]
