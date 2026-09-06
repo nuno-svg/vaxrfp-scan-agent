@@ -1,0 +1,864 @@
+{
+  "meta": {
+    "last_run": "2026-09-06T10:22:28.978286+00:00",
+    "duration_seconds": 301.856621,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 3,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 3,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 42,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 96,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 0,
+        "errors": 0
+      }
+    },
+    "total_kept": 21,
+    "total_excluded": 224,
+    "exclusion_breakdown": {
+      "expired": 59,
+      "gate": 152,
+      "bmgf_strict": 2,
+      "goods": 10,
+      "sanctioned": 1
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "53d3b797e94c",
+      "source": "WHO",
+      "title": "World Immunization Week (WIW) 2027–2029 Campaign Strategy, Theme and Monitoring & Evaluation Framework Development",
+      "url": "https://www.ungm.org/Public/Notice/311756",
+      "country": "MU",
+      "deadline": "2026-09-18",
+      "deadline_days": 12,
+      "value_usd": null,
+      "description": "Agency: WHO. Type: Request for proposal. Reference: WHO-SHQ-RFP-26-2031. Matched query: immunization.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 8
+      },
+      "fit_total": 8,
+      "fit_top_area": "mel",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "311756",
+        "ungm_agency": "WHO",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "WHO-SHQ-RFP-26-2031",
+        "ungm_query": "immunization",
+        "published": "2026-08-20"
+      },
+      "fetched_at": "2026-09-06T10:22:28.975180+00:00"
+    },
+    {
+      "id": "4949b27d9adf",
+      "source": "UNDP",
+      "title": "Policy & Regulatory Reviews to Promote Solar – Powered Cold Chain Development",
+      "url": "https://www.ungm.org/Public/Notice/313024",
+      "country": "KE",
+      "deadline": "2026-09-14",
+      "deadline_days": 8,
+      "value_usd": null,
+      "description": "Agency: UNDP. Type: Request for proposal. Reference: UNDP-KEN-00748. Matched query: cold chain.",
+      "fit_per_area": {
+        "cold_chain": 4,
+        "manufacturing": 0,
+        "regulatory": 3,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 5,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "313024",
+        "ungm_agency": "UNDP",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "UNDP-KEN-00748",
+        "ungm_query": "cold chain",
+        "published": "2026-09-01"
+      },
+      "fetched_at": "2026-09-06T10:22:28.976759+00:00"
+    },
+    {
+      "id": "56877572f3a7",
+      "source": "World Bank",
+      "title": "Framework Agreements for the Preparation of Environmental and Social Impact Assessments (ESIA), Environmental and Social Management Plans (ESMP), and Environmental and Social Audits (ESA).",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00467056",
+      "country": "LE",
+      "deadline": "2026-09-11",
+      "deadline_days": 5,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Quality Based Selection. Project: Lebanon Emergency Assistance Project. Country: Lebanon. Reference: FA-CS-ESIA-ESMP.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 4
+      },
+      "fit_total": 4,
+      "fit_top_area": "mel",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": true,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "Partial sanctions (text match): Lebanon (Hezbollah-linked entities)",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P509428",
+        "wb_reference": "FA-CS-ESIA-ESMP"
+      },
+      "fetched_at": "2026-09-06T10:22:28.972105+00:00"
+    },
+    {
+      "id": "481c9c9874b9",
+      "source": "Africa CDC",
+      "title": "Consultancy Services to Support Africa CDC and the African Union in Assessing the Feasibility of the Implementation of a Continental Health Financing Observatory for AU Member States",
+      "url": "https://africacdc.org/opportunity/consultancy-services-to-support-africa-cdc-and-the-african-union-in-assessing-the-feasibility-of-the-implementation-of-a-continental-health-financing-observatory-for-au-member-states/",
+      "country": "_AU",
+      "deadline": "2026-09-10",
+      "deadline_days": 4,
+      "value_usd": null,
+      "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites eligible and qualified bilingual English/French consultancy firms to submit proposals for the Feasibility Assessment of the Establishment and Implementation of a Continental Health Financing Observatory for African Union Member States. The consultancy will undertake a comprehensive feasibility assessment for the proposed Sustainable African Centre for Investment in Health Accountability (SACIA) Observatory, including the development of an institutional model, governance framework, financial sustainability pathway, and phased implementation roadmap to strengthen health financing intelligence, foster fiscal dialogue and evidence-informed decision-making and policy reforms across AU Member States. Duration : Three (3) months with the possibility of extension based on project needs. Location : Remote, with in-country missions in two (2) AU Member States. Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested firms must be legally registered, bilingual (English/French) consultancy firm or consortium with demonstrated expertise in health financing, public financial management (PFM), governance, institutional analysis, and multidisciplinary project management. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. Objective The objective of the consultancy is to a",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 3,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-09-06T10:22:28.957641+00:00"
+    },
+    {
+      "id": "a37c5ecf1a6a",
+      "source": "World Bank",
+      "title": "Consultancy Services for Procurement of Software Development, Update, and Maintenance Support Services for the Infectious Disease Surveillance and Early Warning System (İzci) Web and Mobile Application",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00460434",
+      "country": "TU",
+      "deadline": "2026-09-07",
+      "deadline_days": 1,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Türkiye Preparedness for Public Health Emergencies Project. Country: Turkiye. Reference: TPPHEP/SBSGM/2026/CS/D.2.1.5.1/QCBS/1.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P180781",
+        "wb_reference": "TPPHEP/SBSGM/2026/CS/D.2.1.5.1/QCBS/1"
+      },
+      "fetched_at": "2026-09-06T10:22:28.971781+00:00"
+    },
+    {
+      "id": "e089ae4c2bae",
+      "source": "World Bank",
+      "title": "Assessment of the digital student loan platform in Uzbekistan",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466976",
+      "country": "UZ",
+      "deadline": "2026-09-17",
+      "deadline_days": 11,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Project Preparation Assistance: Enhancing Access to Tertiary Education through Student Loan Mechanis. Country: Uzbekistan. Reference: UZ-MEF-16-CS-CQS.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P181956",
+        "wb_reference": "UZ-MEF-16-CS-CQS"
+      },
+      "fetched_at": "2026-09-06T10:22:28.971677+00:00"
+    },
+    {
+      "id": "3a4e767a4fe8",
+      "source": "World Bank",
+      "title": "Current student financing system, student loan program and graduate outcomes assessment in Uzbekistan",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466972",
+      "country": "UZ",
+      "deadline": "2026-09-17",
+      "deadline_days": 11,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Project Preparation Assistance: Enhancing Access to Tertiary Education through Student Loan Mechanis. Country: Uzbekistan. Reference: UZ-MEF-15-CS-CQS.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P181956",
+        "wb_reference": "UZ-MEF-15-CS-CQS"
+      },
+      "fetched_at": "2026-09-06T10:22:28.972580+00:00"
+    },
+    {
+      "id": "a3611acda0b0",
+      "source": "World Bank",
+      "title": "Consulting Service for preparation of RAP Compliance Report",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00460489",
+      "country": "GE",
+      "deadline": "2026-09-18",
+      "deadline_days": 12,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Kakheti Connectivity Improvement Project. Country: Georgia. Reference: KCIP/CS/ICS-13.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P173782",
+        "wb_reference": "KCIP/CS/ICS-13"
+      },
+      "fetched_at": "2026-09-06T10:22:28.972338+00:00"
+    },
+    {
+      "id": "1e2b09e0504a",
+      "source": "World Bank",
+      "title": "Consultancy Services—The analysis of data and preparation of the national report of living conditions for the survey of living conditions and household budget survey (SLC-HBS)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466810",
+      "country": "OE",
+      "deadline": "2026-09-18",
+      "deadline_days": 12,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: OECS Data for Decision Making (DDM) Project. Country: OECS Countries. Reference: GD-PCU - GRENADA-569611-CS-QCBS.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P174986",
+        "wb_reference": "GD-PCU - GRENADA-569611-CS-QCBS"
+      },
+      "fetched_at": "2026-09-06T10:22:28.973641+00:00"
+    },
+    {
+      "id": "0117817bf333",
+      "source": "WHO",
+      "title": "Provision, Installation, and Configuration of Data System Servers and Software Licenses for EPI-Pakistan",
+      "url": "https://www.ungm.org/Public/Notice/311414",
+      "country": "PA",
+      "deadline": "2026-09-06",
+      "deadline_days": 0,
+      "value_usd": null,
+      "description": "Agency: WHO. Type: Invitation to bid. Reference: EM/RGO/DAF/LSP/P/0009465. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "311414",
+        "ungm_agency": "WHO",
+        "ungm_notice_type": "Invitation to bid",
+        "ungm_reference": "EM/RGO/DAF/LSP/P/0009465",
+        "ungm_query": "EPI",
+        "published": "2026-08-30"
+      },
+      "fetched_at": "2026-09-06T10:22:28.977356+00:00"
+    },
+    {
+      "id": "301d79ea49ed",
+      "source": "WHO",
+      "title": "RFP EM/PAK - GIS-Enabled Digital EPI Microplanning and NEIR Integration in Baluchistan - PAKISTAN",
+      "url": "https://www.ungm.org/Public/Notice/310156",
+      "country": "PA",
+      "deadline": "2026-09-06",
+      "deadline_days": 0,
+      "value_usd": null,
+      "description": "Agency: WHO. Type: Request for proposal. Reference: EM/ACO/PAK/P/0009309. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "310156",
+        "ungm_agency": "WHO",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "EM/ACO/PAK/P/0009309",
+        "ungm_query": "EPI",
+        "published": "2026-08-28"
+      },
+      "fetched_at": "2026-09-06T10:22:28.977409+00:00"
+    },
+    {
+      "id": "e23bb31e0140",
+      "source": "TED",
+      "title": "Norway – Medical equipments, pharmaceuticals and personal care products – Drainage set for pleura and peritoneal drainage for the health authorities in The South-East Health Authority.",
+      "url": "https://ted.europa.eu/en/notice/465716-2026",
+      "country": "NO",
+      "deadline": "2026-09-08",
+      "deadline_days": 2,
+      "value_usd": null,
+      "description": "SYKEHUSINNKJØP HF. Framework agreement for a thorax drainage system, pleura and peritoneal drainage for Helse Sør-Øst HF. The equipment shall be attached to the hospital and sent with a patient home for their own treatment. See the requirement specification and price form for further information. There has not been a previous agreement on this equipment. Questions about this tender will not be answered in July",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ted_publication_number": "465716-2026"
+      },
+      "fetched_at": "2026-09-06T10:22:28.959256+00:00"
+    },
+    {
+      "id": "94e200e08086",
+      "source": "UNGM (IFAD)",
+      "title": "Development of Value-Added Mangrove Beekeeping Products, Branding, and Market Linkages in Mozambique",
+      "url": "https://www.ungm.org/Public/Notice/310955",
+      "country": "MO",
+      "deadline": "2026-09-10",
+      "deadline_days": 4,
+      "value_usd": null,
+      "description": "Agency: IFAD. Type: Request for proposal. Reference: IFAD/2026/022/RFP. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "310955",
+        "ungm_agency": "IFAD",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "IFAD/2026/022/RFP",
+        "ungm_query": "EPI",
+        "published": "2026-08-13"
+      },
+      "fetched_at": "2026-09-06T10:22:28.977564+00:00"
+    },
+    {
+      "id": "fcfaa05b6234",
+      "source": "UNGM (UN Secretariat)",
+      "title": "Provision of Global Standby Heavy Cargo Fixed-Wing Aircraft Services for United Nations Peacekeeping Missions and Special Political Missions",
+      "url": "https://www.ungm.org/Public/Notice/310797",
+      "country": "MU",
+      "deadline": "2026-09-11",
+      "deadline_days": 5,
+      "value_usd": null,
+      "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24624. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "310797",
+        "ungm_agency": "UN Secretariat",
+        "ungm_notice_type": "Request for EOI",
+        "ungm_reference": "EOIUNPD24624",
+        "ungm_query": "EPI",
+        "published": "2026-08-28"
+      },
+      "fetched_at": "2026-09-06T10:22:28.977470+00:00"
+    },
+    {
+      "id": "06b69591f7af",
+      "source": "GAVI",
+      "title": "RFP: Invitation to tender for Data Inventory and consulting",
+      "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-data-inventory-and-consulting",
+      "country": null,
+      "deadline": "2026-09-14",
+      "deadline_days": 8,
+      "value_usd": null,
+      "description": "Gavi is seeking IT services to establish a clear, evidence-based understanding of its data estate and to define a practical, implementation-ready approach for data clean-up, information classification, Microsoft Purview Information Protection, Data Loss Prevention, retention, and related controls.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-09-06T10:22:28.956974+00:00"
+    },
+    {
+      "id": "19f6b52a89a2",
+      "source": "GAVI",
+      "title": "RFP: Invitation to tender for Cyber Security Services",
+      "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-cyber-security-services",
+      "country": null,
+      "deadline": "2026-09-18",
+      "deadline_days": 12,
+      "value_usd": null,
+      "description": "Gavi is seeking a managed SOC service provider to strengthen and support its cybersecurity operations and capabilities.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-09-06T10:22:28.956356+00:00"
+    },
+    {
+      "id": "3cc28b6814a5",
+      "source": "GAVI",
+      "title": "RFP: Supporting Immunization Program in Sudan: Strengthening/Enhancing Governance, Quality, Evidence, Demand and Surveillance",
+      "url": "https://www.gavi.org/news/document-library/rfp-supporting-immunization-program-sudan-strengtheningenhancing-governance",
+      "country": "SD",
+      "deadline": "2026-09-24",
+      "deadline_days": 18,
+      "value_usd": null,
+      "description": "RFP: Supporting Immunization Program in Sudan: Strengthening/Enhancing Governance, Quality, Evidence, Demand and Surveillance",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": true,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "Partial sanctions: Sudan (partial sanctions)",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-09-06T10:22:28.955666+00:00"
+    },
+    {
+      "id": "7d38117001db",
+      "source": "World Bank",
+      "title": "Retrofitting and Strengthening/Upgrading of Public School Buildings in Preparation for “The Big One” under IBRD Loan 9251-PH: Philippines Seismic Risk Reduction and Resilience Project (PSRRRP) – Contract Package 5",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466789",
+      "country": "PH",
+      "deadline": "2026-09-29",
+      "deadline_days": 23,
+      "value_usd": null,
+      "description": "Invitation for Bids. Request for Bids. Project: Philippines Seismic Risk Reduction and Resilience Project. Country: Philippines. Reference: PH-DPWH-PSRRRP-CW-CP5.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Invitation for Bids",
+        "wb_project_id": "P171419",
+        "wb_reference": "PH-DPWH-PSRRRP-CW-CP5"
+      },
+      "fetched_at": "2026-09-06T10:22:28.973104+00:00"
+    },
+    {
+      "id": "42ec9efefa93",
+      "source": "World Bank",
+      "title": "Retrofitting and Strengthening/Upgrading of Public School Buildings in Preparation for “The Big One” under IBRD Loan 9251-PH: Philippines Seismic Risk Reduction and Resilience Project (PSRRRP) – Contract Package 6",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466792",
+      "country": "PH",
+      "deadline": "2026-09-29",
+      "deadline_days": 23,
+      "value_usd": null,
+      "description": "Invitation for Bids. Request for Bids. Project: Philippines Seismic Risk Reduction and Resilience Project. Country: Philippines. Reference: PH-DPWH-PSRRRP-CW-CP6.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Invitation for Bids",
+        "wb_project_id": "P171419",
+        "wb_reference": "PH-DPWH-PSRRRP-CW-CP6"
+      },
+      "fetched_at": "2026-09-06T10:22:28.973211+00:00"
+    },
+    {
+      "id": "7c1278415325",
+      "source": "UNGM (ICTP)",
+      "title": "This procurement opportunity meets the requirements to be considered as sustainable. Click on the procurement opportunity to learn more. RFP for Cleaning, Guesthouse Housekeeping, Laundry/Linen, Pest Control and Related Services at ICTP Premises in Trieste, Italy",
+      "url": "https://www.ungm.org/Public/Notice/312986",
+      "country": "IT",
+      "deadline": "2026-10-01",
+      "deadline_days": 25,
+      "value_usd": null,
+      "description": "Agency: ICTP. Type: Request for proposal. Reference: 26_14_RFP_CLEANING. Matched query: EPI.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ungm_id": "312986",
+        "ungm_agency": "ICTP",
+        "ungm_notice_type": "Request for proposal",
+        "ungm_reference": "26_14_RFP_CLEANING",
+        "ungm_query": "EPI",
+        "published": "2026-09-01"
+      },
+      "fetched_at": "2026-09-06T10:22:28.977304+00:00"
+    },
+    {
+      "id": "ce4ef9473e49",
+      "source": "TED",
+      "title": "Germany – Pharmaceutical products – Offene Rahmenvereinbarung über Arzneimittelrabatte gemäß § 130a Abs.8 SGB V mit jederzeitiger Beitrittsmöglichkeit, sog. Zulassungsmodell 2026-09",
+      "url": "https://ted.europa.eu/en/notice/468640-2026",
+      "country": "DE",
+      "deadline": "2028-07-05",
+      "deadline_days": 668,
+      "value_usd": null,
+      "description": "Deutsche Rentenversicherung Knappschaft-Bahn-See. Die vorliegende Bekanntmachung dient dem Abschluss von Vereinbarungen zu dem Wirkstoff „Amlodipin/ Indapamid/ Perindopril, Darreichungsform: FTA (ATC-Code: C09BX01)“ mit pharmazeutischen Unternehmen im Sinne von § 130a Abs. 8 Satz 1 Sozialgesetzbuch, fünftes Buch (SGB V) (Rabattverträge). Gemäß § 130a Abs. 8 Satz 1 SGB V ist die Aufforderung zur Teilnahme nur an pharmazeutische Unternehmer oder Arbeitnehmergemeinschaften pharmazeutischer Unternehmer im Sinne des § 4 Abs. 18 Arzneimittelgesetz (AMG) gerichtet. Es handelt sich nicht um ein Offenes Verfahren, sondern um eine Veröffentlichung der Aufforderung zum Abschluss/Beitritt von/zu Rabattverträgen mit für alle Teilnehmer festgelegten und nicht verhandelbaren Konditionen einschließlich der Höhe des Rabattes. Die entsprechenden Angaben unter dem Punkt 2.1 \"Verfahrensart\" sowie unter dem Punkt 5.1.12 \"Bedingung für die Auftragsvergabe_hier: Frist, bis zu der das Angebot gültig sein muss\" sind nur der Systematik dieses Vordruckes geschuldet. Vertragspartner können unbegrenzt viele pharmazeutische Unternehmer oder Arbeitnehmergemeinschaften pharmazeutischer Unternehmer im Sinne des § 4 Abs. 18 Arzneimittelgesetz (AMG) werden. Der Vertragsabschluss oder ein Beitritt erfolgt, indem die geforderten ausgefüllten Eigenerklärungen bzw. Nachweise sowie den Vertrag bzw. die Verträge entweder: a) Handschriftlich unterschrieben (Schriftform nach § 126 BGB) per Post oder b) Mit einer quali",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ted_publication_number": "468640-2026"
+      },
+      "fetched_at": "2026-09-06T10:22:28.967967+00:00"
+    }
+  ]
+}
