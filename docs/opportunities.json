@@ -35,7 +35,7 @@
       "published": "2026-06-30T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-07T11:41:57.039621+00:00"
+    "fetched_at": "2026-09-08T10:37:58.021297+00:00"
   },
   {
     "id": "53d3b797e94c",
@@ -44,7 +44,7 @@
     "url": "https://www.ungm.org/Public/Notice/311756",
     "country": "MU",
     "deadline": "2026-09-18",
-    "deadline_days": 11,
+    "deadline_days": 10,
     "value_usd": null,
     "description": "Agency: WHO. Type: Request for proposal. Reference: WHO-SHQ-RFP-26-2031. Matched query: immunization.",
     "fit_per_area": {
@@ -76,7 +76,7 @@
       "ungm_query": "immunization",
       "published": "2026-08-20"
     },
-    "fetched_at": "2026-09-07T11:41:57.032848+00:00"
+    "fetched_at": "2026-09-08T10:37:58.014670+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -114,43 +114,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-07T11:41:57.043983+00:00"
-  },
-  {
-    "id": "8a8c2d20ea34",
-    "source": "TED",
-    "title": "Sweden – Health services – DVD/261012 - Monitoring of excess mortality across Europe for timely assessment of the impact of communicable diseases and public health threats",
-    "url": "https://ted.europa.eu/en/notice/472844-2026",
-    "country": "AN",
-    "deadline": "2026-09-14",
-    "deadline_days": 7,
-    "value_usd": null,
-    "description": "European Centre for Disease Prevention and Control. The purpose of this procurement is to develop and operate a comprehensive system for timely monitoring of all cause mortality in Europe as an indicator of the population level impact of communicable diseases and other major public health threats. Excess all-cause mortality is a basic indicator for the assessment of the impact of influenza epidemics in the general population and an understanding of its epidemiology is key for effective public health planning and action. The most widely accepted and utilised methodology for estimating influenza mortality is to model this from time-series data of all-cause mortality. Vital statistics are accessible for all European countries, but might not be available in a timely fashion. The variation of mortality rates within a population over time can be ascribed to different factors as extreme weather conditions as well as waves of respiratory diseases as seen during the seasonal influenza epidemic. The monitoring of all-cause mortality provides valuable information on the general population and specific age-groups not targeted by disease-specific surveillance systems. Timely monitoring of excess mortality may also provide early warning signals for community-wide acute health effects. The objective of this tender is to establish and maintain a network of European Union, European Economic Area and Stabilisation and Association Agreement (EU/EEA/SAA) countries national institutes / study sit",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 5
-    },
-    "fit_total": 5,
-    "fit_top_area": "mel",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "472844-2026"
-    },
-    "fetched_at": "2026-09-07T11:41:57.020560+00:00"
+    "fetched_at": "2026-09-08T10:37:58.025152+00:00"
   },
   {
     "id": "4949b27d9adf",
@@ -159,7 +123,7 @@
     "url": "https://www.ungm.org/Public/Notice/313024",
     "country": "KE",
     "deadline": "2026-09-14",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Agency: UNDP. Type: Request for proposal. Reference: UNDP-KEN-00748. Matched query: cold chain.",
     "fit_per_area": {
@@ -191,66 +155,28 @@
       "ungm_query": "cold chain",
       "published": "2026-09-01"
     },
-    "fetched_at": "2026-09-07T11:41:57.034531+00:00"
+    "fetched_at": "2026-09-08T10:37:58.016282+00:00"
   },
   {
-    "id": "56877572f3a7",
-    "source": "World Bank",
-    "title": "Framework Agreements for the Preparation of Environmental and Social Impact Assessments (ESIA), Environmental and Social Management Plans (ESMP), and Environmental and Social Audits (ESA).",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00467056",
-    "country": "LE",
-    "deadline": "2026-09-11",
-    "deadline_days": 4,
+    "id": "a2ce19bb416b",
+    "source": "Africa CDC",
+    "title": "HIRING OF INDIVIDUAL CONSULTANTS TO DEVELOP A NATIONAL INTEROPERABILITY FRAMEWORK FOR HEALTH INFORMATION EXCHANGE IN TWO MEMBER STATES (Tunisia and Seychelles)",
+    "url": "https://africacdc.org/opportunity/hiring-of-individual-consultants-to-develop-a-national-interoperability-framework-for-health-information-exchange-in-two-member-states-tunisia-and-seychelles/",
+    "country": "_AU",
+    "deadline": "2026-09-17",
+    "deadline_days": 9,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Quality Based Selection. Project: Lebanon Emergency Assistance Project. Country: Lebanon. Reference: FA-CS-ESIA-ESMP.",
+    "description": "The African Union has received financing from the World Bank toward the cost of the Africa Centres for Disease Control Support Program to Combat Current and Future Public Health Threats Project. The Project Development Objective is to enhance the capacity of Africa Centres for Disease Control and Prevention (Africa CDC) to support AU Member States in preventing, detecting, and responding to current and future public health threats and intends to apply part of the proceeds for consulting services. Health Information Systems interoperability is a foundational requirement for implementing national Health Information Exchange (HIE). A robust, standards-based interoperability framework is essential to enable secure data exchange, support system integration, and establish the technical and governance foundation for sustainable HIE implementation. Findings from the HIE maturity assessments conducted across AU Member States have identified interoperability as a high-impact priority, critical to enabling subsequent phases such as governance strengthening and phased digital health system implementation. As part of the support by Africa CDC in implementing HIE across Member States, digital maturity assessments were conducted in 12 AU Member States, alongside the development of HIE roadmaps. Following this, Africa CDC will support two of countries, Tunisia and Seychelles, through the engagement of two individual consultants to support each of the countries to design and develop comprehen",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
       "regulatory": 0,
-      "procurement": 0,
+      "procurement": 3,
       "mel": 4
     },
-    "fit_total": 4,
+    "fit_total": 5,
     "fit_top_area": "mel",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": true,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "Partial sanctions (text match): Lebanon (Hezbollah-linked entities)",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P509428",
-      "wb_reference": "FA-CS-ESIA-ESMP"
-    },
-    "fetched_at": "2026-09-07T11:41:57.030559+00:00"
-  },
-  {
-    "id": "6d6066ce3c0b",
-    "source": "TED",
-    "title": "Netherlands – Research consultancy services – Monitor Nationaal Programma Grieppreventie (NPG) en Nationaal Programma Pneumokokkenvaccinatie Volwassenen (NPPV)",
-    "url": "https://ted.europa.eu/en/notice/472348-2026",
-    "country": "NL",
-    "deadline": "2026-10-06",
-    "deadline_days": 29,
-    "value_usd": null,
-    "description": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM). Als onderdeel van de regietaak is de aanbestedende dienst verantwoordelijk voor monitoring en evaluatie van de NPG en NPPV. In dat kader worden jaarlijks landelijke monitors opgesteld om de kwaliteit en bereikbaarheid van deze vaccinatieprogramma’s te bewaken, bij te kunnen sturen, maar ook om te verantwoorden naar de opdrachtgever VWS. De landelijke monitoring bestaat uit de volgende (deel)producten, namelijk de monitor voor het NPG (Nederlandstalig en een verkorte Engelstalige versie) en de monitor voor het NPPV (Nederlandstalig en een verkorte Engelstalige versie). De werkzaamheden met de huidige leverancier lopen op 31 december 2026 af. Een nieuwe overeenkomst voor de monitoring van het NPG en NPPV moet door aanbestedende dienst worden aanbesteed. Het doel van deze Europese aanbesteding is het afsluiten van een dienstverleningsovereenkomst met één opdrachtnemer voor de monitoring van de NPG en NPPV. De aanbestedende dienst wenst een overeenkomst met de opdrachtnemer te sluiten voor een initiële periode van één (1) jaar en tien (10) maanden, met aanvullend drie (3) maal een optie tot verlenging van één (1) jaar. Dit resulteert in een maximale looptijd van de overeenkomst van vier (4) jaar en tien (10) maanden. De beoogde ingangsdatum van de af te sluiten overeenkomst is 1 januari 2027 en loopt tot en met 30 oktober 2028",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 4
-    },
-    "fit_total": 4,
-    "fit_top_area": "mel",
-    "breadth_bonus": 0,
+    "breadth_bonus": 1,
     "flags": {
       "sanctioned": false,
       "requires_review_sanctions": false,
@@ -262,10 +188,8 @@
       "sanctions": "",
       "eligibility": ""
     },
-    "raw": {
-      "ted_publication_number": "472348-2026"
-    },
-    "fetched_at": "2026-09-07T11:41:57.019853+00:00"
+    "raw": {},
+    "fetched_at": "2026-09-08T10:37:57.999614+00:00"
   },
   {
     "id": "37737e671331",
@@ -303,7 +227,7 @@
       "published": "2026-08-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-07T11:41:57.037748+00:00"
+    "fetched_at": "2026-09-08T10:37:58.019553+00:00"
   },
   {
     "id": "9f2f4dfd0fd7",
@@ -341,7 +265,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-07T11:41:57.037949+00:00"
+    "fetched_at": "2026-09-08T10:37:58.019756+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -379,7 +303,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-07T11:41:57.038685+00:00"
+    "fetched_at": "2026-09-08T10:37:58.020533+00:00"
   },
   {
     "id": "79f77cfe6238",
@@ -417,7 +341,7 @@
       "published": "2026-06-15T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-07T11:41:57.039797+00:00"
+    "fetched_at": "2026-09-08T10:37:58.021481+00:00"
   },
   {
     "id": "7957d095f782",
@@ -455,7 +379,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-07T11:41:57.043145+00:00"
+    "fetched_at": "2026-09-08T10:37:58.024698+00:00"
   },
   {
     "id": "3301c0539fa2",
@@ -493,7 +417,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-07T11:41:57.043548+00:00"
+    "fetched_at": "2026-09-08T10:37:58.025844+00:00"
   },
   {
     "id": "481c9c9874b9",
@@ -502,7 +426,7 @@
     "url": "https://africacdc.org/opportunity/consultancy-services-to-support-africa-cdc-and-the-african-union-in-assessing-the-feasibility-of-the-implementation-of-a-continental-health-financing-observatory-for-au-member-states/",
     "country": "_AU",
     "deadline": "2026-09-10",
-    "deadline_days": 3,
+    "deadline_days": 2,
     "value_usd": null,
     "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) invites eligible and qualified bilingual English/French consultancy firms to submit proposals for the Feasibility Assessment of the Establishment and Implementation of a Continental Health Financing Observatory for African Union Member States. The consultancy will undertake a comprehensive feasibility assessment for the proposed Sustainable African Centre for Investment in Health Accountability (SACIA) Observatory, including the development of an institutional model, governance framework, financial sustainability pathway, and phased implementation roadmap to strengthen health financing intelligence, foster fiscal dialogue and evidence-informed decision-making and policy reforms across AU Member States. Duration : Three (3) months with the possibility of extension based on project needs. Location : Remote, with in-country missions in two (2) AU Member States. Interested firms are requested to submit their proposals in accordance with the requirements and instructions set out in the Solicitation Document. Interested firms must be legally registered, bilingual (English/French) consultancy firm or consortium with demonstrated expertise in health financing, public financial management (PFM), governance, institutional analysis, and multidisciplinary project management. The Request for Proposal (RFP) document can be obtained upon request from the procurement contact. Objective The objective of the consultancy is to a",
     "fit_per_area": {
@@ -527,27 +451,27 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-07T11:41:57.019396+00:00"
+    "fetched_at": "2026-09-08T10:37:58.000255+00:00"
   },
   {
-    "id": "a37c5ecf1a6a",
+    "id": "875e8008a2e5",
     "source": "World Bank",
-    "title": "Consultancy Services for Procurement of Software Development, Update, and Maintenance Support Services for the Infectious Disease Surveillance and Early Warning System (İzci) Web and Mobile Application",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00460434",
-    "country": "TU",
-    "deadline": "2026-09-07",
-    "deadline_days": 0,
+    "title": "Consultancy services for the preparation of preliminary design, tender documentation and the evaluation of bids in the selection of a Contractor for the construction of the 110 kV overhead line between the Lower Tar HPP and the ‘Kara-Kulja’ Substation",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00463901",
+    "country": "KY",
+    "deadline": "2026-09-10",
+    "deadline_days": 2,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Türkiye Preparedness for Public Health Emergencies Project. Country: Turkiye. Reference: TPPHEP/SBSGM/2026/CS/D.2.1.5.1/QCBS/1.",
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Kyrgyz Renewable Energy Development Project. Country: Kyrgyz Republic. Reference: KG/KRED/CS/2026/CQS-01.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
       "regulatory": 0,
       "procurement": 2,
-      "mel": 0
+      "mel": 3
     },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
+    "fit_total": 3,
+    "fit_top_area": "mel",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
@@ -562,10 +486,48 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P180781",
-      "wb_reference": "TPPHEP/SBSGM/2026/CS/D.2.1.5.1/QCBS/1"
+      "wb_project_id": "P178286",
+      "wb_reference": "KG/KRED/CS/2026/CQS-01"
     },
-    "fetched_at": "2026-09-07T11:41:57.030344+00:00"
+    "fetched_at": "2026-09-08T10:37:58.012703+00:00"
+  },
+  {
+    "id": "b0c9ed479082",
+    "source": "World Bank",
+    "title": "Consultoría para la Elaboración del Manual de Operaciones del Proyecto \"Apoyo a la Transición Energética de Guatemala.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00467378",
+    "country": "GU",
+    "deadline": "2026-09-16",
+    "deadline_days": 8,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support the preparation of the Guatemala Energy Transition Support Project implemented by INDE. Country: Guatemala. Reference: GT-INDE-556783-CS-INDV.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P181930",
+      "wb_reference": "GT-INDE-556783-CS-INDV"
+    },
+    "fetched_at": "2026-09-08T10:37:58.011685+00:00"
   },
   {
     "id": "e089ae4c2bae",
@@ -574,7 +536,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466976",
     "country": "UZ",
     "deadline": "2026-09-17",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Project Preparation Assistance: Enhancing Access to Tertiary Education through Student Loan Mechanis. Country: Uzbekistan. Reference: UZ-MEF-16-CS-CQS.",
     "fit_per_area": {
@@ -603,18 +565,18 @@
       "wb_project_id": "P181956",
       "wb_reference": "UZ-MEF-16-CS-CQS"
     },
-    "fetched_at": "2026-09-07T11:41:57.030242+00:00"
+    "fetched_at": "2026-09-08T10:37:58.013224+00:00"
   },
   {
-    "id": "3a4e767a4fe8",
+    "id": "6484707cdd62",
     "source": "World Bank",
-    "title": "Current student financing system, student loan program and graduate outcomes assessment in Uzbekistan",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466972",
-    "country": "UZ",
-    "deadline": "2026-09-17",
-    "deadline_days": 10,
+    "title": "Consultor experto en asuntos legales",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00467375",
+    "country": "GU",
+    "deadline": "2026-09-21",
+    "deadline_days": 13,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Project Preparation Assistance: Enhancing Access to Tertiary Education through Student Loan Mechanis. Country: Uzbekistan. Reference: UZ-MEF-15-CS-CQS.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support the preparation of the Guatemala Energy Transition Support Project implemented by INDE. Country: Guatemala. Reference: GT-INDE-571047-CS-INDV.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -638,21 +600,21 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P181956",
-      "wb_reference": "UZ-MEF-15-CS-CQS"
+      "wb_project_id": "P181930",
+      "wb_reference": "GT-INDE-571047-CS-INDV"
     },
-    "fetched_at": "2026-09-07T11:41:57.031142+00:00"
+    "fetched_at": "2026-09-08T10:37:58.011431+00:00"
   },
   {
-    "id": "a3611acda0b0",
+    "id": "42b77637a3ca",
     "source": "World Bank",
-    "title": "Consulting Service for preparation of RAP Compliance Report",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00460489",
-    "country": "GE",
-    "deadline": "2026-09-18",
-    "deadline_days": 11,
+    "title": "Recruitment of a Focal Point for Seychelles",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00467399",
+    "country": "SO",
+    "deadline": "2026-09-22",
+    "deadline_days": 14,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Kakheti Connectivity Improvement Project. Country: Georgia. Reference: KCIP/CS/ICS-13.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Regional Emergency Preparedness & Access to Inclusive Recovery Project. Country: Southwest Indian Ocean. Reference: MZ-REPAIR-495524-CS-INDV-2.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -676,21 +638,21 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P173782",
-      "wb_reference": "KCIP/CS/ICS-13"
+      "wb_project_id": "P181014",
+      "wb_reference": "MZ-REPAIR-495524-CS-INDV-2"
     },
-    "fetched_at": "2026-09-07T11:41:57.030899+00:00"
+    "fetched_at": "2026-09-08T10:37:58.011262+00:00"
   },
   {
-    "id": "07178066d66d",
-    "source": "TED",
-    "title": "North Macedonia – Research and development services and related consultancy services – Preparation of projects for construction of buildings",
-    "url": "https://ted.europa.eu/en/notice/475466-2026",
-    "country": "MK",
-    "deadline": "2026-10-05",
-    "deadline_days": 28,
+    "id": "39902f19fb81",
+    "source": "World Bank",
+    "title": "Gap analysis for National Control Center (NCC) with higher level of Variable Renewable Energy (VRE) systems, and propose initial design of the new NCC for EFL",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00467231",
+    "country": "FI",
+    "deadline": "2026-09-22",
+    "deadline_days": 14,
     "value_usd": null,
-    "description": "Municipality of Butel. Preparation of projects for construction of buildings for Municipality of Butel",
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Fiji Energy Transformation Project Preparation. Country: Fiji. Reference: FJ-EFL-567211-CS-CQS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -713,45 +675,11 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "475466-2026"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P515153",
+      "wb_reference": "FJ-EFL-567211-CS-CQS"
     },
-    "fetched_at": "2026-09-07T11:41:57.026093+00:00"
-  },
-  {
-    "id": "54367be8a53f",
-    "source": "TED",
-    "title": "Germany – Pharmaceutical products – Open House Biologika Rabattverträge 2026 - 27 - Follitropin delta",
-    "url": "https://ted.europa.eu/en/notice/474331-2026",
-    "country": "DE",
-    "deadline": "2028-08-31",
-    "deadline_days": 724,
-    "value_usd": null,
-    "description": "Techniker Krankenkasse. Die TK verfolgt das Ziel, mit allen geeigneten pharmazeutischen Unternehmern Rabattverträge nach § 130a Abs. 8 SGB V zu dem Wirkstoff Follitropin delta zu schließen",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "474331-2026"
-    },
-    "fetched_at": "2026-09-07T11:41:57.024001+00:00"
+    "fetched_at": "2026-09-08T10:37:58.011511+00:00"
   },
   {
     "id": "94e200e08086",
@@ -760,7 +688,7 @@
     "url": "https://www.ungm.org/Public/Notice/310955",
     "country": "MO",
     "deadline": "2026-09-10",
-    "deadline_days": 3,
+    "deadline_days": 2,
     "value_usd": null,
     "description": "Agency: IFAD. Type: Request for proposal. Reference: IFAD/2026/022/RFP. Matched query: EPI.",
     "fit_per_area": {
@@ -792,7 +720,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-13"
     },
-    "fetched_at": "2026-09-07T11:41:57.035354+00:00"
+    "fetched_at": "2026-09-08T10:37:58.017090+00:00"
   },
   {
     "id": "fcfaa05b6234",
@@ -801,7 +729,7 @@
     "url": "https://www.ungm.org/Public/Notice/310797",
     "country": "MU",
     "deadline": "2026-09-11",
-    "deadline_days": 4,
+    "deadline_days": 3,
     "value_usd": null,
     "description": "Agency: UN Secretariat. Type: Request for EOI. Reference: EOIUNPD24624. Matched query: EPI.",
     "fit_per_area": {
@@ -833,7 +761,7 @@
       "ungm_query": "EPI",
       "published": "2026-08-28"
     },
-    "fetched_at": "2026-09-07T11:41:57.035256+00:00"
+    "fetched_at": "2026-09-08T10:37:58.016994+00:00"
   },
   {
     "id": "06b69591f7af",
@@ -842,7 +770,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-data-inventory-and-consulting",
     "country": null,
     "deadline": "2026-09-14",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Gavi is seeking IT services to establish a clear, evidence-based understanding of its data estate and to define a practical, implementation-ready approach for data clean-up, information classification, Microsoft Purview Information Protection, Data Loss Prevention, retention, and related controls.",
     "fit_per_area": {
@@ -867,7 +795,43 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-07T11:41:57.018748+00:00"
+    "fetched_at": "2026-09-08T10:37:57.998479+00:00"
+  },
+  {
+    "id": "b47e0c394564",
+    "source": "TED",
+    "title": "Netherlands – Health services – Arbodienstverlening GGD Brabant-Zuidoost",
+    "url": "https://ted.europa.eu/en/notice/476941-2026",
+    "country": "NL",
+    "deadline": "2026-09-14",
+    "deadline_days": 6,
+    "value_usd": null,
+    "description": "GGD Brabant-Zuidoost. Met deze aanbesteding wil de aanbestedende dienst de veiligheid, de gezondheid en het welzijn van de medewerkers bevorderen, zodat deze vitaal en duurzaam inzetbaar zijn en blijven én inzetten op verzuim-beheersing en -preventie. Binnen de GGD BZO werken mensen met grote betrokkenheid aan de gezondheid van onze inwoners. Tegelijkertijd zien we de druk in ons werk en op (de gezondheid van) onze medewerkers toenemen. Gezondheid en inzetbaarheid zijn geen vanzelfsprekendheid, maar vragen om bewuste aandacht en gerichte keuzes. De druk op gezondheid en inzetbaarheid neemt toe o.a. door: Tekorten arbeidsmarkt Oplopende pensioenleeftijd –langer doorwerken Groei van mantelzorgtaken onder medewerkers Toename werkdruk en stress –mentale gezondheid Zware fysieke en mentale belasting Deze ontwikkelingen vragen om een gerichte en samenhangende aanpak, waarin de GGD kiest voor gezondheid als vertrekpunt, wat vastgelegd wordt in een organisatiebreed gezondheidsbeleid. Dit beleid moet een strategisch kader bieden voor gezondheid en inzetbaarheid van medewerkers, gericht op duurzame gedragsverandering (geen losse initiatieven). Het beleid moet aansluiten op de missie, visie, doelstellingen én behoeften van medewerkers. Het zal gaan over een combinatie van generieke én doelgroepgerichte aanpak die aansluit bij de leeftijdsfase, aard van de werkzaamheden en/of persoonlijke situatie van medewerkers. Naast de uitvoering van de wettelijk vastgelegde Arbodienstverleningstaken",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "476941-2026"
+    },
+    "fetched_at": "2026-09-08T10:37:58.002468+00:00"
   },
   {
     "id": "19f6b52a89a2",
@@ -876,7 +840,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-cyber-security-services",
     "country": null,
     "deadline": "2026-09-18",
-    "deadline_days": 11,
+    "deadline_days": 10,
     "value_usd": null,
     "description": "Gavi is seeking a managed SOC service provider to strengthen and support its cybersecurity operations and capabilities.",
     "fit_per_area": {
@@ -901,7 +865,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-07T11:41:57.018105+00:00"
+    "fetched_at": "2026-09-08T10:37:57.997839+00:00"
   },
   {
     "id": "3cc28b6814a5",
@@ -910,7 +874,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-supporting-immunization-program-sudan-strengtheningenhancing-governance",
     "country": "SD",
     "deadline": "2026-09-24",
-    "deadline_days": 17,
+    "deadline_days": 16,
     "value_usd": null,
     "description": "RFP: Supporting Immunization Program in Sudan: Strengthening/Enhancing Governance, Quality, Evidence, Demand and Surveillance",
     "fit_per_area": {
@@ -935,43 +899,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-07T11:41:57.017407+00:00"
-  },
-  {
-    "id": "89caefb73da8",
-    "source": "TED",
-    "title": "Netherlands – Company health services – Europese aanbesteding Arbo dienstverlening t.b.v. PCBO Rotterdam i.s.m. Verus",
-    "url": "https://ted.europa.eu/en/notice/473714-2026",
-    "country": "NL",
-    "deadline": "2026-09-28",
-    "deadline_days": 21,
-    "value_usd": null,
-    "description": "St. Protestants-Christelijk Basis- en Orthopedagogisch Onderwijs. zie aanbestedingsstukken voor scope arbodienstverlening inzet bedrijfsarts en taakgedelegeerden",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "473714-2026"
-    },
-    "fetched_at": "2026-09-07T11:41:57.022875+00:00"
+    "fetched_at": "2026-09-08T10:37:57.997138+00:00"
   },
   {
     "id": "7c1278415325",
@@ -980,7 +908,7 @@
     "url": "https://www.ungm.org/Public/Notice/312986",
     "country": "IT",
     "deadline": "2026-10-01",
-    "deadline_days": 24,
+    "deadline_days": 23,
     "value_usd": null,
     "description": "Agency: ICTP. Type: Request for proposal. Reference: 26_14_RFP_CLEANING. Matched query: EPI.",
     "fit_per_area": {
@@ -1012,43 +940,7 @@
       "ungm_query": "EPI",
       "published": "2026-09-01"
     },
-    "fetched_at": "2026-09-07T11:41:57.035092+00:00"
-  },
-  {
-    "id": "fc9be18dff7d",
-    "source": "TED",
-    "title": "Netherlands – Company health services – EA Arbeidsdeskundig onderzoek",
-    "url": "https://ted.europa.eu/en/notice/473705-2026",
-    "country": "NL",
-    "deadline": "2026-10-05",
-    "deadline_days": 28,
-    "value_usd": null,
-    "description": "NS Groep N.V.. De onderhavige opdracht heeft tot doel het contracteren van één opdrachtnemer die NS ondersteunt bij het uitvoeren van deze arbeidsdeskundige onderzoeken en het leveren van deskundig, onafhankelijk advies gericht op duurzame inzetbaarheid en re-integratie van medewerkers. De opdrachtnemer is daarbij een belangrijke schakel in het creëren van duidelijkheid over de duurzaam inzetbare mogelijkheden van de medewerker en in het bevorderen van de kortste route naar passend werk",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "473705-2026"
-    },
-    "fetched_at": "2026-09-07T11:41:57.022784+00:00"
+    "fetched_at": "2026-09-08T10:37:58.016835+00:00"
   },
   {
     "id": "76fca9bcefd0",
@@ -1057,7 +949,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00467118",
     "country": "KE",
     "deadline": "2026-10-06",
-    "deadline_days": 29,
+    "deadline_days": 28,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Second Kenya Urban Support Program. Country: Kenya. Reference: KE-MOTI-566726-CS-QCBS.",
     "fit_per_area": {
@@ -1086,7 +978,83 @@
       "wb_project_id": "P177048",
       "wb_reference": "KE-MOTI-566726-CS-QCBS"
     },
-    "fetched_at": "2026-09-07T11:41:57.029842+00:00"
+    "fetched_at": "2026-09-08T10:37:58.012835+00:00"
+  },
+  {
+    "id": "9b0cba11df19",
+    "source": "World Bank",
+    "title": "Procurement of Equipment for Hainan One-health International Research Institution (Batch No. 2A)（3.3.1）",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00467205",
+    "country": "CH",
+    "deadline": "2026-10-13",
+    "deadline_days": 35,
+    "value_usd": null,
+    "description": "Invitation for Bids. Request for Bids. Project: China Emerging Infectious Diseases Prevention, Preparedness and Response Project. Country: China. Reference: HN-G-86.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Invitation for Bids",
+      "wb_project_id": "P173746",
+      "wb_reference": "HN-G-86"
+    },
+    "fetched_at": "2026-09-08T10:37:58.011187+00:00"
+  },
+  {
+    "id": "af3135ac24a6",
+    "source": "World Bank",
+    "title": "Procurement of Equipment for Hainan One-health International Research Institution (Batch No. 2B)（3.3.1）",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00467206",
+    "country": "CH",
+    "deadline": "2026-10-14",
+    "deadline_days": 36,
+    "value_usd": null,
+    "description": "Invitation for Bids. Request for Bids. Project: China Emerging Infectious Diseases Prevention, Preparedness and Response Project. Country: China. Reference: HN-G-87.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Invitation for Bids",
+      "wb_project_id": "P173746",
+      "wb_reference": "HN-G-87"
+    },
+    "fetched_at": "2026-09-08T10:37:58.012093+00:00"
   },
   {
     "id": "aea09787df35",
@@ -1124,45 +1092,7 @@
       "published": "2026-07-27T15:42:05+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-07T11:41:57.036448+00:00"
-  },
-  {
-    "id": "f66c2f760416",
-    "source": "Signal:Biovac",
-    "title": "South Africa: AfDB grants 15 million dollar loan to Biovac for vaccine plant - Africa News Agency",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRzdKUE9TNmZTQXFodHcxcENGN0s4M1RZbFdBRnJOb3JhNk1Cbkh0WVgxWEx3c3B2YkNoenJkdFpFMDNheHdzN3VXeVFfR2dUTWR1M0xndUJSU3NETGRsSk1qc09aN1ZWWU8zYjA1QUcxVEEwVzZOSU9IWGc0YWo3SFFleUVQd00tREgzd3NTeHladW5XUHA1SlZGR0ROOHRXUXZTaDNhQjZrMHc?oc=5",
-    "country": "ZA",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "South Africa: AfDB grants 15 million dollar loan to Biovac for vaccine plant &nbsp;&nbsp; Africa News Agency",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-07-27T14:24:58+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-09-07T11:41:57.036618+00:00"
+    "fetched_at": "2026-09-08T10:37:58.018201+00:00"
   },
   {
     "id": "b2ba3fa9d482",
@@ -1200,7 +1130,45 @@
       "published": "2026-08-02T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-07T11:41:57.037023+00:00"
+    "fetched_at": "2026-09-08T10:37:58.018629+00:00"
+  },
+  {
+    "id": "f66c2f760416",
+    "source": "Signal:Biovac",
+    "title": "South Africa: AfDB grants 15 million dollar loan to Biovac for vaccine plant - Africa News Agency",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRzdKUE9TNmZTQXFodHcxcENGN0s4M1RZbFdBRnJOb3JhNk1Cbkh0WVgxWEx3c3B2YkNoenJkdFpFMDNheHdzN3VXeVFfR2dUTWR1M0xndUJSU3NETGRsSk1qc09aN1ZWWU8zYjA1QUcxVEEwVzZOSU9IWGc0YWo3SFFleUVQd00tREgzd3NTeHladW5XUHA1SlZGR0ROOHRXUXZTaDNhQjZrMHc?oc=5",
+    "country": "ZA",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "South Africa: AfDB grants 15 million dollar loan to Biovac for vaccine plant &nbsp;&nbsp; Africa News Agency",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-07-27T14:24:58+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-09-08T10:37:58.018790+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -1238,7 +1206,7 @@
       "published": "2026-08-21T10:55:43+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-07T11:41:57.037337+00:00"
+    "fetched_at": "2026-09-08T10:37:58.019120+00:00"
   },
   {
     "id": "414891241c08",
@@ -1276,18 +1244,18 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-07T11:41:57.038284+00:00"
+    "fetched_at": "2026-09-08T10:37:58.020108+00:00"
   },
   {
-    "id": "124aa1bfb4e1",
+    "id": "9c9733ffa5c1",
     "source": "Signal:Biovac",
-    "title": "Biovac’s cholera vaccine test for Africa’s self-reliance - independent.co.ug",
+    "title": "Biovac’s cholera vaccine test for Africa’s self-reliance - The Independent Uganda",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkxDR0dHdXhEeFZub2NlTVlyQ0VwVHpwQ3k3M3hBUjJ3Vjk2Q3V5bWdGT1MxYm1IYlFuY1lHVlBISFhQMVpNQjNjUTZRSk53Y2hnZEw4ZXl3U2xZdVlKakFSb01zSEtZTHNOU2JzazA2czhzMmdUZXZNY3p5czRVRXc4SklWTEllOTdiZERR?oc=5",
-    "country": null,
+    "country": "UG",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Biovac’s cholera vaccine test for Africa’s self-reliance &nbsp;&nbsp; independent.co.ug",
+    "description": "Biovac’s cholera vaccine test for Africa’s self-reliance &nbsp;&nbsp; The Independent Uganda",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1314,7 +1282,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-07T11:41:57.039045+00:00"
+    "fetched_at": "2026-09-08T10:37:58.020829+00:00"
   },
   {
     "id": "938285e2f2eb",
@@ -1352,7 +1320,7 @@
       "published": "2026-07-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-07T11:41:57.039918+00:00"
+    "fetched_at": "2026-09-08T10:37:58.021604+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -1390,7 +1358,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-07T11:41:57.040835+00:00"
+    "fetched_at": "2026-09-08T10:37:58.022212+00:00"
   },
   {
     "id": "c2b50944abe4",
@@ -1428,7 +1396,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-07T11:41:57.041179+00:00"
+    "fetched_at": "2026-09-08T10:37:58.022581+00:00"
   },
   {
     "id": "debba72be073",
@@ -1466,7 +1434,7 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-07T11:41:57.042602+00:00"
+    "fetched_at": "2026-09-08T10:37:58.024068+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -1504,7 +1472,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-07T11:41:57.042940+00:00"
+    "fetched_at": "2026-09-08T10:37:58.024428+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -1542,6 +1510,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-07T11:41:57.044227+00:00"
+    "fetched_at": "2026-09-08T10:37:58.025416+00:00"
   }
 ]
