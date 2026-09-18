@@ -6,7 +6,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468967",
     "country": "MA",
     "deadline": "2026-11-13",
-    "deadline_days": 57,
+    "deadline_days": 56,
     "value_usd": null,
     "description": "Invitation for Prequalification. Request for Proposals. Project: Mpatamanga Hydropower Storage Project. Country: Malawi. Reference: MW-MHPL-571342-CW-RFP.",
     "fit_per_area": {
@@ -35,79 +35,7 @@
       "wb_project_id": "P165704",
       "wb_reference": "MW-MHPL-571342-CW-RFP"
     },
-    "fetched_at": "2026-09-17T11:00:28.950073+00:00"
-  },
-  {
-    "id": "d8f5af13b681",
-    "source": "Signal:AVMA",
-    "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - IOL",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT0RNNUhrMlBHOTlhb0ZBODVZQUlUSUhPZWp0MWRRT0lQUFU2WkxQZkJZRVdIRE1MMVRqVUswS0hGM0NXWVdUQ0h4MUo4aTVpZGhYU210UWc4NlFnRk04LWF4RlE1ZGVuOFVxWURHUmg3N0gwRU1xY1BSVm51aE83LU5jWm9aMng4eU9sU0ptUFJaVWZWOVFHenZkWXVoeFJJdWF2UlZxQnA0TFJXUXh1VjF5YkVCTmNjOVZDNjE2ZGdnMk1XaDVjWWJvTkE3djdGWUE?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity &nbsp;&nbsp; IOL",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 7,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 7,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "donor": "AVMA",
-      "published": "2026-04-16T07:00:00+00:00",
-      "signal_type": "donor"
-    },
-    "fetched_at": "2026-09-17T11:00:28.957759+00:00"
-  },
-  {
-    "id": "a2ce19bb416b",
-    "source": "Africa CDC",
-    "title": "HIRING OF INDIVIDUAL CONSULTANTS TO DEVELOP A NATIONAL INTEROPERABILITY FRAMEWORK FOR HEALTH INFORMATION EXCHANGE IN TWO MEMBER STATES (Tunisia and Seychelles)",
-    "url": "https://africacdc.org/opportunity/hiring-of-individual-consultants-to-develop-a-national-interoperability-framework-for-health-information-exchange-in-two-member-states-tunisia-and-seychelles/",
-    "country": "_AU",
-    "deadline": "2026-09-17",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "The African Union has received financing from the World Bank toward the cost of the Africa Centres for Disease Control Support Program to Combat Current and Future Public Health Threats Project. The Project Development Objective is to enhance the capacity of Africa Centres for Disease Control and Prevention (Africa CDC) to support AU Member States in preventing, detecting, and responding to current and future public health threats and intends to apply part of the proceeds for consulting services. Health Information Systems interoperability is a foundational requirement for implementing national Health Information Exchange (HIE). A robust, standards-based interoperability framework is essential to enable secure data exchange, support system integration, and establish the technical and governance foundation for sustainable HIE implementation. Findings from the HIE maturity assessments conducted across AU Member States have identified interoperability as a high-impact priority, critical to enabling subsequent phases such as governance strengthening and phased digital health system implementation. As part of the support by Africa CDC in implementing HIE across Member States, digital maturity assessments were conducted in 12 AU Member States, alongside the development of HIE roadmaps. Following this, Africa CDC will support two of countries, Tunisia and Seychelles, through the engagement of two individual consultants to support each of the countries to design and develop comprehen",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 3,
-      "mel": 4
-    },
-    "fit_total": 5,
-    "fit_top_area": "mel",
-    "breadth_bonus": 1,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {},
-    "fetched_at": "2026-09-17T11:00:28.942426+00:00"
+    "fetched_at": "2026-09-18T10:38:47.394268+00:00"
   },
   {
     "id": "45d0100b4684",
@@ -116,7 +44,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468918",
     "country": "SE",
     "deadline": "2026-11-03",
-    "deadline_days": 47,
+    "deadline_days": 46,
     "value_usd": null,
     "description": "Invitation for Prequalification. Request for Proposals. Project: Senegal Municipal Solid Waste Management Project. Country: Senegal. Reference: SN-PROMOGED-541271-CW-RFB.",
     "fit_per_area": {
@@ -145,7 +73,7 @@
       "wb_project_id": "P161477",
       "wb_reference": "SN-PROMOGED-541271-CW-RFB"
     },
-    "fetched_at": "2026-09-17T11:00:28.951447+00:00"
+    "fetched_at": "2026-09-18T10:38:47.395960+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -183,7 +111,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-17T11:00:28.952311+00:00"
+    "fetched_at": "2026-09-18T10:38:47.397017+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -221,18 +149,18 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-17T11:00:28.953641+00:00"
+    "fetched_at": "2026-09-18T10:38:47.398351+00:00"
   },
   {
-    "id": "bf2196bf3c28",
+    "id": "37737e671331",
     "source": "Signal:Biovac",
-    "title": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production - weekendpost.co.bw",
+    "title": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production - Weekend Post",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0h6TlhWOEVyRUFkX1dENE9EYWUxY3NrR3JCQmxWdFBnNXhUWjdxNmc3YzlzMlVZMkI0Rkd3NVNtRE5DYmUwR0lQUWE4QTJoZ2I0T3pNZTV4cFpJQ0ZuOXdmSVhxSjRBd2hIMm11WWdIWWRnc29tRzN3UDctVTl5cVVEQjF6S1ppVThUb3F3UEYtSUVmUldsVEJSMA?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production &nbsp;&nbsp; weekendpost.co.bw",
+    "description": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production &nbsp;&nbsp; Weekend Post",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 4,
@@ -259,7 +187,7 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-17T11:00:28.953960+00:00"
+    "fetched_at": "2026-09-18T10:38:47.399072+00:00"
   },
   {
     "id": "7957d095f782",
@@ -297,7 +225,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-17T11:00:28.957128+00:00"
+    "fetched_at": "2026-09-18T10:38:47.403308+00:00"
   },
   {
     "id": "3301c0539fa2",
@@ -335,7 +263,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-17T11:00:28.957454+00:00"
+    "fetched_at": "2026-09-18T10:38:47.403708+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -344,7 +272,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 33,
+    "deadline_days": 32,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -369,7 +297,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-17T11:00:28.940424+00:00"
+    "fetched_at": "2026-09-18T10:38:47.383464+00:00"
   },
   {
     "id": "16ad50143441",
@@ -378,7 +306,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468827",
     "country": "FI",
     "deadline": "2026-09-29",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Fiji Energy Transformation Project Preparation. Country: Fiji. Reference: FJ-EFL-567207-CS-CQS.",
     "fit_per_area": {
@@ -407,7 +335,7 @@
       "wb_project_id": "P515153",
       "wb_reference": "FJ-EFL-567207-CS-CQS"
     },
-    "fetched_at": "2026-09-17T11:00:28.951375+00:00"
+    "fetched_at": "2026-09-18T10:38:47.395854+00:00"
   },
   {
     "id": "90e02758279b",
@@ -416,7 +344,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469184",
     "country": "IN",
     "deadline": "2026-09-30",
-    "deadline_days": 13,
+    "deadline_days": 12,
     "value_usd": null,
     "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Global Environment Facility Indonesia Sustainable Cities Impact Project. Country: Indonesia. Reference: ID-DIT. TRP3B-572108-CS-CQS.",
     "fit_per_area": {
@@ -445,7 +373,7 @@
       "wb_project_id": "P173446",
       "wb_reference": "ID-DIT. TRP3B-572108-CS-CQS"
     },
-    "fetched_at": "2026-09-17T11:00:28.950780+00:00"
+    "fetched_at": "2026-09-18T10:38:47.395128+00:00"
   },
   {
     "id": "75f39859c60b",
@@ -454,7 +382,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469387",
     "country": "FI",
     "deadline": "2026-09-30",
-    "deadline_days": 13,
+    "deadline_days": 12,
     "value_usd": null,
     "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Fiji Energy Transformation Project Preparation. Country: Fiji. Reference: FJ-EFL-567212-CS-CQS.",
     "fit_per_area": {
@@ -483,7 +411,7 @@
       "wb_project_id": "P515153",
       "wb_reference": "FJ-EFL-567212-CS-CQS"
     },
-    "fetched_at": "2026-09-17T11:00:28.950995+00:00"
+    "fetched_at": "2026-09-18T10:38:47.395393+00:00"
   },
   {
     "id": "af76ccdef6fa",
@@ -492,7 +420,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469389",
     "country": "FI",
     "deadline": "2026-09-30",
-    "deadline_days": 13,
+    "deadline_days": 12,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Fiji Energy Transformation Project Preparation. Country: Fiji. Reference: FJ-EFL-567224-CS-INDV.",
     "fit_per_area": {
@@ -521,7 +449,7 @@
       "wb_project_id": "P515153",
       "wb_reference": "FJ-EFL-567224-CS-INDV"
     },
-    "fetched_at": "2026-09-17T11:00:28.951173+00:00"
+    "fetched_at": "2026-09-18T10:38:47.395601+00:00"
   },
   {
     "id": "19f6b52a89a2",
@@ -530,7 +458,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-cyber-security-services",
     "country": null,
     "deadline": "2026-09-18",
-    "deadline_days": 1,
+    "deadline_days": 0,
     "value_usd": null,
     "description": "Gavi is seeking a managed SOC service provider to strengthen and support its cybersecurity operations and capabilities.",
     "fit_per_area": {
@@ -555,7 +483,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-17T11:00:28.941492+00:00"
+    "fetched_at": "2026-09-18T10:38:47.384801+00:00"
   },
   {
     "id": "3cc28b6814a5",
@@ -564,7 +492,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-supporting-immunization-program-sudan-strengtheningenhancing-governance",
     "country": "SD",
     "deadline": "2026-09-24",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "RFP: Supporting Immunization Program in Sudan: Strengthening/Enhancing Governance, Quality, Evidence, Demand and Surveillance",
     "fit_per_area": {
@@ -589,7 +517,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-17T11:00:28.941196+00:00"
+    "fetched_at": "2026-09-18T10:38:47.384432+00:00"
   },
   {
     "id": "d0725e166842",
@@ -598,7 +526,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469274",
     "country": "SO",
     "deadline": "2026-10-05",
-    "deadline_days": 18,
+    "deadline_days": 17,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality Based Selection. Project: Regional Emergency Preparedness & Access to Inclusive Recovery Project. Country: Southwest Indian Ocean. Reference: MZ-REPAIR-549332-CS-QBS.",
     "fit_per_area": {
@@ -627,7 +555,7 @@
       "wb_project_id": "P181014",
       "wb_reference": "MZ-REPAIR-549332-CS-QBS"
     },
-    "fetched_at": "2026-09-17T11:00:28.951920+00:00"
+    "fetched_at": "2026-09-18T10:38:47.396541+00:00"
   },
   {
     "id": "9d30a016a466",
@@ -636,7 +564,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
     "country": null,
     "deadline": "2026-10-13",
-    "deadline_days": 26,
+    "deadline_days": 25,
     "value_usd": null,
     "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
     "fit_per_area": {
@@ -661,7 +589,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-17T11:00:28.940859+00:00"
+    "fetched_at": "2026-09-18T10:38:47.384031+00:00"
   },
   {
     "id": "c2354d5646f6",
@@ -699,7 +627,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-17T11:00:28.952475+00:00"
+    "fetched_at": "2026-09-18T10:38:47.397225+00:00"
   },
   {
     "id": "b2ba3fa9d482",
@@ -737,7 +665,7 @@
       "published": "2026-08-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-17T11:00:28.952807+00:00"
+    "fetched_at": "2026-09-18T10:38:47.397622+00:00"
   },
   {
     "id": "414891241c08",
@@ -775,7 +703,7 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-17T11:00:28.953077+00:00"
+    "fetched_at": "2026-09-18T10:38:47.397970+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -813,7 +741,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-17T11:00:28.953334+00:00"
+    "fetched_at": "2026-09-18T10:38:47.398660+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -851,7 +779,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-17T11:00:28.954199+00:00"
+    "fetched_at": "2026-09-18T10:38:47.399364+00:00"
   },
   {
     "id": "938285e2f2eb",
@@ -889,7 +817,7 @@
       "published": "2026-07-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-17T11:00:28.954289+00:00"
+    "fetched_at": "2026-09-18T10:38:47.399482+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -927,7 +855,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-17T11:00:28.954987+00:00"
+    "fetched_at": "2026-09-18T10:38:47.400362+00:00"
   },
   {
     "id": "236d8fbc44bc",
@@ -965,7 +893,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-17T11:00:28.955303+00:00"
+    "fetched_at": "2026-09-18T10:38:47.400738+00:00"
   },
   {
     "id": "debba72be073",
@@ -1003,18 +931,18 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-17T11:00:28.956683+00:00"
+    "fetched_at": "2026-09-18T10:38:47.402758+00:00"
   },
   {
-    "id": "b9bea59ff0eb",
+    "id": "b96a3e8af844",
     "source": "Signal:AFD",
-    "title": "Biovac gets $20m for vaccine expansion from French lenders - businessday.co.za",
+    "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; businessday.co.za",
+    "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1041,7 +969,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-17T11:00:28.956955+00:00"
+    "fetched_at": "2026-09-18T10:38:47.403099+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -1079,6 +1007,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-17T11:00:28.957948+00:00"
+    "fetched_at": "2026-09-18T10:38:47.403964+00:00"
   }
 ]
