@@ -6,7 +6,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468967",
     "country": "MA",
     "deadline": "2026-11-13",
-    "deadline_days": 56,
+    "deadline_days": 55,
     "value_usd": null,
     "description": "Invitation for Prequalification. Request for Proposals. Project: Mpatamanga Hydropower Storage Project. Country: Malawi. Reference: MW-MHPL-571342-CW-RFP.",
     "fit_per_area": {
@@ -35,27 +35,27 @@
       "wb_project_id": "P165704",
       "wb_reference": "MW-MHPL-571342-CW-RFP"
     },
-    "fetched_at": "2026-09-18T10:38:47.394268+00:00"
+    "fetched_at": "2026-09-19T10:21:38.627155+00:00"
   },
   {
-    "id": "45d0100b4684",
-    "source": "World Bank",
-    "title": "CONCEPTION ET CONSTRUCTION DU CENTRE D’ENFOUISSEMENT TECHNIQUE DE BAMBILOR ET DE SA ROUTE D'ACCES",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468918",
-    "country": "SE",
-    "deadline": "2026-11-03",
-    "deadline_days": 46,
+    "id": "e605320efc1a",
+    "source": "Signal:AVMA",
+    "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - businessreport.co.za",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkRvRThBLWZBbl9oWmpzU1pmekNUc1ZqLWV3eFhCM0lUa1BnLXZSUDBDeVJyYTFaVjNQMlo4QU5VbDJ4M1hwWXRBbFVfRzc3QmJRWFRvRzBTbFB3VHRIYXgydkJaMi14cHVVMjV3UHljNzA1c2l2TEhUMkp3dC1zRWVIaE5XdUJZU09JXzFtdWREQzBzLTljY1VyYjNHYW1MaW9TQmY3a3h5LW1nRzYyU0xlNHI4LWNHMTQ0RGFnX0NoR0lHdkVydGYydw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
     "value_usd": null,
-    "description": "Invitation for Prequalification. Request for Proposals. Project: Senegal Municipal Solid Waste Management Project. Country: Senegal. Reference: SN-PROMOGED-541271-CW-RFB.",
+    "description": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity &nbsp;&nbsp; businessreport.co.za",
     "fit_per_area": {
       "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 5,
+      "manufacturing": 7,
+      "regulatory": 0,
       "procurement": 0,
       "mel": 0
     },
-    "fit_total": 5,
-    "fit_top_area": "regulatory",
+    "fit_total": 7,
+    "fit_top_area": "manufacturing",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
@@ -69,11 +69,11 @@
       "eligibility": ""
     },
     "raw": {
-      "wb_notice_type": "Invitation for Prequalification",
-      "wb_project_id": "P161477",
-      "wb_reference": "SN-PROMOGED-541271-CW-RFB"
+      "donor": "AVMA",
+      "published": "2026-04-16T07:00:00+00:00",
+      "signal_type": "donor"
     },
-    "fetched_at": "2026-09-18T10:38:47.395960+00:00"
+    "fetched_at": "2026-09-19T10:21:38.635689+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -111,7 +111,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-18T10:38:47.397017+00:00"
+    "fetched_at": "2026-09-19T10:21:38.627981+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -149,7 +149,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-18T10:38:47.398351+00:00"
+    "fetched_at": "2026-09-19T10:21:38.629709+00:00"
   },
   {
     "id": "37737e671331",
@@ -187,7 +187,7 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-18T10:38:47.399072+00:00"
+    "fetched_at": "2026-09-19T10:21:38.630126+00:00"
   },
   {
     "id": "7957d095f782",
@@ -225,7 +225,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-18T10:38:47.403308+00:00"
+    "fetched_at": "2026-09-19T10:21:38.634799+00:00"
   },
   {
     "id": "3301c0539fa2",
@@ -263,7 +263,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-18T10:38:47.403708+00:00"
+    "fetched_at": "2026-09-19T10:21:38.635241+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -272,7 +272,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 32,
+    "deadline_days": 31,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -297,18 +297,18 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-18T10:38:47.383464+00:00"
+    "fetched_at": "2026-09-19T10:21:38.613915+00:00"
   },
   {
-    "id": "16ad50143441",
+    "id": "d5118be6c07e",
     "source": "World Bank",
-    "title": "Prefeasibility study for selected solar sites, including E&S assessment and risk mitigation",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468827",
-    "country": "FI",
-    "deadline": "2026-09-29",
-    "deadline_days": 11,
+    "title": "Consultancy Services to Update the Feasibility Study, Prepare Detailed Designs &Tender Documents, and Provision of Supervision Services for the Nyagisozi Water Supply System in Nyanza District.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469505",
+    "country": "RW",
+    "deadline": "2026-10-09",
+    "deadline_days": 20,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Fiji Energy Transformation Project Preparation. Country: Fiji. Reference: FJ-EFL-567207-CS-CQS.",
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Ecosystem-Based Restoration Approach for Nyungwe-Ruhango Corridor Project. Country: Rwanda. Reference: RW-REMA-564054-CS-QCBS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -332,158 +332,10 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P515153",
-      "wb_reference": "FJ-EFL-567207-CS-CQS"
+      "wb_project_id": "P507271",
+      "wb_reference": "RW-REMA-564054-CS-QCBS"
     },
-    "fetched_at": "2026-09-18T10:38:47.395854+00:00"
-  },
-  {
-    "id": "90e02758279b",
-    "source": "World Bank",
-    "title": "Consulting Services for the Knowledge Product Development and Preparation of the National Urban Summit Series of Activities",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469184",
-    "country": "IN",
-    "deadline": "2026-09-30",
-    "deadline_days": 12,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Global Environment Facility Indonesia Sustainable Cities Impact Project. Country: Indonesia. Reference: ID-DIT. TRP3B-572108-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P173446",
-      "wb_reference": "ID-DIT. TRP3B-572108-CS-CQS"
-    },
-    "fetched_at": "2026-09-18T10:38:47.395128+00:00"
-  },
-  {
-    "id": "75f39859c60b",
-    "source": "World Bank",
-    "title": "Scoping of Ageing Assets Upgrade for power network and hydropower, and procurement preparation for power network",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469387",
-    "country": "FI",
-    "deadline": "2026-09-30",
-    "deadline_days": 12,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Fiji Energy Transformation Project Preparation. Country: Fiji. Reference: FJ-EFL-567212-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P515153",
-      "wb_reference": "FJ-EFL-567212-CS-CQS"
-    },
-    "fetched_at": "2026-09-18T10:38:47.395393+00:00"
-  },
-  {
-    "id": "af76ccdef6fa",
-    "source": "World Bank",
-    "title": "Environmental and Social Specialists (international) – 90 days",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469389",
-    "country": "FI",
-    "deadline": "2026-09-30",
-    "deadline_days": 12,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Fiji Energy Transformation Project Preparation. Country: Fiji. Reference: FJ-EFL-567224-CS-INDV.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P515153",
-      "wb_reference": "FJ-EFL-567224-CS-INDV"
-    },
-    "fetched_at": "2026-09-18T10:38:47.395601+00:00"
-  },
-  {
-    "id": "19f6b52a89a2",
-    "source": "GAVI",
-    "title": "RFP: Invitation to tender for Cyber Security Services",
-    "url": "https://www.gavi.org/news/document-library/rfp-invitation-tender-cyber-security-services",
-    "country": null,
-    "deadline": "2026-09-18",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "Gavi is seeking a managed SOC service provider to strengthen and support its cybersecurity operations and capabilities.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {},
-    "fetched_at": "2026-09-18T10:38:47.384801+00:00"
+    "fetched_at": "2026-09-19T10:21:38.626471+00:00"
   },
   {
     "id": "3cc28b6814a5",
@@ -492,7 +344,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-supporting-immunization-program-sudan-strengtheningenhancing-governance",
     "country": "SD",
     "deadline": "2026-09-24",
-    "deadline_days": 6,
+    "deadline_days": 5,
     "value_usd": null,
     "description": "RFP: Supporting Immunization Program in Sudan: Strengthening/Enhancing Governance, Quality, Evidence, Demand and Surveillance",
     "fit_per_area": {
@@ -517,18 +369,18 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-18T10:38:47.384432+00:00"
+    "fetched_at": "2026-09-19T10:21:38.614922+00:00"
   },
   {
-    "id": "d0725e166842",
-    "source": "World Bank",
-    "title": "Recruitment of Third Party Monitoring Agent under Framework Agreement",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469274",
-    "country": "SO",
-    "deadline": "2026-10-05",
-    "deadline_days": 17,
+    "id": "30e76337f890",
+    "source": "TED",
+    "title": "Germany – Miscellaneous health services – Beihilferechtliche Gutachten nach BBhV",
+    "url": "https://ted.europa.eu/en/notice/504004-2026",
+    "country": "AN",
+    "deadline": "2026-09-24",
+    "deadline_days": 5,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Quality Based Selection. Project: Regional Emergency Preparedness & Access to Inclusive Recovery Project. Country: Southwest Indian Ocean. Reference: MZ-REPAIR-549332-CS-QBS.",
+    "description": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI. Gutachten Kieferorthopädie für Beihilfestellen des BVA Höchstmenge: 3460 Gutachten über die gesamte Laufzeit der Rahmenvereinbarung",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -543,7 +395,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": false,
+      "urgent_deadline": true,
       "expired": false
     },
     "flag_notes": {
@@ -551,11 +403,9 @@
       "eligibility": ""
     },
     "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P181014",
-      "wb_reference": "MZ-REPAIR-549332-CS-QBS"
+      "ted_publication_number": "504004-2026"
     },
-    "fetched_at": "2026-09-18T10:38:47.396541+00:00"
+    "fetched_at": "2026-09-19T10:21:38.619578+00:00"
   },
   {
     "id": "9d30a016a466",
@@ -564,7 +414,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
     "country": null,
     "deadline": "2026-10-13",
-    "deadline_days": 25,
+    "deadline_days": 24,
     "value_usd": null,
     "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
     "fit_per_area": {
@@ -589,18 +439,18 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-18T10:38:47.384031+00:00"
+    "fetched_at": "2026-09-19T10:21:38.614515+00:00"
   },
   {
-    "id": "c2354d5646f6",
+    "id": "b129a66ef1b9",
     "source": "Signal:Biovac",
-    "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - africa.businessinsider.com",
+    "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - Business Insider Africa",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEh4cENadER6WDhtSzhRMnhPMjdHalJvanJRYm5IODZOS1lWNk5xYU1ScmRwbXBMLURYUnFTY2VQMzVPTmxjWkxmSll0MVFxOGRfZF9FUE15MXZTXzFvYkpLQ0QtZmFPMEJxMlRZOTRiVHN0Q00xVmc5UV82bzlRLXJCOVZjQ09Uc1lsVGNsMW1zQmRWWENsMFpyMDNUanBDUGhxdUxLekRWbDFwcDlfTXpmX204cnE2eVh4X2ozYjhUREw3U2kxWnZUQkt1d0JaQ01VZkZWWXE?oc=5",
     "country": "ZA",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant &nbsp;&nbsp; africa.businessinsider.com",
+    "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant &nbsp;&nbsp; Business Insider Africa",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -627,7 +477,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-18T10:38:47.397225+00:00"
+    "fetched_at": "2026-09-19T10:21:38.628191+00:00"
   },
   {
     "id": "b2ba3fa9d482",
@@ -665,7 +515,7 @@
       "published": "2026-08-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-18T10:38:47.397622+00:00"
+    "fetched_at": "2026-09-19T10:21:38.628614+00:00"
   },
   {
     "id": "414891241c08",
@@ -703,7 +553,7 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-18T10:38:47.397970+00:00"
+    "fetched_at": "2026-09-19T10:21:38.628982+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -741,7 +591,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-18T10:38:47.398660+00:00"
+    "fetched_at": "2026-09-19T10:21:38.629311+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -779,7 +629,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-18T10:38:47.399364+00:00"
+    "fetched_at": "2026-09-19T10:21:38.630424+00:00"
   },
   {
     "id": "938285e2f2eb",
@@ -817,7 +667,7 @@
       "published": "2026-07-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-18T10:38:47.399482+00:00"
+    "fetched_at": "2026-09-19T10:21:38.630546+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -855,7 +705,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-18T10:38:47.400362+00:00"
+    "fetched_at": "2026-09-19T10:21:38.631980+00:00"
   },
   {
     "id": "236d8fbc44bc",
@@ -893,7 +743,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-18T10:38:47.400738+00:00"
+    "fetched_at": "2026-09-19T10:21:38.632386+00:00"
   },
   {
     "id": "debba72be073",
@@ -931,7 +781,7 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-18T10:38:47.402758+00:00"
+    "fetched_at": "2026-09-19T10:21:38.634224+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -969,7 +819,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-18T10:38:47.403099+00:00"
+    "fetched_at": "2026-09-19T10:21:38.634582+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -1007,6 +857,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-18T10:38:47.403964+00:00"
+    "fetched_at": "2026-09-19T10:21:38.635933+00:00"
   }
 ]
