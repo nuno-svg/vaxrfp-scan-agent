@@ -35,7 +35,7 @@
       "published": "2026-06-30T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-21T12:03:46.274823+00:00"
+    "fetched_at": "2026-09-22T11:00:24.011173+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -73,7 +73,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-21T12:03:46.279826+00:00"
+    "fetched_at": "2026-09-22T11:00:24.015363+00:00"
   },
   {
     "id": "a6fdc06d8476",
@@ -82,7 +82,7 @@
     "url": "https://ted.europa.eu/en/notice/512375-2026",
     "country": "DE",
     "deadline": "2028-05-10",
-    "deadline_days": 597,
+    "deadline_days": 596,
     "value_usd": null,
     "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nichtexklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.09.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter https://vergabeportal.gwq-serviceplus.de/arzneimittel einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.08.2026 kann eine erstmalige Meldung zum 01.09.2026 realisiert werden. Folgende Unterlagen sind einzureichen: unterzeichneter Vertrag in doppelter Ausfertigung; einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug aus dem öffentlichen Teil der AMIceDatenbank; unterzeichnete Eigenerklärung (Anlage 3). Liste der vertragsgegenständlichen PZN (Anlage 4), Eigenerklärung zur EU-Verordnung (Anlage 5)",
     "fit_per_area": {
@@ -109,7 +109,7 @@
     "raw": {
       "ted_publication_number": "512375-2026"
     },
-    "fetched_at": "2026-09-21T12:03:46.262485+00:00"
+    "fetched_at": "2026-09-22T11:00:23.994019+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -147,45 +147,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-21T12:03:46.271961+00:00"
-  },
-  {
-    "id": "15b157cf1c62",
-    "source": "Signal:Biovac",
-    "title": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing - IOL",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLUJkOFlza1ZvU2tLUG1hdUR4MW9Xb2FZWjJzZ0ZCMGRsMzROVmlkS0ZYRFdnU1Z4bmRwQ1FyS3Vsb1VRZVVJM1FrcnlWTmNhU0Z1a2JKUWlfTFNkbVBkcEV6M1R4VVZwejZRSUExSFpRd1phV2dCaXhJRFNLVUxxMUZjLUVXMnRIVnF2T3NxeFFnNTFqZXVBbFJLRkI1YjRPZ3FYWGdodjd0amxoQ3EyVEQ0NTJiX29jZ29qVXU2YXF5V0hOQS1odDdBVXpDQQ?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing &nbsp;&nbsp; IOL",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-07-26T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-09-21T12:03:46.273614+00:00"
+    "fetched_at": "2026-09-22T11:00:24.008356+00:00"
   },
   {
     "id": "37737e671331",
@@ -223,7 +185,45 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-21T12:03:46.274027+00:00"
+    "fetched_at": "2026-09-22T11:00:24.010029+00:00"
+  },
+  {
+    "id": "15b157cf1c62",
+    "source": "Signal:Biovac",
+    "title": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing - IOL",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLUJkOFlza1ZvU2tLUG1hdUR4MW9Xb2FZWjJzZ0ZCMGRsMzROVmlkS0ZYRFdnU1Z4bmRwQ1FyS3Vsb1VRZVVJM1FrcnlWTmNhU0Z1a2JKUWlfTFNkbVBkcEV6M1R4VVZwejZRSUExSFpRd1phV2dCaXhJRFNLVUxxMUZjLUVXMnRIVnF2T3NxeFFnNTFqZXVBbFJLRkI1YjRPZ3FYWGdodjd0amxoQ3EyVEQ0NTJiX29jZ29qVXU2YXF5V0hOQS1odDdBVXpDQQ?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing &nbsp;&nbsp; IOL",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-07-26T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-09-22T11:00:24.010414+00:00"
   },
   {
     "id": "7957d095f782",
@@ -261,7 +261,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-21T12:03:46.278993+00:00"
+    "fetched_at": "2026-09-22T11:00:24.014525+00:00"
   },
   {
     "id": "3301c0539fa2",
@@ -299,63 +299,27 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-21T12:03:46.279393+00:00"
+    "fetched_at": "2026-09-22T11:00:24.014925+00:00"
   },
   {
-    "id": "8e823c52f1d3",
-    "source": "TED",
-    "title": "Greece – Research and development services and related consultancy services – Services for the Design, Development and Analysis of Cybersecurity Indexes",
-    "url": "https://ted.europa.eu/en/notice/514037-2026",
-    "country": "AN",
-    "deadline": "2026-09-21",
-    "deadline_days": 0,
+    "id": "b9ff8c896c41",
+    "source": "World Bank",
+    "title": "Consulting Services for Preparation of Resettlement Plans (RP) and RP Monitoring Reports of Amasya Suluova Right and Left Bank Irrigation Scheme Modernization Project",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470003",
+    "country": "TU",
+    "deadline": "2026-09-25",
+    "deadline_days": 3,
     "value_usd": null,
-    "description": "European Union Agency for Cybersecurity (ENISA). The purpose of this tender is to provide ENISA with support services for the design, development and analysis of cybersecurity indexes across the EU Member States (MS) and other countries or partners. Such services are intended to generate evidence-based insights for the cybersecurity posture and maturity level of EU MS, the European Union as a whole or other designated partners. The domains to be monitored and measured include, but are not limited to, cybersecurity capacity building, training and education, cybersecurity policy implementation, cyber risk management practices, national cybersecurity strategies, vulnerability disclosure policies, cybersecurity exercises, cybersecurity incident response, operational cooperation mechanisms, cybersecurity incident reporting, situational awareness, supply chain management practices",
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Türkiye Second Irrigation Modernization and Water Efficiency Project. Country: Turkiye. Reference: TIMP2-DAN-05.",
     "fit_per_area": {
-      "cold_chain": 3,
+      "cold_chain": 0,
       "manufacturing": 0,
-      "regulatory": 0,
+      "regulatory": 3,
       "procurement": 2,
       "mel": 0
     },
     "fit_total": 3,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "514037-2026"
-    },
-    "fetched_at": "2026-09-21T12:03:46.266497+00:00"
-  },
-  {
-    "id": "ee0bf9856bd4",
-    "source": "World Bank",
-    "title": "Recrutement d'un Spécialiste en Suivi Evaluation de la CPU",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469875",
-    "country": "CO",
-    "deadline": "2026-09-22",
-    "deadline_days": 1,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation Grant for DRC Secondary Cities Improvement Project. Country: Congo, Democratic Republic of. Reference: ZR-CPU-564138-CS-INDV.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 3
-    },
-    "fit_total": 3,
-    "fit_top_area": "mel",
+    "fit_top_area": "regulatory",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
@@ -370,10 +334,48 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P517144",
-      "wb_reference": "ZR-CPU-564138-CS-INDV"
+      "wb_project_id": "P506997",
+      "wb_reference": "TIMP2-DAN-05"
     },
-    "fetched_at": "2026-09-21T12:03:46.270244+00:00"
+    "fetched_at": "2026-09-22T11:00:24.007977+00:00"
+  },
+  {
+    "id": "d02432ed0a3a",
+    "source": "World Bank",
+    "title": "Consulting Services for Preparation of Resettlement Plans (RP) and RP Monitoring Reports of Kahramankazan Akıncı Irrigation Modernisation",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470020",
+    "country": "TU",
+    "deadline": "2026-10-19",
+    "deadline_days": 27,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Türkiye Second Irrigation Modernization and Water Efficiency Project. Country: Turkiye. Reference: TIMP2-DAN-06.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 3,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 3,
+    "fit_top_area": "regulatory",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P506997",
+      "wb_reference": "TIMP2-DAN-06"
+    },
+    "fetched_at": "2026-09-22T11:00:24.007637+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -382,7 +384,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 29,
+    "deadline_days": 28,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -407,33 +409,33 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-21T12:03:46.254337+00:00"
+    "fetched_at": "2026-09-22T11:00:23.991220+00:00"
   },
   {
-    "id": "b9ad59cb58e3",
-    "source": "Signal:BioNTech Rwanda",
-    "title": "Licensable picture: BioNTech aims to start mRNA vaccine output in Rwanda in 2025 - reutersconnect.com",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPanpwb0x2eWNKR2g2aE5Zcm9SamhUSTMxN0xpYklXZFpyYlRBNXFScjNmTW1RQ1NiaDVsYkZfM2VyYzQwZkJSSEd3d1dfWjQ2UEktVHhUUkhGXzRJYmZra242SzlHWmQ5dHFFejBIaFI5MDM1eFFqVmFMUmsxc2kxRzRPVGdtQ2tnODBaSzYxYVpsNTF1Ym9rUXA1eHdlcGxocWhjdzgtRkRkdTJ4a20wTkMtNkRhY01DTWdHM3Z3ZVp4OVpnZzItbVk4cnQ0ZmtlTnVMUzUyMVphUGVsQVpyY0lOSnBxdw?oc=5",
-    "country": "RW",
-    "deadline": null,
-    "deadline_days": null,
+    "id": "4fc21bda8d05",
+    "source": "World Bank",
+    "title": "Consulting Services for Preparation of Resettlement Plans (RP) and RP Monitoring Reports of Antalya Manavgat Right and Left Bank Irrigation Scheme Modernization Project",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470006",
+    "country": "TU",
+    "deadline": "2026-09-22",
+    "deadline_days": 0,
     "value_usd": null,
-    "description": "Licensable picture: BioNTech aims to start mRNA vaccine output in Rwanda in 2025 &nbsp;&nbsp; reutersconnect.com",
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Türkiye Second Irrigation Modernization and Water Efficiency Project. Country: Turkiye. Reference: TIMP2-DAN-01.",
     "fit_per_area": {
       "cold_chain": 0,
-      "manufacturing": 3,
+      "manufacturing": 0,
       "regulatory": 0,
-      "procurement": 0,
+      "procurement": 2,
       "mel": 0
     },
-    "fit_total": 3,
-    "fit_top_area": "manufacturing",
+    "fit_total": 2,
+    "fit_top_area": "procurement",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": false,
+      "urgent_deadline": true,
       "expired": false
     },
     "flag_notes": {
@@ -441,22 +443,22 @@
       "eligibility": ""
     },
     "raw": {
-      "manufacturer": "BioNTech Rwanda",
-      "published": "2026-06-23T23:47:12+00:00",
-      "signal_type": "manufacturer"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P506997",
+      "wb_reference": "TIMP2-DAN-01"
     },
-    "fetched_at": "2026-09-21T12:03:46.278433+00:00"
+    "fetched_at": "2026-09-22T11:00:24.007270+00:00"
   },
   {
-    "id": "2425a0ae6661",
+    "id": "9c7c351599b5",
     "source": "World Bank",
-    "title": "Social Specialist (local)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469877",
-    "country": "FI",
-    "deadline": "2026-10-05",
-    "deadline_days": 14,
+    "title": "Consultor experto en aspectos ambientales",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470015",
+    "country": "GU",
+    "deadline": "2026-10-02",
+    "deadline_days": 10,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Fiji Energy Transformation Project Preparation. Country: Fiji. Reference: FJ-EFL-567222-CS-INDV.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support the preparation of the Guatemala Energy Transition Support Project implemented by INDE. Country: Guatemala. Reference: GT-INDE-529878-CS-INDV.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -480,21 +482,59 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P515153",
-      "wb_reference": "FJ-EFL-567222-CS-INDV"
+      "wb_project_id": "P181930",
+      "wb_reference": "GT-INDE-529878-CS-INDV"
     },
-    "fetched_at": "2026-09-21T12:03:46.270024+00:00"
+    "fetched_at": "2026-09-22T11:00:24.006544+00:00"
   },
   {
-    "id": "1f7d3293c4f9",
-    "source": "TED",
-    "title": "France – Company health services – MEDECINE PROFESSIONNELLE ET PREVENTIVE",
-    "url": "https://ted.europa.eu/en/notice/511621-2026",
-    "country": "FR",
-    "deadline": "2026-09-21",
-    "deadline_days": 0,
+    "id": "f8ca53a956ff",
+    "source": "World Bank",
+    "title": "Consultor experto en aspectos sociales",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470011",
+    "country": "GU",
+    "deadline": "2026-10-02",
+    "deadline_days": 10,
     "value_usd": null,
-    "description": "Mairie de Clichy-la-Garenne. MEDECINE PROFESSIONNELLE ET PREVENTIVE AU PROFIT DES AGENTS COMMUNAUX DE LA VILLE DE CLICHY LA GARENNE",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support the preparation of the Guatemala Energy Transition Support Project implemented by INDE. Country: Guatemala. Reference: GT-INDE-529876-CS-INDV.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P181930",
+      "wb_reference": "GT-INDE-529876-CS-INDV"
+    },
+    "fetched_at": "2026-09-22T11:00:24.007541+00:00"
+  },
+  {
+    "id": "63707056bcdd",
+    "source": "World Bank",
+    "title": "Non-Consulting Service for Port Public Health Emergency Response Exercises and Producing Exercise Videos.（1.4.4）",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470174",
+    "country": "CH",
+    "deadline": "2026-09-23",
+    "deadline_days": 1,
+    "value_usd": null,
+    "description": "Invitation for Bids. Request for Quotations. Project: China Emerging Infectious Diseases Prevention, Preparedness and Response Project. Country: China. Reference: HN-NS-12.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -517,9 +557,11 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "511621-2026"
+      "wb_notice_type": "Invitation for Bids",
+      "wb_project_id": "P173746",
+      "wb_reference": "HN-NS-12"
     },
-    "fetched_at": "2026-09-21T12:03:46.261444+00:00"
+    "fetched_at": "2026-09-22T11:00:24.007146+00:00"
   },
   {
     "id": "3cc28b6814a5",
@@ -528,7 +570,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-supporting-immunization-program-sudan-strengtheningenhancing-governance",
     "country": "SD",
     "deadline": "2026-09-24",
-    "deadline_days": 3,
+    "deadline_days": 2,
     "value_usd": null,
     "description": "RFP: Supporting Immunization Program in Sudan: Strengthening/Enhancing Governance, Quality, Evidence, Demand and Surveillance",
     "fit_per_area": {
@@ -553,7 +595,45 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-21T12:03:46.255311+00:00"
+    "fetched_at": "2026-09-22T11:00:23.992268+00:00"
+  },
+  {
+    "id": "f7ccb5bcfacc",
+    "source": "World Bank",
+    "title": "Procurement of  Medicines, Consumables, and Laboratory Health Products for Hospitals ,Hubs and Spokes",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469991",
+    "country": "SI",
+    "deadline": "2026-10-08",
+    "deadline_days": 16,
+    "value_usd": null,
+    "description": "Invitation for Bids. Request for Bids. Project: Sierra Leone - Quality Essential Health Services and Systems Support Project. Country: Sierra Leone. Reference: SL-PIH-SL-556173-GO-RFB.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Invitation for Bids",
+      "wb_project_id": "P172102",
+      "wb_reference": "SL-PIH-SL-556173-GO-RFB"
+    },
+    "fetched_at": "2026-09-22T11:00:24.007016+00:00"
   },
   {
     "id": "9d30a016a466",
@@ -562,7 +642,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
     "country": null,
     "deadline": "2026-10-13",
-    "deadline_days": 22,
+    "deadline_days": 21,
     "value_usd": null,
     "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
     "fit_per_area": {
@@ -587,7 +667,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-21T12:03:46.254907+00:00"
+    "fetched_at": "2026-09-22T11:00:23.991825+00:00"
   },
   {
     "id": "b129a66ef1b9",
@@ -625,7 +705,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-21T12:03:46.272166+00:00"
+    "fetched_at": "2026-09-22T11:00:24.008560+00:00"
   },
   {
     "id": "b2ba3fa9d482",
@@ -663,7 +743,7 @@
       "published": "2026-08-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-21T12:03:46.272567+00:00"
+    "fetched_at": "2026-09-22T11:00:24.008957+00:00"
   },
   {
     "id": "414891241c08",
@@ -701,7 +781,7 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-21T12:03:46.272919+00:00"
+    "fetched_at": "2026-09-22T11:00:24.009308+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -739,7 +819,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-21T12:03:46.273233+00:00"
+    "fetched_at": "2026-09-22T11:00:24.009621+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -777,7 +857,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-21T12:03:46.274318+00:00"
+    "fetched_at": "2026-09-22T11:00:24.010701+00:00"
   },
   {
     "id": "938285e2f2eb",
@@ -815,45 +895,7 @@
       "published": "2026-07-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-21T12:03:46.274951+00:00"
-  },
-  {
-    "id": "30b1a13b60b0",
-    "source": "Signal:Aspen Pharmacare",
-    "title": "Aspen Pharmacare Expands Access Ambitions for HIV Prevention Across Africa through New Agreement with MSD - Novus Press Bulletin",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeVc2NFFQazlNRC00eHdpVHotU21yRHRKMThFbVVBWjJBb1ExUzJEU08tbVIwTHJhY2J3TE1hbFAxYVB2dzY3VWp5WEFrNUQ3MktMcENkMmZyck5nTHk3dl9LUV9pNEpsWlRZNE13THJIOGJmNmpKZXpFNXZsZDVKYVAzbW95cHppSlh1MUZobGVpa1NQRmdidl9RTFJSUXFJUjRERHcwcXpuc29UVjBISVEyT2N2bk40RVJkWGwwTGFKNjJyYXVnN1p3VDlnZGE2ZGtRUUdvMXNoZVk?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Aspen Pharmacare Expands Access Ambitions for HIV Prevention Across Africa through New Agreement with MSD &nbsp;&nbsp; Novus Press Bulletin",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Aspen Pharmacare",
-      "published": "2026-07-24T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-09-21T12:03:46.276314+00:00"
+    "fetched_at": "2026-09-22T11:00:24.011294+00:00"
   },
   {
     "id": "236d8fbc44bc",
@@ -891,7 +933,45 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-21T12:03:46.276711+00:00"
+    "fetched_at": "2026-09-22T11:00:24.012355+00:00"
+  },
+  {
+    "id": "30b1a13b60b0",
+    "source": "Signal:Aspen Pharmacare",
+    "title": "Aspen Pharmacare Expands Access Ambitions for HIV Prevention Across Africa through New Agreement with MSD - Novus Press Bulletin",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeVc2NFFQazlNRC00eHdpVHotU21yRHRKMThFbVVBWjJBb1ExUzJEU08tbVIwTHJhY2J3TE1hbFAxYVB2dzY3VWp5WEFrNUQ3MktMcENkMmZyck5nTHk3dl9LUV9pNEpsWlRZNE13THJIOGJmNmpKZXpFNXZsZDVKYVAzbW95cHppSlh1MUZobGVpa1NQRmdidl9RTFJSUXFJUjRERHcwcXpuc29UVjBISVEyT2N2bk40RVJkWGwwTGFKNjJyYXVnN1p3VDlnZGE2ZGtRUUdvMXNoZVk?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Aspen Pharmacare Expands Access Ambitions for HIV Prevention Across Africa through New Agreement with MSD &nbsp;&nbsp; Novus Press Bulletin",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Aspen Pharmacare",
+      "published": "2026-07-24T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-09-22T11:00:24.012824+00:00"
   },
   {
     "id": "debba72be073",
@@ -929,7 +1009,7 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-21T12:03:46.278132+00:00"
+    "fetched_at": "2026-09-22T11:00:24.013965+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -967,18 +1047,18 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-21T12:03:46.278782+00:00"
+    "fetched_at": "2026-09-22T11:00:24.014315+00:00"
   },
   {
-    "id": "62043f6bde8f",
+    "id": "d2b9d4f66c45",
     "source": "Signal:AVMA",
-    "title": "Gavi commits $500m to Nigeria’s immunisation programme - realnewsmagazine.net",
+    "title": "Gavi commits $500m to Nigeria’s immunisation programme - Realnews Magazine",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUlR4Y3d2Q1MwZ2Nud3FLNXBwNnRfOC0wN3ZaNkFtZk8xY0ttNXB4Rl9BekRhZDJ0RzBma25LYTNiQng1TDhuQmZkdVJsdW1XLWZ4RHBMd2dETC1pX2ZSVklFclZYbTZpQlBoSy1ZcjdnajRid1FfWjRxbmpRclE2LUMtZ2JuOGdnUlE?oc=5",
     "country": "NG",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Gavi commits $500m to Nigeria’s immunisation programme &nbsp;&nbsp; realnewsmagazine.net",
+    "description": "Gavi commits $500m to Nigeria’s immunisation programme &nbsp;&nbsp; Realnews Magazine",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -1005,6 +1085,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-21T12:03:46.280072+00:00"
+    "fetched_at": "2026-09-22T11:00:24.015604+00:00"
   }
 ]
