@@ -1,0 +1,1079 @@
+{
+  "meta": {
+    "last_run": "2026-09-23T10:49:05.653577+00:00",
+    "duration_seconds": 62.21857,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 3,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 2,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 63,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 17,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 5,
+        "errors": 0
+      }
+    },
+    "total_kept": 27,
+    "total_excluded": 164,
+    "exclusion_breakdown": {
+      "goods": 9,
+      "gate": 142,
+      "expired": 9,
+      "sanctioned": 2,
+      "bmgf_strict": 2
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "8a7cf56f67ea",
+      "source": "Signal:Afrigen",
+      "title": "Afrigen secures SAHPRA GMP certification for Africa’s first end-to-end mRNA manufacturing facility - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOUhzUnJWbnpkTWJXblEtOFFOUUZjT0IySjhCT2xaOXY5NzFhLTBQNTJlZjUxSk1qeWRLbzV2a3JJYWJfdi1xNDJxNjBoNVQtbklPbnJ2Ni1JcjN3Mzd2T2xScXRnd24xa19UNjhNVlRkUk5feWRLNER5Q3ZhTVhNVVR0QWx3djVQUkVya0dPbHNBcHkzZkhvaVhJOFJKeTNqd1FWWWNwT0MxMWlfRlMyTnNGZXk2QVkwNGhxaXhMMnJQX3VYdlVZODh4M3k2SlJoaURjRTYyVQ?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Afrigen secures SAHPRA GMP certification for Africa’s first end-to-end mRNA manufacturing facility &nbsp;&nbsp; EIN News",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 10,
+        "regulatory": 5,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 10,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Afrigen",
+        "published": "2026-06-30T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-09-23T10:49:05.650472+00:00"
+    },
+    {
+      "id": "e605320efc1a",
+      "source": "Signal:AVMA",
+      "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - businessreport.co.za",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkRvRThBLWZBbl9oWmpzU1pmekNUc1ZqLWV3eFhCM0lUa1BnLXZSUDBDeVJyYTFaVjNQMlo4QU5VbDJ4M1hwWXRBbFVfRzc3QmJRWFRvRzBTbFB3VHRIYXgydkJaMi14cHVVMjV3UHljNzA1c2l2TEhUMkp3dC1zRWVIaE5XdUJZU09JXzFtdWREQzBzLTljY1VyYjNHYW1MaW9TQmY3a3h5LW1nRzYyU0xlNHI4LWNHMTQ0RGFnX0NoR0lHdkVydGYydw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity &nbsp;&nbsp; businessreport.co.za",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 7,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 7,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-04-16T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-09-23T10:49:05.653378+00:00"
+    },
+    {
+      "id": "271060def69a",
+      "source": "World Bank",
+      "title": "Consulting Services for the Preparation of an Environmental Impact Assessment (EIA), an Environmental and Social Impact Assessment (ESIA), and Other Environmental and Social Documents Required for the Project",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470199",
+      "country": "NE",
+      "deadline": "2026-10-14",
+      "deadline_days": 21,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: GFPP Kathmandu Valley Water Security Improvement Project. Country: Nepal. Reference: NP-KVWSMB-572486-CS-CQS.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 4
+      },
+      "fit_total": 4,
+      "fit_top_area": "mel",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P517244",
+        "wb_reference": "NP-KVWSMB-572486-CS-CQS"
+      },
+      "fetched_at": "2026-09-23T10:49:05.647590+00:00"
+    },
+    {
+      "id": "c6e227a22d8b",
+      "source": "Signal:Biovac",
+      "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-07-24T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-09-23T10:49:05.648522+00:00"
+    },
+    {
+      "id": "37737e671331",
+      "source": "Signal:Biovac",
+      "title": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production - Weekend Post",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0h6TlhWOEVyRUFkX1dENE9EYWUxY3NrR3JCQmxWdFBnNXhUWjdxNmc3YzlzMlVZMkI0Rkd3NVNtRE5DYmUwR0lQUWE4QTJoZ2I0T3pNZTV4cFpJQ0ZuOXdmSVhxSjRBd2hIMm11WWdIWWRnc29tRzN3UDctVTl5cVVEQjF6S1ppVThUb3F3UEYtSUVmUldsVEJSMA?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production &nbsp;&nbsp; Weekend Post",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-07-30T08:24:59+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-09-23T10:49:05.649678+00:00"
+    },
+    {
+      "id": "15b157cf1c62",
+      "source": "Signal:Biovac",
+      "title": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing - IOL",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLUJkOFlza1ZvU2tLUG1hdUR4MW9Xb2FZWjJzZ0ZCMGRsMzROVmlkS0ZYRFdnU1Z4bmRwQ1FyS3Vsb1VRZVVJM1FrcnlWTmNhU0Z1a2JKUWlfTFNkbVBkcEV6M1R4VVZwejZRSUExSFpRd1phV2dCaXhJRFNLVUxxMUZjLUVXMnRIVnF2T3NxeFFnNTFqZXVBbFJLRkI1YjRPZ3FYWGdodjd0amxoQ3EyVEQ0NTJiX29jZ29qVXU2YXF5V0hOQS1odDdBVXpDQQ?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing &nbsp;&nbsp; IOL",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-07-26T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-09-23T10:49:05.649940+00:00"
+    },
+    {
+      "id": "7957d095f782",
+      "source": "Signal:AVMA",
+      "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-07-24T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-09-23T10:49:05.652717+00:00"
+    },
+    {
+      "id": "3301c0539fa2",
+      "source": "Signal:AVMA",
+      "title": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion - fundsforNGOs News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkxxZEZoekVWTzNMZXNZOUZnYXVPRERWNFpDQ19lVTBTdHFFeHgzcFZXVXUtaHBfWmpIdkUxSXliWWI0aS02TlZtZUYzMWU1RWFhN3hXb3pZWXo1MWJ0RDR2ckY5WkxyZGRUbERYaDU3QzJtdzBxQ29ZZV9uWDVFZXd5N2hGWXJtSFVyd1laN0RlQzk3MXhoUkxGWTRTODJ0NTZSeVdVT0JOQW9VaTRHSDRHU3E5dzFJVi1wT1ViYw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion &nbsp;&nbsp; fundsforNGOs News",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-04-17T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-09-23T10:49:05.653067+00:00"
+    },
+    {
+      "id": "26a971e92c59",
+      "source": "GAVI",
+      "title": "RFP: Policy Shaping Advocacy Consultancy in Japan",
+      "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
+      "country": null,
+      "deadline": "2026-10-20",
+      "deadline_days": 27,
+      "value_usd": null,
+      "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 3,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-09-23T10:49:05.638148+00:00"
+    },
+    {
+      "id": "8b1d4a72932a",
+      "source": "World Bank",
+      "title": "Recruter le bureau d'étude qui va élaborer le  Dossier d' Appel d' Offres et faire   la surveillance des travaux de réhabilitation du laboratoire national vétérinaire et  du bâtiment du COUSP",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470254",
+      "country": "BU",
+      "deadline": "2026-10-22",
+      "deadline_days": 29,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Burundi Health Emergency Preparedness, Response, and Resilience Project. Country: Burundi. Reference: BI-MOH-544140-CS-CQS.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 3,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "regulatory",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P504531",
+        "wb_reference": "BI-MOH-544140-CS-CQS"
+      },
+      "fetched_at": "2026-09-23T10:49:05.647926+00:00"
+    },
+    {
+      "id": "f72e1e3c6520",
+      "source": "World Bank",
+      "title": "Recruitment of a Project Assistant for Hainan Provincial Department of Agriculture and Rural Affairs (2.2)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470207",
+      "country": "CH",
+      "deadline": "2026-09-23",
+      "deadline_days": 0,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: China Emerging Infectious Diseases Prevention, Preparedness and Response Project. Country: China. Reference: HN-IC-7A.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P173746",
+        "wb_reference": "HN-IC-7A"
+      },
+      "fetched_at": "2026-09-23T10:49:05.647650+00:00"
+    },
+    {
+      "id": "9c7c351599b5",
+      "source": "World Bank",
+      "title": "Consultor experto en aspectos ambientales",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470015",
+      "country": "GU",
+      "deadline": "2026-10-02",
+      "deadline_days": 9,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support the preparation of the Guatemala Energy Transition Support Project implemented by INDE. Country: Guatemala. Reference: GT-INDE-529878-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P181930",
+        "wb_reference": "GT-INDE-529878-CS-INDV"
+      },
+      "fetched_at": "2026-09-23T10:49:05.648363+00:00"
+    },
+    {
+      "id": "3cc28b6814a5",
+      "source": "GAVI",
+      "title": "RFP: Supporting Immunization Program in Sudan: Strengthening/Enhancing Governance, Quality, Evidence, Demand and Surveillance",
+      "url": "https://www.gavi.org/news/document-library/rfp-supporting-immunization-program-sudan-strengtheningenhancing-governance",
+      "country": "SD",
+      "deadline": "2026-09-24",
+      "deadline_days": 1,
+      "value_usd": null,
+      "description": "RFP: Supporting Immunization Program in Sudan: Strengthening/Enhancing Governance, Quality, Evidence, Demand and Surveillance",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": true,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "Partial sanctions: Sudan (partial sanctions)",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-09-23T10:49:05.638877+00:00"
+    },
+    {
+      "id": "9d30a016a466",
+      "source": "GAVI",
+      "title": "RFP : Relocation and Repatriation Services",
+      "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
+      "country": null,
+      "deadline": "2026-10-13",
+      "deadline_days": 20,
+      "value_usd": null,
+      "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-09-23T10:49:05.638576+00:00"
+    },
+    {
+      "id": "8917191baff3",
+      "source": "World Bank",
+      "title": "Consulting services for conducting energy audits, preparing detailed designs and technical specifications, and supervising the renovation works for buildings in Kayseri and Nevşehir provinces (16 building bloc, with a total area of 231.532 m2)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470238",
+      "country": "TU",
+      "deadline": "2026-10-14",
+      "deadline_days": 21,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Least Cost Selection. Project: Second Energy Efficiency in Public Buildings under the E3 MPA. Country: Turkiye. Reference: EEPB2/WB/MOEUCC/LCS-DES&SUP-03.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P500777",
+        "wb_reference": "EEPB2/WB/MOEUCC/LCS-DES&SUP-03"
+      },
+      "fetched_at": "2026-09-23T10:49:05.646642+00:00"
+    },
+    {
+      "id": "ee61383d18ba",
+      "source": "World Bank",
+      "title": "Consulting services for conducting energy audits, preparing detailed designs and technical specifications, and supervising the renovation works for buildings in Samsun province (45 building blocks across 17 campuses, with a total area of 296,579 m²)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470235",
+      "country": "TU",
+      "deadline": "2026-10-14",
+      "deadline_days": 21,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Least Cost Selection. Project: Second Energy Efficiency in Public Buildings under the E3 MPA. Country: Turkiye. Reference: EEPB2/WB/MOEUCC/LCS-DES&SUP-02.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P500777",
+        "wb_reference": "EEPB2/WB/MOEUCC/LCS-DES&SUP-02"
+      },
+      "fetched_at": "2026-09-23T10:49:05.647850+00:00"
+    },
+    {
+      "id": "b129a66ef1b9",
+      "source": "Signal:Biovac",
+      "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEh4cENadER6WDhtSzhRMnhPMjdHalJvanJRYm5IODZOS1lWNk5xYU1ScmRwbXBMLURYUnFTY2VQMzVPTmxjWkxmSll0MVFxOGRfZF9FUE15MXZTXzFvYkpLQ0QtZmFPMEJxMlRZOTRiVHN0Q00xVmc5UV82bzlRLXJCOVZjQ09Uc1lsVGNsMW1zQmRWWENsMFpyMDNUanBDUGhxdUxLekRWbDFwcDlfTXpmX204cnE2eVh4X2ozYjhUREw3U2kxWnZUQkt1d0JaQ01VZkZWWXE?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant &nbsp;&nbsp; Business Insider Africa",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-07-27T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-09-23T10:49:05.648668+00:00"
+    },
+    {
+      "id": "b2ba3fa9d482",
+      "source": "Signal:Biovac",
+      "title": "AfDB extends up to USD 15 million loan to Biovac for cholera vaccine plant in Cape Town - Capmad",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0JHSDNFWjBtUzZPV1pHclhVb1NVSmVLeUlYN0lVVHlkcVpBSzNibndRZm8yb0pLRVBxRm1pRDRzRWNoOXh5Ry10WjZhdWpMRGRWd1dLaTJBRHJqZ19BRXVFc2M0RFJLV3FiNE5uZFk5ejg1WmQ5cWVlN0FuU0d4cmZRYXhHNEpEMk5pdnFNSVJyY3BmN0lEVGJGM1FLSm9NdHFvY09iWVBLNGFpTVRpTFNCOEluZw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "AfDB extends up to USD 15 million loan to Biovac for cholera vaccine plant in Cape Town &nbsp;&nbsp; Capmad",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-08-03T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-09-23T10:49:05.648946+00:00"
+    },
+    {
+      "id": "414891241c08",
+      "source": "Signal:Biovac",
+      "title": "AfDB backs Biovac vaccine expansion with $15 million loan - Channel Africa",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0haMDBrQzVMcE9uQlpyT04zVWhtWTJVVHo4bGFhTWcxaXZUc21iZ25rQmY4SUZuZ1JUQlIyeHZQR0ZtclZobHBSYVFRdWN5dUNOMjQ3LV9mb1NHSHo5UXhRMjdYdnhfYUJlOEdnY2RxeGJmal96ZW9nd25sUzFWUWN4Yi05YzhjNTcyeXZCZ183SnRMaDRsSjhZQUtGaHNfWUVTa1ByOGE2dDNf?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "AfDB backs Biovac vaccine expansion with $15 million loan &nbsp;&nbsp; Channel Africa",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-07-25T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-09-23T10:49:05.649177+00:00"
+    },
+    {
+      "id": "01f1e3bfa801",
+      "source": "Signal:Biovac",
+      "title": "Biovac vaccine project expected to create jobs in SA - sabcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1d5NXhCclhXMUozYUtOWENia0E2OXZEeUpYQlZscFJIcE1OWjRtaktjYVVqSFlpMHhFZFF5cDN5SnRxRG9nSTU3emdfMW9YdjQyUFpTeFU2VktTYTdkeFoyU0N3cXFOZUtQTXFHV2szVTJ3TmdEYm8xVzZfYW1ZYUxwZExpdkk1eXBQaA?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac vaccine project expected to create jobs in SA &nbsp;&nbsp; sabcnews.com",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-07-21T10:32:44+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-09-23T10:49:05.649400+00:00"
+    },
+    {
+      "id": "9c9733ffa5c1",
+      "source": "Signal:Biovac",
+      "title": "Biovac’s cholera vaccine test for Africa’s self-reliance - The Independent Uganda",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkxDR0dHdXhEeFZub2NlTVlyQ0VwVHpwQ3k3M3hBUjJ3Vjk2Q3V5bWdGT1MxYm1IYlFuY1lHVlBISFhQMVpNQjNjUTZRSk53Y2hnZEw4ZXl3U2xZdVlKakFSb01zSEtZTHNOU2JzazA2czhzMmdUZXZNY3p5czRVRXc4SklWTEllOTdiZERR?oc=5",
+      "country": "UG",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac’s cholera vaccine test for Africa’s self-reliance &nbsp;&nbsp; The Independent Uganda",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-07-29T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-09-23T10:49:05.650144+00:00"
+    },
+    {
+      "id": "866bd7088986",
+      "source": "Signal:Afrigen",
+      "title": "South Africa backs local Ebola vaccine development - sabcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNTd4cVhnUUVNYVlzQmp4c1pxQjNjUHc4eXY4aHpKMUdyRUNmRzRRWXJUQjlPdjFNek5DcWl2R3RUaGFjcHFCU1ZSeTJ5LTU1SVlFTWpQc0U3N19ZODRGaUIwRnE1b251TWw3VXVGUF9xOE9vemRXM19iZFRUNkoxcGVlSXpGTzdIbndIX2pB?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa backs local Ebola vaccine development &nbsp;&nbsp; sabcnews.com",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Afrigen",
+        "published": "2026-07-03T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-09-23T10:49:05.650555+00:00"
+    },
+    {
+      "id": "236d8fbc44bc",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Aspen Pharmacare and MSD partner for innovative HIV prevention medicine - businessreport.co.za",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOakNmc3pVc3RPQ3ZmVktDeEdTZ0xFVmJiMGlNNEVCX1I5eS11cUFSaVJ3and5Y1JJWER0MG9GeTduUGliZkJCNjJzTUF2WmZFQmkwM19UWjVma19Gd3BESnctaWVqM0l6T2JyeFBUX0swVGFvRHBBRU5XVVlGR1MzTzBsTGxxSFNKdExQOVY0aXlhVHJ1OWxhcHhCYW0yYmRid2NxM3BYUEJnOFFMNnZKbXlYWlVwLXh2NmhTTmF2bw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Aspen Pharmacare and MSD partner for innovative HIV prevention medicine &nbsp;&nbsp; businessreport.co.za",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-07-24T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-09-23T10:49:05.651308+00:00"
+    },
+    {
+      "id": "30b1a13b60b0",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Aspen Pharmacare Expands Access Ambitions for HIV Prevention Across Africa through New Agreement with MSD - Novus Press Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeVc2NFFQazlNRC00eHdpVHotU21yRHRKMThFbVVBWjJBb1ExUzJEU08tbVIwTHJhY2J3TE1hbFAxYVB2dzY3VWp5WEFrNUQ3MktMcENkMmZyck5nTHk3dl9LUV9pNEpsWlRZNE13THJIOGJmNmpKZXpFNXZsZDVKYVAzbW95cHppSlh1MUZobGVpa1NQRmdidl9RTFJSUXFJUjRERHcwcXpuc29UVjBISVEyT2N2bk40RVJkWGwwTGFKNjJyYXVnN1p3VDlnZGE2ZGtRUUdvMXNoZVk?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Aspen Pharmacare Expands Access Ambitions for HIV Prevention Across Africa through New Agreement with MSD &nbsp;&nbsp; Novus Press Bulletin",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-07-24T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-09-23T10:49:05.651648+00:00"
+    },
+    {
+      "id": "debba72be073",
+      "source": "Signal:Institut Pasteur Dakar",
+      "title": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed - Institut Pasteur",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0RQQ21CUUpxNlNnU1YydGRXTW01dE1pZ1VHRVZwZnM2TW8xcm5fRlQzdmpyLU9HY3NtZ3FxdXFZUkxHWTZRM2R0LVJUcnNqdV9DbWRMZkdEc2tUalpVUUpaNl90OWVub29GMVZoNEVEY3pOUnpqWFlod3VzYTJ6NVF5Rjl0ejFGcXBBbHBYYXlyWmJTOG0zdUpXV2xVUkg0Y1VIUnotWHUxRTJWRlhMMzBpUkhadkxGUEVBR3N5dUxmUnNPUFFXMW1lMkt5WjJHcnVj?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed &nbsp;&nbsp; Institut Pasteur",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Institut Pasteur Dakar",
+        "published": "2026-08-22T07:55:04+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-09-23T10:49:05.652339+00:00"
+    },
+    {
+      "id": "b96a3e8af844",
+      "source": "Signal:AFD",
+      "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AFD",
+        "published": "2026-05-11T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-09-23T10:49:05.652568+00:00"
+    },
+    {
+      "id": "d2b9d4f66c45",
+      "source": "Signal:AVMA",
+      "title": "Gavi commits $500m to Nigeria’s immunisation programme - Realnews Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUlR4Y3d2Q1MwZ2Nud3FLNXBwNnRfOC0wN3ZaNkFtZk8xY0ttNXB4Rl9BekRhZDJ0RzBma25LYTNiQng1TDhuQmZkdVJsdW1XLWZ4RHBMd2dETC1pX2ZSVklFclZYbTZpQlBoSy1ZcjdnajRid1FfWjRxbmpRclE2LUMtZ2JuOGdnUlE?oc=5",
+      "country": "NG",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Gavi commits $500m to Nigeria’s immunisation programme &nbsp;&nbsp; Realnews Magazine",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-08-01T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-09-23T10:49:05.653548+00:00"
+    }
+  ]
+}
