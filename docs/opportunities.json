@@ -35,7 +35,7 @@
       "published": "2026-06-30T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-23T10:49:05.650472+00:00"
+    "fetched_at": "2026-09-24T11:09:18.426558+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -73,45 +73,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-23T10:49:05.653378+00:00"
-  },
-  {
-    "id": "271060def69a",
-    "source": "World Bank",
-    "title": "Consulting Services for the Preparation of an Environmental Impact Assessment (EIA), an Environmental and Social Impact Assessment (ESIA), and Other Environmental and Social Documents Required for the Project",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470199",
-    "country": "NE",
-    "deadline": "2026-10-14",
-    "deadline_days": 21,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: GFPP Kathmandu Valley Water Security Improvement Project. Country: Nepal. Reference: NP-KVWSMB-572486-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 4
-    },
-    "fit_total": 4,
-    "fit_top_area": "mel",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P517244",
-      "wb_reference": "NP-KVWSMB-572486-CS-CQS"
-    },
-    "fetched_at": "2026-09-23T10:49:05.647590+00:00"
+    "fetched_at": "2026-09-24T11:09:18.431151+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -149,7 +111,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-23T10:49:05.648522+00:00"
+    "fetched_at": "2026-09-24T11:09:18.423656+00:00"
   },
   {
     "id": "37737e671331",
@@ -187,7 +149,7 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-23T10:49:05.649678+00:00"
+    "fetched_at": "2026-09-24T11:09:18.425389+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -225,7 +187,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-23T10:49:05.649940+00:00"
+    "fetched_at": "2026-09-24T11:09:18.425784+00:00"
   },
   {
     "id": "7957d095f782",
@@ -263,7 +225,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-23T10:49:05.652717+00:00"
+    "fetched_at": "2026-09-24T11:09:18.430290+00:00"
   },
   {
     "id": "3301c0539fa2",
@@ -301,7 +263,45 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-23T10:49:05.653067+00:00"
+    "fetched_at": "2026-09-24T11:09:18.430705+00:00"
+  },
+  {
+    "id": "ed48c4de25bf",
+    "source": "World Bank",
+    "title": "Fire Management Plan Preparation Consultancy Service (Kahramanmaraş Regional Directorate of Forestry)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00467836",
+    "country": "TU",
+    "deadline": "2026-10-07",
+    "deadline_days": 13,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Türkiye Climate Resilient Forests Project. Country: Turkiye. Reference: TR-OGM-571349-CS-CQS.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 3,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 3,
+    "fit_top_area": "regulatory",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P179345",
+      "wb_reference": "TR-OGM-571349-CS-CQS"
+    },
+    "fetched_at": "2026-09-24T11:09:18.422579+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -310,7 +310,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 27,
+    "deadline_days": 26,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -335,65 +335,27 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-23T10:49:05.638148+00:00"
+    "fetched_at": "2026-09-24T11:09:18.410235+00:00"
   },
   {
-    "id": "8b1d4a72932a",
+    "id": "952ab25dc7a9",
     "source": "World Bank",
-    "title": "Recruter le bureau d'étude qui va élaborer le  Dossier d' Appel d' Offres et faire   la surveillance des travaux de réhabilitation du laboratoire national vétérinaire et  du bâtiment du COUSP",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470254",
-    "country": "BU",
-    "deadline": "2026-10-22",
-    "deadline_days": 29,
+    "title": "Technical Study on the Impact of Electric Vehicles on the Electricity Distribution Network in Cambodia.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468236",
+    "country": "CA",
+    "deadline": "2026-09-29",
+    "deadline_days": 5,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Burundi Health Emergency Preparedness, Response, and Resilience Project. Country: Burundi. Reference: BI-MOH-544140-CS-CQS.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Cambodia Sustainable Energy Transition Project Preparation. Country: Cambodia. Reference: CSET-EDC-CS04-01.",
     "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 3,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 3,
-    "fit_top_area": "regulatory",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P504531",
-      "wb_reference": "BI-MOH-544140-CS-CQS"
-    },
-    "fetched_at": "2026-09-23T10:49:05.647926+00:00"
-  },
-  {
-    "id": "f72e1e3c6520",
-    "source": "World Bank",
-    "title": "Recruitment of a Project Assistant for Hainan Provincial Department of Agriculture and Rural Affairs (2.2)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470207",
-    "country": "CH",
-    "deadline": "2026-09-23",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: China Emerging Infectious Diseases Prevention, Preparedness and Response Project. Country: China. Reference: HN-IC-7A.",
-    "fit_per_area": {
-      "cold_chain": 0,
+      "cold_chain": 2,
       "manufacturing": 0,
       "regulatory": 0,
       "procurement": 2,
       "mel": 0
     },
     "fit_total": 2,
-    "fit_top_area": "procurement",
+    "fit_top_area": "cold_chain",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
@@ -408,21 +370,59 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P173746",
-      "wb_reference": "HN-IC-7A"
+      "wb_project_id": "P182080",
+      "wb_reference": "CSET-EDC-CS04-01"
     },
-    "fetched_at": "2026-09-23T10:49:05.647650+00:00"
+    "fetched_at": "2026-09-24T11:09:18.421972+00:00"
   },
   {
-    "id": "9c7c351599b5",
+    "id": "1a39e20c1381",
     "source": "World Bank",
-    "title": "Consultor experto en aspectos ambientales",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470015",
-    "country": "GU",
-    "deadline": "2026-10-02",
-    "deadline_days": 9,
+    "title": "Technical study of distribution extension and strengthening",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468239",
+    "country": "CA",
+    "deadline": "2026-09-29",
+    "deadline_days": 5,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support the preparation of the Guatemala Energy Transition Support Project implemented by INDE. Country: Guatemala. Reference: GT-INDE-529878-CS-INDV.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Cambodia Sustainable Energy Transition Project Preparation. Country: Cambodia. Reference: CSET-EDC-CS04-02.",
+    "fit_per_area": {
+      "cold_chain": 2,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P182080",
+      "wb_reference": "CSET-EDC-CS04-02"
+    },
+    "fetched_at": "2026-09-24T11:09:18.422042+00:00"
+  },
+  {
+    "id": "cebb8b6f6768",
+    "source": "World Bank",
+    "title": "Recrutement d'un consultant assumant la fonction de Spécialiste social - Matadi",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470489",
+    "country": "CO",
+    "deadline": "2026-10-05",
+    "deadline_days": 11,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Inga 3  Development Program. Country: Congo, Democratic Republic of. Reference: ZR-ADEPI-520116-CS-INDV.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -446,10 +446,10 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P181930",
-      "wb_reference": "GT-INDE-529878-CS-INDV"
+      "wb_project_id": "P506438",
+      "wb_reference": "ZR-ADEPI-520116-CS-INDV"
     },
-    "fetched_at": "2026-09-23T10:49:05.648363+00:00"
+    "fetched_at": "2026-09-24T11:09:18.422820+00:00"
   },
   {
     "id": "3cc28b6814a5",
@@ -458,7 +458,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-supporting-immunization-program-sudan-strengtheningenhancing-governance",
     "country": "SD",
     "deadline": "2026-09-24",
-    "deadline_days": 1,
+    "deadline_days": 0,
     "value_usd": null,
     "description": "RFP: Supporting Immunization Program in Sudan: Strengthening/Enhancing Governance, Quality, Evidence, Demand and Surveillance",
     "fit_per_area": {
@@ -483,7 +483,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-23T10:49:05.638877+00:00"
+    "fetched_at": "2026-09-24T11:09:18.411218+00:00"
   },
   {
     "id": "9d30a016a466",
@@ -492,7 +492,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
     "country": null,
     "deadline": "2026-10-13",
-    "deadline_days": 20,
+    "deadline_days": 19,
     "value_usd": null,
     "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
     "fit_per_area": {
@@ -517,83 +517,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-23T10:49:05.638576+00:00"
-  },
-  {
-    "id": "8917191baff3",
-    "source": "World Bank",
-    "title": "Consulting services for conducting energy audits, preparing detailed designs and technical specifications, and supervising the renovation works for buildings in Kayseri and Nevşehir provinces (16 building bloc, with a total area of 231.532 m2)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470238",
-    "country": "TU",
-    "deadline": "2026-10-14",
-    "deadline_days": 21,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Least Cost Selection. Project: Second Energy Efficiency in Public Buildings under the E3 MPA. Country: Turkiye. Reference: EEPB2/WB/MOEUCC/LCS-DES&SUP-03.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P500777",
-      "wb_reference": "EEPB2/WB/MOEUCC/LCS-DES&SUP-03"
-    },
-    "fetched_at": "2026-09-23T10:49:05.646642+00:00"
-  },
-  {
-    "id": "ee61383d18ba",
-    "source": "World Bank",
-    "title": "Consulting services for conducting energy audits, preparing detailed designs and technical specifications, and supervising the renovation works for buildings in Samsun province (45 building blocks across 17 campuses, with a total area of 296,579 m²)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470235",
-    "country": "TU",
-    "deadline": "2026-10-14",
-    "deadline_days": 21,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Least Cost Selection. Project: Second Energy Efficiency in Public Buildings under the E3 MPA. Country: Turkiye. Reference: EEPB2/WB/MOEUCC/LCS-DES&SUP-02.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P500777",
-      "wb_reference": "EEPB2/WB/MOEUCC/LCS-DES&SUP-02"
-    },
-    "fetched_at": "2026-09-23T10:49:05.647850+00:00"
+    "fetched_at": "2026-09-24T11:09:18.410797+00:00"
   },
   {
     "id": "b129a66ef1b9",
@@ -631,7 +555,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-23T10:49:05.648668+00:00"
+    "fetched_at": "2026-09-24T11:09:18.423866+00:00"
   },
   {
     "id": "b2ba3fa9d482",
@@ -669,7 +593,7 @@
       "published": "2026-08-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-23T10:49:05.648946+00:00"
+    "fetched_at": "2026-09-24T11:09:18.424308+00:00"
   },
   {
     "id": "414891241c08",
@@ -707,18 +631,18 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-23T10:49:05.649177+00:00"
+    "fetched_at": "2026-09-24T11:09:18.424658+00:00"
   },
   {
-    "id": "01f1e3bfa801",
+    "id": "5b293b87fbb6",
     "source": "Signal:Biovac",
-    "title": "Biovac vaccine project expected to create jobs in SA - sabcnews.com",
+    "title": "Biovac vaccine project expected to create jobs in SA - SABC News",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1d5NXhCclhXMUozYUtOWENia0E2OXZEeUpYQlZscFJIcE1OWjRtaktjYVVqSFlpMHhFZFF5cDN5SnRxRG9nSTU3emdfMW9YdjQyUFpTeFU2VktTYTdkeFoyU0N3cXFOZUtQTXFHV2szVTJ3TmdEYm8xVzZfYW1ZYUxwZExpdkk1eXBQaA?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Biovac vaccine project expected to create jobs in SA &nbsp;&nbsp; sabcnews.com",
+    "description": "Biovac vaccine project expected to create jobs in SA &nbsp;&nbsp; SABC News",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -745,7 +669,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-23T10:49:05.649400+00:00"
+    "fetched_at": "2026-09-24T11:09:18.424978+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -783,18 +707,18 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-23T10:49:05.650144+00:00"
+    "fetched_at": "2026-09-24T11:09:18.426086+00:00"
   },
   {
-    "id": "866bd7088986",
+    "id": "938285e2f2eb",
     "source": "Signal:Afrigen",
-    "title": "South Africa backs local Ebola vaccine development - sabcnews.com",
+    "title": "South Africa backs local Ebola vaccine development - SABC News",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNTd4cVhnUUVNYVlzQmp4c1pxQjNjUHc4eXY4aHpKMUdyRUNmRzRRWXJUQjlPdjFNek5DcWl2R3RUaGFjcHFCU1ZSeTJ5LTU1SVlFTWpQc0U3N19ZODRGaUIwRnE1b251TWw3VXVGUF9xOE9vemRXM19iZFRUNkoxcGVlSXpGTzdIbndIX2pB?oc=5",
     "country": "ZA",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "South Africa backs local Ebola vaccine development &nbsp;&nbsp; sabcnews.com",
+    "description": "South Africa backs local Ebola vaccine development &nbsp;&nbsp; SABC News",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -821,7 +745,7 @@
       "published": "2026-07-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-23T10:49:05.650555+00:00"
+    "fetched_at": "2026-09-24T11:09:18.426675+00:00"
   },
   {
     "id": "236d8fbc44bc",
@@ -859,7 +783,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-23T10:49:05.651308+00:00"
+    "fetched_at": "2026-09-24T11:09:18.427409+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -897,7 +821,45 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-23T10:49:05.651648+00:00"
+    "fetched_at": "2026-09-24T11:09:18.427891+00:00"
+  },
+  {
+    "id": "8bcfe42b229c",
+    "source": "Signal:Aspen Pharmacare",
+    "title": "Aspen secures right to manufacture revolutionary HIV prevention drug once approved - news24.com",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcktrTDl1dndmTk9VelRXX1pRRVhHVUR1d1EwbnhObXR4c0NSVWx3d21KNW11QWRmeGhWMmZnMWNGT3JkSlVZa2VEZGFSR2lpdExoSjF1ZTFESWc0MVlXU1l4aWRKVDFCdTVaOV9UX2hoVVNoLVBwcjZjNUdlVVZNc0hNbW9ISmNpQ25tSGN1YVIzbDlNWnI4YWEtV09MVmhaZkVGcy1kamZDMW81ckt2NzBZeWlwLWJBS1kwQTMxckxGSWdCOVRmNmw5eFZoaU5EWTZGRg?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Aspen secures right to manufacture revolutionary HIV prevention drug once approved &nbsp;&nbsp; news24.com",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Aspen Pharmacare",
+      "published": "2026-07-24T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-09-24T11:09:18.428998+00:00"
   },
   {
     "id": "debba72be073",
@@ -935,7 +897,7 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-23T10:49:05.652339+00:00"
+    "fetched_at": "2026-09-24T11:09:18.429719+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -973,7 +935,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-23T10:49:05.652568+00:00"
+    "fetched_at": "2026-09-24T11:09:18.430072+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -1011,6 +973,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-23T10:49:05.653548+00:00"
+    "fetched_at": "2026-09-24T11:09:18.431395+00:00"
   }
 ]
