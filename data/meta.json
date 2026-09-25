@@ -1,13 +1,13 @@
 {
-  "last_run": "2026-09-24T11:09:18.431432+00:00",
-  "duration_seconds": 60.770056,
+  "last_run": "2026-09-25T11:12:44.821026+00:00",
+  "duration_seconds": 60.586856,
   "source_stats": {
     "ReliefWeb": {
       "fetched": 0,
       "errors": 0
     },
     "GAVI": {
-      "fetched": 3,
+      "fetched": 2,
       "errors": 0
     },
     "UNITAID": {
@@ -31,7 +31,7 @@
       "errors": 0
     },
     "World Bank": {
-      "fetched": 49,
+      "fetched": 44,
       "errors": 0
     },
     "UNGM": {
@@ -48,10 +48,10 @@
     }
   },
   "total_kept": 26,
-  "total_excluded": 152,
+  "total_excluded": 146,
   "exclusion_breakdown": {
-    "goods": 4,
-    "gate": 136,
+    "goods": 6,
+    "gate": 128,
     "expired": 9,
     "sanctioned": 1,
     "bmgf_strict": 2
