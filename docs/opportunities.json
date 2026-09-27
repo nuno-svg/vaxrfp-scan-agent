@@ -35,7 +35,7 @@
       "published": "2026-06-30T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-26T10:51:28.509662+00:00"
+    "fetched_at": "2026-09-27T11:27:09.452807+00:00"
   },
   {
     "id": "e605320efc1a",
@@ -73,18 +73,54 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-26T10:51:28.513475+00:00"
+    "fetched_at": "2026-09-27T11:27:09.457030+00:00"
   },
   {
-    "id": "59b68a0808cc",
+    "id": "f97f68ca65e0",
+    "source": "TED",
+    "title": "Belgium, Czechia – Business services: law, marketing, consulting, recruitment, printing and security – FWC Legal and management support on the implementation of components of the European Space Programme",
+    "url": "https://ted.europa.eu/en/notice/525247-2026",
+    "country": "AN",
+    "deadline": "2026-09-29",
+    "deadline_days": 2,
+    "value_usd": null,
+    "description": "European Commission, DG DEFIS - Defence Industry and Space. In the scope of the Regulation (EU) 2023/588 of the European Parliament and of the Council of 15 March 2023 establishing the Union Secure Connectivity Programme for the period 2023- 2027, the European Commission has signed a 12-year Concession Contract on 126 December 2024 for the development, the deployment and the operation of the Infrastructure for Resilience, Interconnectivity and Security by Satellite (IRIS²) programme. IRIS² consists in 264 LEO satellites, 18 MEO satellites and a ground infrastructure to be deployed by 2030 which aim at providing a secure, low-latency connectivity to EU Members States, Governmental users and Commercials users with a worldwide coverage. The programme will be split in 4 phases: 1. Phase 1: Supply chain consolidation This maximum 1-year phase will enable the IRIS² Concessionaire to finalise suppliers’ selection. This should also allow the creation of a Special Purpose Vehicle to handle the Concession Contract until its end in 12 years. 2. Phase 2: Development phase This 2-year phase will be mainly dedicated to the design and the development of the infrastructure. 3. Phase 3: Deployment phase This phase is expected to last 3 years and will be dedicated to the industrialisation, production and launch of the infrastructure. 4. Phase 4: Operation phase The rest of period of 12 years will consist in operating the IRIS² infrastructure and providing services. During these 4 phases, the E",
+    "fit_per_area": {
+      "cold_chain": 3,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 3,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 1,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "525247-2026"
+    },
+    "fetched_at": "2026-09-27T11:27:09.443317+00:00"
+  },
+  {
+    "id": "c6e227a22d8b",
     "source": "Signal:Biovac",
-    "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - afdb.org",
+    "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
     "country": "ZA",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; afdb.org",
+    "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 4,
@@ -111,7 +147,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-26T10:51:28.506633+00:00"
+    "fetched_at": "2026-09-27T11:27:09.449970+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -149,7 +185,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-26T10:51:28.508359+00:00"
+    "fetched_at": "2026-09-27T11:27:09.451644+00:00"
   },
   {
     "id": "37737e671331",
@@ -187,18 +223,56 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-26T10:51:28.508769+00:00"
+    "fetched_at": "2026-09-27T11:27:09.452037+00:00"
   },
   {
-    "id": "5f6a431ea888",
+    "id": "1748162dba09",
+    "source": "Signal:KfW",
+    "title": "South Africa Advances Africa’s First End-to-End Cholera Vaccine Production with $15 Million AfDB Support - fundsforNGOs News",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWmgzU2dCT2VVZTdwemgtRXJCdzhWdlhWWHlsa2RZOWkya3RXRktIVDJnZXF4dGdqZVFSd3BJTzlDckNOZkNEaXp5WkhOY1RlaWMya0YwZUo4Zng4dnpmb2M0Z0F1endpM01XYzdORzFlREtCUDRZLUc4TVQtUGhoQ3VHNV9TTVdfbnJydDhSdkk0MkVHVzhaMzJQS0lBUVhGOWo5WFFQeFhUM2U4M0JpaGNqWHJDVzdkSnVUVVdhRGF0YThOeVp3SzljTmh4RXZwUXpvMDVsR2ZWbklL?oc=5",
+    "country": "ZA",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "South Africa Advances Africa’s First End-to-End Cholera Vaccine Production with $15 Million AfDB Support &nbsp;&nbsp; fundsforNGOs News",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "donor": "KfW",
+      "published": "2026-07-27T07:00:00+00:00",
+      "signal_type": "donor"
+    },
+    "fetched_at": "2026-09-27T11:27:09.456056+00:00"
+  },
+  {
+    "id": "7957d095f782",
     "source": "Signal:AVMA",
-    "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - afdb.org",
+    "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
     "country": "ZA",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; afdb.org",
+    "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 4,
@@ -225,7 +299,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-26T10:51:28.513047+00:00"
+    "fetched_at": "2026-09-27T11:27:09.456614+00:00"
   },
   {
     "id": "3301c0539fa2",
@@ -263,7 +337,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-26T10:51:28.513876+00:00"
+    "fetched_at": "2026-09-27T11:27:09.457443+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -272,7 +346,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 24,
+    "deadline_days": 23,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -297,45 +371,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-26T10:51:28.493889+00:00"
-  },
-  {
-    "id": "74c50d2ff3bf",
-    "source": "World Bank",
-    "title": "Fire Management Plan Preparation Consultancy Service (Adana Regional Directorate of Forestry)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470853",
-    "country": "TU",
-    "deadline": "2026-10-07",
-    "deadline_days": 11,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Türkiye Climate Resilient Forests Project. Country: Turkiye. Reference: TR-OGM-564930-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P179345",
-      "wb_reference": "TR-OGM-564930-CS-CQS"
-    },
-    "fetched_at": "2026-09-26T10:51:28.506116+00:00"
+    "fetched_at": "2026-09-27T11:27:09.438023+00:00"
   },
   {
     "id": "0ae4fbb6e641",
@@ -344,7 +380,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471195",
     "country": "CA",
     "deadline": "2026-10-09",
-    "deadline_days": 13,
+    "deadline_days": 12,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Renewable Energy and Improved Utility Performance Project. Country: Cabo Verde. Reference: 026/REIUP/CCIP/2026.",
     "fit_per_area": {
@@ -373,7 +409,7 @@
       "wb_project_id": "P170236",
       "wb_reference": "026/REIUP/CCIP/2026"
     },
-    "fetched_at": "2026-09-26T10:51:28.505343+00:00"
+    "fetched_at": "2026-09-27T11:27:09.449360+00:00"
   },
   {
     "id": "6773dcfb24f5",
@@ -382,7 +418,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452966",
     "country": "CO",
     "deadline": "2026-10-23",
-    "deadline_days": 27,
+    "deadline_days": 26,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Inga 3  Development Program. Country: Congo, Democratic Republic of. Reference: ZR-ADEPI-520095-CS-QCBS.",
     "fit_per_area": {
@@ -411,7 +447,7 @@
       "wb_project_id": "P506438",
       "wb_reference": "ZR-ADEPI-520095-CS-QCBS"
     },
-    "fetched_at": "2026-09-26T10:51:28.505260+00:00"
+    "fetched_at": "2026-09-27T11:27:09.449278+00:00"
   },
   {
     "id": "9d30a016a466",
@@ -420,7 +456,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
     "country": null,
     "deadline": "2026-10-13",
-    "deadline_days": 17,
+    "deadline_days": 16,
     "value_usd": null,
     "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
     "fit_per_area": {
@@ -445,18 +481,18 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-26T10:51:28.494455+00:00"
+    "fetched_at": "2026-09-27T11:27:09.438604+00:00"
   },
   {
-    "id": "c2354d5646f6",
+    "id": "b129a66ef1b9",
     "source": "Signal:Biovac",
-    "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - africa.businessinsider.com",
+    "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - Business Insider Africa",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEh4cENadER6WDhtSzhRMnhPMjdHalJvanJRYm5IODZOS1lWNk5xYU1ScmRwbXBMLURYUnFTY2VQMzVPTmxjWkxmSll0MVFxOGRfZF9FUE15MXZTXzFvYkpLQ0QtZmFPMEJxMlRZOTRiVHN0Q00xVmc5UV82bzlRLXJCOVZjQ09Uc1lsVGNsMW1zQmRWWENsMFpyMDNUanBDUGhxdUxLekRWbDFwcDlfTXpmX204cnE2eVh4X2ozYjhUREw3U2kxWnZUQkt1d0JaQ01VZkZWWXE?oc=5",
     "country": "ZA",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant &nbsp;&nbsp; africa.businessinsider.com",
+    "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant &nbsp;&nbsp; Business Insider Africa",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -483,7 +519,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-26T10:51:28.506842+00:00"
+    "fetched_at": "2026-09-27T11:27:09.450195+00:00"
   },
   {
     "id": "b2ba3fa9d482",
@@ -521,7 +557,7 @@
       "published": "2026-08-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-26T10:51:28.507265+00:00"
+    "fetched_at": "2026-09-27T11:27:09.450598+00:00"
   },
   {
     "id": "414891241c08",
@@ -559,7 +595,7 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-26T10:51:28.507632+00:00"
+    "fetched_at": "2026-09-27T11:27:09.450936+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -597,7 +633,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-26T10:51:28.507959+00:00"
+    "fetched_at": "2026-09-27T11:27:09.451264+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -635,7 +671,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-26T10:51:28.509063+00:00"
+    "fetched_at": "2026-09-27T11:27:09.452345+00:00"
   },
   {
     "id": "938285e2f2eb",
@@ -673,7 +709,45 @@
       "published": "2026-07-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-26T10:51:28.509792+00:00"
+    "fetched_at": "2026-09-27T11:27:09.452926+00:00"
+  },
+  {
+    "id": "236d8fbc44bc",
+    "source": "Signal:Aspen Pharmacare",
+    "title": "Aspen Pharmacare and MSD partner for innovative HIV prevention medicine - businessreport.co.za",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOakNmc3pVc3RPQ3ZmVktDeEdTZ0xFVmJiMGlNNEVCX1I5eS11cUFSaVJ3and5Y1JJWER0MG9GeTduUGliZkJCNjJzTUF2WmZFQmkwM19UWjVma19Gd3BESnctaWVqM0l6T2JyeFBUX0swVGFvRHBBRU5XVVlGR1MzTzBsTGxxSFNKdExQOVY0aXlhVHJ1OWxhcHhCYW0yYmRid2NxM3BYUEJnOFFMNnZKbXlYWlVwLXh2NmhTTmF2bw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Aspen Pharmacare and MSD partner for innovative HIV prevention medicine &nbsp;&nbsp; businessreport.co.za",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Aspen Pharmacare",
+      "published": "2026-07-24T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-09-27T11:27:09.453648+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -711,45 +785,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-26T10:51:28.510617+00:00"
-  },
-  {
-    "id": "c2b50944abe4",
-    "source": "Signal:Aspen Pharmacare",
-    "title": "Aspen Pharmacare and MSD partner for innovative HIV prevention medicine - IOL",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQTJKbHZwQlE5QW9PbjZDS3VqcVkzTnBWNE9vNk1Lai1LQ3ZxT2lGX2dTR2hVWDJHMkMwMzlpWjhEenROVlE1N3FHRHo5YzJtWFFVZzg5clU0dFcyRjlTN1dvVlNBR1RGYURXaFozT2hzb0FYaUVNVnlUTFMwYnR6a1FfR0Q5QV9OeHRZQ2xUaUs5NnZwZXhXcVZrSWVrU2RULXc5MjZtMm1TVzFLOWVxS2labExjRzVJRkpWbXQ3Ql9rc3NYV2c?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Aspen Pharmacare and MSD partner for innovative HIV prevention medicine &nbsp;&nbsp; IOL",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Aspen Pharmacare",
-      "published": "2026-07-24T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-09-26T10:51:28.511779+00:00"
+    "fetched_at": "2026-09-27T11:27:09.454166+00:00"
   },
   {
     "id": "8bcfe42b229c",
@@ -787,18 +823,18 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-26T10:51:28.512154+00:00"
+    "fetched_at": "2026-09-27T11:27:09.455487+00:00"
   },
   {
-    "id": "14cfc76445f9",
+    "id": "debba72be073",
     "source": "Signal:Institut Pasteur Dakar",
-    "title": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed - pasteur.fr",
+    "title": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed - Institut Pasteur",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0RQQ21CUUpxNlNnU1YydGRXTW01dE1pZ1VHRVZwZnM2TW8xcm5fRlQzdmpyLU9HY3NtZ3FxdXFZUkxHWTZRM2R0LVJUcnNqdV9DbWRMZkdEc2tUalpVUUpaNl90OWVub29GMVZoNEVEY3pOUnpqWFlod3VzYTJ6NVF5Rjl0ejFGcXBBbHBYYXlyWmJTOG0zdUpXV2xVUkg0Y1VIUnotWHUxRTJWRlhMMzBpUkhadkxGUEVBR3N5dUxmUnNPUFFXMW1lMkt5WjJHcnVj?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed &nbsp;&nbsp; pasteur.fr",
+    "description": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed &nbsp;&nbsp; Institut Pasteur",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -825,7 +861,7 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-26T10:51:28.512527+00:00"
+    "fetched_at": "2026-09-27T11:27:09.455862+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -863,7 +899,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-26T10:51:28.512858+00:00"
+    "fetched_at": "2026-09-27T11:27:09.456404+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -901,6 +937,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-26T10:51:28.514116+00:00"
+    "fetched_at": "2026-09-27T11:27:09.457684+00:00"
   }
 ]
