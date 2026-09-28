@@ -1,43 +1,5 @@
 [
   {
-    "id": "8a7cf56f67ea",
-    "source": "Signal:Afrigen",
-    "title": "Afrigen secures SAHPRA GMP certification for Africa’s first end-to-end mRNA manufacturing facility - EIN News",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOUhzUnJWbnpkTWJXblEtOFFOUUZjT0IySjhCT2xaOXY5NzFhLTBQNTJlZjUxSk1qeWRLbzV2a3JJYWJfdi1xNDJxNjBoNVQtbklPbnJ2Ni1JcjN3Mzd2T2xScXRnd24xa19UNjhNVlRkUk5feWRLNER5Q3ZhTVhNVVR0QWx3djVQUkVya0dPbHNBcHkzZkhvaVhJOFJKeTNqd1FWWWNwT0MxMWlfRlMyTnNGZXk2QVkwNGhxaXhMMnJQX3VYdlVZODh4M3k2SlJoaURjRTYyVQ?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Afrigen secures SAHPRA GMP certification for Africa’s first end-to-end mRNA manufacturing facility &nbsp;&nbsp; EIN News",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 10,
-      "regulatory": 5,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 10,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 1,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Afrigen",
-      "published": "2026-06-30T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-09-27T11:27:09.452807+00:00"
-  },
-  {
     "id": "e605320efc1a",
     "source": "Signal:AVMA",
     "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - businessreport.co.za",
@@ -73,43 +35,45 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-27T11:27:09.457030+00:00"
+    "fetched_at": "2026-09-28T12:58:30.878242+00:00"
   },
   {
-    "id": "f97f68ca65e0",
-    "source": "TED",
-    "title": "Belgium, Czechia – Business services: law, marketing, consulting, recruitment, printing and security – FWC Legal and management support on the implementation of components of the European Space Programme",
-    "url": "https://ted.europa.eu/en/notice/525247-2026",
-    "country": "AN",
-    "deadline": "2026-09-29",
-    "deadline_days": 2,
+    "id": "d750a3e03cf2",
+    "source": "World Bank",
+    "title": "Preparation of Feasibility Study (FS), Environmental and Social Impact Assessment (ESIA), Detailed Design and Works Supervision of Hill Lakes",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468081",
+    "country": "LE",
+    "deadline": "2026-10-08",
+    "deadline_days": 10,
     "value_usd": null,
-    "description": "European Commission, DG DEFIS - Defence Industry and Space. In the scope of the Regulation (EU) 2023/588 of the European Parliament and of the Council of 15 March 2023 establishing the Union Secure Connectivity Programme for the period 2023- 2027, the European Commission has signed a 12-year Concession Contract on 126 December 2024 for the development, the deployment and the operation of the Infrastructure for Resilience, Interconnectivity and Security by Satellite (IRIS²) programme. IRIS² consists in 264 LEO satellites, 18 MEO satellites and a ground infrastructure to be deployed by 2030 which aim at providing a secure, low-latency connectivity to EU Members States, Governmental users and Commercials users with a worldwide coverage. The programme will be split in 4 phases: 1. Phase 1: Supply chain consolidation This maximum 1-year phase will enable the IRIS² Concessionaire to finalise suppliers’ selection. This should also allow the creation of a Special Purpose Vehicle to handle the Concession Contract until its end in 12 years. 2. Phase 2: Development phase This 2-year phase will be mainly dedicated to the design and the development of the infrastructure. 3. Phase 3: Deployment phase This phase is expected to last 3 years and will be dedicated to the industrialisation, production and launch of the infrastructure. 4. Phase 4: Operation phase The rest of period of 12 years will consist in operating the IRIS² infrastructure and providing services. During these 4 phases, the E",
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Lebanon Green Agrifood Transformation for Economic Recovery (GATE). Country: Lebanon. Reference: G-GP-CS-FA.",
     "fit_per_area": {
-      "cold_chain": 3,
+      "cold_chain": 0,
       "manufacturing": 0,
       "regulatory": 0,
-      "procurement": 3,
-      "mel": 0
+      "procurement": 0,
+      "mel": 4
     },
     "fit_total": 4,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 1,
+    "fit_top_area": "mel",
+    "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
-      "requires_review_sanctions": false,
+      "requires_review_sanctions": true,
       "requires_review_eligibility": false,
-      "urgent_deadline": true,
+      "urgent_deadline": false,
       "expired": false
     },
     "flag_notes": {
-      "sanctions": "",
+      "sanctions": "Partial sanctions (text match): Lebanon (Hezbollah-linked entities)",
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "525247-2026"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P180334",
+      "wb_reference": "G-GP-CS-FA"
     },
-    "fetched_at": "2026-09-27T11:27:09.443317+00:00"
+    "fetched_at": "2026-09-28T12:58:30.870158+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -147,7 +111,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-27T11:27:09.449970+00:00"
+    "fetched_at": "2026-09-28T12:58:30.871215+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -185,7 +149,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-27T11:27:09.451644+00:00"
+    "fetched_at": "2026-09-28T12:58:30.872951+00:00"
   },
   {
     "id": "37737e671331",
@@ -223,7 +187,7 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-27T11:27:09.452037+00:00"
+    "fetched_at": "2026-09-28T12:58:30.873352+00:00"
   },
   {
     "id": "1748162dba09",
@@ -261,7 +225,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-27T11:27:09.456056+00:00"
+    "fetched_at": "2026-09-28T12:58:30.877244+00:00"
   },
   {
     "id": "7957d095f782",
@@ -299,7 +263,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-27T11:27:09.456614+00:00"
+    "fetched_at": "2026-09-28T12:58:30.877809+00:00"
   },
   {
     "id": "3301c0539fa2",
@@ -337,7 +301,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-27T11:27:09.457443+00:00"
+    "fetched_at": "2026-09-28T12:58:30.878664+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -346,7 +310,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 23,
+    "deadline_days": 22,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -371,7 +335,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-27T11:27:09.438023+00:00"
+    "fetched_at": "2026-09-28T12:58:30.859827+00:00"
   },
   {
     "id": "0ae4fbb6e641",
@@ -380,7 +344,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471195",
     "country": "CA",
     "deadline": "2026-10-09",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Renewable Energy and Improved Utility Performance Project. Country: Cabo Verde. Reference: 026/REIUP/CCIP/2026.",
     "fit_per_area": {
@@ -409,7 +373,7 @@
       "wb_project_id": "P170236",
       "wb_reference": "026/REIUP/CCIP/2026"
     },
-    "fetched_at": "2026-09-27T11:27:09.449360+00:00"
+    "fetched_at": "2026-09-28T12:58:30.870984+00:00"
   },
   {
     "id": "6773dcfb24f5",
@@ -418,7 +382,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452966",
     "country": "CO",
     "deadline": "2026-10-23",
-    "deadline_days": 26,
+    "deadline_days": 25,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Inga 3  Development Program. Country: Congo, Democratic Republic of. Reference: ZR-ADEPI-520095-CS-QCBS.",
     "fit_per_area": {
@@ -447,7 +411,7 @@
       "wb_project_id": "P506438",
       "wb_reference": "ZR-ADEPI-520095-CS-QCBS"
     },
-    "fetched_at": "2026-09-27T11:27:09.449278+00:00"
+    "fetched_at": "2026-09-28T12:58:30.870898+00:00"
   },
   {
     "id": "9d30a016a466",
@@ -456,7 +420,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
     "country": null,
     "deadline": "2026-10-13",
-    "deadline_days": 16,
+    "deadline_days": 15,
     "value_usd": null,
     "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
     "fit_per_area": {
@@ -481,7 +445,45 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-27T11:27:09.438604+00:00"
+    "fetched_at": "2026-09-28T12:58:30.860379+00:00"
+  },
+  {
+    "id": "b374f9b02f2d",
+    "source": "World Bank",
+    "title": "Retrofitting and Strengthening/Upgrading of Public School Buildings in Preparation for \"The Big One\" under IBRD Loan No. 9251-PH: Philippines Seismic Risk Reduction and Resilience Project (PSRRRP) - Contract Package 8",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471516",
+    "country": "PH",
+    "deadline": "2026-10-20",
+    "deadline_days": 22,
+    "value_usd": null,
+    "description": "Invitation for Bids. Request for Bids. Project: Philippines Seismic Risk Reduction and Resilience Project. Country: Philippines. Reference: PH-DPWH-PSRRRP-CW-CP8.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Invitation for Bids",
+      "wb_project_id": "P171419",
+      "wb_reference": "PH-DPWH-PSRRRP-CW-CP8"
+    },
+    "fetched_at": "2026-09-28T12:58:30.870000+00:00"
   },
   {
     "id": "b129a66ef1b9",
@@ -519,7 +521,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-27T11:27:09.450195+00:00"
+    "fetched_at": "2026-09-28T12:58:30.871433+00:00"
   },
   {
     "id": "b2ba3fa9d482",
@@ -557,7 +559,7 @@
       "published": "2026-08-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-27T11:27:09.450598+00:00"
+    "fetched_at": "2026-09-28T12:58:30.871854+00:00"
   },
   {
     "id": "414891241c08",
@@ -595,7 +597,7 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-27T11:27:09.450936+00:00"
+    "fetched_at": "2026-09-28T12:58:30.872200+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -633,7 +635,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-27T11:27:09.451264+00:00"
+    "fetched_at": "2026-09-28T12:58:30.872554+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -671,7 +673,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-27T11:27:09.452345+00:00"
+    "fetched_at": "2026-09-28T12:58:30.873657+00:00"
   },
   {
     "id": "938285e2f2eb",
@@ -709,7 +711,7 @@
       "published": "2026-07-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-27T11:27:09.452926+00:00"
+    "fetched_at": "2026-09-28T12:58:30.873775+00:00"
   },
   {
     "id": "236d8fbc44bc",
@@ -747,7 +749,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-27T11:27:09.453648+00:00"
+    "fetched_at": "2026-09-28T12:58:30.874515+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -785,7 +787,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-27T11:27:09.454166+00:00"
+    "fetched_at": "2026-09-28T12:58:30.874995+00:00"
   },
   {
     "id": "8bcfe42b229c",
@@ -823,7 +825,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-27T11:27:09.455487+00:00"
+    "fetched_at": "2026-09-28T12:58:30.876219+00:00"
   },
   {
     "id": "debba72be073",
@@ -861,7 +863,7 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-27T11:27:09.455862+00:00"
+    "fetched_at": "2026-09-28T12:58:30.877048+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -899,7 +901,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-27T11:27:09.456404+00:00"
+    "fetched_at": "2026-09-28T12:58:30.877594+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -937,6 +939,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-27T11:27:09.457684+00:00"
+    "fetched_at": "2026-09-28T12:58:30.878904+00:00"
   }
 ]
