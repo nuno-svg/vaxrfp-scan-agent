@@ -1,5 +1,43 @@
 [
   {
+    "id": "ecf7b6958349",
+    "source": "World Bank",
+    "title": "Projeto e Obra de Engenharia das Intervenções na região do 4º Distrito de Porto Alegre, conforme Condições do Contrato para Instalações e Projetos de Construção, Livro Amarelo da FIDIC, segunda edição, 2017, no âmbito do Programa Centro+4D.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471706",
+    "country": "BR",
+    "deadline": "2026-11-30",
+    "deadline_days": 62,
+    "value_usd": null,
+    "description": "Invitation for Prequalification. Request for Proposals. Project: Green, Resilient and Inclusive Regeneration of the Central Area of Porto Alegre. Country: Brazil. Reference: BR-SMPAE-PMPA-570537-CW-RFP.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 8,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 8,
+    "fit_top_area": "regulatory",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Invitation for Prequalification",
+      "wb_project_id": "P178072",
+      "wb_reference": "BR-SMPAE-PMPA-570537-CW-RFP"
+    },
+    "fetched_at": "2026-09-29T12:10:41.582764+00:00"
+  },
+  {
     "id": "e605320efc1a",
     "source": "Signal:AVMA",
     "title": "Groundbreaking R1.5bn investment in Biovac to boost Africa's vaccine production capacity - businessreport.co.za",
@@ -35,7 +73,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-28T12:58:30.878242+00:00"
+    "fetched_at": "2026-09-29T12:10:41.592337+00:00"
   },
   {
     "id": "d750a3e03cf2",
@@ -44,7 +82,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468081",
     "country": "LE",
     "deadline": "2026-10-08",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Lebanon Green Agrifood Transformation for Economic Recovery (GATE). Country: Lebanon. Reference: G-GP-CS-FA.",
     "fit_per_area": {
@@ -73,7 +111,43 @@
       "wb_project_id": "P180334",
       "wb_reference": "G-GP-CS-FA"
     },
-    "fetched_at": "2026-09-28T12:58:30.870158+00:00"
+    "fetched_at": "2026-09-29T12:10:41.584407+00:00"
+  },
+  {
+    "id": "61767fdd7e7b",
+    "source": "TED",
+    "title": "Germany – Pharmaceutical products – Abschluss nicht-exklusiver Rabattvereinbarung nach § 130a Abs. 8 SGB V zu biosimilaren Wirkstoffen",
+    "url": "https://ted.europa.eu/en/notice/535232-2026",
+    "country": "DE",
+    "deadline": "2027-08-10",
+    "deadline_days": 315,
+    "value_usd": null,
+    "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nichtexklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.10.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter https://vergabeportal.gwq-serviceplus.de/arzneimittel einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.09.2026 kann eine erstmalige Meldung zum 01.10.2026 realisiert werden. Folgende Unterlagen sind einzureichen: unterzeichneter Vertrag in doppelter Ausfertigung oder mit qualifizierter elektrinischer Signatur (QES); einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug aus dem öffentlichen Teil der AMIceDatenbank; Liste der vertragsgegenständlichen PZN (Anlage 5), unterzeichnete Eigenerklärung (Anlage 6), Eigenerklärung zur EU-Verordnung (Anlage 7)",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 4
+    },
+    "fit_total": 4,
+    "fit_top_area": "mel",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "535232-2026"
+    },
+    "fetched_at": "2026-09-29T12:10:41.580556+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -111,7 +185,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-28T12:58:30.871215+00:00"
+    "fetched_at": "2026-09-29T12:10:41.584805+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -149,18 +223,18 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-28T12:58:30.872951+00:00"
+    "fetched_at": "2026-09-29T12:10:41.586535+00:00"
   },
   {
-    "id": "37737e671331",
+    "id": "bf2196bf3c28",
     "source": "Signal:Biovac",
-    "title": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production - Weekend Post",
+    "title": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production - weekendpost.co.bw",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0h6TlhWOEVyRUFkX1dENE9EYWUxY3NrR3JCQmxWdFBnNXhUWjdxNmc3YzlzMlVZMkI0Rkd3NVNtRE5DYmUwR0lQUWE4QTJoZ2I0T3pNZTV4cFpJQ0ZuOXdmSVhxSjRBd2hIMm11WWdIWWRnc29tRzN3UDctVTl5cVVEQjF6S1ppVThUb3F3UEYtSUVmUldsVEJSMA?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production &nbsp;&nbsp; Weekend Post",
+    "description": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production &nbsp;&nbsp; weekendpost.co.bw",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 4,
@@ -187,7 +261,7 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-28T12:58:30.873352+00:00"
+    "fetched_at": "2026-09-29T12:10:41.586935+00:00"
   },
   {
     "id": "1748162dba09",
@@ -225,7 +299,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-28T12:58:30.877244+00:00"
+    "fetched_at": "2026-09-29T12:10:41.591367+00:00"
   },
   {
     "id": "7957d095f782",
@@ -263,7 +337,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-28T12:58:30.877809+00:00"
+    "fetched_at": "2026-09-29T12:10:41.591901+00:00"
   },
   {
     "id": "3301c0539fa2",
@@ -301,7 +375,45 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-28T12:58:30.878664+00:00"
+    "fetched_at": "2026-09-29T12:10:41.592735+00:00"
+  },
+  {
+    "id": "d272941321a4",
+    "source": "World Bank",
+    "title": "Consulting Firm for ITAS preparation: tax business process re-engineering, legal and regulatory review, and preparation of the ITAS procurement package",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466302",
+    "country": "LE",
+    "deadline": "2026-09-30",
+    "deadline_days": 1,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Fiscal Management Project. Country: Lebanon. Reference: LB-MOF-568490-CS-QCBS.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 3,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 3,
+    "fit_top_area": "regulatory",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": true,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "Partial sanctions (text match): Lebanon (Hezbollah-linked entities)",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P181155",
+      "wb_reference": "LB-MOF-568490-CS-QCBS"
+    },
+    "fetched_at": "2026-09-29T12:10:41.583471+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -310,7 +422,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 22,
+    "deadline_days": 21,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -335,18 +447,18 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-28T12:58:30.859827+00:00"
+    "fetched_at": "2026-09-29T12:10:41.571359+00:00"
   },
   {
-    "id": "0ae4fbb6e641",
+    "id": "d9f78dfc7c48",
     "source": "World Bank",
-    "title": "Recruitment of an Individual Consultant for the Preparation of a roadmap for the institutional strengthening and capacity building of ONSEC - Transmission, System Operator and Single Buyer in power sector of Cabo Verde.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471195",
-    "country": "CA",
-    "deadline": "2026-10-09",
-    "deadline_days": 11,
+    "title": "Draft amendment of the Electricity Act to engage private sector in RE development",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471731",
+    "country": "FI",
+    "deadline": "2026-10-12",
+    "deadline_days": 13,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Renewable Energy and Improved Utility Performance Project. Country: Cabo Verde. Reference: 026/REIUP/CCIP/2026.",
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Fiji Energy Transformation Project Preparation. Country: Fiji. Reference: FJ-EFL-573349-CS-CQS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -370,21 +482,21 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P170236",
-      "wb_reference": "026/REIUP/CCIP/2026"
+      "wb_project_id": "P515153",
+      "wb_reference": "FJ-EFL-573349-CS-CQS"
     },
-    "fetched_at": "2026-09-28T12:58:30.870984+00:00"
+    "fetched_at": "2026-09-29T12:10:41.583615+00:00"
   },
   {
-    "id": "6773dcfb24f5",
+    "id": "b4689835378c",
     "source": "World Bank",
-    "title": "Sélection d'un consultant pour l'appui et le conseil technique et QA/QC (topographie, géochimie, géophysique)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452966",
-    "country": "CO",
-    "deadline": "2026-10-23",
-    "deadline_days": 25,
+    "title": "Consultancy Services for Designing and Development of BoQs for a Standard Community Hospital",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471557",
+    "country": "MA",
+    "deadline": "2026-10-12",
+    "deadline_days": 13,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Inga 3  Development Program. Country: Congo, Democratic Republic of. Reference: ZR-ADEPI-520095-CS-QCBS.",
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Malawi Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programma. Country: Malawi. Reference: MW-MOH-565052-CS-QCBS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -408,10 +520,10 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P506438",
-      "wb_reference": "ZR-ADEPI-520095-CS-QCBS"
+      "wb_project_id": "P505187",
+      "wb_reference": "MW-MOH-565052-CS-QCBS"
     },
-    "fetched_at": "2026-09-28T12:58:30.870898+00:00"
+    "fetched_at": "2026-09-29T12:10:41.583682+00:00"
   },
   {
     "id": "9d30a016a466",
@@ -420,7 +532,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
     "country": null,
     "deadline": "2026-10-13",
-    "deadline_days": 15,
+    "deadline_days": 14,
     "value_usd": null,
     "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
     "fit_per_area": {
@@ -445,7 +557,45 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-09-28T12:58:30.860379+00:00"
+    "fetched_at": "2026-09-29T12:10:41.571909+00:00"
+  },
+  {
+    "id": "0c8fdfbb3bb3",
+    "source": "World Bank",
+    "title": "Retrofitting and Strengthening/Upgrading of Public School Buildings in Preparation for \"The Big One\" under IBRD Loan No. 9251-PH: Philippines Seismic Risk Reduction and Resilience Project (PSRRRP) - Contract Package 10",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471518",
+    "country": "PH",
+    "deadline": "2026-10-20",
+    "deadline_days": 21,
+    "value_usd": null,
+    "description": "Invitation for Bids. Request for Bids. Project: Philippines Seismic Risk Reduction and Resilience Project. Country: Philippines. Reference: PH-DPWH-PSRRRP-CW-CP10.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Invitation for Bids",
+      "wb_project_id": "P171419",
+      "wb_reference": "PH-DPWH-PSRRRP-CW-CP10"
+    },
+    "fetched_at": "2026-09-29T12:10:41.584188+00:00"
   },
   {
     "id": "b374f9b02f2d",
@@ -454,7 +604,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471516",
     "country": "PH",
     "deadline": "2026-10-20",
-    "deadline_days": 22,
+    "deadline_days": 21,
     "value_usd": null,
     "description": "Invitation for Bids. Request for Bids. Project: Philippines Seismic Risk Reduction and Resilience Project. Country: Philippines. Reference: PH-DPWH-PSRRRP-CW-CP8.",
     "fit_per_area": {
@@ -483,7 +633,83 @@
       "wb_project_id": "P171419",
       "wb_reference": "PH-DPWH-PSRRRP-CW-CP8"
     },
-    "fetched_at": "2026-09-28T12:58:30.870000+00:00"
+    "fetched_at": "2026-09-29T12:10:41.584266+00:00"
+  },
+  {
+    "id": "995180862cab",
+    "source": "World Bank",
+    "title": "Retrofitting and Strengthening/Upgrading of Public School Buildings in Preparation for \"The Big One\" under IBRD Loan No. 9251-PH: Philippines Seismic Risk Reduction and Resilience Project (PSRRRP) - Contract Package 11",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471520",
+    "country": "PH",
+    "deadline": "2026-10-20",
+    "deadline_days": 21,
+    "value_usd": null,
+    "description": "Invitation for Bids. Request for Bids. Project: Philippines Seismic Risk Reduction and Resilience Project. Country: Philippines. Reference: PH-DPWH-PSRRRP-CW-CP11.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Invitation for Bids",
+      "wb_project_id": "P171419",
+      "wb_reference": "PH-DPWH-PSRRRP-CW-CP11"
+    },
+    "fetched_at": "2026-09-29T12:10:41.584580+00:00"
+  },
+  {
+    "id": "d5f32650a8e8",
+    "source": "World Bank",
+    "title": "Consulting Service for Establishment and Promotion of Sustainable Mosquito Vector Control Demonstration Communities in Tropical Regions Based on One Health Approach.（2.3）",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470777",
+    "country": "CH",
+    "deadline": "2026-10-22",
+    "deadline_days": 23,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: China Emerging Infectious Diseases Prevention, Preparedness and Response Project. Country: China. Reference: HN-FC-84.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P173746",
+      "wb_reference": "HN-FC-84"
+    },
+    "fetched_at": "2026-09-29T12:10:41.584503+00:00"
   },
   {
     "id": "b129a66ef1b9",
@@ -521,7 +747,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-28T12:58:30.871433+00:00"
+    "fetched_at": "2026-09-29T12:10:41.585024+00:00"
   },
   {
     "id": "b2ba3fa9d482",
@@ -559,7 +785,7 @@
       "published": "2026-08-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-28T12:58:30.871854+00:00"
+    "fetched_at": "2026-09-29T12:10:41.585447+00:00"
   },
   {
     "id": "414891241c08",
@@ -597,7 +823,7 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-28T12:58:30.872200+00:00"
+    "fetched_at": "2026-09-29T12:10:41.585799+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -635,7 +861,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-28T12:58:30.872554+00:00"
+    "fetched_at": "2026-09-29T12:10:41.586136+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -673,7 +899,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-28T12:58:30.873657+00:00"
+    "fetched_at": "2026-09-29T12:10:41.587246+00:00"
   },
   {
     "id": "938285e2f2eb",
@@ -711,7 +937,7 @@
       "published": "2026-07-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-28T12:58:30.873775+00:00"
+    "fetched_at": "2026-09-29T12:10:41.587365+00:00"
   },
   {
     "id": "236d8fbc44bc",
@@ -749,18 +975,18 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-28T12:58:30.874515+00:00"
+    "fetched_at": "2026-09-29T12:10:41.588081+00:00"
   },
   {
-    "id": "30b1a13b60b0",
+    "id": "bc3622007bcf",
     "source": "Signal:Aspen Pharmacare",
-    "title": "Aspen Pharmacare Expands Access Ambitions for HIV Prevention Across Africa through New Agreement with MSD - Novus Press Bulletin",
+    "title": "Aspen Pharmacare Expands Access Ambitions for HIV Prevention Across Africa through New Agreement with MSD - novuspressbulletin.co.za",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeVc2NFFQazlNRC00eHdpVHotU21yRHRKMThFbVVBWjJBb1ExUzJEU08tbVIwTHJhY2J3TE1hbFAxYVB2dzY3VWp5WEFrNUQ3MktMcENkMmZyck5nTHk3dl9LUV9pNEpsWlRZNE13THJIOGJmNmpKZXpFNXZsZDVKYVAzbW95cHppSlh1MUZobGVpa1NQRmdidl9RTFJSUXFJUjRERHcwcXpuc29UVjBISVEyT2N2bk40RVJkWGwwTGFKNjJyYXVnN1p3VDlnZGE2ZGtRUUdvMXNoZVk?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Aspen Pharmacare Expands Access Ambitions for HIV Prevention Across Africa through New Agreement with MSD &nbsp;&nbsp; Novus Press Bulletin",
+    "description": "Aspen Pharmacare Expands Access Ambitions for HIV Prevention Across Africa through New Agreement with MSD &nbsp;&nbsp; novuspressbulletin.co.za",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -787,7 +1013,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-28T12:58:30.874995+00:00"
+    "fetched_at": "2026-09-29T12:10:41.588559+00:00"
   },
   {
     "id": "8bcfe42b229c",
@@ -825,7 +1051,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-28T12:58:30.876219+00:00"
+    "fetched_at": "2026-09-29T12:10:41.589747+00:00"
   },
   {
     "id": "debba72be073",
@@ -863,7 +1089,83 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-09-28T12:58:30.877048+00:00"
+    "fetched_at": "2026-09-29T12:10:41.590530+00:00"
+  },
+  {
+    "id": "37c7c2ab885f",
+    "source": "Signal:KfW",
+    "title": "Gavi Commits $500 Million to Support Nigeria’s Immunization Programme - fundsforNGOs News",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXgwME9kZ0tkN1RBQ1h6VjVHcmhxTWRVd1lqR2xVUlhRdlpuY2dCc25zNXVUOUxQOWRZQkk4a1o2cHpUc0NiY1g0VDh0NWVYOEJLVHBKd25pOXhJZ0gteXpOX2VEVU9YNW9HRDA3MmVwbXdXVi1QOVJTeGVQTkZ6LUxwbWdSZlZ5dW9FWE0xcjVJTnNOSFBXNktVX1pFNEJMdG5JSmhGSW9LZGJ1Zmc?oc=5",
+    "country": "NG",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Gavi Commits $500 Million to Support Nigeria’s Immunization Programme &nbsp;&nbsp; fundsforNGOs News",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "donor": "KfW",
+      "published": "2026-08-04T07:00:00+00:00",
+      "signal_type": "donor"
+    },
+    "fetched_at": "2026-09-29T12:10:41.590791+00:00"
+  },
+  {
+    "id": "4e8854cba945",
+    "source": "Signal:KfW",
+    "title": "Belize Strengthens Medicine and Vaccine Safety Monitoring with PAHO Support - fundsforNGOs News",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMThIU2lVWjBnQ2ZoaEd2WkVRbmhJY3pOQkdNRkc0YUI2RFlnY1pzMy1EcXlkWVhRVE9vZjdmU3phd2VqWXhBVU45NXhBM1R0N3pGVEs1bi1sYzg4dWxta2owdmpBTGV0Yi1Ca25WR3hLUzN4a1dfNy1JR3d5OXZOTG5HTnluaklwd01mU01sU05rZnlyUmdDSHpCaHd3cG1lVHRCMTB4a3dzamdGSmVNbW8tVFdJYmFV?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Belize Strengthens Medicine and Vaccine Safety Monitoring with PAHO Support &nbsp;&nbsp; fundsforNGOs News",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "donor": "KfW",
+      "published": "2026-08-21T07:00:00+00:00",
+      "signal_type": "donor"
+    },
+    "fetched_at": "2026-09-29T12:10:41.591179+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -901,7 +1203,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-28T12:58:30.877594+00:00"
+    "fetched_at": "2026-09-29T12:10:41.591696+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -939,6 +1241,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-09-28T12:58:30.878904+00:00"
+    "fetched_at": "2026-09-29T12:10:41.592986+00:00"
   }
 ]
