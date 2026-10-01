@@ -7,7 +7,7 @@
     "country": "_AU",
     "exclusion_reason": "goods_tender (matched: 'supply, delivery')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-09-30T11:57:58.505695+00:00"
+    "excluded_at": "2026-10-01T12:29:20.755447+00:00"
   },
   {
     "id": "b9c39c5c5245",
@@ -17,7 +17,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.505885+00:00"
+    "excluded_at": "2026-10-01T12:29:20.755636+00:00"
   },
   {
     "id": "9686ad47f30e",
@@ -27,7 +27,7 @@
     "country": "MK",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.505955+00:00"
+    "excluded_at": "2026-10-01T12:29:20.755706+00:00"
   },
   {
     "id": "642782fd4a21",
@@ -37,7 +37,7 @@
     "country": "MK",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.506011+00:00"
+    "excluded_at": "2026-10-01T12:29:20.755763+00:00"
   },
   {
     "id": "d6eb7fa1e1b1",
@@ -47,7 +47,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.506167+00:00"
+    "excluded_at": "2026-10-01T12:29:20.755935+00:00"
   },
   {
     "id": "4d9ddcf42626",
@@ -57,7 +57,7 @@
     "country": "FR",
     "exclusion_reason": "Hard sanctions (text match): Cuba",
     "exclusion_type": "sanctioned",
-    "excluded_at": "2026-09-30T11:57:58.506183+00:00"
+    "excluded_at": "2026-10-01T12:29:20.755956+00:00"
   },
   {
     "id": "fd48e4c5f9f2",
@@ -67,7 +67,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.506244+00:00"
+    "excluded_at": "2026-10-01T12:29:20.756016+00:00"
   },
   {
     "id": "4a6b0c119dd1",
@@ -77,7 +77,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.506359+00:00"
+    "excluded_at": "2026-10-01T12:29:20.756131+00:00"
   },
   {
     "id": "f16f22ee0d74",
@@ -87,17 +87,7 @@
     "country": "SE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.506400+00:00"
-  },
-  {
-    "id": "8b4e28663dda",
-    "source": "TED",
-    "title": "Belgium – Business development consultancy services – Provision of business coaching and consultancy services.",
-    "url": "https://ted.europa.eu/en/notice/534105-2026",
-    "country": "AN",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.506467+00:00"
+    "excluded_at": "2026-10-01T12:29:20.756173+00:00"
   },
   {
     "id": "c2d7141631c9",
@@ -107,7 +97,7 @@
     "country": "DE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.506670+00:00"
+    "excluded_at": "2026-10-01T12:29:20.756361+00:00"
   },
   {
     "id": "922a4613b8a0",
@@ -117,7 +107,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.506773+00:00"
+    "excluded_at": "2026-10-01T12:29:20.756463+00:00"
   },
   {
     "id": "c116687c1720",
@@ -127,7 +117,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.506846+00:00"
+    "excluded_at": "2026-10-01T12:29:20.756537+00:00"
   },
   {
     "id": "d250064099d6",
@@ -137,7 +127,7 @@
     "country": "HR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.506886+00:00"
+    "excluded_at": "2026-10-01T12:29:20.756578+00:00"
   },
   {
     "id": "8083de4a105c",
@@ -147,7 +137,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.506948+00:00"
+    "excluded_at": "2026-10-01T12:29:20.756639+00:00"
   },
   {
     "id": "efff3dc5c4b4",
@@ -157,7 +147,7 @@
     "country": "NO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.507042+00:00"
+    "excluded_at": "2026-10-01T12:29:20.756735+00:00"
   },
   {
     "id": "0c8b14271761",
@@ -167,7 +157,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.507088+00:00"
+    "excluded_at": "2026-10-01T12:29:20.756782+00:00"
   },
   {
     "id": "95cd09b2f9b6",
@@ -177,7 +167,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.507173+00:00"
+    "excluded_at": "2026-10-01T12:29:20.756868+00:00"
   },
   {
     "id": "eaeb1ba6179b",
@@ -187,7 +177,7 @@
     "country": "AT",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.507229+00:00"
+    "excluded_at": "2026-10-01T12:29:20.756937+00:00"
   },
   {
     "id": "423e5c508f8d",
@@ -197,7 +187,7 @@
     "country": "MT",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.507271+00:00"
+    "excluded_at": "2026-10-01T12:29:20.756980+00:00"
   },
   {
     "id": "d9dc9792e3b7",
@@ -207,7 +197,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.507438+00:00"
+    "excluded_at": "2026-10-01T12:29:20.757147+00:00"
   },
   {
     "id": "a1c0c9d318b4",
@@ -217,7 +207,7 @@
     "country": "DE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.507503+00:00"
+    "excluded_at": "2026-10-01T12:29:20.757211+00:00"
   },
   {
     "id": "c6712454a8cc",
@@ -227,7 +217,7 @@
     "country": "MT",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.507557+00:00"
+    "excluded_at": "2026-10-01T12:29:20.757263+00:00"
   },
   {
     "id": "9520af5ab3de",
@@ -237,7 +227,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.508414+00:00"
+    "excluded_at": "2026-10-01T12:29:20.758146+00:00"
   },
   {
     "id": "f190ef8a8d47",
@@ -247,7 +237,7 @@
     "country": "CZ",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.508492+00:00"
+    "excluded_at": "2026-10-01T12:29:20.758227+00:00"
   },
   {
     "id": "aa9b0ba51b93",
@@ -257,7 +247,7 @@
     "country": "HR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.508563+00:00"
+    "excluded_at": "2026-10-01T12:29:20.758301+00:00"
   },
   {
     "id": "3fba861e3327",
@@ -267,7 +257,7 @@
     "country": "FR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.508719+00:00"
+    "excluded_at": "2026-10-01T12:29:20.758435+00:00"
   },
   {
     "id": "9dbfec8945d8",
@@ -277,7 +267,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.508878+00:00"
+    "excluded_at": "2026-10-01T12:29:20.758581+00:00"
   },
   {
     "id": "eba30ec28a19",
@@ -287,7 +277,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.508979+00:00"
+    "excluded_at": "2026-10-01T12:29:20.758684+00:00"
   },
   {
     "id": "954eccdf4429",
@@ -297,17 +287,7 @@
     "country": "ES",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.509038+00:00"
-  },
-  {
-    "id": "c69a3e776c1e",
-    "source": "TED",
-    "title": "Italy – Research services – Evidence reviews for the European Commission Initiatives on cancer screening and care",
-    "url": "https://ted.europa.eu/en/notice/535174-2026",
-    "country": "AN",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.509149+00:00"
+    "excluded_at": "2026-10-01T12:29:20.758743+00:00"
   },
   {
     "id": "2ebc27563e69",
@@ -317,7 +297,7 @@
     "country": "HR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.509450+00:00"
+    "excluded_at": "2026-10-01T12:29:20.759062+00:00"
   },
   {
     "id": "7a56aba62609",
@@ -327,7 +307,7 @@
     "country": "AN",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.509503+00:00"
+    "excluded_at": "2026-10-01T12:29:20.759116+00:00"
   },
   {
     "id": "bd384819bf6e",
@@ -337,7 +317,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.509645+00:00"
+    "excluded_at": "2026-10-01T12:29:20.759239+00:00"
   },
   {
     "id": "2bed3c11d381",
@@ -347,7 +327,7 @@
     "country": "ES",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.509685+00:00"
+    "excluded_at": "2026-10-01T12:29:20.759277+00:00"
   },
   {
     "id": "dacc96eed9e5",
@@ -357,7 +337,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.509839+00:00"
+    "excluded_at": "2026-10-01T12:29:20.759430+00:00"
   },
   {
     "id": "b10b6cfea1ba",
@@ -367,7 +347,7 @@
     "country": "MK",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.509897+00:00"
+    "excluded_at": "2026-10-01T12:29:20.759487+00:00"
   },
   {
     "id": "7fc7cde95544",
@@ -377,7 +357,7 @@
     "country": "BG",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.509940+00:00"
+    "excluded_at": "2026-10-01T12:29:20.759529+00:00"
   },
   {
     "id": "2b4c414ef722",
@@ -387,7 +367,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.510055+00:00"
+    "excluded_at": "2026-10-01T12:29:20.759643+00:00"
   },
   {
     "id": "d8df62e9001f",
@@ -397,7 +377,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.510523+00:00"
+    "excluded_at": "2026-10-01T12:29:20.760128+00:00"
   },
   {
     "id": "34fa05eda6fd",
@@ -407,7 +387,7 @@
     "country": "BG",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.510703+00:00"
+    "excluded_at": "2026-10-01T12:29:20.760275+00:00"
   },
   {
     "id": "7aad48bb1b1c",
@@ -417,7 +397,7 @@
     "country": "ES",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.510763+00:00"
+    "excluded_at": "2026-10-01T12:29:20.760318+00:00"
   },
   {
     "id": "428804384663",
@@ -427,7 +407,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.510814+00:00"
+    "excluded_at": "2026-10-01T12:29:20.760368+00:00"
   },
   {
     "id": "f486be3fe7b6",
@@ -435,9 +415,9 @@
     "title": "Poland – Medicinal products for the blood and blood-forming organs – Koncentrat czynnika krzepnięcia XIII wraz z dostawą do Regionalnych Centrów Krwiodawstwa i Krwiolecznictwa; znak postępowania: ZZP.ZP.411.118.2026",
     "url": "https://ted.europa.eu/en/notice/535821-2026",
     "country": "PL",
-    "exclusion_reason": "expired (deadline was 2026-08-17, 44 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-08-17, 45 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-09-30T11:57:58.511057+00:00"
+    "excluded_at": "2026-10-01T12:29:20.760611+00:00"
   },
   {
     "id": "8fb6fb4f686e",
@@ -447,7 +427,7 @@
     "country": "FR",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.511122+00:00"
+    "excluded_at": "2026-10-01T12:29:20.760674+00:00"
   },
   {
     "id": "c7ac2a997fb5",
@@ -457,7 +437,7 @@
     "country": "DE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.511186+00:00"
+    "excluded_at": "2026-10-01T12:29:20.760738+00:00"
   },
   {
     "id": "f20589ba9919",
@@ -467,7 +447,7 @@
     "country": "SI",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.511236+00:00"
+    "excluded_at": "2026-10-01T12:29:20.760787+00:00"
   },
   {
     "id": "b507da3aee02",
@@ -477,7 +457,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.511309+00:00"
+    "excluded_at": "2026-10-01T12:29:20.760861+00:00"
   },
   {
     "id": "178b431c627a",
@@ -487,7 +467,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.511346+00:00"
+    "excluded_at": "2026-10-01T12:29:20.760898+00:00"
   },
   {
     "id": "e618d5a752e7",
@@ -497,7 +477,7 @@
     "country": "ES",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.511403+00:00"
+    "excluded_at": "2026-10-01T12:29:20.760970+00:00"
   },
   {
     "id": "a5a08252cfa7",
@@ -507,7 +487,7 @@
     "country": "BG",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.511473+00:00"
+    "excluded_at": "2026-10-01T12:29:20.761040+00:00"
   },
   {
     "id": "24b5928b93d2",
@@ -515,9 +495,9 @@
     "title": "Poland – Occupational clothing, special workwear and accessories – Dostawa ekwipunku dla ratowników GOPR przeznaczonego do użytkowania w trudnych całorocznych warunkach atmosferycznych",
     "url": "https://ted.europa.eu/en/notice/536318-2026",
     "country": "PL",
-    "exclusion_reason": "expired (deadline was 2026-08-12, 49 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-08-12, 50 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-09-30T11:57:58.511736+00:00"
+    "excluded_at": "2026-10-01T12:29:20.761288+00:00"
   },
   {
     "id": "94bda24f0f49",
@@ -527,7 +507,7 @@
     "country": "MK",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.511940+00:00"
+    "excluded_at": "2026-10-01T12:29:20.761488+00:00"
   },
   {
     "id": "4a4013881b78",
@@ -537,7 +517,7 @@
     "country": "DE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.512031+00:00"
+    "excluded_at": "2026-10-01T12:29:20.761580+00:00"
   },
   {
     "id": "08560a5ef79c",
@@ -547,7 +527,7 @@
     "country": "MDA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.512189+00:00"
+    "excluded_at": "2026-10-01T12:29:20.761737+00:00"
   },
   {
     "id": "673977c12a91",
@@ -557,7 +537,7 @@
     "country": "ES",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.512258+00:00"
+    "excluded_at": "2026-10-01T12:29:20.761808+00:00"
   },
   {
     "id": "ba9b3710c5ef",
@@ -567,7 +547,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.512305+00:00"
+    "excluded_at": "2026-10-01T12:29:20.761856+00:00"
   },
   {
     "id": "10ea35831bd7",
@@ -577,7 +557,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.512345+00:00"
+    "excluded_at": "2026-10-01T12:29:20.761898+00:00"
   },
   {
     "id": "c530c7379ed7",
@@ -587,7 +567,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.512390+00:00"
+    "excluded_at": "2026-10-01T12:29:20.761958+00:00"
   },
   {
     "id": "f95ad899e69b",
@@ -597,7 +577,7 @@
     "country": "BG",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.512445+00:00"
+    "excluded_at": "2026-10-01T12:29:20.762017+00:00"
   },
   {
     "id": "ccdd876d6f3f",
@@ -607,7 +587,7 @@
     "country": "HR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.512481+00:00"
+    "excluded_at": "2026-10-01T12:29:20.762053+00:00"
   },
   {
     "id": "b063b22bc3e5",
@@ -617,7 +597,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.512636+00:00"
+    "excluded_at": "2026-10-01T12:29:20.762196+00:00"
   },
   {
     "id": "89e4d60f4055",
@@ -627,7 +607,7 @@
     "country": "MDA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.512780+00:00"
+    "excluded_at": "2026-10-01T12:29:20.762340+00:00"
   },
   {
     "id": "f1512cdff304",
@@ -637,7 +617,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.512841+00:00"
+    "excluded_at": "2026-10-01T12:29:20.762403+00:00"
   },
   {
     "id": "8762f1ad97a6",
@@ -645,9 +625,9 @@
     "title": "Poland – Medicinal products for the blood and blood-forming organs – Desmopresyna dożylna wraz z dostawą do Regionalnych Centrów Krwiodawstwa i Krwiolecznictwa; znak postępowania: ZZP.ZP.411.120.2026",
     "url": "https://ted.europa.eu/en/notice/537184-2026",
     "country": "PL",
-    "exclusion_reason": "expired (deadline was 2026-08-17, 44 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-08-17, 45 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-09-30T11:57:58.513076+00:00"
+    "excluded_at": "2026-10-01T12:29:20.762638+00:00"
   },
   {
     "id": "38a45ce97f3f",
@@ -657,7 +637,7 @@
     "country": "PL",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.513299+00:00"
+    "excluded_at": "2026-10-01T12:29:20.762858+00:00"
   },
   {
     "id": "31815264032e",
@@ -667,7 +647,7 @@
     "country": "DE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.513486+00:00"
+    "excluded_at": "2026-10-01T12:29:20.763057+00:00"
   },
   {
     "id": "fa147d541744",
@@ -677,7 +657,7 @@
     "country": "AT",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.513579+00:00"
+    "excluded_at": "2026-10-01T12:29:20.763153+00:00"
   },
   {
     "id": "c966039e89a8",
@@ -687,7 +667,7 @@
     "country": "NL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.513647+00:00"
+    "excluded_at": "2026-10-01T12:29:20.763204+00:00"
   },
   {
     "id": "8ba3a34ee362",
@@ -697,7 +677,7 @@
     "country": "FI",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.513819+00:00"
+    "excluded_at": "2026-10-01T12:29:20.763375+00:00"
   },
   {
     "id": "da080de78c44",
@@ -707,7 +687,7 @@
     "country": "HR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.513863+00:00"
+    "excluded_at": "2026-10-01T12:29:20.763417+00:00"
   },
   {
     "id": "e6a4499a0431",
@@ -717,7 +697,7 @@
     "country": "ES",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.513939+00:00"
+    "excluded_at": "2026-10-01T12:29:20.763493+00:00"
   },
   {
     "id": "d1abe6e0e08c",
@@ -727,7 +707,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.514024+00:00"
+    "excluded_at": "2026-10-01T12:29:20.763576+00:00"
   },
   {
     "id": "cbc256953b46",
@@ -737,7 +717,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.514067+00:00"
+    "excluded_at": "2026-10-01T12:29:20.763620+00:00"
   },
   {
     "id": "9311bac8c15c",
@@ -747,7 +727,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.514109+00:00"
+    "excluded_at": "2026-10-01T12:29:20.763662+00:00"
   },
   {
     "id": "bc2eff63d660",
@@ -757,7 +737,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.514146+00:00"
+    "excluded_at": "2026-10-01T12:29:20.763698+00:00"
   },
   {
     "id": "00660c790941",
@@ -767,7 +747,7 @@
     "country": "ES",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.514212+00:00"
+    "excluded_at": "2026-10-01T12:29:20.763766+00:00"
   },
   {
     "id": "46f1cf37a472",
@@ -777,7 +757,7 @@
     "country": "SE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.514326+00:00"
+    "excluded_at": "2026-10-01T12:29:20.763878+00:00"
   },
   {
     "id": "2bcaa3486521",
@@ -787,7 +767,7 @@
     "country": "PL",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.514372+00:00"
+    "excluded_at": "2026-10-01T12:29:20.763937+00:00"
   },
   {
     "id": "b7d614736b48",
@@ -797,7 +777,7 @@
     "country": "BE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.514440+00:00"
+    "excluded_at": "2026-10-01T12:29:20.764008+00:00"
   },
   {
     "id": "3f0a6e6480e4",
@@ -807,7 +787,7 @@
     "country": "BE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.514618+00:00"
+    "excluded_at": "2026-10-01T12:29:20.764172+00:00"
   },
   {
     "id": "b4087e3ed8df",
@@ -817,7 +797,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.514665+00:00"
+    "excluded_at": "2026-10-01T12:29:20.764218+00:00"
   },
   {
     "id": "d36f68cb04c1",
@@ -827,7 +807,7 @@
     "country": "PL",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.514828+00:00"
+    "excluded_at": "2026-10-01T12:29:20.764386+00:00"
   },
   {
     "id": "d8711bff2b20",
@@ -837,7 +817,7 @@
     "country": "BG",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.514931+00:00"
+    "excluded_at": "2026-10-01T12:29:20.764491+00:00"
   },
   {
     "id": "9102a8004598",
@@ -847,7 +827,7 @@
     "country": "ES",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.514986+00:00"
+    "excluded_at": "2026-10-01T12:29:20.764544+00:00"
   },
   {
     "id": "715953315d9e",
@@ -857,7 +837,7 @@
     "country": "FR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.515030+00:00"
+    "excluded_at": "2026-10-01T12:29:20.764588+00:00"
   },
   {
     "id": "3c0f6b15fdec",
@@ -867,7 +847,7 @@
     "country": "DE",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.515288+00:00"
+    "excluded_at": "2026-10-01T12:29:20.764846+00:00"
   },
   {
     "id": "3a7ce52d3ec6",
@@ -877,7 +857,7 @@
     "country": "BG",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.515325+00:00"
+    "excluded_at": "2026-10-01T12:29:20.764885+00:00"
   },
   {
     "id": "8ede30503166",
@@ -887,7 +867,7 @@
     "country": "CZ",
     "exclusion_reason": "no_service_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.515390+00:00"
+    "excluded_at": "2026-10-01T12:29:20.764966+00:00"
   },
   {
     "id": "330b425cf7dc",
@@ -897,7 +877,7 @@
     "country": "ES",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.515439+00:00"
+    "excluded_at": "2026-10-01T12:29:20.765017+00:00"
   },
   {
     "id": "40de9c380e47",
@@ -905,9 +885,9 @@
     "title": "Croatia – Business and management consultancy services – Analiza podataka i podrška u provedbi projekta Jačanje povezanosti obrazovanja i tržišta rada",
     "url": "https://ted.europa.eu/en/notice/538499-2026",
     "country": "HR",
-    "exclusion_reason": "expired (deadline was 2026-08-10, 51 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-08-10, 52 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-09-30T11:57:58.515571+00:00"
+    "excluded_at": "2026-10-01T12:29:20.765151+00:00"
   },
   {
     "id": "27b92ebdb839",
@@ -917,7 +897,7 @@
     "country": "SE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.515658+00:00"
+    "excluded_at": "2026-10-01T12:29:20.765224+00:00"
   },
   {
     "id": "91aa424bde86",
@@ -927,17 +907,7 @@
     "country": "AN",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.515777+00:00"
-  },
-  {
-    "id": "b0bcf424082d",
-    "source": "TED",
-    "title": "Italy – Medical equipments, pharmaceuticals and personal care products – Fornitura di n°01 sistema S.G.R.T. per il monitoraggio e posizionamento dei pazienti durante i trattamenti radioterapici occorrenti alle attività’ diagnostiche della radioterapia",
-    "url": "https://ted.europa.eu/en/notice/538574-2026",
-    "country": "IT",
-    "exclusion_reason": "no_service_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.515875+00:00"
+    "excluded_at": "2026-10-01T12:29:20.765341+00:00"
   },
   {
     "id": "4b052c524619",
@@ -947,7 +917,7 @@
     "country": "DE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.516049+00:00"
+    "excluded_at": "2026-10-01T12:29:20.765514+00:00"
   },
   {
     "id": "affa630c72c7",
@@ -955,9 +925,9 @@
     "title": "Estonia – Medical equipments – EKG seadmed koos kaubaga",
     "url": "https://ted.europa.eu/en/notice/538850-2026",
     "country": "EE",
-    "exclusion_reason": "expired (deadline was 2026-09-07, 23 days ago)",
+    "exclusion_reason": "expired (deadline was 2026-09-07, 24 days ago)",
     "exclusion_type": "expired",
-    "excluded_at": "2026-09-30T11:57:58.516138+00:00"
+    "excluded_at": "2026-10-01T12:29:20.765603+00:00"
   },
   {
     "id": "4e2b6a9fd65c",
@@ -967,7 +937,7 @@
     "country": "DK",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.516203+00:00"
+    "excluded_at": "2026-10-01T12:29:20.765667+00:00"
   },
   {
     "id": "65c1a48bebce",
@@ -977,7 +947,7 @@
     "country": "CZ",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.516258+00:00"
+    "excluded_at": "2026-10-01T12:29:20.765723+00:00"
   },
   {
     "id": "a4acba8f17cd",
@@ -987,7 +957,37 @@
     "country": "MT",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.516310+00:00"
+    "excluded_at": "2026-10-01T12:29:20.765776+00:00"
+  },
+  {
+    "id": "ea709fa08ad2",
+    "source": "TED",
+    "title": "Netherlands – Sanitary ware – Sanitaire voorzieningen gemeente Hoeksche Waard",
+    "url": "https://ted.europa.eu/en/notice/538998-2026",
+    "country": "NL",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.765835+00:00"
+  },
+  {
+    "id": "2fee0f9201e6",
+    "source": "TED",
+    "title": "Finland – Dental practice and related services – Suun terveydenhuollon virka-ajan ulkopuolinen päivystyspalvelu",
+    "url": "https://ted.europa.eu/en/notice/539046-2026",
+    "country": "FI",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.765946+00:00"
+  },
+  {
+    "id": "75094f468ea6",
+    "source": "TED",
+    "title": "Poland – Pharmaceutical products – Dostawa produktów leczniczych w 22 Pakietach dla potrzeb Apteki Szpitalnej Wojewódzkiego Szpitala Zespolonego w Elblągu",
+    "url": "https://ted.europa.eu/en/notice/539064-2026",
+    "country": "PL",
+    "exclusion_reason": "no_service_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.766017+00:00"
   },
   {
     "id": "bca2d46ffcd7",
@@ -997,7 +997,307 @@
     "country": "_GLOBAL",
     "exclusion_reason": "bmgf_no_vaccine_in_head",
     "exclusion_type": "bmgf_strict",
-    "excluded_at": "2026-09-30T11:57:58.516853+00:00"
+    "excluded_at": "2026-10-01T12:29:20.766556+00:00"
+  },
+  {
+    "id": "47c95117c29d",
+    "source": "World Bank",
+    "title": "Recrutement d'un consultant (firme) en charge de réaliser les études techniques (APS/APD/DAO) et d’assurer le contrôle et la surveillance des travaux de réhabilitation et aménagement des voiries et collecteurs dans la ville de Kalemie.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471254",
+    "country": "CO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.766618+00:00"
+  },
+  {
+    "id": "ba8f9dee9b79",
+    "source": "World Bank",
+    "title": "MSR (Surgical Goods)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472146",
+    "country": "BA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.766733+00:00"
+  },
+  {
+    "id": "344aba030927",
+    "source": "World Bank",
+    "title": "Recruitment of Gender-Based Violence (GBV) / Sexual Exploitation and Abuse / Sexual Harassment (SEA/SH) Specialist",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472170",
+    "country": "MA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.766768+00:00"
+  },
+  {
+    "id": "4df34128c418",
+    "source": "World Bank",
+    "title": "Kits Hygiene Menstrual & and Service for 2027-2028",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471998",
+    "country": "SO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.766799+00:00"
+  },
+  {
+    "id": "e4b867d5d6b5",
+    "source": "World Bank",
+    "title": "Contratação de empresa de consultoria para desenvolvimento do projeto executivo da sede da APAC.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472137",
+    "country": "BR",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.766843+00:00"
+  },
+  {
+    "id": "836485ff89b2",
+    "source": "World Bank",
+    "title": "Installation of MCS prefabricated building in Kiritimati Island",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472032",
+    "country": "KI",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.766875+00:00"
+  },
+  {
+    "id": "d47b77b5480d",
+    "source": "World Bank",
+    "title": "Construction of TNCW Office (One-storey)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472039",
+    "country": "TU",
+    "exclusion_reason": "goods_tender (matched: 'construction of')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-10-01T12:29:20.766897+00:00"
+  },
+  {
+    "id": "7a9bc03024c8",
+    "source": "World Bank",
+    "title": "ENGAGE A COMMUNICATION SPECIALIST",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468672",
+    "country": "ZA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.766944+00:00"
+  },
+  {
+    "id": "7119b373ac44",
+    "source": "World Bank",
+    "title": "Recrutement d'un cabinet d'audit externe du FIGA SM et du FGPP",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470252",
+    "country": "BU",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.766977+00:00"
+  },
+  {
+    "id": "556005fb7c3e",
+    "source": "World Bank",
+    "title": "Procurement of 5.000 3D Printers",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471936",
+    "country": "TU",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767014+00:00"
+  },
+  {
+    "id": "7420b2f9114b",
+    "source": "World Bank",
+    "title": "Pedagogical and Methodological Support and Implementation of the National Assessments and Trainings",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472144",
+    "country": "SE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767050+00:00"
+  },
+  {
+    "id": "2e487aeb58c6",
+    "source": "World Bank",
+    "title": "Études sur les modalités de soutien au secteur privé et PPP",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472186",
+    "country": "CO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767091+00:00"
+  },
+  {
+    "id": "a938665f2f69",
+    "source": "World Bank",
+    "title": "Recrutement d’un consultant (firme) pour la réalisation de l’étude sur la vulnérabilité climatique et l’adaptation du Projet.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472213",
+    "country": "CO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767143+00:00"
+  },
+  {
+    "id": "f841015ee048",
+    "source": "World Bank",
+    "title": "Landing Site – Kosrae - Infrastructure Improvements",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472275",
+    "country": "MI",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767189+00:00"
+  },
+  {
+    "id": "be8e5a833764",
+    "source": "World Bank",
+    "title": "Social Specialist",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471863",
+    "country": "MO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767218+00:00"
+  },
+  {
+    "id": "4eca93920ffa",
+    "source": "World Bank",
+    "title": "Reconstruction of MoLNR HQ",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472031",
+    "country": "VA",
+    "exclusion_reason": "goods_tender (matched: 'construction of')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-10-01T12:29:20.767239+00:00"
+  },
+  {
+    "id": "46bacf58d5cc",
+    "source": "World Bank",
+    "title": "Consultant for Feasibility Study and Advise on Financial and Operational Reform of VCOMS",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472082",
+    "country": "LA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767275+00:00"
+  },
+  {
+    "id": "084d48c92381",
+    "source": "World Bank",
+    "title": "Études de référence pour la collecte des données de base pour les indicateurs clés du projet",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472096",
+    "country": "CO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767318+00:00"
+  },
+  {
+    "id": "4d87890a6346",
+    "source": "World Bank",
+    "title": "Equipements pour salle polyvalente au Lycée communal CUMBA/Muyinga et pour la salle polyvalente pour les jeunes au chef-lieu de la commune Gashoho et pour la salle polyvalente de la commune Butihinda",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472218",
+    "country": "BU",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767366+00:00"
+  },
+  {
+    "id": "ec2bbee70e26",
+    "source": "World Bank",
+    "title": "Divers travaux de réhabilitation des blocs administratifs, entrepôts et construction d'un bloc sanitaires pour le Centre de PME SILIKAN à Kananga dans le Kasai-Central",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472182",
+    "country": "CO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767417+00:00"
+  },
+  {
+    "id": "9aa8209230ae",
+    "source": "World Bank",
+    "title": "Sélection d'un éditeur (CI) pour la conception éditoriale et la pré-presse des manuels, des cahiers d'exercices et guides pour l'enseignement du Français et des Mathématiques au cours moyen première année (CM1) et au cours moyen deuxième année (CM2)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00455533",
+    "country": "CO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767472+00:00"
+  },
+  {
+    "id": "24ce1031b64d",
+    "source": "World Bank",
+    "title": "Accessories of requested equipment for completing real-time air quality sensor of monitoring network",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472114",
+    "country": "SR",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767507+00:00"
+  },
+  {
+    "id": "dbbd2b8e91ae",
+    "source": "World Bank",
+    "title": "Acquisition, transport au lieu d'utilisation de kits  panneau solaire avec batterie  pour accompagner les agents bancaires des IMF et COOPEC  dans des localités où l'accès à l'électricité est limité ou inexistant",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472173",
+    "country": "CO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767562+00:00"
+  },
+  {
+    "id": "6f75cbff2c87",
+    "source": "World Bank",
+    "title": "CONSULTANCY FOR THE IMPLEMENTATION OF COMMUNICATION MEDIA AND BRAND STRATEGY FOR TSC",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472065",
+    "country": "KE",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767597+00:00"
+  },
+  {
+    "id": "f344ef12801a",
+    "source": "World Bank",
+    "title": "Construction of NORMA Satellite Office in Kosrae State",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472279",
+    "country": "MI",
+    "exclusion_reason": "goods_tender (matched: 'construction of')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-10-01T12:29:20.767622+00:00"
+  },
+  {
+    "id": "054548d46aa6",
+    "source": "World Bank",
+    "title": "Construction of viaduct and elevated station building (Pkg-2) (for 13.3 kms out of total 28.5 kms)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471901",
+    "country": "IN",
+    "exclusion_reason": "goods_tender (matched: 'construction of')",
+    "exclusion_type": "goods",
+    "excluded_at": "2026-10-01T12:29:20.767646+00:00"
+  },
+  {
+    "id": "9f1b3fa0099f",
+    "source": "World Bank",
+    "title": "Consultoría para aplicar control de calidad de vuelos fotogramétricos, MDS y MDT y ortoimágenes",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471995",
+    "country": "DO",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767688+00:00"
+  },
+  {
+    "id": "f38eed848add",
+    "source": "World Bank",
+    "title": "PROYECTO EJECUTIVO DE UNIDADES HABITACIONALES FASE 1 Y CONSTRUCCIÓN DE LA INFRAESTRUCTURA Y UNIDADES HABITACIONALES DE LA FASE 1 DEL DISTRITO ECO-INCLUSIVO – DEI",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472246",
+    "country": "PA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767738+00:00"
+  },
+  {
+    "id": "a4abfe173c21",
+    "source": "World Bank",
+    "title": "Development of a systematic customary land rights registration pilot",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469150",
+    "country": "GA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767772+00:00"
+  },
+  {
+    "id": "2a245fe6e741",
+    "source": "World Bank",
+    "title": "Fund Manager for Ngwee Ngwee Ngwee Fund",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471655",
+    "country": "MA",
+    "exclusion_reason": "no_domain_match",
+    "exclusion_type": "gate",
+    "excluded_at": "2026-10-01T12:29:20.767803+00:00"
   },
   {
     "id": "52d9ad5f1f12",
@@ -1007,7 +1307,7 @@
     "country": "EA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.516892+00:00"
+    "excluded_at": "2026-10-01T12:29:20.767902+00:00"
   },
   {
     "id": "d1c24bf6cad4",
@@ -1017,7 +1317,7 @@
     "country": "UK",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.516941+00:00"
+    "excluded_at": "2026-10-01T12:29:20.767977+00:00"
   },
   {
     "id": "538b185dcc0b",
@@ -1027,7 +1327,7 @@
     "country": "SR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.516975+00:00"
+    "excluded_at": "2026-10-01T12:29:20.768011+00:00"
   },
   {
     "id": "decf6e305b32",
@@ -1037,7 +1337,7 @@
     "country": "MO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517005+00:00"
+    "excluded_at": "2026-10-01T12:29:20.768040+00:00"
   },
   {
     "id": "0613cdae7699",
@@ -1047,7 +1347,7 @@
     "country": "MO",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517034+00:00"
+    "excluded_at": "2026-10-01T12:29:20.768071+00:00"
   },
   {
     "id": "b98fb486c9c4",
@@ -1057,17 +1357,7 @@
     "country": "BR",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517082+00:00"
-  },
-  {
-    "id": "42c093b07180",
-    "source": "World Bank",
-    "title": "Travaux de construction de tronçons manquants pour la dissémination des capacités fournies par le nouveau câble sous-marin et interconnexion, via le réseau backbone, avec le câble sous-marin existant er avec les pays de la région",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00457507",
-    "country": "WE",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517141+00:00"
+    "excluded_at": "2026-10-01T12:29:20.768118+00:00"
   },
   {
     "id": "fca8403bac2f",
@@ -1077,7 +1367,7 @@
     "country": "KE",
     "exclusion_reason": "goods_tender (matched: 'refurbishment of')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-09-30T11:57:58.517168+00:00"
+    "excluded_at": "2026-10-01T12:29:20.768145+00:00"
   },
   {
     "id": "6db3c450d6df",
@@ -1087,7 +1377,7 @@
     "country": "CA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517200+00:00"
+    "excluded_at": "2026-10-01T12:29:20.768177+00:00"
   },
   {
     "id": "531f41c180e6",
@@ -1097,347 +1387,17 @@
     "country": "MO",
     "exclusion_reason": "goods_tender (matched: 'rehabilitation of')",
     "exclusion_type": "goods",
-    "excluded_at": "2026-09-30T11:57:58.517222+00:00"
+    "excluded_at": "2026-10-01T12:29:20.768199+00:00"
   },
   {
-    "id": "36993251a8cc",
+    "id": "42c093b07180",
     "source": "World Bank",
-    "title": "3.2.09 Human Resources for Health (HRH) Officer",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472020",
-    "country": "PA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517253+00:00"
-  },
-  {
-    "id": "57feddbb279c",
-    "source": "World Bank",
-    "title": "Establishment of feed mill and Complete hatchery  in Akure",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471165",
-    "country": "NI",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517283+00:00"
-  },
-  {
-    "id": "7bab2c585709",
-    "source": "World Bank",
-    "title": "Lenders Technical Advisor of the ROGUN HPP (LTA)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00467875",
-    "country": "TA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517314+00:00"
-  },
-  {
-    "id": "754e2aa6e5a1",
-    "source": "World Bank",
-    "title": "Fourniture d'accessoires pour 50 900 branchements électriques",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469218",
-    "country": "MA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517351+00:00"
-  },
-  {
-    "id": "c4c65ae22192",
-    "source": "World Bank",
-    "title": "Consultancy Services to Support, Enhance, and Implement the Local Government Revenue Collection System (MUTM)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471767",
-    "country": "TA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517387+00:00"
-  },
-  {
-    "id": "0509598c2909",
-    "source": "World Bank",
-    "title": "Consultancy Services for the Establishment of Policy Framework for Zanzibar’s National Spatial Data Infrastructure (ZanSDI)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471770",
-    "country": "TA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517437+00:00"
-  },
-  {
-    "id": "b732fcbba346",
-    "source": "World Bank",
-    "title": "Contratação de treinamento para a equipe de carbono do BB para desenvolver as habilidades e conhecimento para realização do processo de due dilligence de projetos geradores de carbono, em especial, de soluções baseadas na natureza.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471976",
-    "country": "BR",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517493+00:00"
-  },
-  {
-    "id": "3bd8ad5b796d",
-    "source": "World Bank",
-    "title": "Rehabilitation of Shelters (Public Schools)\nBatch 2: Lot 1, Lot 2 and Lot 3",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471990",
-    "country": "LE",
-    "exclusion_reason": "goods_tender (matched: 'rehabilitation of')",
-    "exclusion_type": "goods",
-    "excluded_at": "2026-09-30T11:57:58.517515+00:00"
-  },
-  {
-    "id": "cf165796c2eb",
-    "source": "World Bank",
-    "title": "Procurement of Defibrillator (DC Shock) 4 Lots : Lot 1 - 2524 units, Lot 2 - 2051 units, Lot 3 - 2341 units, Lot 4 - 2254 units",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471622",
-    "country": "IN",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517549+00:00"
-  },
-  {
-    "id": "fd1e9b6846ad",
-    "source": "World Bank",
-    "title": "Review and update of existing ICT based monitoring and billing software, O&M and related ICT equipment",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470922",
-    "country": "BA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517581+00:00"
-  },
-  {
-    "id": "1475343411fe",
-    "source": "World Bank",
-    "title": "Acquisition des équipements pour le backbone national",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00457509",
+    "title": "Travaux de construction de tronçons manquants pour la dissémination des capacités fournies par le nouveau câble sous-marin et interconnexion, via le réseau backbone, avec le câble sous-marin existant er avec les pays de la région",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00457507",
     "country": "WE",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517636+00:00"
-  },
-  {
-    "id": "e385d9bfcf80",
-    "source": "World Bank",
-    "title": "Works of rehabilitation of the quay and surrounding adjacent areas, including upgrades and support works for Tarrafal Beach",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00464713",
-    "country": "CA",
-    "exclusion_reason": "goods_tender (matched: 'rehabilitation of')",
-    "exclusion_type": "goods",
-    "excluded_at": "2026-09-30T11:57:58.517664+00:00"
-  },
-  {
-    "id": "3bc2e234984d",
-    "source": "World Bank",
-    "title": "Physical and Learning Spaces Coordinator",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471908",
-    "country": "UK",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517697+00:00"
-  },
-  {
-    "id": "9a2bd79d0a58",
-    "source": "World Bank",
-    "title": "Acquisition de matériels informatiques (Ordinateurs, imprimantes, etc.)  pour les sectoriels et la salle des données.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471910",
-    "country": "WE",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517748+00:00"
-  },
-  {
-    "id": "c423d2a9e70b",
-    "source": "World Bank",
-    "title": "Assistant régional en Agriculture, élevage et pêche Région Anosy",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471935",
-    "country": "MA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517789+00:00"
-  },
-  {
-    "id": "ba1bea4ed6a0",
-    "source": "World Bank",
-    "title": "Selection of consulting firm for capacity strengthening of DSS social workers (Social worker accreditation) on Elderly Care & support and Special need and disability management in Chattogram Division.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00467773",
-    "country": "BA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517833+00:00"
-  },
-  {
-    "id": "1ca31a06c5f0",
-    "source": "World Bank",
-    "title": "Réhabilitation, amelioration et maintenance sur 10 ans des Routes Nationales : \r\n- Lot 1: RN5 & RN19 (21 km)\r\n- Lot 2 : RN1 PK37 - PK67 (32 km)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469764",
-    "country": "DJ",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517877+00:00"
-  },
-  {
-    "id": "66ac95612bff",
-    "source": "World Bank",
-    "title": "Recrutement d un consultant firme charge de la cartographie des chaines de valeur agricoles et halieutiques à  forte croissance et capacité d exportations y compris les acteurs tel que les associations SME  transporteurs petits commerçants et producteurs",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470966",
-    "country": "CH",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517931+00:00"
-  },
-  {
-    "id": "f74a12d56ab7",
-    "source": "World Bank",
-    "title": "Contratação consultoria especializada para a realização de estudos, proposição normativa, modelagem operacional e de governança, concepção funcional, desenvolvimento e apoio à implementação de solução de e‑marketplace integrado ao ecossistema de compras.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471992",
-    "country": "BR",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.517992+00:00"
-  },
-  {
-    "id": "d824dbcb649e",
-    "source": "World Bank",
-    "title": "3.1.02 Senior IT Consultant",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472018",
-    "country": "PA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518023+00:00"
-  },
-  {
-    "id": "c7148b789a6c",
-    "source": "World Bank",
-    "title": "Servicios de perforación y de suministros de materiales, accesorios, tuberias y servicios complementarios para la perforación de hasta 8 pozos geotérmicos en el campo geotérmico Chinameca",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471735",
-    "country": "EL",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518072+00:00"
-  },
-  {
-    "id": "421ce6d47b23",
-    "source": "World Bank",
-    "title": "Procurement of Advertising Agency (Traditional Media)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471793",
-    "country": "PA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518106+00:00"
-  },
-  {
-    "id": "6cbd1e34e4fa",
-    "source": "World Bank",
-    "title": "Recrutement d'un Spécialiste en Passation de Marchés",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00463664",
-    "country": "SO",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518144+00:00"
-  },
-  {
-    "id": "bab7086d1bc3",
-    "source": "World Bank",
-    "title": "Travaux de modernisation du périmètre irrigué d’Antsakoamileka, CR Antsakoamileka, District de Soalala, Région Boeny, de 740 ha, en 2 lots :\nLot 1 : Travaux sur l’ouvrage de captage du PI.\nLot 2 : Travaux sur le réseau d’irrigation du PI.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471786",
-    "country": "EA",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518203+00:00"
-  },
-  {
-    "id": "40e85c625fbc",
-    "source": "World Bank",
-    "title": "Procurement of Non Contact Tonometer  3 Lots : Lot 1 -   2,962 units, Lot 2 -  3,148 units, Lot 3 -  2,675 units",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471566",
-    "country": "IN",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518236+00:00"
-  },
-  {
-    "id": "3bc6c8accfbd",
-    "source": "World Bank",
-    "title": "Diseño y Rehabilitación de la Planta de Tratamiento de Nacaome, PTAP Nacaome.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461433",
-    "country": "HO",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518272+00:00"
-  },
-  {
-    "id": "367e6c7d8ad8",
-    "source": "World Bank",
-    "title": "Hiring of Consultancy Firm to conduct Data Collection and Verification",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469982",
-    "country": "PH",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518308+00:00"
-  },
-  {
-    "id": "9f409af02d43",
-    "source": "World Bank",
-    "title": "Acquisition de soixante (60) ordinateurs de hautes performances pour le traitement des données pour l'institut national de la statistiques",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471562",
-    "country": "WE",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518356+00:00"
-  },
-  {
-    "id": "9579cf8da107",
-    "source": "World Bank",
-    "title": "Acquisition des équipements de 3 amphithéâtres  et 2 salles informatiques.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471668",
-    "country": "WE",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518514+00:00"
-  },
-  {
-    "id": "62260f1b8d6d",
-    "source": "World Bank",
-    "title": "Procurement of ICT Equipment's, by EAES",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471589",
-    "country": "ET",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518545+00:00"
-  },
-  {
-    "id": "7883f7f4e793",
-    "source": "World Bank",
-    "title": "Recrutement d'un consultant individuel en comptabilité national",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471671",
-    "country": "WE",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518591+00:00"
-  },
-  {
-    "id": "0dedae82bedc",
-    "source": "World Bank",
-    "title": "Supply,Installation and Commissioning of Solar and Physical Security Systems in the Telecemter Site",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471033",
-    "country": "UG",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518639+00:00"
-  },
-  {
-    "id": "fd950105c466",
-    "source": "World Bank",
-    "title": "Elaboration de la situation de référence pour l'indicateur lié à l'accès à l'eau potable dans les sites de PASEA",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471628",
-    "country": "CO",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518686+00:00"
-  },
-  {
-    "id": "c72773977e5d",
-    "source": "World Bank",
-    "title": "Expert Environnement au profit du Panel d'Expert-Aspects Environnements et Sociaux",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471701",
-    "country": "BE",
-    "exclusion_reason": "no_domain_match",
-    "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.518720+00:00"
+    "excluded_at": "2026-10-01T12:29:20.768256+00:00"
   },
   {
     "id": "a3d431f0d336",
@@ -1447,17 +1407,17 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.521844+00:00"
+    "excluded_at": "2026-10-01T12:29:20.771306+00:00"
   },
   {
-    "id": "30aae794e0fc",
+    "id": "f82a4b162ed2",
     "source": "Signal:Aspen Pharmacare",
-    "title": "Aspen Pharmacare Stock Stands Out As South Africa Tariff Exemptions Reshape Trade Picks - simplywall.st",
+    "title": "Aspen Pharmacare Stock Stands Out As South Africa Tariff Exemptions Reshape Trade Picks - Simply Wall Street",
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVE1TcV9oMXpJODhoYmctcE9SMFlPQm9ETjBuYTdadTFmaE10R2RRNktmRExEN1lWT3JabGpWaVdMTXNheExKa1VGMXJKTE5DYnVqVDM0OUw0MnlHMWlCekxsU2J1X1hTdmUzNVBoemRXaU1UX2V2OUxqMWZWLUp2aXNuRHI0NHl6YzdYWXJuU2dqX2hPcmd1dHlDcWVCcjE1VFNMNTdueFpMQ1hFOWR0aXNNbUlTTzYzZVQxRUdnbXAtRGVNSnZ1RS1oQ2dBUTY1UmoxV0UwWW9kUFktdk5NYVdBaXJ5dElEUmRsQWl1NFUtWGV10gH6AUFVX3lxTFAydzJiQmJuN1pIR2xlQ1BZM2ZsWi1PbWZFMWdoOEJaU2ZqU0dEMDlDbEZYZV8yQUt2cDVWRm81WDhXUWtocDZnSXJSZXc2MzhBMVBrV3lhN3owR2FHXy1ibFZEYUVFVEYxVl9vREtGam9ZRkpYdl9mOU5lUTk4bjQ0TnJHZXRIYVlIUlR3WTltekpuTGZGTWF4RUgySzBpZVAxbzZnejhNRE51VDl6a04ybExocWNHOHY3Z2M5eEZYeVRWR3VmalEzaHN2NWtkS1F4UnItZmVGUXZpcFIweTctV3lmd0ZsRnJ4eGdDNDdReElhdFd4cm85cWc?oc=5",
     "country": "ZA",
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.522856+00:00"
+    "excluded_at": "2026-10-01T12:29:20.772343+00:00"
   },
   {
     "id": "2dc0a06f6154",
@@ -1467,7 +1427,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.523134+00:00"
+    "excluded_at": "2026-10-01T12:29:20.772614+00:00"
   },
   {
     "id": "34658d35a8f7",
@@ -1477,7 +1437,7 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.523538+00:00"
+    "excluded_at": "2026-10-01T12:29:20.773027+00:00"
   },
   {
     "id": "4e46e9e1f219",
@@ -1487,6 +1447,6 @@
     "country": null,
     "exclusion_reason": "no_domain_match",
     "exclusion_type": "gate",
-    "excluded_at": "2026-09-30T11:57:58.524344+00:00"
+    "excluded_at": "2026-10-01T12:29:20.773812+00:00"
   }
 ]
