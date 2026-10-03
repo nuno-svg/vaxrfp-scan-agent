@@ -35,43 +35,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-02T11:55:53.174418+00:00"
-  },
-  {
-    "id": "61767fdd7e7b",
-    "source": "TED",
-    "title": "Germany – Pharmaceutical products – Abschluss nicht-exklusiver Rabattvereinbarung nach § 130a Abs. 8 SGB V zu biosimilaren Wirkstoffen",
-    "url": "https://ted.europa.eu/en/notice/535232-2026",
-    "country": "DE",
-    "deadline": "2027-08-10",
-    "deadline_days": 312,
-    "value_usd": null,
-    "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nichtexklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.10.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter https://vergabeportal.gwq-serviceplus.de/arzneimittel einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.09.2026 kann eine erstmalige Meldung zum 01.10.2026 realisiert werden. Folgende Unterlagen sind einzureichen: unterzeichneter Vertrag in doppelter Ausfertigung oder mit qualifizierter elektrinischer Signatur (QES); einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug aus dem öffentlichen Teil der AMIceDatenbank; Liste der vertragsgegenständlichen PZN (Anlage 5), unterzeichnete Eigenerklärung (Anlage 6), Eigenerklärung zur EU-Verordnung (Anlage 7)",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 4
-    },
-    "fit_total": 4,
-    "fit_top_area": "mel",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "535232-2026"
-    },
-    "fetched_at": "2026-10-02T11:55:53.160631+00:00"
+    "fetched_at": "2026-10-03T11:08:51.123271+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -109,18 +73,18 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-02T11:55:53.168706+00:00"
+    "fetched_at": "2026-10-03T11:08:51.116329+00:00"
   },
   {
-    "id": "724e1ff989f3",
+    "id": "15b157cf1c62",
     "source": "Signal:Biovac",
-    "title": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing - iol.co.za",
+    "title": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing - IOL",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLUJkOFlza1ZvU2tLUG1hdUR4MW9Xb2FZWjJzZ0ZCMGRsMzROVmlkS0ZYRFdnU1Z4bmRwQ1FyS3Vsb1VRZVVJM1FrcnlWTmNhU0Z1a2JKUWlfTFNkbVBkcEV6M1R4VVZwejZRSUExSFpRd1phV2dCaXhJRFNLVUxxMUZjLUVXMnRIVnF2T3NxeFFnNTFqZXVBbFJLRkI1YjRPZ3FYWGdodjd0amxoQ3EyVEQ0NTJiX29jZ29qVXU2YXF5V0hOQS1odDdBVXpDQQ?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing &nbsp;&nbsp; iol.co.za",
+    "description": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing &nbsp;&nbsp; IOL",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 4,
@@ -147,7 +111,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-02T11:55:53.170047+00:00"
+    "fetched_at": "2026-10-03T11:08:51.118021+00:00"
   },
   {
     "id": "37737e671331",
@@ -185,7 +149,7 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-02T11:55:53.170360+00:00"
+    "fetched_at": "2026-10-03T11:08:51.118428+00:00"
   },
   {
     "id": "7957d095f782",
@@ -223,7 +187,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-02T11:55:53.174074+00:00"
+    "fetched_at": "2026-10-03T11:08:51.122837+00:00"
   },
   {
     "id": "122cd2c07dfd",
@@ -261,7 +225,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-02T11:55:53.174744+00:00"
+    "fetched_at": "2026-10-03T11:08:51.123686+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -270,7 +234,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 18,
+    "deadline_days": 17,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -295,83 +259,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-02T11:55:53.156962+00:00"
-  },
-  {
-    "id": "fdf1be4bb9eb",
-    "source": "World Bank",
-    "title": "Consultancy Services for the Preparation of Detailed Design and Environmental and Social (E&S) Assessments for a New MoPWRH Headquarters Building in Mogadishu",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471981",
-    "country": "SO",
-    "deadline": "2026-10-17",
-    "deadline_days": 15,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Somalia Infrastructure Development for Access and Jobs, Phase 1. Country: Somalia, Federal Republic of. Reference: SO-MPWRH-568985-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P513127",
-      "wb_reference": "SO-MPWRH-568985-CS-CQS"
-    },
-    "fetched_at": "2026-10-02T11:55:53.168523+00:00"
-  },
-  {
-    "id": "d55ce59b4d3d",
-    "source": "World Bank",
-    "title": "Recrutement d'un consultant pour la mission d'audit externe au sein de l’Agence pour le Développement et la Promotion du Projet Grand Inga (ADPI) dans le cadre du Programme de Développement Inga 3 (PDI3)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472292",
-    "country": "CO",
-    "deadline": "2026-10-21",
-    "deadline_days": 19,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Inga 3  Development Program. Country: Congo, Democratic Republic of. Reference: ZR-ADEPI-541002-CS-QCBS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P506438",
-      "wb_reference": "ZR-ADEPI-541002-CS-QCBS"
-    },
-    "fetched_at": "2026-10-02T11:55:53.167471+00:00"
+    "fetched_at": "2026-10-03T11:08:51.105318+00:00"
   },
   {
     "id": "9d30a016a466",
@@ -380,7 +268,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
     "country": null,
     "deadline": "2026-10-13",
-    "deadline_days": 11,
+    "deadline_days": 10,
     "value_usd": null,
     "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
     "fit_per_area": {
@@ -405,7 +293,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-02T11:55:53.157395+00:00"
+    "fetched_at": "2026-10-03T11:08:51.105898+00:00"
   },
   {
     "id": "c2354d5646f6",
@@ -443,18 +331,18 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-02T11:55:53.168871+00:00"
+    "fetched_at": "2026-10-03T11:08:51.116542+00:00"
   },
   {
-    "id": "b2ba3fa9d482",
+    "id": "3f26b46aa0be",
     "source": "Signal:Biovac",
-    "title": "AfDB extends up to USD 15 million loan to Biovac for cholera vaccine plant in Cape Town - Capmad",
+    "title": "AfDB extends up to USD 15 million loan to Biovac for cholera vaccine plant in Cape Town - capmad.com",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0JHSDNFWjBtUzZPV1pHclhVb1NVSmVLeUlYN0lVVHlkcVpBSzNibndRZm8yb0pLRVBxRm1pRDRzRWNoOXh5Ry10WjZhdWpMRGRWd1dLaTJBRHJqZ19BRXVFc2M0RFJLV3FiNE5uZFk5ejg1WmQ5cWVlN0FuU0d4cmZRYXhHNEpEMk5pdnFNSVJyY3BmN0lEVGJGM1FLSm9NdHFvY09iWVBLNGFpTVRpTFNCOEluZw?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "AfDB extends up to USD 15 million loan to Biovac for cholera vaccine plant in Cape Town &nbsp;&nbsp; Capmad",
+    "description": "AfDB extends up to USD 15 million loan to Biovac for cholera vaccine plant in Cape Town &nbsp;&nbsp; capmad.com",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -481,18 +369,18 @@
       "published": "2026-08-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-02T11:55:53.169196+00:00"
+    "fetched_at": "2026-10-03T11:08:51.116969+00:00"
   },
   {
-    "id": "414891241c08",
+    "id": "d2bde865c8f5",
     "source": "Signal:Biovac",
-    "title": "AfDB backs Biovac vaccine expansion with $15 million loan - Channel Africa",
+    "title": "AfDB backs Biovac vaccine expansion with $15 million loan - channelafrica.co.za",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0haMDBrQzVMcE9uQlpyT04zVWhtWTJVVHo4bGFhTWcxaXZUc21iZ25rQmY4SUZuZ1JUQlIyeHZQR0ZtclZobHBSYVFRdWN5dUNOMjQ3LV9mb1NHSHo5UXhRMjdYdnhfYUJlOEdnY2RxeGJmal96ZW9nd25sUzFWUWN4Yi05YzhjNTcyeXZCZ183SnRMaDRsSjhZQUtGaHNfWUVTa1ByOGE2dDNf?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "AfDB backs Biovac vaccine expansion with $15 million loan &nbsp;&nbsp; Channel Africa",
+    "description": "AfDB backs Biovac vaccine expansion with $15 million loan &nbsp;&nbsp; channelafrica.co.za",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -519,18 +407,18 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-02T11:55:53.169473+00:00"
+    "fetched_at": "2026-10-03T11:08:51.117330+00:00"
   },
   {
-    "id": "01f1e3bfa801",
+    "id": "5b293b87fbb6",
     "source": "Signal:Biovac",
-    "title": "Biovac vaccine project expected to create jobs in SA - sabcnews.com",
+    "title": "Biovac vaccine project expected to create jobs in SA - SABC News",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1d5NXhCclhXMUozYUtOWENia0E2OXZEeUpYQlZscFJIcE1OWjRtaktjYVVqSFlpMHhFZFF5cDN5SnRxRG9nSTU3emdfMW9YdjQyUFpTeFU2VktTYTdkeFoyU0N3cXFOZUtQTXFHV2szVTJ3TmdEYm8xVzZfYW1ZYUxwZExpdkk1eXBQaA?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Biovac vaccine project expected to create jobs in SA &nbsp;&nbsp; sabcnews.com",
+    "description": "Biovac vaccine project expected to create jobs in SA &nbsp;&nbsp; SABC News",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -557,7 +445,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-02T11:55:53.169725+00:00"
+    "fetched_at": "2026-10-03T11:08:51.117644+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -595,7 +483,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-02T11:55:53.170595+00:00"
+    "fetched_at": "2026-10-03T11:08:51.118718+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -633,7 +521,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-02T11:55:53.171228+00:00"
+    "fetched_at": "2026-10-03T11:08:51.119529+00:00"
   },
   {
     "id": "236d8fbc44bc",
@@ -671,7 +559,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-02T11:55:53.171542+00:00"
+    "fetched_at": "2026-10-03T11:08:51.119908+00:00"
   },
   {
     "id": "8bcfe42b229c",
@@ -709,7 +597,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-02T11:55:53.172499+00:00"
+    "fetched_at": "2026-10-03T11:08:51.120837+00:00"
   },
   {
     "id": "debba72be073",
@@ -747,7 +635,7 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-02T11:55:53.173118+00:00"
+    "fetched_at": "2026-10-03T11:08:51.121627+00:00"
   },
   {
     "id": "d1a148b1dd55",
@@ -785,7 +673,7 @@
       "published": "2026-08-04T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-02T11:55:53.173332+00:00"
+    "fetched_at": "2026-10-03T11:08:51.121894+00:00"
   },
   {
     "id": "fef3b9004fc3",
@@ -823,7 +711,7 @@
       "published": "2026-08-21T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-02T11:55:53.173646+00:00"
+    "fetched_at": "2026-10-03T11:08:51.122302+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -861,7 +749,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-02T11:55:53.173908+00:00"
+    "fetched_at": "2026-10-03T11:08:51.122630+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -899,6 +787,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-02T11:55:53.174931+00:00"
+    "fetched_at": "2026-10-03T11:08:51.123925+00:00"
   }
 ]
