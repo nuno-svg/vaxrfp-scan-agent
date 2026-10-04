@@ -35,7 +35,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-03T11:08:51.123271+00:00"
+    "fetched_at": "2026-10-04T11:49:22.128648+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -73,45 +73,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-03T11:08:51.116329+00:00"
-  },
-  {
-    "id": "15b157cf1c62",
-    "source": "Signal:Biovac",
-    "title": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing - IOL",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLUJkOFlza1ZvU2tLUG1hdUR4MW9Xb2FZWjJzZ0ZCMGRsMzROVmlkS0ZYRFdnU1Z4bmRwQ1FyS3Vsb1VRZVVJM1FrcnlWTmNhU0Z1a2JKUWlfTFNkbVBkcEV6M1R4VVZwejZRSUExSFpRd1phV2dCaXhJRFNLVUxxMUZjLUVXMnRIVnF2T3NxeFFnNTFqZXVBbFJLRkI1YjRPZ3FYWGdodjd0amxoQ3EyVEQ0NTJiX29jZ29qVXU2YXF5V0hOQS1odDdBVXpDQQ?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing &nbsp;&nbsp; IOL",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-07-26T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-10-03T11:08:51.118021+00:00"
+    "fetched_at": "2026-10-04T11:49:22.122063+00:00"
   },
   {
     "id": "37737e671331",
@@ -146,10 +108,48 @@
     },
     "raw": {
       "manufacturer": "Biovac",
-      "published": "2026-07-30T08:24:59+00:00",
+      "published": "2026-10-02T15:06:03+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-03T11:08:51.118428+00:00"
+    "fetched_at": "2026-10-04T11:49:22.122687+00:00"
+  },
+  {
+    "id": "724e1ff989f3",
+    "source": "Signal:Biovac",
+    "title": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing - iol.co.za",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLUJkOFlza1ZvU2tLUG1hdUR4MW9Xb2FZWjJzZ0ZCMGRsMzROVmlkS0ZYRFdnU1Z4bmRwQ1FyS3Vsb1VRZVVJM1FrcnlWTmNhU0Z1a2JKUWlfTFNkbVBkcEV6M1R4VVZwejZRSUExSFpRd1phV2dCaXhJRFNLVUxxMUZjLUVXMnRIVnF2T3NxeFFnNTFqZXVBbFJLRkI1YjRPZ3FYWGdodjd0amxoQ3EyVEQ0NTJiX29jZ29qVXU2YXF5V0hOQS1odDdBVXpDQQ?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing &nbsp;&nbsp; iol.co.za",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 4,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 4,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-07-26T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-10-04T11:49:22.124142+00:00"
   },
   {
     "id": "7957d095f782",
@@ -187,18 +187,18 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-03T11:08:51.122837+00:00"
+    "fetched_at": "2026-10-04T11:49:22.128218+00:00"
   },
   {
-    "id": "122cd2c07dfd",
+    "id": "3301c0539fa2",
     "source": "Signal:AVMA",
-    "title": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion - news.fundsforngos.org",
+    "title": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion - fundsforNGOs News",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkxxZEZoekVWTzNMZXNZOUZnYXVPRERWNFpDQ19lVTBTdHFFeHgzcFZXVXUtaHBfWmpIdkUxSXliWWI0aS02TlZtZUYzMWU1RWFhN3hXb3pZWXo1MWJ0RDR2ckY5WkxyZGRUbERYaDU3QzJtdzBxQ29ZZV9uWDVFZXd5N2hGWXJtSFVyd1laN0RlQzk3MXhoUkxGWTRTODJ0NTZSeVdVT0JOQW9VaTRHSDRHU3E5dzFJVi1wT1ViYw?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion &nbsp;&nbsp; news.fundsforngos.org",
+    "description": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion &nbsp;&nbsp; fundsforNGOs News",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 4,
@@ -225,7 +225,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-03T11:08:51.123686+00:00"
+    "fetched_at": "2026-10-04T11:49:22.129045+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -234,7 +234,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 17,
+    "deadline_days": 16,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -259,7 +259,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-03T11:08:51.105318+00:00"
+    "fetched_at": "2026-10-04T11:49:22.111581+00:00"
   },
   {
     "id": "9d30a016a466",
@@ -268,7 +268,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
     "country": null,
     "deadline": "2026-10-13",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
     "fit_per_area": {
@@ -293,18 +293,18 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-03T11:08:51.105898+00:00"
+    "fetched_at": "2026-10-04T11:49:22.112143+00:00"
   },
   {
-    "id": "c2354d5646f6",
+    "id": "b129a66ef1b9",
     "source": "Signal:Biovac",
-    "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - africa.businessinsider.com",
+    "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - Business Insider Africa",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEh4cENadER6WDhtSzhRMnhPMjdHalJvanJRYm5IODZOS1lWNk5xYU1ScmRwbXBMLURYUnFTY2VQMzVPTmxjWkxmSll0MVFxOGRfZF9FUE15MXZTXzFvYkpLQ0QtZmFPMEJxMlRZOTRiVHN0Q00xVmc5UV82bzlRLXJCOVZjQ09Uc1lsVGNsMW1zQmRWWENsMFpyMDNUanBDUGhxdUxLekRWbDFwcDlfTXpmX204cnE2eVh4X2ozYjhUREw3U2kxWnZUQkt1d0JaQ01VZkZWWXE?oc=5",
     "country": "ZA",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant &nbsp;&nbsp; africa.businessinsider.com",
+    "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant &nbsp;&nbsp; Business Insider Africa",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -331,18 +331,18 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-03T11:08:51.116542+00:00"
+    "fetched_at": "2026-10-04T11:49:22.122270+00:00"
   },
   {
-    "id": "3f26b46aa0be",
+    "id": "b2ba3fa9d482",
     "source": "Signal:Biovac",
-    "title": "AfDB extends up to USD 15 million loan to Biovac for cholera vaccine plant in Cape Town - capmad.com",
+    "title": "AfDB extends up to USD 15 million loan to Biovac for cholera vaccine plant in Cape Town - Capmad",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0JHSDNFWjBtUzZPV1pHclhVb1NVSmVLeUlYN0lVVHlkcVpBSzNibndRZm8yb0pLRVBxRm1pRDRzRWNoOXh5Ry10WjZhdWpMRGRWd1dLaTJBRHJqZ19BRXVFc2M0RFJLV3FiNE5uZFk5ejg1WmQ5cWVlN0FuU0d4cmZRYXhHNEpEMk5pdnFNSVJyY3BmN0lEVGJGM1FLSm9NdHFvY09iWVBLNGFpTVRpTFNCOEluZw?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "AfDB extends up to USD 15 million loan to Biovac for cholera vaccine plant in Cape Town &nbsp;&nbsp; capmad.com",
+    "description": "AfDB extends up to USD 15 million loan to Biovac for cholera vaccine plant in Cape Town &nbsp;&nbsp; Capmad",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -369,18 +369,18 @@
       "published": "2026-08-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-03T11:08:51.116969+00:00"
+    "fetched_at": "2026-10-04T11:49:22.123087+00:00"
   },
   {
-    "id": "d2bde865c8f5",
+    "id": "414891241c08",
     "source": "Signal:Biovac",
-    "title": "AfDB backs Biovac vaccine expansion with $15 million loan - channelafrica.co.za",
+    "title": "AfDB backs Biovac vaccine expansion with $15 million loan - Channel Africa",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0haMDBrQzVMcE9uQlpyT04zVWhtWTJVVHo4bGFhTWcxaXZUc21iZ25rQmY4SUZuZ1JUQlIyeHZQR0ZtclZobHBSYVFRdWN5dUNOMjQ3LV9mb1NHSHo5UXhRMjdYdnhfYUJlOEdnY2RxeGJmal96ZW9nd25sUzFWUWN4Yi05YzhjNTcyeXZCZ183SnRMaDRsSjhZQUtGaHNfWUVTa1ByOGE2dDNf?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "AfDB backs Biovac vaccine expansion with $15 million loan &nbsp;&nbsp; channelafrica.co.za",
+    "description": "AfDB backs Biovac vaccine expansion with $15 million loan &nbsp;&nbsp; Channel Africa",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -407,7 +407,7 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-03T11:08:51.117330+00:00"
+    "fetched_at": "2026-10-04T11:49:22.123436+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -445,7 +445,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-03T11:08:51.117644+00:00"
+    "fetched_at": "2026-10-04T11:49:22.123746+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -483,7 +483,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-03T11:08:51.118718+00:00"
+    "fetched_at": "2026-10-04T11:49:22.124447+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -521,18 +521,18 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-03T11:08:51.119529+00:00"
+    "fetched_at": "2026-10-04T11:49:22.125237+00:00"
   },
   {
-    "id": "236d8fbc44bc",
+    "id": "1215d7f4bc27",
     "source": "Signal:Aspen Pharmacare",
-    "title": "Aspen Pharmacare and MSD partner for innovative HIV prevention medicine - businessreport.co.za",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOakNmc3pVc3RPQ3ZmVktDeEdTZ0xFVmJiMGlNNEVCX1I5eS11cUFSaVJ3and5Y1JJWER0MG9GeTduUGliZkJCNjJzTUF2WmZFQmkwM19UWjVma19Gd3BESnctaWVqM0l6T2JyeFBUX0swVGFvRHBBRU5XVVlGR1MzTzBsTGxxSFNKdExQOVY0aXlhVHJ1OWxhcHhCYW0yYmRid2NxM3BYUEJnOFFMNnZKbXlYWlVwLXh2NmhTTmF2bw?oc=5",
+    "title": "Aspen Pharmacare and MSD partner for innovative HIV prevention medicine - iol.co.za",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQTJKbHZwQlE5QW9PbjZDS3VqcVkzTnBWNE9vNk1Lai1LQ3ZxT2lGX2dTR2hVWDJHMkMwMzlpWjhEenROVlE1N3FHRHo5YzJtWFFVZzg5clU0dFcyRjlTN1dvVlNBR1RGYURXaFozT2hzb0FYaUVNVnlUTFMwYnR6a1FfR0Q5QV9OeHRZQ2xUaUs5NnZwZXhXcVZrSWVrU2RULXc5MjZtMm1TVzFLOWVxS2labExjRzVJRkpWbXQ3Ql9rc3NYV2c?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Aspen Pharmacare and MSD partner for innovative HIV prevention medicine &nbsp;&nbsp; businessreport.co.za",
+    "description": "Aspen Pharmacare and MSD partner for innovative HIV prevention medicine &nbsp;&nbsp; iol.co.za",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -559,7 +559,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-03T11:08:51.119908+00:00"
+    "fetched_at": "2026-10-04T11:49:22.126133+00:00"
   },
   {
     "id": "8bcfe42b229c",
@@ -597,7 +597,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-03T11:08:51.120837+00:00"
+    "fetched_at": "2026-10-04T11:49:22.126523+00:00"
   },
   {
     "id": "debba72be073",
@@ -635,56 +635,18 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-03T11:08:51.121627+00:00"
+    "fetched_at": "2026-10-04T11:49:22.127293+00:00"
   },
   {
-    "id": "d1a148b1dd55",
+    "id": "4e8854cba945",
     "source": "Signal:KfW",
-    "title": "Gavi Commits $500 Million to Support Nigeria’s Immunization Programme - news.fundsforngos.org",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXgwME9kZ0tkN1RBQ1h6VjVHcmhxTWRVd1lqR2xVUlhRdlpuY2dCc25zNXVUOUxQOWRZQkk4a1o2cHpUc0NiY1g0VDh0NWVYOEJLVHBKd25pOXhJZ0gteXpOX2VEVU9YNW9HRDA3MmVwbXdXVi1QOVJTeGVQTkZ6LUxwbWdSZlZ5dW9FWE0xcjVJTnNOSFBXNktVX1pFNEJMdG5JSmhGSW9LZGJ1Zmc?oc=5",
-    "country": "NG",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Gavi Commits $500 Million to Support Nigeria’s Immunization Programme &nbsp;&nbsp; news.fundsforngos.org",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "donor": "KfW",
-      "published": "2026-08-04T07:00:00+00:00",
-      "signal_type": "donor"
-    },
-    "fetched_at": "2026-10-03T11:08:51.121894+00:00"
-  },
-  {
-    "id": "fef3b9004fc3",
-    "source": "Signal:KfW",
-    "title": "Belize Strengthens Medicine and Vaccine Safety Monitoring with PAHO Support - news.fundsforngos.org",
+    "title": "Belize Strengthens Medicine and Vaccine Safety Monitoring with PAHO Support - fundsforNGOs News",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMThIU2lVWjBnQ2ZoaEd2WkVRbmhJY3pOQkdNRkc0YUI2RFlnY1pzMy1EcXlkWVhRVE9vZjdmU3phd2VqWXhBVU45NXhBM1R0N3pGVEs1bi1sYzg4dWxta2owdmpBTGV0Yi1Ca25WR3hLUzN4a1dfNy1JR3d5OXZOTG5HTnluaklwd01mU01sU05rZnlyUmdDSHpCaHd3cG1lVHRCMTB4a3dzamdGSmVNbW8tVFdJYmFV?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Belize Strengthens Medicine and Vaccine Safety Monitoring with PAHO Support &nbsp;&nbsp; news.fundsforngos.org",
+    "description": "Belize Strengthens Medicine and Vaccine Safety Monitoring with PAHO Support &nbsp;&nbsp; fundsforNGOs News",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -711,7 +673,7 @@
       "published": "2026-08-21T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-03T11:08:51.122302+00:00"
+    "fetched_at": "2026-10-04T11:49:22.127683+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -749,7 +711,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-03T11:08:51.122630+00:00"
+    "fetched_at": "2026-10-04T11:49:22.128013+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -787,6 +749,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-03T11:08:51.123925+00:00"
+    "fetched_at": "2026-10-04T11:49:22.129284+00:00"
   }
 ]
