@@ -35,7 +35,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-04T11:49:22.128648+00:00"
+    "fetched_at": "2026-10-05T13:40:12.597160+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -73,7 +73,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-04T11:49:22.122063+00:00"
+    "fetched_at": "2026-10-05T13:40:12.591731+00:00"
   },
   {
     "id": "37737e671331",
@@ -111,7 +111,7 @@
       "published": "2026-10-02T15:06:03+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-04T11:49:22.122687+00:00"
+    "fetched_at": "2026-10-05T13:40:12.592210+00:00"
   },
   {
     "id": "724e1ff989f3",
@@ -149,7 +149,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-04T11:49:22.124142+00:00"
+    "fetched_at": "2026-10-05T13:40:12.593370+00:00"
   },
   {
     "id": "7957d095f782",
@@ -187,7 +187,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-04T11:49:22.128218+00:00"
+    "fetched_at": "2026-10-05T13:40:12.596823+00:00"
   },
   {
     "id": "3301c0539fa2",
@@ -225,7 +225,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-04T11:49:22.129045+00:00"
+    "fetched_at": "2026-10-05T13:40:12.597477+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -234,7 +234,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 16,
+    "deadline_days": 15,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -259,7 +259,81 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-04T11:49:22.111581+00:00"
+    "fetched_at": "2026-10-05T13:40:12.580880+00:00"
+  },
+  {
+    "id": "b79be4b6a9ed",
+    "source": "TED",
+    "title": "Spain – Research and development services and related consultancy services – Maintenance and update of the content of OSHwiki articles",
+    "url": "https://ted.europa.eu/en/notice/546238-2026",
+    "country": "AN",
+    "deadline": "2026-10-14",
+    "deadline_days": 9,
+    "value_usd": null,
+    "description": "European Agency for Safety and Health at Work (EU-OSHA). The subject of this call for tenders is “Maintenance and update of the content of OSHwiki articles”. The OSHwiki was launched in 2014 with the aim of providing relevant, reliable and updated information for the OSH community through a sustainable stock of OSHwiki articles giving a European view on OSH to a bigger audience and has to be updated on an ongoing basis. The OSHwiki content is grouped around the 11 main topical entry points which are:  OSH in general  OSH Management and organisation  Prevention and control strategies  Dangerous substances (chemical and biological)  Physical agents  Ergonomics  Safety  Psychosocial issues  Health  Sectors and occupations  Groups at risk More information on OSHwiki can be found here: https://oshwiki.osha.europa.eu/en",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "546238-2026"
+    },
+    "fetched_at": "2026-10-05T13:40:12.584356+00:00"
+  },
+  {
+    "id": "d0725e166842",
+    "source": "World Bank",
+    "title": "Recruitment of Third Party Monitoring Agent under Framework Agreement",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469274",
+    "country": "SO",
+    "deadline": "2026-10-09",
+    "deadline_days": 4,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality Based Selection. Project: Regional Emergency Preparedness & Access to Inclusive Recovery Project. Country: Southwest Indian Ocean. Reference: MZ-REPAIR-549332-CS-QBS.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P181014",
+      "wb_reference": "MZ-REPAIR-549332-CS-QBS"
+    },
+    "fetched_at": "2026-10-05T13:40:12.590614+00:00"
   },
   {
     "id": "9d30a016a466",
@@ -268,7 +342,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
     "country": null,
     "deadline": "2026-10-13",
-    "deadline_days": 9,
+    "deadline_days": 8,
     "value_usd": null,
     "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
     "fit_per_area": {
@@ -293,7 +367,43 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-04T11:49:22.112143+00:00"
+    "fetched_at": "2026-10-05T13:40:12.581315+00:00"
+  },
+  {
+    "id": "f62f4668fe71",
+    "source": "TED",
+    "title": "Germany – Pharmaceutical products – Offene Rahmenvereinbarung über Arzneimittelrabatte gemäß § 130a Abs.8 SGB V mit jederzeitiger Beitrittsmöglichkeit, sog. Zulassungsmodell 2025-10",
+    "url": "https://ted.europa.eu/en/notice/549047-2026",
+    "country": "DE",
+    "deadline": "2027-10-05",
+    "deadline_days": 365,
+    "value_usd": null,
+    "description": "Deutsche Rentenversicherung Knappschaft-Bahn-See. Hiermit wird die Aufhebung des Loses 1 \"Abirateron - 500 mg - 90 Stück, Darreichungsform: FTA (ATC-Code: L02BX03)\" der ursprünglichen Veröffentlichung (669055-2025 vom 13.10.2025) zum 30.09.2026 bekanntgegeben",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "549047-2026"
+    },
+    "fetched_at": "2026-10-05T13:40:12.589915+00:00"
   },
   {
     "id": "b129a66ef1b9",
@@ -331,7 +441,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-04T11:49:22.122270+00:00"
+    "fetched_at": "2026-10-05T13:40:12.591894+00:00"
   },
   {
     "id": "b2ba3fa9d482",
@@ -369,7 +479,7 @@
       "published": "2026-08-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-04T11:49:22.123087+00:00"
+    "fetched_at": "2026-10-05T13:40:12.592532+00:00"
   },
   {
     "id": "414891241c08",
@@ -407,18 +517,18 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-04T11:49:22.123436+00:00"
+    "fetched_at": "2026-10-05T13:40:12.592806+00:00"
   },
   {
-    "id": "5b293b87fbb6",
+    "id": "01f1e3bfa801",
     "source": "Signal:Biovac",
-    "title": "Biovac vaccine project expected to create jobs in SA - SABC News",
+    "title": "Biovac vaccine project expected to create jobs in SA - sabcnews.com",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1d5NXhCclhXMUozYUtOWENia0E2OXZEeUpYQlZscFJIcE1OWjRtaktjYVVqSFlpMHhFZFF5cDN5SnRxRG9nSTU3emdfMW9YdjQyUFpTeFU2VktTYTdkeFoyU0N3cXFOZUtQTXFHV2szVTJ3TmdEYm8xVzZfYW1ZYUxwZExpdkk1eXBQaA?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Biovac vaccine project expected to create jobs in SA &nbsp;&nbsp; SABC News",
+    "description": "Biovac vaccine project expected to create jobs in SA &nbsp;&nbsp; sabcnews.com",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -445,7 +555,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-04T11:49:22.123746+00:00"
+    "fetched_at": "2026-10-05T13:40:12.593055+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -483,7 +593,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-04T11:49:22.124447+00:00"
+    "fetched_at": "2026-10-05T13:40:12.593597+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -521,7 +631,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-04T11:49:22.125237+00:00"
+    "fetched_at": "2026-10-05T13:40:12.594236+00:00"
   },
   {
     "id": "1215d7f4bc27",
@@ -559,7 +669,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-04T11:49:22.126133+00:00"
+    "fetched_at": "2026-10-05T13:40:12.595175+00:00"
   },
   {
     "id": "8bcfe42b229c",
@@ -597,7 +707,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-04T11:49:22.126523+00:00"
+    "fetched_at": "2026-10-05T13:40:12.595477+00:00"
   },
   {
     "id": "debba72be073",
@@ -635,7 +745,7 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-04T11:49:22.127293+00:00"
+    "fetched_at": "2026-10-05T13:40:12.596104+00:00"
   },
   {
     "id": "4e8854cba945",
@@ -673,7 +783,7 @@
       "published": "2026-08-21T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-04T11:49:22.127683+00:00"
+    "fetched_at": "2026-10-05T13:40:12.596395+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -711,7 +821,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-04T11:49:22.128013+00:00"
+    "fetched_at": "2026-10-05T13:40:12.596649+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -749,6 +859,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-04T11:49:22.129284+00:00"
+    "fetched_at": "2026-10-05T13:40:12.597667+00:00"
   }
 ]
