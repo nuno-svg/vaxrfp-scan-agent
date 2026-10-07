@@ -35,94 +35,18 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-06T12:47:42.107712+00:00"
+    "fetched_at": "2026-10-07T12:41:59.862468+00:00"
   },
   {
-    "id": "88054fad2082",
-    "source": "World Bank",
-    "title": "Consulting Services for preparation of Environmental and Social Impact Assessment (ESIA) and Resettlement Action Plan (RAP) for Cluster 1 and Cluster 3",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472925",
-    "country": "GH",
-    "deadline": "2026-10-23",
-    "deadline_days": 17,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: GFPP - Ghana Market Access and Connectivity Project. Country: Ghana. Reference: GH-MRH-572771-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 5,
-      "mel": 4
-    },
-    "fit_total": 6,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 1,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P514903",
-      "wb_reference": "GH-MRH-572771-CS-CQS"
-    },
-    "fetched_at": "2026-10-06T12:47:42.099137+00:00"
-  },
-  {
-    "id": "b5f701bf9f07",
-    "source": "World Bank",
-    "title": "Consulting Services for preparation of Environmental and Social Impact Assessment (ESIA) and Resettlement Action Plan (RAP) - Cluster 2 and Cluster 4",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472924",
-    "country": "GH",
-    "deadline": "2026-10-23",
-    "deadline_days": 17,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: GFPP - Ghana Market Access and Connectivity Project. Country: Ghana. Reference: GH-MRH-572781-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 5,
-      "mel": 4
-    },
-    "fit_total": 6,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 1,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P514903",
-      "wb_reference": "GH-MRH-572781-CS-CQS"
-    },
-    "fetched_at": "2026-10-06T12:47:42.100080+00:00"
-  },
-  {
-    "id": "59b68a0808cc",
+    "id": "c6e227a22d8b",
     "source": "Signal:Biovac",
-    "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - afdb.org",
+    "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
     "country": "ZA",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; afdb.org",
+    "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 4,
@@ -149,7 +73,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-06T12:47:42.100933+00:00"
+    "fetched_at": "2026-10-07T12:41:59.857744+00:00"
   },
   {
     "id": "37737e671331",
@@ -187,7 +111,7 @@
       "published": "2026-10-02T21:17:45+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-06T12:47:42.101554+00:00"
+    "fetched_at": "2026-10-07T12:41:59.858217+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -225,18 +149,18 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-06T12:47:42.102986+00:00"
+    "fetched_at": "2026-10-07T12:41:59.859053+00:00"
   },
   {
-    "id": "5f6a431ea888",
+    "id": "7957d095f782",
     "source": "Signal:AVMA",
-    "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - afdb.org",
+    "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
     "country": "ZA",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; afdb.org",
+    "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 4,
@@ -263,7 +187,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-06T12:47:42.107282+00:00"
+    "fetched_at": "2026-10-07T12:41:59.862137+00:00"
   },
   {
     "id": "3301c0539fa2",
@@ -301,7 +225,7 @@
       "published": "2026-04-17T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-06T12:47:42.108111+00:00"
+    "fetched_at": "2026-10-07T12:41:59.862802+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -310,7 +234,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 14,
+    "deadline_days": 13,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -335,7 +259,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-06T12:47:42.086511+00:00"
+    "fetched_at": "2026-10-07T12:41:59.846335+00:00"
   },
   {
     "id": "f7472e50eda6",
@@ -344,9 +268,47 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00473095",
     "country": "AN",
     "deadline": "2026-10-14",
-    "deadline_days": 8,
+    "deadline_days": 7,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Angola Health Emergency Preparedness, Response, and Resilience Project using Multi-Phase Programmati. Country: Angola. Reference: HEPRR-AO/C-002.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P181953",
+      "wb_reference": "HEPRR-AO/C-002"
+    },
+    "fetched_at": "2026-10-07T12:41:59.857514+00:00"
+  },
+  {
+    "id": "6773dcfb24f5",
+    "source": "World Bank",
+    "title": "Sélection d'un consultant pour l'appui et le conseil technique et QA/QC (topographie, géochimie, géophysique)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452966",
+    "country": "CO",
+    "deadline": "2026-10-23",
+    "deadline_days": 16,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Inga 3  Development Program. Country: Congo, Democratic Republic of. Reference: ZR-ADEPI-520095-CS-QCBS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -370,10 +332,10 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P181953",
-      "wb_reference": "HEPRR-AO/C-002"
+      "wb_project_id": "P506438",
+      "wb_reference": "ZR-ADEPI-520095-CS-QCBS"
     },
-    "fetched_at": "2026-10-06T12:47:42.098099+00:00"
+    "fetched_at": "2026-10-07T12:41:59.856429+00:00"
   },
   {
     "id": "9d30a016a466",
@@ -382,7 +344,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
     "country": null,
     "deadline": "2026-10-13",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
     "fit_per_area": {
@@ -407,54 +369,18 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-06T12:47:42.087060+00:00"
+    "fetched_at": "2026-10-07T12:41:59.846778+00:00"
   },
   {
-    "id": "f62f4668fe71",
-    "source": "TED",
-    "title": "Germany – Pharmaceutical products – Offene Rahmenvereinbarung über Arzneimittelrabatte gemäß § 130a Abs.8 SGB V mit jederzeitiger Beitrittsmöglichkeit, sog. Zulassungsmodell 2025-10",
-    "url": "https://ted.europa.eu/en/notice/549047-2026",
-    "country": "DE",
-    "deadline": "2027-10-05",
-    "deadline_days": 364,
-    "value_usd": null,
-    "description": "Deutsche Rentenversicherung Knappschaft-Bahn-See. Hiermit wird die Aufhebung des Loses 1 \"Abirateron - 500 mg - 90 Stück, Darreichungsform: FTA (ATC-Code: L02BX03)\" der ursprünglichen Veröffentlichung (669055-2025 vom 13.10.2025) zum 30.09.2026 bekanntgegeben",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "549047-2026"
-    },
-    "fetched_at": "2026-10-06T12:47:42.091663+00:00"
-  },
-  {
-    "id": "c2354d5646f6",
+    "id": "b129a66ef1b9",
     "source": "Signal:Biovac",
-    "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - africa.businessinsider.com",
+    "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - Business Insider Africa",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEh4cENadER6WDhtSzhRMnhPMjdHalJvanJRYm5IODZOS1lWNk5xYU1ScmRwbXBMLURYUnFTY2VQMzVPTmxjWkxmSll0MVFxOGRfZF9FUE15MXZTXzFvYkpLQ0QtZmFPMEJxMlRZOTRiVHN0Q00xVmc5UV82bzlRLXJCOVZjQ09Uc1lsVGNsMW1zQmRWWENsMFpyMDNUanBDUGhxdUxLekRWbDFwcDlfTXpmX204cnE2eVh4X2ozYjhUREw3U2kxWnZUQkt1d0JaQ01VZkZWWXE?oc=5",
     "country": "ZA",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant &nbsp;&nbsp; africa.businessinsider.com",
+    "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant &nbsp;&nbsp; Business Insider Africa",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -481,45 +407,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-06T12:47:42.101142+00:00"
-  },
-  {
-    "id": "b2ba3fa9d482",
-    "source": "Signal:Biovac",
-    "title": "AfDB extends up to USD 15 million loan to Biovac for cholera vaccine plant in Cape Town - Capmad",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0JHSDNFWjBtUzZPV1pHclhVb1NVSmVLeUlYN0lVVHlkcVpBSzNibndRZm8yb0pLRVBxRm1pRDRzRWNoOXh5Ry10WjZhdWpMRGRWd1dLaTJBRHJqZ19BRXVFc2M0RFJLV3FiNE5uZFk5ejg1WmQ5cWVlN0FuU0d4cmZRYXhHNEpEMk5pdnFNSVJyY3BmN0lEVGJGM1FLSm9NdHFvY09iWVBLNGFpTVRpTFNCOEluZw?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "AfDB extends up to USD 15 million loan to Biovac for cholera vaccine plant in Cape Town &nbsp;&nbsp; Capmad",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-08-03T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-10-06T12:47:42.101954+00:00"
+    "fetched_at": "2026-10-07T12:41:59.857905+00:00"
   },
   {
     "id": "414891241c08",
@@ -557,7 +445,7 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-06T12:47:42.102284+00:00"
+    "fetched_at": "2026-10-07T12:41:59.858484+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -595,7 +483,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-06T12:47:42.102608+00:00"
+    "fetched_at": "2026-10-07T12:41:59.858749+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -633,7 +521,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-06T12:47:42.103274+00:00"
+    "fetched_at": "2026-10-07T12:41:59.859278+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -671,7 +559,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-06T12:47:42.104078+00:00"
+    "fetched_at": "2026-10-07T12:41:59.860132+00:00"
   },
   {
     "id": "c2b50944abe4",
@@ -709,18 +597,18 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-06T12:47:42.104557+00:00"
+    "fetched_at": "2026-10-07T12:41:59.860501+00:00"
   },
   {
-    "id": "8bcfe42b229c",
+    "id": "4b8a03e40be8",
     "source": "Signal:Aspen Pharmacare",
-    "title": "Aspen secures right to manufacture revolutionary HIV prevention drug once approved - news24.com",
+    "title": "Aspen secures right to manufacture revolutionary HIV prevention drug once approved - News24",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcktrTDl1dndmTk9VelRXX1pRRVhHVUR1d1EwbnhObXR4c0NSVWx3d21KNW11QWRmeGhWMmZnMWNGT3JkSlVZa2VEZGFSR2lpdExoSjF1ZTFESWc0MVlXU1l4aWRKVDFCdTVaOV9UX2hoVVNoLVBwcjZjNUdlVVZNc0hNbW9ISmNpQ25tSGN1YVIzbDlNWnI4YWEtV09MVmhaZkVGcy1kamZDMW81ckt2NzBZeWlwLWJBS1kwQTMxckxGSWdCOVRmNmw5eFZoaU5EWTZGRg?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Aspen secures right to manufacture revolutionary HIV prevention drug once approved &nbsp;&nbsp; news24.com",
+    "description": "Aspen secures right to manufacture revolutionary HIV prevention drug once approved &nbsp;&nbsp; News24",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -747,7 +635,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-06T12:47:42.105615+00:00"
+    "fetched_at": "2026-10-07T12:41:59.861113+00:00"
   },
   {
     "id": "debba72be073",
@@ -785,7 +673,7 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-06T12:47:42.106400+00:00"
+    "fetched_at": "2026-10-07T12:41:59.861406+00:00"
   },
   {
     "id": "4e8854cba945",
@@ -823,7 +711,7 @@
       "published": "2026-08-21T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-06T12:47:42.106770+00:00"
+    "fetched_at": "2026-10-07T12:41:59.861715+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -861,7 +749,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-06T12:47:42.107094+00:00"
+    "fetched_at": "2026-10-07T12:41:59.861973+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -899,6 +787,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-06T12:47:42.108364+00:00"
+    "fetched_at": "2026-10-07T12:41:59.862988+00:00"
   }
 ]
