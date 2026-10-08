@@ -35,7 +35,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-07T12:41:59.862468+00:00"
+    "fetched_at": "2026-10-08T12:51:36.825811+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -73,7 +73,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-07T12:41:59.857744+00:00"
+    "fetched_at": "2026-10-08T12:51:36.818986+00:00"
   },
   {
     "id": "37737e671331",
@@ -111,7 +111,7 @@
       "published": "2026-10-02T21:17:45+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-07T12:41:59.858217+00:00"
+    "fetched_at": "2026-10-08T12:51:36.820027+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -149,7 +149,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-07T12:41:59.859053+00:00"
+    "fetched_at": "2026-10-08T12:51:36.821104+00:00"
   },
   {
     "id": "7957d095f782",
@@ -187,45 +187,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-07T12:41:59.862137+00:00"
-  },
-  {
-    "id": "3301c0539fa2",
-    "source": "Signal:AVMA",
-    "title": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion - fundsforNGOs News",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkxxZEZoekVWTzNMZXNZOUZnYXVPRERWNFpDQ19lVTBTdHFFeHgzcFZXVXUtaHBfWmpIdkUxSXliWWI0aS02TlZtZUYzMWU1RWFhN3hXb3pZWXo1MWJ0RDR2ckY5WkxyZGRUbERYaDU3QzJtdzBxQ29ZZV9uWDVFZXd5N2hGWXJtSFVyd1laN0RlQzk3MXhoUkxGWTRTODJ0NTZSeVdVT0JOQW9VaTRHSDRHU3E5dzFJVi1wT1ViYw?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Africa Vaccine Manufacturing Boost: IFC, EIB Group and EU Support Biovac Expansion &nbsp;&nbsp; fundsforNGOs News",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "donor": "AVMA",
-      "published": "2026-04-17T07:00:00+00:00",
-      "signal_type": "donor"
-    },
-    "fetched_at": "2026-10-07T12:41:59.862802+00:00"
+    "fetched_at": "2026-10-08T12:51:36.825233+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -234,7 +196,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 13,
+    "deadline_days": 12,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -259,7 +221,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-07T12:41:59.846335+00:00"
+    "fetched_at": "2026-10-08T12:51:36.808127+00:00"
   },
   {
     "id": "f7472e50eda6",
@@ -268,7 +230,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00473095",
     "country": "AN",
     "deadline": "2026-10-14",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Angola Health Emergency Preparedness, Response, and Resilience Project using Multi-Phase Programmati. Country: Angola. Reference: HEPRR-AO/C-002.",
     "fit_per_area": {
@@ -297,7 +259,7 @@
       "wb_project_id": "P181953",
       "wb_reference": "HEPRR-AO/C-002"
     },
-    "fetched_at": "2026-10-07T12:41:59.857514+00:00"
+    "fetched_at": "2026-10-08T12:51:36.818706+00:00"
   },
   {
     "id": "6773dcfb24f5",
@@ -306,7 +268,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452966",
     "country": "CO",
     "deadline": "2026-10-23",
-    "deadline_days": 16,
+    "deadline_days": 15,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Inga 3  Development Program. Country: Congo, Democratic Republic of. Reference: ZR-ADEPI-520095-CS-QCBS.",
     "fit_per_area": {
@@ -335,7 +297,7 @@
       "wb_project_id": "P506438",
       "wb_reference": "ZR-ADEPI-520095-CS-QCBS"
     },
-    "fetched_at": "2026-10-07T12:41:59.856429+00:00"
+    "fetched_at": "2026-10-08T12:51:36.817196+00:00"
   },
   {
     "id": "9d30a016a466",
@@ -344,7 +306,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
     "country": null,
     "deadline": "2026-10-13",
-    "deadline_days": 6,
+    "deadline_days": 5,
     "value_usd": null,
     "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
     "fit_per_area": {
@@ -369,7 +331,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-07T12:41:59.846778+00:00"
+    "fetched_at": "2026-10-08T12:51:36.808515+00:00"
   },
   {
     "id": "b129a66ef1b9",
@@ -407,7 +369,45 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-07T12:41:59.857905+00:00"
+    "fetched_at": "2026-10-08T12:51:36.819148+00:00"
+  },
+  {
+    "id": "b2ba3fa9d482",
+    "source": "Signal:Biovac",
+    "title": "AfDB extends up to USD 15 million loan to Biovac for cholera vaccine plant in Cape Town - Capmad",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0JHSDNFWjBtUzZPV1pHclhVb1NVSmVLeUlYN0lVVHlkcVpBSzNibndRZm8yb0pLRVBxRm1pRDRzRWNoOXh5Ry10WjZhdWpMRGRWd1dLaTJBRHJqZ19BRXVFc2M0RFJLV3FiNE5uZFk5ejg1WmQ5cWVlN0FuU0d4cmZRYXhHNEpEMk5pdnFNSVJyY3BmN0lEVGJGM1FLSm9NdHFvY09iWVBLNGFpTVRpTFNCOEluZw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "AfDB extends up to USD 15 million loan to Biovac for cholera vaccine plant in Cape Town &nbsp;&nbsp; Capmad",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Biovac",
+      "published": "2026-08-03T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-10-08T12:51:36.819597+00:00"
   },
   {
     "id": "414891241c08",
@@ -445,7 +445,7 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-07T12:41:59.858484+00:00"
+    "fetched_at": "2026-10-08T12:51:36.820328+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -483,7 +483,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-07T12:41:59.858749+00:00"
+    "fetched_at": "2026-10-08T12:51:36.820659+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -521,7 +521,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-07T12:41:59.859278+00:00"
+    "fetched_at": "2026-10-08T12:51:36.821461+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -559,7 +559,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-07T12:41:59.860132+00:00"
+    "fetched_at": "2026-10-08T12:51:36.822610+00:00"
   },
   {
     "id": "c2b50944abe4",
@@ -597,7 +597,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-07T12:41:59.860501+00:00"
+    "fetched_at": "2026-10-08T12:51:36.823088+00:00"
   },
   {
     "id": "4b8a03e40be8",
@@ -635,7 +635,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-07T12:41:59.861113+00:00"
+    "fetched_at": "2026-10-08T12:51:36.823854+00:00"
   },
   {
     "id": "debba72be073",
@@ -673,7 +673,7 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-07T12:41:59.861406+00:00"
+    "fetched_at": "2026-10-08T12:51:36.824265+00:00"
   },
   {
     "id": "4e8854cba945",
@@ -711,7 +711,7 @@
       "published": "2026-08-21T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-07T12:41:59.861715+00:00"
+    "fetched_at": "2026-10-08T12:51:36.824711+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -749,7 +749,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-07T12:41:59.861973+00:00"
+    "fetched_at": "2026-10-08T12:51:36.825033+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -787,6 +787,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-07T12:41:59.862988+00:00"
+    "fetched_at": "2026-10-08T12:51:36.826013+00:00"
   }
 ]
