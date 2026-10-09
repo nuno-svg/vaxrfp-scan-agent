@@ -35,7 +35,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-08T12:51:36.825811+00:00"
+    "fetched_at": "2026-10-09T12:37:59.166731+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -73,7 +73,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-08T12:51:36.818986+00:00"
+    "fetched_at": "2026-10-09T12:37:59.160711+00:00"
   },
   {
     "id": "37737e671331",
@@ -111,7 +111,7 @@
       "published": "2026-10-02T21:17:45+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-08T12:51:36.820027+00:00"
+    "fetched_at": "2026-10-09T12:37:59.161721+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -149,7 +149,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-08T12:51:36.821104+00:00"
+    "fetched_at": "2026-10-09T12:37:59.162776+00:00"
   },
   {
     "id": "7957d095f782",
@@ -187,7 +187,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-08T12:51:36.825233+00:00"
+    "fetched_at": "2026-10-09T12:37:59.166313+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -196,7 +196,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -221,56 +221,18 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-08T12:51:36.808127+00:00"
+    "fetched_at": "2026-10-09T12:37:59.147994+00:00"
   },
   {
-    "id": "f7472e50eda6",
+    "id": "7725bae25a90",
     "source": "World Bank",
-    "title": "Finance Specialist",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00473095",
-    "country": "AN",
-    "deadline": "2026-10-14",
-    "deadline_days": 6,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Angola Health Emergency Preparedness, Response, and Resilience Project using Multi-Phase Programmati. Country: Angola. Reference: HEPRR-AO/C-002.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P181953",
-      "wb_reference": "HEPRR-AO/C-002"
-    },
-    "fetched_at": "2026-10-08T12:51:36.818706+00:00"
-  },
-  {
-    "id": "6773dcfb24f5",
-    "source": "World Bank",
-    "title": "Sélection d'un consultant pour l'appui et le conseil technique et QA/QC (topographie, géochimie, géophysique)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452966",
+    "title": "Spécialiste en Développement Social",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00474069",
     "country": "CO",
-    "deadline": "2026-10-23",
-    "deadline_days": 15,
+    "deadline": "2026-10-26",
+    "deadline_days": 17,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Inga 3  Development Program. Country: Congo, Democratic Republic of. Reference: ZR-ADEPI-520095-CS-QCBS.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation in relation to DECIDE Project (Development of Statistical Capacity to Improve Decision M. Country: Congo, Democratic Republic of. Reference: ZR-MINPLAN-576305-CS-INDV.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -294,10 +256,10 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P506438",
-      "wb_reference": "ZR-ADEPI-520095-CS-QCBS"
+      "wb_project_id": "P516861",
+      "wb_reference": "ZR-MINPLAN-576305-CS-INDV"
     },
-    "fetched_at": "2026-10-08T12:51:36.817196+00:00"
+    "fetched_at": "2026-10-09T12:37:59.159270+00:00"
   },
   {
     "id": "9d30a016a466",
@@ -306,7 +268,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
     "country": null,
     "deadline": "2026-10-13",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
     "fit_per_area": {
@@ -331,7 +293,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-08T12:51:36.808515+00:00"
+    "fetched_at": "2026-10-09T12:37:59.148548+00:00"
   },
   {
     "id": "b129a66ef1b9",
@@ -369,7 +331,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-08T12:51:36.819148+00:00"
+    "fetched_at": "2026-10-09T12:37:59.160929+00:00"
   },
   {
     "id": "b2ba3fa9d482",
@@ -407,7 +369,7 @@
       "published": "2026-08-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-08T12:51:36.819597+00:00"
+    "fetched_at": "2026-10-09T12:37:59.161337+00:00"
   },
   {
     "id": "414891241c08",
@@ -445,7 +407,7 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-08T12:51:36.820328+00:00"
+    "fetched_at": "2026-10-09T12:37:59.162077+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -483,7 +445,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-08T12:51:36.820659+00:00"
+    "fetched_at": "2026-10-09T12:37:59.162391+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -521,7 +483,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-08T12:51:36.821461+00:00"
+    "fetched_at": "2026-10-09T12:37:59.163073+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -559,7 +521,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-08T12:51:36.822610+00:00"
+    "fetched_at": "2026-10-09T12:37:59.164149+00:00"
   },
   {
     "id": "c2b50944abe4",
@@ -597,7 +559,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-08T12:51:36.823088+00:00"
+    "fetched_at": "2026-10-09T12:37:59.165014+00:00"
   },
   {
     "id": "4b8a03e40be8",
@@ -635,45 +597,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-08T12:51:36.823854+00:00"
-  },
-  {
-    "id": "debba72be073",
-    "source": "Signal:Institut Pasteur Dakar",
-    "title": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed - Institut Pasteur",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0RQQ21CUUpxNlNnU1YydGRXTW01dE1pZ1VHRVZwZnM2TW8xcm5fRlQzdmpyLU9HY3NtZ3FxdXFZUkxHWTZRM2R0LVJUcnNqdV9DbWRMZkdEc2tUalpVUUpaNl90OWVub29GMVZoNEVEY3pOUnpqWFlod3VzYTJ6NVF5Rjl0ejFGcXBBbHBYYXlyWmJTOG0zdUpXV2xVUkg0Y1VIUnotWHUxRTJWRlhMMzBpUkhadkxGUEVBR3N5dUxmUnNPUFFXMW1lMkt5WjJHcnVj?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed &nbsp;&nbsp; Institut Pasteur",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Institut Pasteur Dakar",
-      "published": "2026-08-22T07:55:04+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-10-08T12:51:36.824265+00:00"
+    "fetched_at": "2026-10-09T12:37:59.165383+00:00"
   },
   {
     "id": "4e8854cba945",
@@ -711,7 +635,7 @@
       "published": "2026-08-21T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-08T12:51:36.824711+00:00"
+    "fetched_at": "2026-10-09T12:37:59.165760+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -749,7 +673,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-08T12:51:36.825033+00:00"
+    "fetched_at": "2026-10-09T12:37:59.166105+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -787,6 +711,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-08T12:51:36.826013+00:00"
+    "fetched_at": "2026-10-09T12:37:59.166982+00:00"
   }
 ]
