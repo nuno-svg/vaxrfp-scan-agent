@@ -35,7 +35,7 @@
       "published": "2026-04-16T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-09T12:37:59.166731+00:00"
+    "fetched_at": "2026-10-10T11:57:24.785469+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -73,7 +73,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-09T12:37:59.160711+00:00"
+    "fetched_at": "2026-10-10T11:57:24.779477+00:00"
   },
   {
     "id": "37737e671331",
@@ -111,7 +111,7 @@
       "published": "2026-10-02T21:17:45+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-09T12:37:59.161721+00:00"
+    "fetched_at": "2026-10-10T11:57:24.780482+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -149,7 +149,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-09T12:37:59.162776+00:00"
+    "fetched_at": "2026-10-10T11:57:24.781532+00:00"
   },
   {
     "id": "7957d095f782",
@@ -187,7 +187,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-09T12:37:59.166313+00:00"
+    "fetched_at": "2026-10-10T11:57:24.785055+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -196,7 +196,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 11,
+    "deadline_days": 10,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -221,7 +221,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-09T12:37:59.147994+00:00"
+    "fetched_at": "2026-10-10T11:57:24.764543+00:00"
   },
   {
     "id": "7725bae25a90",
@@ -230,7 +230,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00474069",
     "country": "CO",
     "deadline": "2026-10-26",
-    "deadline_days": 17,
+    "deadline_days": 16,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation in relation to DECIDE Project (Development of Statistical Capacity to Improve Decision M. Country: Congo, Democratic Republic of. Reference: ZR-MINPLAN-576305-CS-INDV.",
     "fit_per_area": {
@@ -259,7 +259,45 @@
       "wb_project_id": "P516861",
       "wb_reference": "ZR-MINPLAN-576305-CS-INDV"
     },
-    "fetched_at": "2026-10-09T12:37:59.159270+00:00"
+    "fetched_at": "2026-10-10T11:57:24.778825+00:00"
+  },
+  {
+    "id": "55138c3ab8a3",
+    "source": "World Bank",
+    "title": "Infrastructure Advisor Consultant",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00473826",
+    "country": "SA",
+    "deadline": "2026-11-02",
+    "deadline_days": 23,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Pacific Region Preparedness, Adaptation and Resilience - Samoa Project. Country: Samoa. Reference: WS-MWTI-526645-CS-INDV.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P507749",
+      "wb_reference": "WS-MWTI-526645-CS-INDV"
+    },
+    "fetched_at": "2026-10-10T11:57:24.777877+00:00"
   },
   {
     "id": "9d30a016a466",
@@ -268,7 +306,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
     "country": null,
     "deadline": "2026-10-13",
-    "deadline_days": 4,
+    "deadline_days": 3,
     "value_usd": null,
     "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
     "fit_per_area": {
@@ -293,7 +331,117 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-09T12:37:59.148548+00:00"
+    "fetched_at": "2026-10-10T11:57:24.765112+00:00"
+  },
+  {
+    "id": "547792757b67",
+    "source": "World Bank",
+    "title": "Constuction Supervision of Rehabilitation Works on Corridor 5: road G33: R12 - Mindic - Zgurita - Marculesti - R13 and road G35: R14 - Tepilova - Vantina - Cainarii Vechi - G33",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00474225",
+    "country": "MO",
+    "deadline": "2026-11-23",
+    "deadline_days": 44,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Moldova Rural Connectivity Project. Country: Moldova. Reference: MRCP/CS/C5/01.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P180153",
+      "wb_reference": "MRCP/CS/C5/01"
+    },
+    "fetched_at": "2026-10-10T11:57:24.777440+00:00"
+  },
+  {
+    "id": "30e6db667adf",
+    "source": "TED",
+    "title": "Ireland – Training programme services – 2026/006 Establishment of a Panel for the coordination, design, implementation, and training for the National Start-up Accelerator Programmes – Sectoral/Specialist",
+    "url": "https://ted.europa.eu/en/notice/555985-2026",
+    "country": "IE",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Enterprise Ireland. This Competition forms one of three (3) proposed programmes (outlined below) under Enterprise Ireland’s new National Accelerator Programme, a flagship initiative under Startup Ireland as part of Enterprise Ireland’s \"Delivering for Ireland, Leading Globally (2025-2029)\" strategy. Enterprise Ireland will use the Panel as and when requirements within their scope arise. However, there is no obligation upon Enterprise Ireland to use the Panel in every instance. Should the circumstances arise, the Panel as a whole may be terminated in accordance with the Panel terms and conditions. The Panel may also be employed for the award of accelerator related programmes connected with new sectoral / specialist needs in response to industry developments, trends and new technologies. To this end Enterprise Ireland will exercise its sole discretion in determining whether new accelerator programmes come within the sector or specialist area initially indicated by Applicants. Panel Members may be requested to deliver accelerator programmes falling within the scope of the panel either fully, partially, or variations of same including delivery of accelerator programmes which are closely related. Enterprise Ireland currently has a requirement for an AI Specialist Accelerator Programme and therefore intends to award an Initial Call-Off Contract immediately following the establishment of the Panel. Applicants should note that the closing date for the call for initial work is Monday ",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "555985-2026"
+    },
+    "fetched_at": "2026-10-10T11:57:24.770147+00:00"
+  },
+  {
+    "id": "ec5b9ab351af",
+    "source": "TED",
+    "title": "Germany – Health services – Bereitstellung einer E-Health-Plattform für das PEDNET-LC - Arbeitspaket 6.1 – Telemedizinische Vernetzung",
+    "url": "https://ted.europa.eu/en/notice/556984-2026",
+    "country": "DE",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "TUM Klinikum Rechts der Isar. Gegenstand des Auftrags ist die Bereitstellung, Einführung, der Betrieb und die Aufrechterhaltung einer cloudbasierten telemedizinischen Plattform für PEDNET-LC. Die Plattform soll als im Markt etablierte, produktverfügbare und möglichst standardnahe Gesamtlösung bereitgestellt werden. Ziel ist eine integrierte Lösung, die die Anforderungen der Leistungsbeschreibung möglichst weitgehend im Standardfunktionsumfang erfüllt und nur in dem erforderlichen Umfang kundenspezifische Anpassungen oder Drittsystemanbindungen vorsieht. Die Plattform soll insbesondere als strukturierte Anfrage- und Screeningmaske für Patientinnen und Patienten sowie niedergelassene Ärztinnen und Ärzte dienen und zugleich als digitale Patientenakte genutzt werden können. Sie soll es den beteiligten Einrichtungen ermöglichen, Patientendaten gemeinsam zu erfassen, einzusehen und zu nutzen, Patientenströme zu steuern, Fallkonferenzen durchzuführen und die Kommunikation mit Patientinnen und Patienten einschließlich Videosprechstunden zu unterstützen. Der Auftrag umfasst insbesondere folgende Leistungsziele: Vorscreening von Patientenanfragen durch Leistungserbringer zur Stratifizierung der weiteren Versorgungswege, insbesondere im Sinne einer Einbestellung oder Absage mit Weiterempfehlung; Vernetzung der beteiligten Zentren, Kliniken und interdisziplinären Teams über eine sichere, standardisierte und klinisch bewährte cloudbasierte telemedizinische Patientenakte; rechtskonforme Ko",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "556984-2026"
+    },
+    "fetched_at": "2026-10-10T11:57:24.772273+00:00"
   },
   {
     "id": "b129a66ef1b9",
@@ -331,7 +479,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-09T12:37:59.160929+00:00"
+    "fetched_at": "2026-10-10T11:57:24.779677+00:00"
   },
   {
     "id": "b2ba3fa9d482",
@@ -369,7 +517,7 @@
       "published": "2026-08-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-09T12:37:59.161337+00:00"
+    "fetched_at": "2026-10-10T11:57:24.780098+00:00"
   },
   {
     "id": "414891241c08",
@@ -407,7 +555,7 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-09T12:37:59.162077+00:00"
+    "fetched_at": "2026-10-10T11:57:24.780836+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -445,7 +593,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-09T12:37:59.162391+00:00"
+    "fetched_at": "2026-10-10T11:57:24.781151+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -483,7 +631,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-09T12:37:59.163073+00:00"
+    "fetched_at": "2026-10-10T11:57:24.781828+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -521,7 +669,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-09T12:37:59.164149+00:00"
+    "fetched_at": "2026-10-10T11:57:24.782901+00:00"
   },
   {
     "id": "c2b50944abe4",
@@ -559,7 +707,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-09T12:37:59.165014+00:00"
+    "fetched_at": "2026-10-10T11:57:24.783750+00:00"
   },
   {
     "id": "4b8a03e40be8",
@@ -597,7 +745,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-09T12:37:59.165383+00:00"
+    "fetched_at": "2026-10-10T11:57:24.784135+00:00"
   },
   {
     "id": "4e8854cba945",
@@ -635,7 +783,7 @@
       "published": "2026-08-21T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-09T12:37:59.165760+00:00"
+    "fetched_at": "2026-10-10T11:57:24.784506+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -673,7 +821,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-09T12:37:59.166105+00:00"
+    "fetched_at": "2026-10-10T11:57:24.784848+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -711,6 +859,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-09T12:37:59.166982+00:00"
+    "fetched_at": "2026-10-10T11:57:24.785702+00:00"
   }
 ]
