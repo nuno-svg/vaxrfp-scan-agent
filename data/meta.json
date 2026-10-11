@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-10-10T11:57:24.785734+00:00",
-  "duration_seconds": 63.105348,
+  "last_run": "2026-10-11T12:09:15.285188+00:00",
+  "duration_seconds": 66.467448,
   "source_stats": {
     "ReliefWeb": {
       "fetched": 0,
@@ -50,10 +50,10 @@
   "total_kept": 23,
   "total_excluded": 156,
   "exclusion_breakdown": {
-    "gate": 126,
+    "gate": 124,
     "expired": 20,
     "sanctioned": 1,
-    "goods": 8,
+    "goods": 10,
     "bmgf_strict": 1
   },
   "min_value_usd": 50000,
