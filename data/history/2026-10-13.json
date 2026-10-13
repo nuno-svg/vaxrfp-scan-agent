@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "last_run": "2026-10-13T13:40:56.909971+00:00",
+    "duration_seconds": 294.576411,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 2,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 41,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 0,
+        "errors": 0
+      }
+    },
+    "total_kept": 4,
+    "total_excluded": 141,
+    "exclusion_breakdown": {
+      "gate": 122,
+      "expired": 13,
+      "sanctioned": 1,
+      "goods": 4,
+      "bmgf_strict": 1
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "26a971e92c59",
+      "source": "GAVI",
+      "title": "RFP: Policy Shaping Advocacy Consultancy in Japan",
+      "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
+      "country": null,
+      "deadline": "2026-10-20",
+      "deadline_days": 7,
+      "value_usd": null,
+      "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 3,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-10-13T13:40:56.896329+00:00"
+    },
+    {
+      "id": "0ee52aec8936",
+      "source": "Africa CDC",
+      "title": "Hire a Firm to Conduct a Comprehensive IT Audit of Planned and Procured Software, Hardware, and Information Systems under Grant I and Grant II",
+      "url": "https://africacdc.org/opportunity/hire-a-firm-to-conduct-a-comprehensive-it-audit-of-planned-and-procured-software-hardware-and-information-systems-under-grant-i-and-grant-ii/",
+      "country": null,
+      "deadline": "2026-10-26",
+      "deadline_days": 13,
+      "value_usd": null,
+      "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) is implementing two World Bank-funded projects Africa CDC Support Program to Combat Current and Future Public Health Threats Project (P178633: IDA E1110) and Africa CDC Regional Investment Financing Project (P167916: IDA D5260) aimed at strengthening continental capacity in disease prevention, detection and response and intends to apply part of the proceeds for consulting services. The projects rely significantly on information technology systems, infrastructure, digital platforms and data to support programme implementation, financial management, procurement, reporting, surveillance and other operational activities. Substantial investments have also been made in IT procurement, including hardware, software, software licensing and subscriptions, cloud services, cybersecurity solutions, infrastructure, consultancy and system implementation services. In this context, an independent and comprehensive IT audit is required to provide assurance to management and relevant stakeholders on the governance, procurement, implementation, security, operational effectiveness, asset management and value for money of IT resources and systems financed or used in support of the two projects. The audit is intended to assess both the compliance of IT-related expenditures and procurement activities and the effectiveness of the resulting technology environment. It shall therefore consider the complete lifecycle from planning and pro",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 3,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-10-13T13:40:56.900448+00:00"
+    },
+    {
+      "id": "5a90fccd8262",
+      "source": "World Bank",
+      "title": "Consulting Services for Capacity Building and Specialized In-Depth Training of One Health Seed Talents in Hainan Province.（3.7.2）",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00474499",
+      "country": "CH",
+      "deadline": "2026-10-26",
+      "deadline_days": 13,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: China Emerging Infectious Diseases Prevention, Preparedness and Response Project. Country: China. Reference: HN-FC-100.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P173746",
+        "wb_reference": "HN-FC-100"
+      },
+      "fetched_at": "2026-10-13T13:40:56.909378+00:00"
+    },
+    {
+      "id": "9d30a016a466",
+      "source": "GAVI",
+      "title": "RFP : Relocation and Repatriation Services",
+      "url": "https://www.gavi.org/news/document-library/rfp-relocation-and-repatriation-services",
+      "country": null,
+      "deadline": "2026-10-13",
+      "deadline_days": 0,
+      "value_usd": null,
+      "description": "Gavi is seeking a service provider to deliver relocation and repatriation services in compliance with its policies, including the management of exceptions, subcontractors, records, and reporting to support cost control and continuous improvement.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-10-13T13:40:56.896784+00:00"
+    }
+  ]
+}
