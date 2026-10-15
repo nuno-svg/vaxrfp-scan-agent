@@ -35,7 +35,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-14T11:14:30.324434+00:00"
+    "fetched_at": "2026-10-15T10:54:05.002481+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -73,7 +73,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-14T11:14:30.325807+00:00"
+    "fetched_at": "2026-10-15T10:54:05.003815+00:00"
   },
   {
     "id": "37737e671331",
@@ -111,7 +111,7 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-14T11:14:30.326508+00:00"
+    "fetched_at": "2026-10-15T10:54:05.004483+00:00"
   },
   {
     "id": "7957d095f782",
@@ -149,7 +149,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-14T11:14:30.329518+00:00"
+    "fetched_at": "2026-10-15T10:54:05.007500+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -158,7 +158,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 6,
+    "deadline_days": 5,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -183,7 +183,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-14T11:14:30.301433+00:00"
+    "fetched_at": "2026-10-15T10:54:04.980689+00:00"
   },
   {
     "id": "0ee52aec8936",
@@ -192,7 +192,7 @@
     "url": "https://africacdc.org/opportunity/hire-a-firm-to-conduct-a-comprehensive-it-audit-of-planned-and-procured-software-hardware-and-information-systems-under-grant-i-and-grant-ii/",
     "country": null,
     "deadline": "2026-10-26",
-    "deadline_days": 12,
+    "deadline_days": 11,
     "value_usd": null,
     "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) is implementing two World Bank-funded projects Africa CDC Support Program to Combat Current and Future Public Health Threats Project (P178633: IDA E1110) and Africa CDC Regional Investment Financing Project (P167916: IDA D5260) aimed at strengthening continental capacity in disease prevention, detection and response and intends to apply part of the proceeds for consulting services. The projects rely significantly on information technology systems, infrastructure, digital platforms and data to support programme implementation, financial management, procurement, reporting, surveillance and other operational activities. Substantial investments have also been made in IT procurement, including hardware, software, software licensing and subscriptions, cloud services, cybersecurity solutions, infrastructure, consultancy and system implementation services. In this context, an independent and comprehensive IT audit is required to provide assurance to management and relevant stakeholders on the governance, procurement, implementation, security, operational effectiveness, asset management and value for money of IT resources and systems financed or used in support of the two projects. The audit is intended to assess both the compliance of IT-related expenditures and procurement activities and the effectiveness of the resulting technology environment. It shall therefore consider the complete lifecycle from planning and pro",
     "fit_per_area": {
@@ -217,33 +217,33 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-14T11:14:30.306804+00:00"
+    "fetched_at": "2026-10-15T10:54:04.986375+00:00"
   },
   {
-    "id": "952ab25dc7a9",
+    "id": "07ba7b56d977",
     "source": "World Bank",
-    "title": "Technical Study on the Impact of Electric Vehicles on the Electricity Distribution Network in Cambodia.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468236",
-    "country": "CA",
-    "deadline": "2026-10-19",
-    "deadline_days": 5,
+    "title": "Hiring of Independent Consultant for preparation of Audit and Assessment Reports Group-2 (Mamasın Dam, Ayrancı Dam, Naras Dam) TIMP2",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475029",
+    "country": "TU",
+    "deadline": "2026-11-04",
+    "deadline_days": 20,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Cambodia Sustainable Energy Transition Project Preparation. Country: Cambodia. Reference: CSET-EDC-CS04-01.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Türkiye Second Irrigation Modernization and Water Efficiency Project. Country: Turkiye. Reference: TIMP2-BDAN-2.",
     "fit_per_area": {
-      "cold_chain": 2,
+      "cold_chain": 0,
       "manufacturing": 0,
-      "regulatory": 0,
+      "regulatory": 3,
       "procurement": 2,
       "mel": 0
     },
-    "fit_total": 2,
-    "fit_top_area": "cold_chain",
+    "fit_total": 3,
+    "fit_top_area": "regulatory",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": true,
+      "urgent_deadline": false,
       "expired": false
     },
     "flag_notes": {
@@ -252,59 +252,21 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182080",
-      "wb_reference": "CSET-EDC-CS04-01"
+      "wb_project_id": "P506997",
+      "wb_reference": "TIMP2-BDAN-2"
     },
-    "fetched_at": "2026-10-14T11:14:30.322699+00:00"
+    "fetched_at": "2026-10-15T10:54:05.000521+00:00"
   },
   {
-    "id": "1a39e20c1381",
+    "id": "78da6f35740c",
     "source": "World Bank",
-    "title": "Technical study of distribution extension and strengthening",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468239",
-    "country": "CA",
-    "deadline": "2026-10-19",
-    "deadline_days": 5,
+    "title": "Recrutement d'un Consultant individuel Ingénieur Responsable du Secteur électrification rurale du PDI-3",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475007",
+    "country": "CO",
+    "deadline": "2026-10-22",
+    "deadline_days": 7,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Cambodia Sustainable Energy Transition Project Preparation. Country: Cambodia. Reference: CSET-EDC-CS04-02.",
-    "fit_per_area": {
-      "cold_chain": 2,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182080",
-      "wb_reference": "CSET-EDC-CS04-02"
-    },
-    "fetched_at": "2026-10-14T11:14:30.322768+00:00"
-  },
-  {
-    "id": "7af7ac427e93",
-    "source": "World Bank",
-    "title": "Hiring national procurement individual consultant to support EDC during the last period of GFPP Grant.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468233",
-    "country": "CA",
-    "deadline": "2026-10-19",
-    "deadline_days": 5,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Cambodia Sustainable Energy Transition Project Preparation. Country: Cambodia. Reference: CSET-EDC-CS-03.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Inga 3  Development Program. Country: Congo, Democratic Republic of. Reference: ZR-ADEPI-534943-CS-INDV.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -328,21 +290,21 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182080",
-      "wb_reference": "CSET-EDC-CS-03"
+      "wb_project_id": "P506438",
+      "wb_reference": "ZR-ADEPI-534943-CS-INDV"
     },
-    "fetched_at": "2026-10-14T11:14:30.323863+00:00"
+    "fetched_at": "2026-10-15T10:54:05.001198+00:00"
   },
   {
-    "id": "58bb97523b6d",
+    "id": "978690903732",
     "source": "World Bank",
-    "title": "Senior Procurement Specialist",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00474906",
-    "country": "MA",
-    "deadline": "2026-10-23",
-    "deadline_days": 9,
+    "title": "Hiring of Independent Consultant for preparation of Audit and Assessment Reports Group-1 (Gümenek Regulator, Almus Dam, Ataköy Dam, Omala Dam) TIMP2",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475028",
+    "country": "TU",
+    "deadline": "2026-11-04",
+    "deadline_days": 20,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Malawi Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programma. Country: Malawi. Reference: MW-MOH-573835-CS-INDV.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Türkiye Second Irrigation Modernization and Water Efficiency Project. Country: Turkiye. Reference: TIMP2-BDAN-1.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -366,10 +328,48 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P505187",
-      "wb_reference": "MW-MOH-573835-CS-INDV"
+      "wb_project_id": "P506997",
+      "wb_reference": "TIMP2-BDAN-1"
     },
-    "fetched_at": "2026-10-14T11:14:30.323413+00:00"
+    "fetched_at": "2026-10-15T10:54:05.001388+00:00"
+  },
+  {
+    "id": "f889f71aaefe",
+    "source": "World Bank",
+    "title": "Equipment for Provincial Wastewater Surveillance Sample Storage Facilities.（2.4）",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00474723",
+    "country": "CH",
+    "deadline": "2026-11-19",
+    "deadline_days": 35,
+    "value_usd": null,
+    "description": "Invitation for Bids. Request for Bids. Project: China Emerging Infectious Diseases Prevention, Preparedness and Response Project. Country: China. Reference: HN-G-80.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Invitation for Bids",
+      "wb_project_id": "P173746",
+      "wb_reference": "HN-G-80"
+    },
+    "fetched_at": "2026-10-15T10:54:05.001956+00:00"
   },
   {
     "id": "b129a66ef1b9",
@@ -407,7 +407,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-14T11:14:30.324657+00:00"
+    "fetched_at": "2026-10-15T10:54:05.002684+00:00"
   },
   {
     "id": "b2ba3fa9d482",
@@ -445,7 +445,7 @@
       "published": "2026-08-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-14T11:14:30.325087+00:00"
+    "fetched_at": "2026-10-15T10:54:05.003106+00:00"
   },
   {
     "id": "5b293b87fbb6",
@@ -483,7 +483,7 @@
       "published": "2026-07-21T10:32:44+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-14T11:14:30.325403+00:00"
+    "fetched_at": "2026-10-15T10:54:05.003421+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -521,7 +521,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-14T11:14:30.326104+00:00"
+    "fetched_at": "2026-10-15T10:54:05.004103+00:00"
   },
   {
     "id": "c2b50944abe4",
@@ -559,7 +559,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-14T11:14:30.327320+00:00"
+    "fetched_at": "2026-10-15T10:54:05.005296+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -597,7 +597,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-14T11:14:30.327805+00:00"
+    "fetched_at": "2026-10-15T10:54:05.005766+00:00"
   },
   {
     "id": "4b8a03e40be8",
@@ -635,7 +635,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-14T11:14:30.328589+00:00"
+    "fetched_at": "2026-10-15T10:54:05.006563+00:00"
   },
   {
     "id": "4e8854cba945",
@@ -673,7 +673,7 @@
       "published": "2026-08-21T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-14T11:14:30.328970+00:00"
+    "fetched_at": "2026-10-15T10:54:05.006962+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -711,7 +711,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-14T11:14:30.329306+00:00"
+    "fetched_at": "2026-10-15T10:54:05.007293+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -749,6 +749,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-14T11:14:30.329767+00:00"
+    "fetched_at": "2026-10-15T10:54:05.007736+00:00"
   }
 ]
