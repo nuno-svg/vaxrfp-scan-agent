@@ -1,22 +1,22 @@
 [
   {
-    "id": "f3a92a2fca21",
-    "source": "TED",
-    "title": "Germany – Pharmaceutical products – Abschluss nicht-exklusiver Rabattvereinbarung nach § 130a Abs. 8 bzw. § 130c Abs. 8 SGB V zu patentgeschützten Wirkstoffen-VV93",
-    "url": "https://ted.europa.eu/en/notice/575544-2026",
-    "country": "DE",
-    "deadline": "2027-08-10",
-    "deadline_days": 295,
+    "id": "4246c8b4093f",
+    "source": "World Bank",
+    "title": "Hiring of a Monitoring and Evaluation Specialist",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476048",
+    "country": "ET",
+    "deadline": "2026-11-03",
+    "deadline_days": 14,
     "value_usd": null,
-    "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nichtexklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.10.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter https://vergabeportal.gwq-serviceplus.de/arzneimittel einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.09.2026 kann eine erstmalige Meldung zum 01.10.2026 realisiert werden. Folgende Unterlagen sind einzureichen: - unterzeichneter Vertrag in doppelter Ausfertigung oder mit qualifizierter elektrinischer Signatur (QES); - einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug aus dem öffentlichen Teil der AMIceDatenbank; - Liste der vertragsgegenständlichen PZN (Anlage 5), - unterzeichnete Eigenerklärung (Anlage 6), - Eigenerklärung zur EU-Verordnung (",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support for Preparation of the Modernizing Ethiopia’s Statistical System Project. Country: . Reference: ET-ESS-574158-CS-INDV.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
       "regulatory": 0,
-      "procurement": 0,
-      "mel": 4
+      "procurement": 2,
+      "mel": 8
     },
-    "fit_total": 4,
+    "fit_total": 8,
     "fit_top_area": "mel",
     "breadth_bonus": 0,
     "flags": {
@@ -31,9 +31,11 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "575544-2026"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P516394",
+      "wb_reference": "ET-ESS-574158-CS-INDV"
     },
-    "fetched_at": "2026-10-19T12:12:09.077436+00:00"
+    "fetched_at": "2026-10-20T10:57:50.469460+00:00"
   },
   {
     "id": "c6e227a22d8b",
@@ -71,7 +73,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-19T12:12:09.089874+00:00"
+    "fetched_at": "2026-10-20T10:57:50.475975+00:00"
   },
   {
     "id": "15b157cf1c62",
@@ -109,7 +111,7 @@
       "published": "2026-07-26T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-19T12:12:09.091245+00:00"
+    "fetched_at": "2026-10-20T10:57:50.477318+00:00"
   },
   {
     "id": "37737e671331",
@@ -147,7 +149,7 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-19T12:12:09.091933+00:00"
+    "fetched_at": "2026-10-20T10:57:50.477979+00:00"
   },
   {
     "id": "7957d095f782",
@@ -185,7 +187,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-19T12:12:09.096178+00:00"
+    "fetched_at": "2026-10-20T10:57:50.481796+00:00"
   },
   {
     "id": "26a971e92c59",
@@ -194,7 +196,7 @@
     "url": "https://www.gavi.org/news/document-library/rfp-policy-shaping-advocacy-consultancy-japan",
     "country": null,
     "deadline": "2026-10-20",
-    "deadline_days": 1,
+    "deadline_days": 0,
     "value_usd": null,
     "description": "The consultant for the Gavi Project will play a critical role in anchoring Gavi’s relevance in the context of Japan by reinforcing stakeholder engagement primarily with political leaders, stakeholders, and decision-makers that are relevant to policy shaping in Japan. The role requires a deep understanding of Japan’s institutional landscape, key decision-makers in Japanese policy and political dynamics, and proven working experience with the aforementioned stakeholders.",
     "fit_per_area": {
@@ -219,7 +221,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-19T12:12:09.071679+00:00"
+    "fetched_at": "2026-10-20T10:57:50.449587+00:00"
   },
   {
     "id": "0ee52aec8936",
@@ -228,7 +230,7 @@
     "url": "https://africacdc.org/opportunity/hire-a-firm-to-conduct-a-comprehensive-it-audit-of-planned-and-procured-software-hardware-and-information-systems-under-grant-i-and-grant-ii/",
     "country": null,
     "deadline": "2026-10-26",
-    "deadline_days": 7,
+    "deadline_days": 6,
     "value_usd": null,
     "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) is implementing two World Bank-funded projects Africa CDC Support Program to Combat Current and Future Public Health Threats Project (P178633: IDA E1110) and Africa CDC Regional Investment Financing Project (P167916: IDA D5260) aimed at strengthening continental capacity in disease prevention, detection and response and intends to apply part of the proceeds for consulting services. The projects rely significantly on information technology systems, infrastructure, digital platforms and data to support programme implementation, financial management, procurement, reporting, surveillance and other operational activities. Substantial investments have also been made in IT procurement, including hardware, software, software licensing and subscriptions, cloud services, cybersecurity solutions, infrastructure, consultancy and system implementation services. In this context, an independent and comprehensive IT audit is required to provide assurance to management and relevant stakeholders on the governance, procurement, implementation, security, operational effectiveness, asset management and value for money of IT resources and systems financed or used in support of the two projects. The audit is intended to assess both the compliance of IT-related expenditures and procurement activities and the effectiveness of the resulting technology environment. It shall therefore consider the complete lifecycle from planning and pro",
     "fit_per_area": {
@@ -253,103 +255,27 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-10-19T12:12:09.077018+00:00"
+    "fetched_at": "2026-10-20T10:57:50.455128+00:00"
   },
   {
-    "id": "990e528ef771",
+    "id": "d9d6edaab1ce",
     "source": "World Bank",
-    "title": "Consultancy Services to Prepare Site Studies (Geotechnical Investigation Part 1) for Wind Farm Installation In Botswana.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475673",
-    "country": "BO",
-    "deadline": "2026-11-11",
-    "deadline_days": 23,
+    "title": "Hiring of Procurement Specialist",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476045",
+    "country": "ET",
+    "deadline": "2026-11-03",
+    "deadline_days": 14,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Botswana Renewable Energy Scale Up Support. Country: Botswana. Reference: BW-MME-574456-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 3,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 3,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P178822",
-      "wb_reference": "BW-MME-574456-CS-CQS"
-    },
-    "fetched_at": "2026-10-19T12:12:09.088453+00:00"
-  },
-  {
-    "id": "8273e632f44f",
-    "source": "World Bank",
-    "title": "Consultancy Services to Prepare Site Studies (Hydrological, Topographic Survey, Route Survey) for Wind Farm Installation in Botswana.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475681",
-    "country": "BO",
-    "deadline": "2026-11-11",
-    "deadline_days": 23,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Botswana Renewable Energy Scale Up Support. Country: Botswana. Reference: BW-MME-568509-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 3,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 3,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P178822",
-      "wb_reference": "BW-MME-568509-CS-CQS"
-    },
-    "fetched_at": "2026-10-19T12:12:09.089530+00:00"
-  },
-  {
-    "id": "b1428a2f6e87",
-    "source": "TED",
-    "title": "Finland – Medical equipments, pharmaceuticals and personal care products – Silmäkirurgian implantit, instrumentit ja tarvikkeet DPS",
-    "url": "https://ted.europa.eu/en/notice/577587-2026",
-    "country": "FI",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Pohjois-Pohjanmaan hyvinvointialue. Pohjois-Pohjanmaan hyvinvointialue (Pohde) perustaa dynaamisen hankintajärjestelmän (DPS), jolla hankitaan tässä osallistumispyynnössä kuvattuja tavaroita Pohteen ja sen YTA-alueen tarpeisiin. YTA-alueeseen kuuluvat Lapin hyvinvointialue (Lapha), Keski-Pohjanmaan hyvinvointialue (Soite) ja Kainuun hyvinvointialue. Hankintayksikkö kilpailuttaa hankinnat erillisillä DPS:n sisäisillä kilpailutuksilla, joihin voivat osallistua järjestelmään hyväksytyt toimittajat. Hankintayksikkö hyväksyy järjestelmään kaikki osallistumishakemuksen jättäneet ehdokkaat, jotka täyttävät ehdokkaille asetetut soveltuvuusvaatimukset. DPS hankintamenettelynä on kuvattu tarkemmin osallistumispyynnön liitteessä 1. Hankinnan kohteena ovat silmäkirurgiset implantit, instrumentit ja tarvikkeet. Hankinta sisältää mm tekomykiöt, implantit, proteesit ja terapeuttiset piilolinssit, silmätarvikkeet, silmäkirurgiset yleistarvikkeet, silmäkirurgiset valmisteet sekä silmäkirurgiset instrumentit. Hankintaa ei ole jaettu osiin/luokkiin, koska hankintayksikkö katsoo, että silmäkirurgisten tuotteiden hankintamarkkinoiden rakenne, toimittajakunnan yhteneväisyys eri tuoteryhmissä sekä hankintamenettelyn tarkoituksenmukainen hallinnointi huomioon ottaen dynaaminen hankintajärjestelmä on tarkoituksenmukaista toteuttaa yhtenä kokonaisuutena. Yksittäiset hankinnat kilpailutetaan dynaamisen hankintajärjestelmän sisällä hankintatarpeen mukaisesti siten, että tarjouspyynnöissä määritellään ku",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support for Preparation of the Modernizing Ethiopia’s Statistical System Project. Country: . Reference: ET-ESS-574157-CS-INDV.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
-      "regulatory": 3,
-      "procurement": 0,
+      "regulatory": 0,
+      "procurement": 2,
       "mel": 0
     },
-    "fit_total": 3,
-    "fit_top_area": "regulatory",
+    "fit_total": 2,
+    "fit_top_area": "procurement",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
@@ -363,20 +289,136 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "577587-2026"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P516394",
+      "wb_reference": "ET-ESS-574157-CS-INDV"
     },
-    "fetched_at": "2026-10-19T12:12:09.082261+00:00"
+    "fetched_at": "2026-10-20T10:57:50.465230+00:00"
   },
   {
-    "id": "87ad77b696ab",
+    "id": "cfd5f073d4e3",
     "source": "World Bank",
-    "title": "Consulting services for conducting energy audits, preparing detailed designs and technical specifications, and supervising the renovation works for buildings in Konya province (21 building blocks across 13 campuses, with a total area of 99,201.42 m²)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472405",
-    "country": "TU",
+    "title": "Hiring of Financial Management Specialist",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476074",
+    "country": "ET",
     "deadline": "2026-11-03",
-    "deadline_days": 15,
+    "deadline_days": 14,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Least Cost Selection. Project: Second Energy Efficiency in Public Buildings under the E3 MPA. Country: Turkiye. Reference: EEPB2/WB/MOEUCC/LCS-DES&SUP-01.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support for Preparation of the Modernizing Ethiopia’s Statistical System Project. Country: . Reference: ET-ESS-574154-CS-INDV.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P516394",
+      "wb_reference": "ET-ESS-574154-CS-INDV"
+    },
+    "fetched_at": "2026-10-20T10:57:50.468098+00:00"
+  },
+  {
+    "id": "59e41dd78f09",
+    "source": "World Bank",
+    "title": "Hiring a Sector Coordinator as a senior statistician for Administrative Data Production",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476056",
+    "country": "ET",
+    "deadline": "2026-11-03",
+    "deadline_days": 14,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support for Preparation of the Modernizing Ethiopia’s Statistical System Project. Country: . Reference: ET-ESS-574801-CS-INDV.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P516394",
+      "wb_reference": "ET-ESS-574801-CS-INDV"
+    },
+    "fetched_at": "2026-10-20T10:57:50.469908+00:00"
+  },
+  {
+    "id": "19465e302be7",
+    "source": "World Bank",
+    "title": "Recruitment of Senior Statistician 1",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476051",
+    "country": "ET",
+    "deadline": "2026-11-03",
+    "deadline_days": 14,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support for Preparation of the Modernizing Ethiopia’s Statistical System Project. Country: . Reference: ET-ESS-574168-CS-INDV.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P516394",
+      "wb_reference": "ET-ESS-574168-CS-INDV"
+    },
+    "fetched_at": "2026-10-20T10:57:50.470331+00:00"
+  },
+  {
+    "id": "4a6ee7ba0d85",
+    "source": "TED",
+    "title": "Spain – Medical equipments, pharmaceuticals and personal care products – Sistema dinámico de adquisición para el suministro y servicios ópticos para la Farmacia de la Agrupación del Cuartel General del Ejército del Aire y del Espacio",
+    "url": "https://ted.europa.eu/en/notice/581360-2026",
+    "country": "ES",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire. Garantizar el adecuado suministro de productos y servicios Opticos en la Óptica perteneciente a la Farmacia de la Agrupación del Cuartel General del Ejercito del Aire y del espacio necesarios para la correcta satisfacción de necesidades oftalmológicas del personal con derecho del Ejercito del Aire y del Espacio",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -399,11 +441,9 @@
       "eligibility": ""
     },
     "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P500777",
-      "wb_reference": "EEPB2/WB/MOEUCC/LCS-DES&SUP-01"
+      "ted_publication_number": "581360-2026"
     },
-    "fetched_at": "2026-10-19T12:12:09.088681+00:00"
+    "fetched_at": "2026-10-20T10:57:50.460293+00:00"
   },
   {
     "id": "b129a66ef1b9",
@@ -441,7 +481,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-19T12:12:09.090080+00:00"
+    "fetched_at": "2026-10-20T10:57:50.476169+00:00"
   },
   {
     "id": "b2ba3fa9d482",
@@ -479,7 +519,7 @@
       "published": "2026-08-03T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-19T12:12:09.090497+00:00"
+    "fetched_at": "2026-10-20T10:57:50.476586+00:00"
   },
   {
     "id": "414891241c08",
@@ -517,7 +557,7 @@
       "published": "2026-07-25T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-19T12:12:09.090850+00:00"
+    "fetched_at": "2026-10-20T10:57:50.476922+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -555,7 +595,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-19T12:12:09.091533+00:00"
+    "fetched_at": "2026-10-20T10:57:50.477602+00:00"
   },
   {
     "id": "c2b50944abe4",
@@ -593,7 +633,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-19T12:12:09.093674+00:00"
+    "fetched_at": "2026-10-20T10:57:50.479707+00:00"
   },
   {
     "id": "30b1a13b60b0",
@@ -631,7 +671,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-19T12:12:09.094479+00:00"
+    "fetched_at": "2026-10-20T10:57:50.480176+00:00"
   },
   {
     "id": "4b8a03e40be8",
@@ -669,7 +709,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-19T12:12:09.094872+00:00"
+    "fetched_at": "2026-10-20T10:57:50.480881+00:00"
   },
   {
     "id": "695ff34f0d33",
@@ -707,45 +747,7 @@
       "published": "2026-08-22T01:21:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-19T12:12:09.095242+00:00"
-  },
-  {
-    "id": "4e8854cba945",
-    "source": "Signal:KfW",
-    "title": "Belize Strengthens Medicine and Vaccine Safety Monitoring with PAHO Support - fundsforNGOs News",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMThIU2lVWjBnQ2ZoaEd2WkVRbmhJY3pOQkdNRkc0YUI2RFlnY1pzMy1EcXlkWVhRVE9vZjdmU3phd2VqWXhBVU45NXhBM1R0N3pGVEs1bi1sYzg4dWxta2owdmpBTGV0Yi1Ca25WR3hLUzN4a1dfNy1JR3d5OXZOTG5HTnluaklwd01mU01sU05rZnlyUmdDSHpCaHd3cG1lVHRCMTB4a3dzamdGSmVNbW8tVFdJYmFV?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Belize Strengthens Medicine and Vaccine Safety Monitoring with PAHO Support &nbsp;&nbsp; fundsforNGOs News",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "donor": "KfW",
-      "published": "2026-08-21T07:00:00+00:00",
-      "signal_type": "donor"
-    },
-    "fetched_at": "2026-10-19T12:12:09.095621+00:00"
+    "fetched_at": "2026-10-20T10:57:50.481254+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -783,7 +785,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-19T12:12:09.095965+00:00"
+    "fetched_at": "2026-10-20T10:57:50.481589+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -821,6 +823,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-19T12:12:09.096416+00:00"
+    "fetched_at": "2026-10-20T10:57:50.482028+00:00"
   }
 ]
