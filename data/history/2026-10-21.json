@@ -1,0 +1,742 @@
+{
+  "meta": {
+    "last_run": "2026-10-21T11:13:15.649919+00:00",
+    "duration_seconds": 76.434366,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 2,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 58,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 9,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 3,
+        "errors": 0
+      }
+    },
+    "total_kept": 18,
+    "total_excluded": 156,
+    "exclusion_breakdown": {
+      "expired": 5,
+      "gate": 146,
+      "goods": 4,
+      "bmgf_strict": 1
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "c6e227a22d8b",
+      "source": "Signal:Biovac",
+      "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-07-24T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-10-21T11:13:15.646178+00:00"
+    },
+    {
+      "id": "7957d095f782",
+      "source": "Signal:AVMA",
+      "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-07-24T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-10-21T11:13:15.649657+00:00"
+    },
+    {
+      "id": "0ee52aec8936",
+      "source": "Africa CDC",
+      "title": "Hire a Firm to Conduct a Comprehensive IT Audit of Planned and Procured Software, Hardware, and Information Systems under Grant I and Grant II",
+      "url": "https://africacdc.org/opportunity/hire-a-firm-to-conduct-a-comprehensive-it-audit-of-planned-and-procured-software-hardware-and-information-systems-under-grant-i-and-grant-ii/",
+      "country": null,
+      "deadline": "2026-10-26",
+      "deadline_days": 5,
+      "value_usd": null,
+      "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) is implementing two World Bank-funded projects Africa CDC Support Program to Combat Current and Future Public Health Threats Project (P178633: IDA E1110) and Africa CDC Regional Investment Financing Project (P167916: IDA D5260) aimed at strengthening continental capacity in disease prevention, detection and response and intends to apply part of the proceeds for consulting services. The projects rely significantly on information technology systems, infrastructure, digital platforms and data to support programme implementation, financial management, procurement, reporting, surveillance and other operational activities. Substantial investments have also been made in IT procurement, including hardware, software, software licensing and subscriptions, cloud services, cybersecurity solutions, infrastructure, consultancy and system implementation services. In this context, an independent and comprehensive IT audit is required to provide assurance to management and relevant stakeholders on the governance, procurement, implementation, security, operational effectiveness, asset management and value for money of IT resources and systems financed or used in support of the two projects. The audit is intended to assess both the compliance of IT-related expenditures and procurement activities and the effectiveness of the resulting technology environment. It shall therefore consider the complete lifecycle from planning and pro",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 3,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-10-21T11:13:15.634144+00:00"
+    },
+    {
+      "id": "5c3ca2e4dc4d",
+      "source": "World Bank",
+      "title": "Procurement Specialist",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476347",
+      "country": "AR",
+      "deadline": "2026-11-03",
+      "deadline_days": 13,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: RESILAND: Armenia Resilient Landscapes Project. Country: Armenia. Reference: AM-EPIU-566921-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P179988",
+        "wb_reference": "AM-EPIU-566921-CS-INDV"
+      },
+      "fetched_at": "2026-10-21T11:13:15.644757+00:00"
+    },
+    {
+      "id": "d9d6edaab1ce",
+      "source": "World Bank",
+      "title": "Hiring of Procurement Specialist",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476045",
+      "country": "ET",
+      "deadline": "2026-11-03",
+      "deadline_days": 13,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support for Preparation of the Modernizing Ethiopia’s Statistical System Project. Country: Ethiopia. Reference: ET-ESS-574157-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P516394",
+        "wb_reference": "ET-ESS-574157-CS-INDV"
+      },
+      "fetched_at": "2026-10-21T11:13:15.645378+00:00"
+    },
+    {
+      "id": "41dfbf75b5d3",
+      "source": "World Bank",
+      "title": "This activity includes undertaking and/or updating E&S assessments, as relevant, preparing E&S risk management instruments including those required for school infrastructure, construction, rehabilitation and maintenance.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476348",
+      "country": "BO",
+      "deadline": "2026-11-09",
+      "deadline_days": 19,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: GFPP for Promoting Participation and Enhancing Learning (PROPEL) Botswana. Country: Botswana. Reference: BW-MOCWBE-570998-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P516058",
+        "wb_reference": "BW-MOCWBE-570998-CS-INDV"
+      },
+      "fetched_at": "2026-10-21T11:13:15.644576+00:00"
+    },
+    {
+      "id": "6a6a6c884cb5",
+      "source": "World Bank",
+      "title": "This activity includes undertaking and/or updating E&S assessments, as relevant, preparing E&S risk management instruments including those required for school infrastructure, construction, rehabilitation and maintenance.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476349",
+      "country": "BO",
+      "deadline": "2026-11-09",
+      "deadline_days": 19,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: GFPP for Promoting Participation and Enhancing Learning (PROPEL) Botswana. Country: Botswana. Reference: BW-MOCWBE-570994-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P516058",
+        "wb_reference": "BW-MOCWBE-570994-CS-INDV"
+      },
+      "fetched_at": "2026-10-21T11:13:15.644662+00:00"
+    },
+    {
+      "id": "2d3da07a2fde",
+      "source": "World Bank",
+      "title": "Hiring ICT Specialist",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476279",
+      "country": "ET",
+      "deadline": "2026-11-10",
+      "deadline_days": 20,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support for Preparation of the Modernizing Ethiopia’s Statistical System Project. Country: Ethiopia. Reference: ET-ESS-574165-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P516394",
+        "wb_reference": "ET-ESS-574165-CS-INDV"
+      },
+      "fetched_at": "2026-10-21T11:13:15.643409+00:00"
+    },
+    {
+      "id": "59852980efab",
+      "source": "World Bank",
+      "title": "Hiring Logistics & Office Assistant",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476282",
+      "country": "ET",
+      "deadline": "2026-11-10",
+      "deadline_days": 20,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support for Preparation of the Modernizing Ethiopia’s Statistical System Project. Country: Ethiopia. Reference: ET-ESS-574171-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 2,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P516394",
+        "wb_reference": "ET-ESS-574171-CS-INDV"
+      },
+      "fetched_at": "2026-10-21T11:13:15.643897+00:00"
+    },
+    {
+      "id": "44e4cde00f62",
+      "source": "World Bank",
+      "title": "Hiring Environmental Safeguards Specialist",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476289",
+      "country": "ET",
+      "deadline": "2026-11-10",
+      "deadline_days": 20,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support for Preparation of the Modernizing Ethiopia’s Statistical System Project. Country: Ethiopia. Reference: ET-ESS-574160-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P516394",
+        "wb_reference": "ET-ESS-574160-CS-INDV"
+      },
+      "fetched_at": "2026-10-21T11:13:15.644279+00:00"
+    },
+    {
+      "id": "113c392f2df4",
+      "source": "World Bank",
+      "title": "Hiring Social Safeguards Specialist",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476275",
+      "country": "ET",
+      "deadline": "2026-11-10",
+      "deadline_days": 20,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Support for Preparation of the Modernizing Ethiopia’s Statistical System Project. Country: Ethiopia. Reference: ET-ESS-574164-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P516394",
+        "wb_reference": "ET-ESS-574164-CS-INDV"
+      },
+      "fetched_at": "2026-10-21T11:13:15.645085+00:00"
+    },
+    {
+      "id": "4a6ee7ba0d85",
+      "source": "TED",
+      "title": "Spain – Medical equipments, pharmaceuticals and personal care products – Sistema dinámico de adquisición para el suministro y servicios ópticos para la Farmacia de la Agrupación del Cuartel General del Ejército del Aire y del Espacio",
+      "url": "https://ted.europa.eu/en/notice/581360-2026",
+      "country": "ES",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire. Garantizar el adecuado suministro de productos y servicios Opticos en la Óptica perteneciente a la Farmacia de la Agrupación del Cuartel General del Ejercito del Aire y del espacio necesarios para la correcta satisfacción de necesidades oftalmológicas del personal con derecho del Ejercito del Aire y del Espacio",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ted_publication_number": "581360-2026"
+      },
+      "fetched_at": "2026-10-21T11:13:15.634866+00:00"
+    },
+    {
+      "id": "b129a66ef1b9",
+      "source": "Signal:Biovac",
+      "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEh4cENadER6WDhtSzhRMnhPMjdHalJvanJRYm5IODZOS1lWNk5xYU1ScmRwbXBMLURYUnFTY2VQMzVPTmxjWkxmSll0MVFxOGRfZF9FUE15MXZTXzFvYkpLQ0QtZmFPMEJxMlRZOTRiVHN0Q00xVmc5UV82bzlRLXJCOVZjQ09Uc1lsVGNsMW1zQmRWWENsMFpyMDNUanBDUGhxdUxLekRWbDFwcDlfTXpmX204cnE2eVh4X2ozYjhUREw3U2kxWnZUQkt1d0JaQ01VZkZWWXE?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant &nbsp;&nbsp; Business Insider Africa",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-07-27T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-10-21T11:13:15.646395+00:00"
+    },
+    {
+      "id": "414891241c08",
+      "source": "Signal:Biovac",
+      "title": "AfDB backs Biovac vaccine expansion with $15 million loan - Channel Africa",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0haMDBrQzVMcE9uQlpyT04zVWhtWTJVVHo4bGFhTWcxaXZUc21iZ25rQmY4SUZuZ1JUQlIyeHZQR0ZtclZobHBSYVFRdWN5dUNOMjQ3LV9mb1NHSHo5UXhRMjdYdnhfYUJlOEdnY2RxeGJmal96ZW9nd25sUzFWUWN4Yi05YzhjNTcyeXZCZ183SnRMaDRsSjhZQUtGaHNfWUVTa1ByOGE2dDNf?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "AfDB backs Biovac vaccine expansion with $15 million loan &nbsp;&nbsp; Channel Africa",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-07-25T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-10-21T11:13:15.646737+00:00"
+    },
+    {
+      "id": "30b1a13b60b0",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Aspen Pharmacare Expands Access Ambitions for HIV Prevention Across Africa through New Agreement with MSD - Novus Press Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeVc2NFFQazlNRC00eHdpVHotU21yRHRKMThFbVVBWjJBb1ExUzJEU08tbVIwTHJhY2J3TE1hbFAxYVB2dzY3VWp5WEFrNUQ3MktMcENkMmZyck5nTHk3dl9LUV9pNEpsWlRZNE13THJIOGJmNmpKZXpFNXZsZDVKYVAzbW95cHppSlh1MUZobGVpa1NQRmdidl9RTFJSUXFJUjRERHcwcXpuc29UVjBISVEyT2N2bk40RVJkWGwwTGFKNjJyYXVnN1p3VDlnZGE2ZGtRUUdvMXNoZVk?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Aspen Pharmacare Expands Access Ambitions for HIV Prevention Across Africa through New Agreement with MSD &nbsp;&nbsp; Novus Press Bulletin",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-07-24T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-10-21T11:13:15.648748+00:00"
+    },
+    {
+      "id": "695ff34f0d33",
+      "source": "Signal:Institut Pasteur Dakar",
+      "title": "Yellow fever: using modeling to optimize the use of vaccine stocks - Institut Pasteur",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdU9uVGZDcWRCSEZMZlM1RXRxTXVScWhuSWt1RWhFcno3Zno3SU1vTWlvSGdsemJVcy1oUm9uTlBrMDVRUGlMY0xBMktfcHFnaXFQa1NlMmpQcXIwWkxOeW9MUHZYNHBEU0k1ZFk4Q1F1S2dFdEJ5QjVBR1JQMGxpMXRBWmpnUkc3T1QzMElnTnQwclhVZHlVRHc0YnY0YkxfVTJNSDVaMkNRckJq?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Yellow fever: using modeling to optimize the use of vaccine stocks &nbsp;&nbsp; Institut Pasteur",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Institut Pasteur Dakar",
+        "published": "2026-08-22T01:21:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-10-21T11:13:15.649107+00:00"
+    },
+    {
+      "id": "b96a3e8af844",
+      "source": "Signal:AFD",
+      "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AFD",
+        "published": "2026-05-11T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-10-21T11:13:15.649450+00:00"
+    },
+    {
+      "id": "d2b9d4f66c45",
+      "source": "Signal:AVMA",
+      "title": "Gavi commits $500m to Nigeria’s immunisation programme - Realnews Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUlR4Y3d2Q1MwZ2Nud3FLNXBwNnRfOC0wN3ZaNkFtZk8xY0ttNXB4Rl9BekRhZDJ0RzBma25LYTNiQng1TDhuQmZkdVJsdW1XLWZ4RHBMd2dETC1pX2ZSVklFclZYbTZpQlBoSy1ZcjdnajRid1FfWjRxbmpRclE2LUMtZ2JuOGdnUlE?oc=5",
+      "country": "NG",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Gavi commits $500m to Nigeria’s immunisation programme &nbsp;&nbsp; Realnews Magazine",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-08-01T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-10-21T11:13:15.649888+00:00"
+    }
+  ]
+}
