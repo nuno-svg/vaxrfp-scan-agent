@@ -1,43 +1,5 @@
 [
   {
-    "id": "15b157cf1c62",
-    "source": "Signal:Biovac",
-    "title": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing - IOL",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLUJkOFlza1ZvU2tLUG1hdUR4MW9Xb2FZWjJzZ0ZCMGRsMzROVmlkS0ZYRFdnU1Z4bmRwQ1FyS3Vsb1VRZVVJM1FrcnlWTmNhU0Z1a2JKUWlfTFNkbVBkcEV6M1R4VVZwejZRSUExSFpRd1phV2dCaXhJRFNLVUxxMUZjLUVXMnRIVnF2T3NxeFFnNTFqZXVBbFJLRkI1YjRPZ3FYWGdodjd0amxoQ3EyVEQ0NTJiX29jZ29qVXU2YXF5V0hOQS1odDdBVXpDQQ?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "African Development Bank backs Biovac with R250m to boost Africa's vaccine manufacturing &nbsp;&nbsp; IOL",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-07-26T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-10-23T11:03:22.033784+00:00"
-  },
-  {
     "id": "37737e671331",
     "source": "Signal:Biovac",
     "title": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production - Weekend Post",
@@ -73,7 +35,7 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-23T11:03:22.034322+00:00"
+    "fetched_at": "2026-10-24T10:21:25.539661+00:00"
   },
   {
     "id": "7957d095f782",
@@ -111,61 +73,27 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-23T11:03:22.036831+00:00"
+    "fetched_at": "2026-10-24T10:21:25.541692+00:00"
   },
   {
-    "id": "0ee52aec8936",
-    "source": "Africa CDC",
-    "title": "Hire a Firm to Conduct a Comprehensive IT Audit of Planned and Procured Software, Hardware, and Information Systems under Grant I and Grant II",
-    "url": "https://africacdc.org/opportunity/hire-a-firm-to-conduct-a-comprehensive-it-audit-of-planned-and-procured-software-hardware-and-information-systems-under-grant-i-and-grant-ii/",
-    "country": null,
-    "deadline": "2026-10-26",
-    "deadline_days": 3,
+    "id": "ce385db97bd9",
+    "source": "World Bank",
+    "title": "Preparation of an Energy Sector Investment Program for the Marshall Islands",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00459459",
+    "country": "MA",
+    "deadline": "2026-11-23",
+    "deadline_days": 30,
     "value_usd": null,
-    "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) is implementing two World Bank-funded projects Africa CDC Support Program to Combat Current and Future Public Health Threats Project (P178633: IDA E1110) and Africa CDC Regional Investment Financing Project (P167916: IDA D5260) aimed at strengthening continental capacity in disease prevention, detection and response and intends to apply part of the proceeds for consulting services. The projects rely significantly on information technology systems, infrastructure, digital platforms and data to support programme implementation, financial management, procurement, reporting, surveillance and other operational activities. Substantial investments have also been made in IT procurement, including hardware, software, software licensing and subscriptions, cloud services, cybersecurity solutions, infrastructure, consultancy and system implementation services. In this context, an independent and comprehensive IT audit is required to provide assurance to management and relevant stakeholders on the governance, procurement, implementation, security, operational effectiveness, asset management and value for money of IT resources and systems financed or used in support of the two projects. The audit is intended to assess both the compliance of IT-related expenditures and procurement activities and the effectiveness of the resulting technology environment. It shall therefore consider the complete lifecycle from planning and pro",
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Renewable Energy Generation and Access Increase Project. Country: Marshall Islands. Reference: MH-MEC-563965-CS-CQS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
       "regulatory": 0,
-      "procurement": 3,
+      "procurement": 2,
       "mel": 0
     },
-    "fit_total": 3,
+    "fit_total": 2,
     "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {},
-    "fetched_at": "2026-10-23T11:03:22.024261+00:00"
-  },
-  {
-    "id": "4a6ee7ba0d85",
-    "source": "TED",
-    "title": "Spain – Medical equipments, pharmaceuticals and personal care products – Sistema dinámico de adquisición para el suministro y servicios ópticos para la Farmacia de la Agrupación del Cuartel General del Ejército del Aire y del Espacio",
-    "url": "https://ted.europa.eu/en/notice/581360-2026",
-    "country": "ES",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire. Garantizar el adecuado suministro de productos y servicios Opticos en la Óptica perteneciente a la Farmacia de la Agrupación del Cuartel General del Ejercito del Aire y del espacio necesarios para la correcta satisfacción de necesidades oftalmológicas del personal con derecho del Ejercito del Aire y del Espacio",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
@@ -179,9 +107,11 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "581360-2026"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P181250",
+      "wb_reference": "MH-MEC-563965-CS-CQS"
     },
-    "fetched_at": "2026-10-23T11:03:22.024875+00:00"
+    "fetched_at": "2026-10-24T10:21:25.537243+00:00"
   },
   {
     "id": "b129a66ef1b9",
@@ -219,7 +149,7 @@
       "published": "2026-07-27T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-23T11:03:22.033150+00:00"
+    "fetched_at": "2026-10-24T10:21:25.538335+00:00"
   },
   {
     "id": "aea09787df35",
@@ -257,7 +187,7 @@
       "published": "2026-07-27T15:42:05+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-23T11:03:22.033477+00:00"
+    "fetched_at": "2026-10-24T10:21:25.539228+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -295,7 +225,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-23T11:03:22.034017+00:00"
+    "fetched_at": "2026-10-24T10:21:25.539416+00:00"
   },
   {
     "id": "726834fc6905",
@@ -333,7 +263,7 @@
       "published": "2026-09-23T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-23T11:03:22.035489+00:00"
+    "fetched_at": "2026-10-24T10:21:25.540603+00:00"
   },
   {
     "id": "debba72be073",
@@ -371,7 +301,7 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-23T11:03:22.036407+00:00"
+    "fetched_at": "2026-10-24T10:21:25.541343+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -409,7 +339,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-23T11:03:22.036666+00:00"
+    "fetched_at": "2026-10-24T10:21:25.541554+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -447,6 +377,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-23T11:03:22.037023+00:00"
+    "fetched_at": "2026-10-24T10:21:25.541846+00:00"
   }
 ]
