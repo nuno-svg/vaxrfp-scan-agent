@@ -35,7 +35,7 @@
       "published": "2026-07-30T08:24:59+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-24T10:21:25.539661+00:00"
+    "fetched_at": "2026-10-25T10:46:49.818272+00:00"
   },
   {
     "id": "7957d095f782",
@@ -73,7 +73,41 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-24T10:21:25.541692+00:00"
+    "fetched_at": "2026-10-25T10:46:49.821405+00:00"
+  },
+  {
+    "id": "0ee52aec8936",
+    "source": "Africa CDC",
+    "title": "Hire a Firm to Conduct a Comprehensive IT Audit of Planned and Procured Software, Hardware, and Information Systems under Grant I and Grant II",
+    "url": "https://africacdc.org/opportunity/hire-a-firm-to-conduct-a-comprehensive-it-audit-of-planned-and-procured-software-hardware-and-information-systems-under-grant-i-and-grant-ii/",
+    "country": null,
+    "deadline": "2026-10-26",
+    "deadline_days": 1,
+    "value_usd": null,
+    "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) is implementing two World Bank-funded projects Africa CDC Support Program to Combat Current and Future Public Health Threats Project (P178633: IDA E1110) and Africa CDC Regional Investment Financing Project (P167916: IDA D5260) aimed at strengthening continental capacity in disease prevention, detection and response and intends to apply part of the proceeds for consulting services. The projects rely significantly on information technology systems, infrastructure, digital platforms and data to support programme implementation, financial management, procurement, reporting, surveillance and other operational activities. Substantial investments have also been made in IT procurement, including hardware, software, software licensing and subscriptions, cloud services, cybersecurity solutions, infrastructure, consultancy and system implementation services. In this context, an independent and comprehensive IT audit is required to provide assurance to management and relevant stakeholders on the governance, procurement, implementation, security, operational effectiveness, asset management and value for money of IT resources and systems financed or used in support of the two projects. The audit is intended to assess both the compliance of IT-related expenditures and procurement activities and the effectiveness of the resulting technology environment. It shall therefore consider the complete lifecycle from planning and pro",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 3,
+      "mel": 0
+    },
+    "fit_total": 3,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {},
+    "fetched_at": "2026-10-25T10:46:49.806699+00:00"
   },
   {
     "id": "ce385db97bd9",
@@ -82,7 +116,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00459459",
     "country": "MA",
     "deadline": "2026-11-23",
-    "deadline_days": 30,
+    "deadline_days": 29,
     "value_usd": null,
     "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Renewable Energy Generation and Access Increase Project. Country: Marshall Islands. Reference: MH-MEC-563965-CS-CQS.",
     "fit_per_area": {
@@ -111,18 +145,18 @@
       "wb_project_id": "P181250",
       "wb_reference": "MH-MEC-563965-CS-CQS"
     },
-    "fetched_at": "2026-10-24T10:21:25.537243+00:00"
+    "fetched_at": "2026-10-25T10:46:49.816242+00:00"
   },
   {
-    "id": "b129a66ef1b9",
-    "source": "Signal:Biovac",
-    "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - Business Insider Africa",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEh4cENadER6WDhtSzhRMnhPMjdHalJvanJRYm5IODZOS1lWNk5xYU1ScmRwbXBMLURYUnFTY2VQMzVPTmxjWkxmSll0MVFxOGRfZF9FUE15MXZTXzFvYkpLQ0QtZmFPMEJxMlRZOTRiVHN0Q00xVmc5UV82bzlRLXJCOVZjQ09Uc1lsVGNsMW1zQmRWWENsMFpyMDNUanBDUGhxdUxLekRWbDFwcDlfTXpmX204cnE2eVh4X2ozYjhUREw3U2kxWnZUQkt1d0JaQ01VZkZWWXE?oc=5",
-    "country": "ZA",
-    "deadline": null,
-    "deadline_days": null,
+    "id": "87789cc14b18",
+    "source": "TED",
+    "title": "Germany – Pharmaceutical products – Offene Rahmenvereinbarung über Arzneimittelrabatte gemäß § 130a Abs.8 SGB V mit jederzeitiger Beitrittsmöglichkeit, sog. Zulassungsmodell 2026-10",
+    "url": "https://ted.europa.eu/en/notice/590561-2026",
+    "country": "DE",
+    "deadline": "2028-08-05",
+    "deadline_days": 650,
     "value_usd": null,
-    "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant &nbsp;&nbsp; Business Insider Africa",
+    "description": "Deutsche Rentenversicherung Knappschaft-Bahn-See. Die vorliegende Bekanntmachung dient dem Abschluss von Vereinbarungen zu dem Wirkstoff „Abirateron 250mg Darreichungsform: FTA (ATC-Code: L02BX03)“ mit pharmazeutischen Unternehmen im Sinne von § 130a Abs. 8 Satz 1 Sozialgesetzbuch, fünftes Buch (SGB V) (Rabattverträge). Gemäß § 130a Abs. 8 Satz 1 SGB V ist die Aufforderung zur Teilnahme nur an pharmazeutische Unternehmer oder Arbeitnehmergemeinschaften pharmazeutischer Unternehmer im Sinne des § 4 Abs. 18 Arzneimittelgesetz (AMG) gerichtet. Es handelt sich nicht um ein Offenes Verfahren, sondern um eine Veröffentlichung der Aufforderung zum Abschluss/Beitritt von/zu Rabattverträgen mit für alle Teilnehmer festgelegten und nicht verhandelbaren Konditionen einschließlich der Höhe des Rabattes. Die entsprechenden Angaben unter dem Punkt 2.1 \"Verfahrensart\" sowie unter dem Punkt 5.1.12 \"Bedingung für die Auftragsvergabe_hier: Frist, bis zu der das Angebot gültig sein muss\" sind nur der Systematik dieses Vordruckes geschuldet. Vertragspartner können unbegrenzt viele pharmazeutische Unternehmer oder Arbeitnehmergemeinschaften pharmazeutischer Unternehmer im Sinne des § 4 Abs. 18 Arzneimittelgesetz (AMG) werden. Der Vertragsabschluss oder ein Beitritt erfolgt, indem die geforderten ausgefüllten Eigenerklärungen bzw. Nachweise sowie den Vertrag bzw. die Verträge entweder: a) Handschriftlich unterschrieben (Schriftform nach § 126 BGB) per Post oder b) Mit einer qualifizierten elektron",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -145,11 +179,9 @@
       "eligibility": ""
     },
     "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-07-27T07:00:00+00:00",
-      "signal_type": "manufacturer"
+      "ted_publication_number": "590561-2026"
     },
-    "fetched_at": "2026-10-24T10:21:25.538335+00:00"
+    "fetched_at": "2026-10-25T10:46:49.812728+00:00"
   },
   {
     "id": "aea09787df35",
@@ -187,7 +219,7 @@
       "published": "2026-07-27T15:42:05+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-24T10:21:25.539228+00:00"
+    "fetched_at": "2026-10-25T10:46:49.817587+00:00"
   },
   {
     "id": "9c9733ffa5c1",
@@ -225,7 +257,7 @@
       "published": "2026-07-29T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-24T10:21:25.539416+00:00"
+    "fetched_at": "2026-10-25T10:46:49.817873+00:00"
   },
   {
     "id": "726834fc6905",
@@ -263,7 +295,7 @@
       "published": "2026-09-23T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-24T10:21:25.540603+00:00"
+    "fetched_at": "2026-10-25T10:46:49.819711+00:00"
   },
   {
     "id": "debba72be073",
@@ -301,7 +333,7 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-24T10:21:25.541343+00:00"
+    "fetched_at": "2026-10-25T10:46:49.820857+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -339,7 +371,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-24T10:21:25.541554+00:00"
+    "fetched_at": "2026-10-25T10:46:49.821197+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -377,6 +409,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-24T10:21:25.541846+00:00"
+    "fetched_at": "2026-10-25T10:46:49.821635+00:00"
   }
 ]
