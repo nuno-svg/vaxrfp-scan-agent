@@ -1,43 +1,5 @@
 [
   {
-    "id": "37737e671331",
-    "source": "Signal:Biovac",
-    "title": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production - Weekend Post",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0h6TlhWOEVyRUFkX1dENE9EYWUxY3NrR3JCQmxWdFBnNXhUWjdxNmc3YzlzMlVZMkI0Rkd3NVNtRE5DYmUwR0lQUWE4QTJoZ2I0T3pNZTV4cFpJQ0ZuOXdmSVhxSjRBd2hIMm11WWdIWWRnc29tRzN3UDctVTl5cVVEQjF6S1ppVThUb3F3UEYtSUVmUldsVEJSMA?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "ADB, Biovac forge $15 million deal to boost Africa’s vaccine production &nbsp;&nbsp; Weekend Post",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-07-30T08:24:59+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-10-26T12:18:03.836858+00:00"
-  },
-  {
     "id": "7957d095f782",
     "source": "Signal:AVMA",
     "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
@@ -73,26 +35,26 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-26T12:18:03.840118+00:00"
+    "fetched_at": "2026-10-27T11:38:40.433091+00:00"
   },
   {
-    "id": "0ee52aec8936",
-    "source": "Africa CDC",
-    "title": "Hire a Firm to Conduct a Comprehensive IT Audit of Planned and Procured Software, Hardware, and Information Systems under Grant I and Grant II",
-    "url": "https://africacdc.org/opportunity/hire-a-firm-to-conduct-a-comprehensive-it-audit-of-planned-and-procured-software-hardware-and-information-systems-under-grant-i-and-grant-ii/",
-    "country": null,
-    "deadline": "2026-10-26",
-    "deadline_days": 0,
+    "id": "b79c6032c212",
+    "source": "World Bank",
+    "title": "Consultancy services for the Preparation of the required Environmental and Social Instruments for SPIN Natu Irrigation Scheme and Natu Dam in line with the disclosed Environmental and Social Management Framework (ESMF)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477286",
+    "country": "NI",
+    "deadline": "2026-10-30",
+    "deadline_days": 3,
     "value_usd": null,
-    "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) is implementing two World Bank-funded projects Africa CDC Support Program to Combat Current and Future Public Health Threats Project (P178633: IDA E1110) and Africa CDC Regional Investment Financing Project (P167916: IDA D5260) aimed at strengthening continental capacity in disease prevention, detection and response and intends to apply part of the proceeds for consulting services. The projects rely significantly on information technology systems, infrastructure, digital platforms and data to support programme implementation, financial management, procurement, reporting, surveillance and other operational activities. Substantial investments have also been made in IT procurement, including hardware, software, software licensing and subscriptions, cloud services, cybersecurity solutions, infrastructure, consultancy and system implementation services. In this context, an independent and comprehensive IT audit is required to provide assurance to management and relevant stakeholders on the governance, procurement, implementation, security, operational effectiveness, asset management and value for money of IT resources and systems financed or used in support of the two projects. The audit is intended to assess both the compliance of IT-related expenditures and procurement activities and the effectiveness of the resulting technology environment. It shall therefore consider the complete lifecycle from planning and pro",
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Sustainable Power and Irrigation for Nigeria Project. Country: Nigeria. Reference: NG-ZAMFARA STATE SPIN -572320-CS-CQS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
       "regulatory": 0,
-      "procurement": 3,
+      "procurement": 2,
       "mel": 0
     },
-    "fit_total": 3,
+    "fit_total": 2,
     "fit_top_area": "procurement",
     "breadth_bonus": 0,
     "flags": {
@@ -106,19 +68,23 @@
       "sanctions": "",
       "eligibility": ""
     },
-    "raw": {},
-    "fetched_at": "2026-10-26T12:18:03.823528+00:00"
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P179684",
+      "wb_reference": "NG-ZAMFARA STATE SPIN -572320-CS-CQS"
+    },
+    "fetched_at": "2026-10-27T11:38:40.428731+00:00"
   },
   {
-    "id": "ce385db97bd9",
+    "id": "c69daf9fd1e7",
     "source": "World Bank",
-    "title": "Preparation of an Energy Sector Investment Program for the Marshall Islands",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00459459",
-    "country": "MA",
-    "deadline": "2026-11-23",
-    "deadline_days": 28,
+    "title": "Consultancy Services - Report Preparation  (Enterprise Census)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477328",
+    "country": "OE",
+    "deadline": "2026-11-11",
+    "deadline_days": 15,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Renewable Energy Generation and Access Increase Project. Country: Marshall Islands. Reference: MH-MEC-563965-CS-CQS.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: OECS Data for Decision Making (DDM) Project. Country: OECS Countries. Reference: SLU-DDM-DATAPRO-EC-CS-06-25.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -142,36 +108,36 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P181250",
-      "wb_reference": "MH-MEC-563965-CS-CQS"
+      "wb_project_id": "P174986",
+      "wb_reference": "SLU-DDM-DATAPRO-EC-CS-06-25"
     },
-    "fetched_at": "2026-10-26T12:18:03.835169+00:00"
+    "fetched_at": "2026-10-27T11:38:40.427939+00:00"
   },
   {
-    "id": "1e0ec0d7e50f",
-    "source": "TED",
-    "title": "Italy – Miscellaneous health services – Procedura aperta per l'affidamento del servizio biennale di supporto assistenziale e di ausiliariato",
-    "url": "https://ted.europa.eu/en/notice/592101-2026",
-    "country": "IT",
-    "deadline": "2026-10-29",
-    "deadline_days": 3,
+    "id": "bc930eff577b",
+    "source": "World Bank",
+    "title": "Consultancy Services-  Data processing , Report Preparation and Dissemination (LFS/SLCHBS/CAF)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477326",
+    "country": "OE",
+    "deadline": "2026-11-11",
+    "deadline_days": 15,
     "value_usd": null,
-    "description": "A.O.U. Policlinico \"Gaspare Rodolico - San Marco\" U.O.C. Settore Acquisti e Logistica. Procedura aperta per l'affidamento del servizio biennale di supporto assistenziale e di ausiliariato",
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: OECS Data for Decision Making (DDM) Project. Country: OECS Countries. Reference: SLU-DDM-QCBS-DATAPRO-LFS-CAF-SLCHBS-26.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
       "regulatory": 0,
-      "procurement": 0,
+      "procurement": 2,
       "mel": 0
     },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
+    "fit_total": 2,
+    "fit_top_area": "procurement",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": true,
+      "urgent_deadline": false,
       "expired": false
     },
     "flag_notes": {
@@ -179,20 +145,22 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "592101-2026"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P174986",
+      "wb_reference": "SLU-DDM-QCBS-DATAPRO-LFS-CAF-SLCHBS-26"
     },
-    "fetched_at": "2026-10-26T12:18:03.828103+00:00"
+    "fetched_at": "2026-10-27T11:38:40.428178+00:00"
   },
   {
-    "id": "87789cc14b18",
+    "id": "aa59c83a0e6c",
     "source": "TED",
-    "title": "Germany – Pharmaceutical products – Offene Rahmenvereinbarung über Arzneimittelrabatte gemäß § 130a Abs.8 SGB V mit jederzeitiger Beitrittsmöglichkeit, sog. Zulassungsmodell 2026-10",
-    "url": "https://ted.europa.eu/en/notice/590561-2026",
+    "title": "Germany – Health services – Open House Multiplikator*innen zur Gesundheitsförderung in Schulen",
+    "url": "https://ted.europa.eu/en/notice/597463-2026",
     "country": "DE",
-    "deadline": "2028-08-05",
-    "deadline_days": 649,
+    "deadline": "2028-08-31",
+    "deadline_days": 674,
     "value_usd": null,
-    "description": "Deutsche Rentenversicherung Knappschaft-Bahn-See. Die vorliegende Bekanntmachung dient dem Abschluss von Vereinbarungen zu dem Wirkstoff „Abirateron 250mg Darreichungsform: FTA (ATC-Code: L02BX03)“ mit pharmazeutischen Unternehmen im Sinne von § 130a Abs. 8 Satz 1 Sozialgesetzbuch, fünftes Buch (SGB V) (Rabattverträge). Gemäß § 130a Abs. 8 Satz 1 SGB V ist die Aufforderung zur Teilnahme nur an pharmazeutische Unternehmer oder Arbeitnehmergemeinschaften pharmazeutischer Unternehmer im Sinne des § 4 Abs. 18 Arzneimittelgesetz (AMG) gerichtet. Es handelt sich nicht um ein Offenes Verfahren, sondern um eine Veröffentlichung der Aufforderung zum Abschluss/Beitritt von/zu Rabattverträgen mit für alle Teilnehmer festgelegten und nicht verhandelbaren Konditionen einschließlich der Höhe des Rabattes. Die entsprechenden Angaben unter dem Punkt 2.1 \"Verfahrensart\" sowie unter dem Punkt 5.1.12 \"Bedingung für die Auftragsvergabe_hier: Frist, bis zu der das Angebot gültig sein muss\" sind nur der Systematik dieses Vordruckes geschuldet. Vertragspartner können unbegrenzt viele pharmazeutische Unternehmer oder Arbeitnehmergemeinschaften pharmazeutischer Unternehmer im Sinne des § 4 Abs. 18 Arzneimittelgesetz (AMG) werden. Der Vertragsabschluss oder ein Beitritt erfolgt, indem die geforderten ausgefüllten Eigenerklärungen bzw. Nachweise sowie den Vertrag bzw. die Verträge entweder: a) Handschriftlich unterschrieben (Schriftform nach § 126 BGB) per Post oder b) Mit einer qualifizierten elektron",
+    "description": "IKK Südwest. Das Projekt „schmeckt.einfach.gut.“ basiert auf dem gleichnamigen, modular aufgebauten Kochbuch. Dieses wurde vom Adipositas-Netzwerk Saar e. V. und dem MUKMAV entwickelt. Mitfinanziert wurde es vom MUKMAV, sowie dem Ministerium für Gesundheit, Frauen und Familie. Es dient der Förderung des Bewusstseins für eine gesunde Ernährung bei den Schüler*innen. Das Projekt wird von der IKK Südwest gefördert und vom MUKMAV koordiniert und von geschulten Multiplikatorinnen und Multiplikatoren gemeinsam mit Lehrkräften (Teamteaching) an den Schulen durchgeführt. Eine Schulung für die Multipliaktor*innen wurde bereits vom MUKMAV durchgeführt. Über die Anerkennung einer bereits erworbenen vergleichbaren Qualifikation entscheidet die IKK Südwest. Bei Bedarf können noch weitere Schulungen angeboten werden. Die Multiplikator*innen setzen in einem partizipativen Prozess gemeinsam mit den Schulen, den Schülerinnen und Schülern das Projekt um. Die IKK Südwest schließt hierbei die Honorarverträge mit den Multiplikator*innen und zahlt deshalb auch das Honorar der Multiplikator*innen. Das Honorar beträgt gemäß der Anlage 1 zu dem Honorarvertrag 66,66 EUR pro Stunde Es werden der/dem Multiplikator/in maximal 8 Stunden (insgesamt 533,28 EUR) pro Projekt vergütet. (Aufteilung der Stunden s. Honorarvertrag) Die IKK Südwest beteiligt sich an der Finanzierung des Projekts in den Schuljahren 2026/2027 und 2027/2028 nach Maßgabe des Kooperationsvertrages zwischen der IKK Südwest, dem MUKMAV un",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -215,20 +183,20 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "590561-2026"
+      "ted_publication_number": "597463-2026"
     },
-    "fetched_at": "2026-10-26T12:18:03.824703+00:00"
+    "fetched_at": "2026-10-27T11:38:40.425598+00:00"
   },
   {
-    "id": "9c9733ffa5c1",
-    "source": "Signal:Biovac",
-    "title": "Biovac’s cholera vaccine test for Africa’s self-reliance - The Independent Uganda",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkxDR0dHdXhEeFZub2NlTVlyQ0VwVHpwQ3k3M3hBUjJ3Vjk2Q3V5bWdGT1MxYm1IYlFuY1lHVlBISFhQMVpNQjNjUTZRSk53Y2hnZEw4ZXl3U2xZdVlKakFSb01zSEtZTHNOU2JzazA2czhzMmdUZXZNY3p5czRVRXc4SklWTEllOTdiZERR?oc=5",
-    "country": "UG",
+    "id": "c19670619617",
+    "source": "TED",
+    "title": "Finland – Medical equipments, pharmaceuticals and personal care products – Verisuonikirurgiset laitteet ja tarvikkeet 2026-2032 DPS",
+    "url": "https://ted.europa.eu/en/notice/596313-2026",
+    "country": "FI",
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Biovac’s cholera vaccine test for Africa’s self-reliance &nbsp;&nbsp; The Independent Uganda",
+    "description": "HUS-yhtymä. HUS perustaa dynaamisen hankintajärjestelmän verisuonisuonikirurgiassa käytettäville laitteille ja tarvikkeille. Dynaamisen hankintajärjestelmän kohteena ovat HUS-yhtymän sekä mahdollisten yhteishankintakumppaneiden tarvitsemat verisuonikirurgiassa, suonensisäisissä toimenpiteissä sekä verisuonisairauksien hoidossa käytettävät laitteet, tarvikkeet, implantit ja niihin liittyvät lisäpalvelut. Dynaaminen hankintajärjestelmä kattaa muun muassa verisuoniproteesit, verisuonipaikat, verisuonikatetrit, stentit, stenttigraftit, endoproteesit, verisuoniohitteisiin liittyvät tuotteet, trombien poistoon ja verisuonten rekanalisointiin tarkoitetut tuotteet, laskimokirurgian tuotteet sekä muut verisuonikirurgiassa käytettävät erikoistarvikkeet. Järjestelmään voivat kuulua myös tuotteisiin liittyvät lisäpalvelut, kuten koulutus-, käyttöönottotuki-, kaupintavarastointi-, huolto- ja asiantuntijapalvelut. Hankittavat tuotteet ja palvelut määritellään tarkemmin kussakin dynaamisen hankintajärjestelmän sisäisessä kilpailutuksessa. Hankintayksikkö voi kilpailuttaa yksittäisiä tuotteita, tuotekokonaisuuksia, kliinisiä käyttötarkoituksia tai tiettyihin toimenpiteisiin soveltuvia ratkaisuja kulloisenkin tarpeen mukaan. Dynaamisen hankintajärjestelmän kohteeseen kuuluvat tuotteet voivat olla markkinoille tulevia uusia ratkaisuja, nykyisiä tuotteita korvaavia tuotteita tai kokonaan uusia hoitomenetelmiä mahdollistavia innovatiivisia tuotteita. Hankintayksikkö ei sitoudu tiettyihin hankint",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -251,11 +219,9 @@
       "eligibility": ""
     },
     "raw": {
-      "manufacturer": "Biovac",
-      "published": "2026-07-29T07:00:00+00:00",
-      "signal_type": "manufacturer"
+      "ted_publication_number": "596313-2026"
     },
-    "fetched_at": "2026-10-26T12:18:03.836465+00:00"
+    "fetched_at": "2026-10-27T11:38:40.422641+00:00"
   },
   {
     "id": "726834fc6905",
@@ -293,7 +259,45 @@
       "published": "2026-09-23T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-26T12:18:03.838332+00:00"
+    "fetched_at": "2026-10-27T11:38:40.431258+00:00"
+  },
+  {
+    "id": "7f1cd4c71e19",
+    "source": "Signal:Institut Pasteur Dakar",
+    "title": "Made in Africa: New measles rapid diagnostic tests mark breakthrough for vaccination efforts - Gavi, the Vaccine Alliance",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObEc3dWpUZUVyaW15ekxFQTZQMkVWYm9FQXpVWV9EdmhYQmZTa05YNjl2QVJmb052a3IzOVl1WHozZ2lqMmVFNVNha3R0YzJLY0pKbGwtQ1dDdEt1RXVyZmpFZkVqS0FFajF0aGJYYzFxeG9WSTBnMWVVYzZlRTB4eFF5ZWtnX0FXakJrZF9wcUp6VDU5SnJFMV9XbWJWOUwtLUp3OVk5MGZ4XzNTeVRRMTQ5VQ?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Made in Africa: New measles rapid diagnostic tests mark breakthrough for vaccination efforts &nbsp;&nbsp; Gavi, the Vaccine Alliance",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Institut Pasteur Dakar",
+      "published": "2026-09-30T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-10-27T11:38:40.432168+00:00"
   },
   {
     "id": "debba72be073",
@@ -331,7 +335,7 @@
       "published": "2026-08-22T07:55:04+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-26T12:18:03.839551+00:00"
+    "fetched_at": "2026-10-27T11:38:40.432556+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -369,44 +373,6 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-26T12:18:03.839891+00:00"
-  },
-  {
-    "id": "d2b9d4f66c45",
-    "source": "Signal:AVMA",
-    "title": "Gavi commits $500m to Nigeria’s immunisation programme - Realnews Magazine",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUlR4Y3d2Q1MwZ2Nud3FLNXBwNnRfOC0wN3ZaNkFtZk8xY0ttNXB4Rl9BekRhZDJ0RzBma25LYTNiQng1TDhuQmZkdVJsdW1XLWZ4RHBMd2dETC1pX2ZSVklFclZYbTZpQlBoSy1ZcjdnajRid1FfWjRxbmpRclE2LUMtZ2JuOGdnUlE?oc=5",
-    "country": "NG",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Gavi commits $500m to Nigeria’s immunisation programme &nbsp;&nbsp; Realnews Magazine",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "donor": "AVMA",
-      "published": "2026-08-01T07:00:00+00:00",
-      "signal_type": "donor"
-    },
-    "fetched_at": "2026-10-26T12:18:03.840357+00:00"
+    "fetched_at": "2026-10-27T11:38:40.432883+00:00"
   }
 ]
