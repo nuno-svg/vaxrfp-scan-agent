@@ -1,5 +1,41 @@
 [
   {
+    "id": "8530f5488ffd",
+    "source": "TED",
+    "title": "Germany – Pharmaceutical products – Abschluss nicht-exklusiver Rabattvereinbarungen nach § 130 a Abs. 8 SGB V mit dem Wirkstoff ab dem 01.10.2026",
+    "url": "https://ted.europa.eu/en/notice/599811-2026",
+    "country": "DE",
+    "deadline": "2028-05-10",
+    "deadline_days": 560,
+    "value_usd": null,
+    "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nicht exklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.10.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter https://vergabeportal.gwq-serviceplus.de/arzneimittel einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.09.2026 kann eine erstmalige Meldung zum 01.10.2026 realisiert werden. Folgende Unterlagen sind einzureichen: unterzeichneter Vertrag in doppelter Ausfertigung; einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug aus dem öffentlichen Teil der AMIceDatenbank; unterzeichnete Eigenerklärung (Anlage 3). Liste der vertragsgegenständlichen PZN (Anlage 4), Eigenerklärung zur EU-Verordnung (Anlage 5). Alle einzureichenden Unterlagen können mit der quali",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 4
+    },
+    "fit_total": 4,
+    "fit_top_area": "mel",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "599811-2026"
+    },
+    "fetched_at": "2026-10-28T12:09:41.172237+00:00"
+  },
+  {
     "id": "7957d095f782",
     "source": "Signal:AVMA",
     "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
@@ -35,18 +71,18 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-27T11:38:40.433091+00:00"
+    "fetched_at": "2026-10-28T12:09:41.180581+00:00"
   },
   {
-    "id": "b79c6032c212",
+    "id": "a8c0f8f8cd4b",
     "source": "World Bank",
-    "title": "Consultancy services for the Preparation of the required Environmental and Social Instruments for SPIN Natu Irrigation Scheme and Natu Dam in line with the disclosed Environmental and Social Management Framework (ESMF)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477286",
-    "country": "NI",
-    "deadline": "2026-10-30",
-    "deadline_days": 3,
+    "title": "Consultancy Services for the Preparation of the Integrated Master Plan for Inhambane Province and Greater Vilankulo",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477484",
+    "country": "MO",
+    "deadline": "2026-11-16",
+    "deadline_days": 19,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Sustainable Power and Irrigation for Nigeria Project. Country: Nigeria. Reference: NG-ZAMFARA STATE SPIN -572320-CS-CQS.",
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Access to Finance & Economic Opportunities Project – Mais Oportunidades. Country: Mozambique. Reference: MZ-MEF-DNT-577804-CS-QCBS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -56,6 +92,44 @@
     },
     "fit_total": 2,
     "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P178658",
+      "wb_reference": "MZ-MEF-DNT-577804-CS-QCBS"
+    },
+    "fetched_at": "2026-10-28T12:09:41.175682+00:00"
+  },
+  {
+    "id": "a597883d2a19",
+    "source": "TED",
+    "title": "Netherlands – Company health services – Arbo dienstverlening",
+    "url": "https://ted.europa.eu/en/notice/599917-2026",
+    "country": "NL",
+    "deadline": "2026-11-02",
+    "deadline_days": 5,
+    "value_usd": null,
+    "description": "Gemeente Breda. Arbodienstverlening voor medewerkers met binnen de gemeente CAO",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
@@ -69,87 +143,9 @@
       "eligibility": ""
     },
     "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P179684",
-      "wb_reference": "NG-ZAMFARA STATE SPIN -572320-CS-CQS"
+      "ted_publication_number": "599917-2026"
     },
-    "fetched_at": "2026-10-27T11:38:40.428731+00:00"
-  },
-  {
-    "id": "c69daf9fd1e7",
-    "source": "World Bank",
-    "title": "Consultancy Services - Report Preparation  (Enterprise Census)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477328",
-    "country": "OE",
-    "deadline": "2026-11-11",
-    "deadline_days": 15,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: OECS Data for Decision Making (DDM) Project. Country: OECS Countries. Reference: SLU-DDM-DATAPRO-EC-CS-06-25.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P174986",
-      "wb_reference": "SLU-DDM-DATAPRO-EC-CS-06-25"
-    },
-    "fetched_at": "2026-10-27T11:38:40.427939+00:00"
-  },
-  {
-    "id": "bc930eff577b",
-    "source": "World Bank",
-    "title": "Consultancy Services-  Data processing , Report Preparation and Dissemination (LFS/SLCHBS/CAF)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477326",
-    "country": "OE",
-    "deadline": "2026-11-11",
-    "deadline_days": 15,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: OECS Data for Decision Making (DDM) Project. Country: OECS Countries. Reference: SLU-DDM-QCBS-DATAPRO-LFS-CAF-SLCHBS-26.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P174986",
-      "wb_reference": "SLU-DDM-QCBS-DATAPRO-LFS-CAF-SLCHBS-26"
-    },
-    "fetched_at": "2026-10-27T11:38:40.428178+00:00"
+    "fetched_at": "2026-10-28T12:09:41.172732+00:00"
   },
   {
     "id": "aa59c83a0e6c",
@@ -158,7 +154,7 @@
     "url": "https://ted.europa.eu/en/notice/597463-2026",
     "country": "DE",
     "deadline": "2028-08-31",
-    "deadline_days": 674,
+    "deadline_days": 673,
     "value_usd": null,
     "description": "IKK Südwest. Das Projekt „schmeckt.einfach.gut.“ basiert auf dem gleichnamigen, modular aufgebauten Kochbuch. Dieses wurde vom Adipositas-Netzwerk Saar e. V. und dem MUKMAV entwickelt. Mitfinanziert wurde es vom MUKMAV, sowie dem Ministerium für Gesundheit, Frauen und Familie. Es dient der Förderung des Bewusstseins für eine gesunde Ernährung bei den Schüler*innen. Das Projekt wird von der IKK Südwest gefördert und vom MUKMAV koordiniert und von geschulten Multiplikatorinnen und Multiplikatoren gemeinsam mit Lehrkräften (Teamteaching) an den Schulen durchgeführt. Eine Schulung für die Multipliaktor*innen wurde bereits vom MUKMAV durchgeführt. Über die Anerkennung einer bereits erworbenen vergleichbaren Qualifikation entscheidet die IKK Südwest. Bei Bedarf können noch weitere Schulungen angeboten werden. Die Multiplikator*innen setzen in einem partizipativen Prozess gemeinsam mit den Schulen, den Schülerinnen und Schülern das Projekt um. Die IKK Südwest schließt hierbei die Honorarverträge mit den Multiplikator*innen und zahlt deshalb auch das Honorar der Multiplikator*innen. Das Honorar beträgt gemäß der Anlage 1 zu dem Honorarvertrag 66,66 EUR pro Stunde Es werden der/dem Multiplikator/in maximal 8 Stunden (insgesamt 533,28 EUR) pro Projekt vergütet. (Aufteilung der Stunden s. Honorarvertrag) Die IKK Südwest beteiligt sich an der Finanzierung des Projekts in den Schuljahren 2026/2027 und 2027/2028 nach Maßgabe des Kooperationsvertrages zwischen der IKK Südwest, dem MUKMAV un",
     "fit_per_area": {
@@ -185,13 +181,13 @@
     "raw": {
       "ted_publication_number": "597463-2026"
     },
-    "fetched_at": "2026-10-27T11:38:40.425598+00:00"
+    "fetched_at": "2026-10-28T12:09:41.163871+00:00"
   },
   {
-    "id": "c19670619617",
+    "id": "e66f9dc20871",
     "source": "TED",
     "title": "Finland – Medical equipments, pharmaceuticals and personal care products – Verisuonikirurgiset laitteet ja tarvikkeet 2026-2032 DPS",
-    "url": "https://ted.europa.eu/en/notice/596313-2026",
+    "url": "https://ted.europa.eu/en/notice/599788-2026",
     "country": "FI",
     "deadline": null,
     "deadline_days": null,
@@ -219,20 +215,20 @@
       "eligibility": ""
     },
     "raw": {
-      "ted_publication_number": "596313-2026"
+      "ted_publication_number": "599788-2026"
     },
-    "fetched_at": "2026-10-27T11:38:40.422641+00:00"
+    "fetched_at": "2026-10-28T12:09:41.171991+00:00"
   },
   {
-    "id": "726834fc6905",
+    "id": "fcf26f07c63e",
     "source": "Signal:Aspen Pharmacare",
-    "title": "Is Aspen right to abandon lenacapavir for an unproven HIV prevention pill? - Daily Maverick",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2QyVHdhdmtuNzBvS2NvcFVCcnBYNXFVbDMzMkpKSWVfNGsxSmp5RW1YVzhKMEQxUHgxLS1RLXBGTkU3OTdlSVQzamZSRGh4NTdUYndKQjBrQmFGZnlwNE5VNmx5bEFQTzRBQXN5QUtFTURPTzZTUGhpampIejVaMS1La0xVVUZaNll4TDBpWnoyN05jeXFLZnZadWRVdzNkQWctYTNsYzU5TkpTTDh4WHlwcDZCNHRNemc2VW9vUldka00?oc=5",
+    "title": "Is Aspen betting on the right HIV prevention product? - Spotlight",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEUyZFduZ0s4bEM3dTNITDVOczgtZ2ZnVEhSeS1YZ3BLLUpkUUZLVm1lcmtxYlFIcmo4WXhNVUtNNW5mYlNEdDR3d0tTRjJRSlBUQy1uQllvRWhKLVNnaEg2M1BCODBKVDBiTnVkSEZOWENlR1l5dmxFNE5DSXZvdnJtZWZidGZqeWFaMEwzZUFDYUJTcXdKX09acw?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Is Aspen right to abandon lenacapavir for an unproven HIV prevention pill? &nbsp;&nbsp; Daily Maverick",
+    "description": "Is Aspen betting on the right HIV prevention product? &nbsp;&nbsp; Spotlight",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -256,21 +252,21 @@
     },
     "raw": {
       "manufacturer": "Aspen Pharmacare",
-      "published": "2026-09-23T07:00:00+00:00",
+      "published": "2026-09-21T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-27T11:38:40.431258+00:00"
+    "fetched_at": "2026-10-28T12:09:41.179216+00:00"
   },
   {
-    "id": "7f1cd4c71e19",
-    "source": "Signal:Institut Pasteur Dakar",
-    "title": "Made in Africa: New measles rapid diagnostic tests mark breakthrough for vaccination efforts - Gavi, the Vaccine Alliance",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObEc3dWpUZUVyaW15ekxFQTZQMkVWYm9FQXpVWV9EdmhYQmZTa05YNjl2QVJmb052a3IzOVl1WHozZ2lqMmVFNVNha3R0YzJLY0pKbGwtQ1dDdEt1RXVyZmpFZkVqS0FFajF0aGJYYzFxeG9WSTBnMWVVYzZlRTB4eFF5ZWtnX0FXakJrZF9wcUp6VDU5SnJFMV9XbWJWOUwtLUp3OVk5MGZ4XzNTeVRRMTQ5VQ?oc=5",
+    "id": "50652abc4efc",
+    "source": "Signal:Aspen Pharmacare",
+    "title": "EXCLUSIVE | Aspen opts not to make HIV prevention jab lenacapavir - Business Day",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFFWQVlsMkI4X0U2ZW5wSFdoU1hBMktyOHIzekwzc0pLRjBSTGlQckNOUmpwRDBENENYend4WDkzcjRwMUF6Nzl3bHdGR1dNbWVoWGc3S0RiMkYxeUxoMW1MYVMtaUtFUmhFNFczTTBJMjdhWmNsY2tOVHc5NUpCYzNVZkw3cnlzYWY5Y1hQcjJicDBkVmlTelg2RHN1YmhPeXVaZlloWW5UeXFkU093cUhuSnlmeWx4T2ppeHFXQQ?oc=5",
     "country": null,
     "deadline": null,
     "deadline_days": null,
     "value_usd": null,
-    "description": "Made in Africa: New measles rapid diagnostic tests mark breakthrough for vaccination efforts &nbsp;&nbsp; Gavi, the Vaccine Alliance",
+    "description": "EXCLUSIVE | Aspen opts not to make HIV prevention jab lenacapavir &nbsp;&nbsp; Business Day",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -293,49 +289,11 @@
       "eligibility": ""
     },
     "raw": {
-      "manufacturer": "Institut Pasteur Dakar",
-      "published": "2026-09-30T07:00:00+00:00",
+      "manufacturer": "Aspen Pharmacare",
+      "published": "2026-09-04T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-27T11:38:40.432168+00:00"
-  },
-  {
-    "id": "debba72be073",
-    "source": "Signal:Institut Pasteur Dakar",
-    "title": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed - Institut Pasteur",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0RQQ21CUUpxNlNnU1YydGRXTW01dE1pZ1VHRVZwZnM2TW8xcm5fRlQzdmpyLU9HY3NtZ3FxdXFZUkxHWTZRM2R0LVJUcnNqdV9DbWRMZkdEc2tUalpVUUpaNl90OWVub29GMVZoNEVEY3pOUnpqWFlod3VzYTJ6NVF5Rjl0ejFGcXBBbHBYYXlyWmJTOG0zdUpXV2xVUkg0Y1VIUnotWHUxRTJWRlhMMzBpUkhadkxGUEVBR3N5dUxmUnNPUFFXMW1lMkt5WjJHcnVj?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed &nbsp;&nbsp; Institut Pasteur",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Institut Pasteur Dakar",
-      "published": "2026-08-22T07:55:04+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-10-27T11:38:40.432556+00:00"
+    "fetched_at": "2026-10-28T12:09:41.179584+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -373,6 +331,6 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-27T11:38:40.432883+00:00"
+    "fetched_at": "2026-10-28T12:09:41.180362+00:00"
   }
 ]

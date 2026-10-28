@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "last_run": "2026-10-28T12:09:41.180614+00:00",
+    "duration_seconds": 68.833612,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 74,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 9,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 2,
+        "errors": 0
+      }
+    },
+    "total_kept": 9,
+    "total_excluded": 177,
+    "exclusion_breakdown": {
+      "gate": 158,
+      "expired": 10,
+      "sanctioned": 3,
+      "bmgf_strict": 1,
+      "goods": 5
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "8530f5488ffd",
+      "source": "TED",
+      "title": "Germany – Pharmaceutical products – Abschluss nicht-exklusiver Rabattvereinbarungen nach § 130 a Abs. 8 SGB V mit dem Wirkstoff ab dem 01.10.2026",
+      "url": "https://ted.europa.eu/en/notice/599811-2026",
+      "country": "DE",
+      "deadline": "2028-05-10",
+      "deadline_days": 560,
+      "value_usd": null,
+      "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nicht exklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.10.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter https://vergabeportal.gwq-serviceplus.de/arzneimittel einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.09.2026 kann eine erstmalige Meldung zum 01.10.2026 realisiert werden. Folgende Unterlagen sind einzureichen: unterzeichneter Vertrag in doppelter Ausfertigung; einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug aus dem öffentlichen Teil der AMIceDatenbank; unterzeichnete Eigenerklärung (Anlage 3). Liste der vertragsgegenständlichen PZN (Anlage 4), Eigenerklärung zur EU-Verordnung (Anlage 5). Alle einzureichenden Unterlagen können mit der quali",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 4
+      },
+      "fit_total": 4,
+      "fit_top_area": "mel",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ted_publication_number": "599811-2026"
+      },
+      "fetched_at": "2026-10-28T12:09:41.172237+00:00"
+    },
+    {
+      "id": "7957d095f782",
+      "source": "Signal:AVMA",
+      "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-07-24T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-10-28T12:09:41.180581+00:00"
+    },
+    {
+      "id": "a8c0f8f8cd4b",
+      "source": "World Bank",
+      "title": "Consultancy Services for the Preparation of the Integrated Master Plan for Inhambane Province and Greater Vilankulo",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477484",
+      "country": "MO",
+      "deadline": "2026-11-16",
+      "deadline_days": 19,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Access to Finance & Economic Opportunities Project – Mais Oportunidades. Country: Mozambique. Reference: MZ-MEF-DNT-577804-CS-QCBS.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P178658",
+        "wb_reference": "MZ-MEF-DNT-577804-CS-QCBS"
+      },
+      "fetched_at": "2026-10-28T12:09:41.175682+00:00"
+    },
+    {
+      "id": "a597883d2a19",
+      "source": "TED",
+      "title": "Netherlands – Company health services – Arbo dienstverlening",
+      "url": "https://ted.europa.eu/en/notice/599917-2026",
+      "country": "NL",
+      "deadline": "2026-11-02",
+      "deadline_days": 5,
+      "value_usd": null,
+      "description": "Gemeente Breda. Arbodienstverlening voor medewerkers met binnen de gemeente CAO",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ted_publication_number": "599917-2026"
+      },
+      "fetched_at": "2026-10-28T12:09:41.172732+00:00"
+    },
+    {
+      "id": "aa59c83a0e6c",
+      "source": "TED",
+      "title": "Germany – Health services – Open House Multiplikator*innen zur Gesundheitsförderung in Schulen",
+      "url": "https://ted.europa.eu/en/notice/597463-2026",
+      "country": "DE",
+      "deadline": "2028-08-31",
+      "deadline_days": 673,
+      "value_usd": null,
+      "description": "IKK Südwest. Das Projekt „schmeckt.einfach.gut.“ basiert auf dem gleichnamigen, modular aufgebauten Kochbuch. Dieses wurde vom Adipositas-Netzwerk Saar e. V. und dem MUKMAV entwickelt. Mitfinanziert wurde es vom MUKMAV, sowie dem Ministerium für Gesundheit, Frauen und Familie. Es dient der Förderung des Bewusstseins für eine gesunde Ernährung bei den Schüler*innen. Das Projekt wird von der IKK Südwest gefördert und vom MUKMAV koordiniert und von geschulten Multiplikatorinnen und Multiplikatoren gemeinsam mit Lehrkräften (Teamteaching) an den Schulen durchgeführt. Eine Schulung für die Multipliaktor*innen wurde bereits vom MUKMAV durchgeführt. Über die Anerkennung einer bereits erworbenen vergleichbaren Qualifikation entscheidet die IKK Südwest. Bei Bedarf können noch weitere Schulungen angeboten werden. Die Multiplikator*innen setzen in einem partizipativen Prozess gemeinsam mit den Schulen, den Schülerinnen und Schülern das Projekt um. Die IKK Südwest schließt hierbei die Honorarverträge mit den Multiplikator*innen und zahlt deshalb auch das Honorar der Multiplikator*innen. Das Honorar beträgt gemäß der Anlage 1 zu dem Honorarvertrag 66,66 EUR pro Stunde Es werden der/dem Multiplikator/in maximal 8 Stunden (insgesamt 533,28 EUR) pro Projekt vergütet. (Aufteilung der Stunden s. Honorarvertrag) Die IKK Südwest beteiligt sich an der Finanzierung des Projekts in den Schuljahren 2026/2027 und 2027/2028 nach Maßgabe des Kooperationsvertrages zwischen der IKK Südwest, dem MUKMAV un",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ted_publication_number": "597463-2026"
+      },
+      "fetched_at": "2026-10-28T12:09:41.163871+00:00"
+    },
+    {
+      "id": "e66f9dc20871",
+      "source": "TED",
+      "title": "Finland – Medical equipments, pharmaceuticals and personal care products – Verisuonikirurgiset laitteet ja tarvikkeet 2026-2032 DPS",
+      "url": "https://ted.europa.eu/en/notice/599788-2026",
+      "country": "FI",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "HUS-yhtymä. HUS perustaa dynaamisen hankintajärjestelmän verisuonisuonikirurgiassa käytettäville laitteille ja tarvikkeille. Dynaamisen hankintajärjestelmän kohteena ovat HUS-yhtymän sekä mahdollisten yhteishankintakumppaneiden tarvitsemat verisuonikirurgiassa, suonensisäisissä toimenpiteissä sekä verisuonisairauksien hoidossa käytettävät laitteet, tarvikkeet, implantit ja niihin liittyvät lisäpalvelut. Dynaaminen hankintajärjestelmä kattaa muun muassa verisuoniproteesit, verisuonipaikat, verisuonikatetrit, stentit, stenttigraftit, endoproteesit, verisuoniohitteisiin liittyvät tuotteet, trombien poistoon ja verisuonten rekanalisointiin tarkoitetut tuotteet, laskimokirurgian tuotteet sekä muut verisuonikirurgiassa käytettävät erikoistarvikkeet. Järjestelmään voivat kuulua myös tuotteisiin liittyvät lisäpalvelut, kuten koulutus-, käyttöönottotuki-, kaupintavarastointi-, huolto- ja asiantuntijapalvelut. Hankittavat tuotteet ja palvelut määritellään tarkemmin kussakin dynaamisen hankintajärjestelmän sisäisessä kilpailutuksessa. Hankintayksikkö voi kilpailuttaa yksittäisiä tuotteita, tuotekokonaisuuksia, kliinisiä käyttötarkoituksia tai tiettyihin toimenpiteisiin soveltuvia ratkaisuja kulloisenkin tarpeen mukaan. Dynaamisen hankintajärjestelmän kohteeseen kuuluvat tuotteet voivat olla markkinoille tulevia uusia ratkaisuja, nykyisiä tuotteita korvaavia tuotteita tai kokonaan uusia hoitomenetelmiä mahdollistavia innovatiivisia tuotteita. Hankintayksikkö ei sitoudu tiettyihin hankint",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ted_publication_number": "599788-2026"
+      },
+      "fetched_at": "2026-10-28T12:09:41.171991+00:00"
+    },
+    {
+      "id": "fcf26f07c63e",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Is Aspen betting on the right HIV prevention product? - Spotlight",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEUyZFduZ0s4bEM3dTNITDVOczgtZ2ZnVEhSeS1YZ3BLLUpkUUZLVm1lcmtxYlFIcmo4WXhNVUtNNW5mYlNEdDR3d0tTRjJRSlBUQy1uQllvRWhKLVNnaEg2M1BCODBKVDBiTnVkSEZOWENlR1l5dmxFNE5DSXZvdnJtZWZidGZqeWFaMEwzZUFDYUJTcXdKX09acw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Is Aspen betting on the right HIV prevention product? &nbsp;&nbsp; Spotlight",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-09-21T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-10-28T12:09:41.179216+00:00"
+    },
+    {
+      "id": "50652abc4efc",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "EXCLUSIVE | Aspen opts not to make HIV prevention jab lenacapavir - Business Day",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFFWQVlsMkI4X0U2ZW5wSFdoU1hBMktyOHIzekwzc0pLRjBSTGlQckNOUmpwRDBENENYend4WDkzcjRwMUF6Nzl3bHdGR1dNbWVoWGc3S0RiMkYxeUxoMW1MYVMtaUtFUmhFNFczTTBJMjdhWmNsY2tOVHc5NUpCYzNVZkw3cnlzYWY5Y1hQcjJicDBkVmlTelg2RHN1YmhPeXVaZlloWW5UeXFkU093cUhuSnlmeWx4T2ppeHFXQQ?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "EXCLUSIVE | Aspen opts not to make HIV prevention jab lenacapavir &nbsp;&nbsp; Business Day",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-09-04T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-10-28T12:09:41.179584+00:00"
+    },
+    {
+      "id": "b96a3e8af844",
+      "source": "Signal:AFD",
+      "title": "Biovac gets $20m for vaccine expansion from French lenders - Business Day",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER1WjRjNm5MeVdVT3Y2OEZfRG1MQlYwTTU0Wmx6S3FkTlpqeHY3dVg5OUpJd3U2cHlGT3RmcDlmWlJYMUxFYlZQZzd4Rng2SkpNT21MRUY2enVMemw5SjNvdmVQUXNlT2lqdEtZaXByaTc1U05VTVc5dDZoOHBCNmw1RC1sRU1EaXQ1NGtXWTBxbFlHUGJ6d1hDVDB0VVhIb2V2RnVMZw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac gets $20m for vaccine expansion from French lenders &nbsp;&nbsp; Business Day",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AFD",
+        "published": "2026-05-11T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-10-28T12:09:41.180362+00:00"
+    }
+  ]
+}
