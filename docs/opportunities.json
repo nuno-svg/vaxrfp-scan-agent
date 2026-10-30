@@ -6,7 +6,7 @@
     "url": "https://ted.europa.eu/en/notice/599811-2026",
     "country": "DE",
     "deadline": "2028-05-10",
-    "deadline_days": 559,
+    "deadline_days": 558,
     "value_usd": null,
     "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nicht exklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.10.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter https://vergabeportal.gwq-serviceplus.de/arzneimittel einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.09.2026 kann eine erstmalige Meldung zum 01.10.2026 realisiert werden. Folgende Unterlagen sind einzureichen: unterzeichneter Vertrag in doppelter Ausfertigung; einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug aus dem öffentlichen Teil der AMIceDatenbank; unterzeichnete Eigenerklärung (Anlage 3). Liste der vertragsgegenständlichen PZN (Anlage 4), Eigenerklärung zur EU-Verordnung (Anlage 5). Alle einzureichenden Unterlagen können mit der quali",
     "fit_per_area": {
@@ -33,7 +33,7 @@
     "raw": {
       "ted_publication_number": "599811-2026"
     },
-    "fetched_at": "2026-10-29T12:20:21.735953+00:00"
+    "fetched_at": "2026-10-30T12:10:39.998975+00:00"
   },
   {
     "id": "7957d095f782",
@@ -71,18 +71,56 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-29T12:20:21.741940+00:00"
+    "fetched_at": "2026-10-30T12:10:40.004095+00:00"
   },
   {
-    "id": "64acbb76c7c9",
+    "id": "3f0e6d092ed2",
     "source": "World Bank",
-    "title": "Assistant for Administrative, Coordination and Translation Support",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477648",
-    "country": "UZ",
-    "deadline": "2026-11-04",
-    "deadline_days": 6,
+    "title": "Aquisicao de equipamentos de informatica para fortalecimento da infraestrutura da UGP.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478059",
+    "country": "BR",
+    "deadline": "2026-11-06",
+    "deadline_days": 7,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Advancing Preparation of Uzbekistan Health Sector Reform Program. Country: Uzbekistan. Reference: UZ-MEF-HEALTH-IC-08-CS-INDV.",
+    "description": "Invitation for Bids. Request for Quotations. Project: Preparation and Readiness Support for the implementation of the Progestão Projects in selected state. Country: Brazil. Reference: BR-AGEAMAPA-580484-GO-RFQ.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 3,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 3,
+    "fit_top_area": "regulatory",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Invitation for Bids",
+      "wb_project_id": "P181966",
+      "wb_reference": "BR-AGEAMAPA-580484-GO-RFQ"
+    },
+    "fetched_at": "2026-10-30T12:10:40.000678+00:00"
+  },
+  {
+    "id": "36ecf9d1d219",
+    "source": "World Bank",
+    "title": "Review and Updating of Feasibility Studies, Technical Assessments and Detailed Engineering Design for Irrigation Schemes",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478016",
+    "country": "AZ",
+    "deadline": "2026-11-13",
+    "deadline_days": 14,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: GFPP to Support Preparation of Competitive, Resilient Agriculture and Irrigation Services (CRAIS) in. Country: Azerbaijan. Reference: CRAIS-P515925-CS-CQS/1.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -97,7 +135,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": true,
+      "urgent_deadline": false,
       "expired": false
     },
     "flag_notes": {
@@ -106,10 +144,48 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P515715",
-      "wb_reference": "UZ-MEF-HEALTH-IC-08-CS-INDV"
+      "wb_project_id": "P515925",
+      "wb_reference": "CRAIS-P515925-CS-CQS/1"
     },
-    "fetched_at": "2026-10-29T12:20:21.739118+00:00"
+    "fetched_at": "2026-10-30T12:10:40.000975+00:00"
+  },
+  {
+    "id": "fb8ccb884453",
+    "source": "World Bank",
+    "title": "Recrutement d’un consultant individuel chargé d’élaborer le manuel opérationnel du programme naatangue 2030",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478010",
+    "country": "SE",
+    "deadline": "2026-11-13",
+    "deadline_days": 14,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation Facility for Senegal Health PforR. Country: Senegal. Reference: CI 01/MAN OPERATIONEL/ NAATANGUE 2030.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P182029",
+      "wb_reference": "CI 01/MAN OPERATIONEL/ NAATANGUE 2030"
+    },
+    "fetched_at": "2026-10-30T12:10:40.001579+00:00"
   },
   {
     "id": "a597883d2a19",
@@ -118,7 +194,7 @@
     "url": "https://ted.europa.eu/en/notice/599917-2026",
     "country": "NL",
     "deadline": "2026-11-02",
-    "deadline_days": 4,
+    "deadline_days": 3,
     "value_usd": null,
     "description": "Gemeente Breda. Arbodienstverlening voor medewerkers met binnen de gemeente CAO",
     "fit_per_area": {
@@ -145,7 +221,45 @@
     "raw": {
       "ted_publication_number": "599917-2026"
     },
-    "fetched_at": "2026-10-29T12:20:21.736437+00:00"
+    "fetched_at": "2026-10-30T12:10:39.999306+00:00"
+  },
+  {
+    "id": "b3c04e4683ee",
+    "source": "World Bank",
+    "title": "Recrutement d’un cabinet/agent de vérification indépendant du programme naatangue 2030",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478007",
+    "country": "SE",
+    "deadline": "2026-11-13",
+    "deadline_days": 14,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Preparation Facility for Senegal Health PforR. Country: Senegal. Reference: SFQC/ AVI/ NAATANGUE 2030.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P182029",
+      "wb_reference": "SFQC/ AVI/ NAATANGUE 2030"
+    },
+    "fetched_at": "2026-10-30T12:10:40.001434+00:00"
   },
   {
     "id": "aa59c83a0e6c",
@@ -154,7 +268,7 @@
     "url": "https://ted.europa.eu/en/notice/597463-2026",
     "country": "DE",
     "deadline": "2028-08-31",
-    "deadline_days": 672,
+    "deadline_days": 671,
     "value_usd": null,
     "description": "IKK Südwest. Das Projekt „schmeckt.einfach.gut.“ basiert auf dem gleichnamigen, modular aufgebauten Kochbuch. Dieses wurde vom Adipositas-Netzwerk Saar e. V. und dem MUKMAV entwickelt. Mitfinanziert wurde es vom MUKMAV, sowie dem Ministerium für Gesundheit, Frauen und Familie. Es dient der Förderung des Bewusstseins für eine gesunde Ernährung bei den Schüler*innen. Das Projekt wird von der IKK Südwest gefördert und vom MUKMAV koordiniert und von geschulten Multiplikatorinnen und Multiplikatoren gemeinsam mit Lehrkräften (Teamteaching) an den Schulen durchgeführt. Eine Schulung für die Multipliaktor*innen wurde bereits vom MUKMAV durchgeführt. Über die Anerkennung einer bereits erworbenen vergleichbaren Qualifikation entscheidet die IKK Südwest. Bei Bedarf können noch weitere Schulungen angeboten werden. Die Multiplikator*innen setzen in einem partizipativen Prozess gemeinsam mit den Schulen, den Schülerinnen und Schülern das Projekt um. Die IKK Südwest schließt hierbei die Honorarverträge mit den Multiplikator*innen und zahlt deshalb auch das Honorar der Multiplikator*innen. Das Honorar beträgt gemäß der Anlage 1 zu dem Honorarvertrag 66,66 EUR pro Stunde Es werden der/dem Multiplikator/in maximal 8 Stunden (insgesamt 533,28 EUR) pro Projekt vergütet. (Aufteilung der Stunden s. Honorarvertrag) Die IKK Südwest beteiligt sich an der Finanzierung des Projekts in den Schuljahren 2026/2027 und 2027/2028 nach Maßgabe des Kooperationsvertrages zwischen der IKK Südwest, dem MUKMAV un",
     "fit_per_area": {
@@ -181,7 +295,7 @@
     "raw": {
       "ted_publication_number": "597463-2026"
     },
-    "fetched_at": "2026-10-29T12:20:21.727512+00:00"
+    "fetched_at": "2026-10-30T12:10:39.993671+00:00"
   },
   {
     "id": "e66f9dc20871",
@@ -217,7 +331,7 @@
     "raw": {
       "ted_publication_number": "599788-2026"
     },
-    "fetched_at": "2026-10-29T12:20:21.735693+00:00"
+    "fetched_at": "2026-10-30T12:10:39.998792+00:00"
   },
   {
     "id": "fcf26f07c63e",
@@ -255,7 +369,159 @@
       "published": "2026-09-21T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-29T12:20:21.741383+00:00"
+    "fetched_at": "2026-10-30T12:10:40.002635+00:00"
+  },
+  {
+    "id": "50652abc4efc",
+    "source": "Signal:Aspen Pharmacare",
+    "title": "EXCLUSIVE | Aspen opts not to make HIV prevention jab lenacapavir - Business Day",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFFWQVlsMkI4X0U2ZW5wSFdoU1hBMktyOHIzekwzc0pLRjBSTGlQckNOUmpwRDBENENYend4WDkzcjRwMUF6Nzl3bHdGR1dNbWVoWGc3S0RiMkYxeUxoMW1MYVMtaUtFUmhFNFczTTBJMjdhWmNsY2tOVHc5NUpCYzNVZkw3cnlzYWY5Y1hQcjJicDBkVmlTelg2RHN1YmhPeXVaZlloWW5UeXFkU093cUhuSnlmeWx4T2ppeHFXQQ?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "EXCLUSIVE | Aspen opts not to make HIV prevention jab lenacapavir &nbsp;&nbsp; Business Day",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Aspen Pharmacare",
+      "published": "2026-09-04T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-10-30T12:10:40.002848+00:00"
+  },
+  {
+    "id": "debba72be073",
+    "source": "Signal:Institut Pasteur Dakar",
+    "title": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed - Institut Pasteur",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0RQQ21CUUpxNlNnU1YydGRXTW01dE1pZ1VHRVZwZnM2TW8xcm5fRlQzdmpyLU9HY3NtZ3FxdXFZUkxHWTZRM2R0LVJUcnNqdV9DbWRMZkdEc2tUalpVUUpaNl90OWVub29GMVZoNEVEY3pOUnpqWFlod3VzYTJ6NVF5Rjl0ejFGcXBBbHBYYXlyWmJTOG0zdUpXV2xVUkg0Y1VIUnotWHUxRTJWRlhMMzBpUkhadkxGUEVBR3N5dUxmUnNPUFFXMW1lMkt5WjJHcnVj?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed &nbsp;&nbsp; Institut Pasteur",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Institut Pasteur Dakar",
+      "published": "2026-08-22T07:55:04+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-10-30T12:10:40.003250+00:00"
+  },
+  {
+    "id": "7f1cd4c71e19",
+    "source": "Signal:Institut Pasteur Dakar",
+    "title": "Made in Africa: New measles rapid diagnostic tests mark breakthrough for vaccination efforts - Gavi, the Vaccine Alliance",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObEc3dWpUZUVyaW15ekxFQTZQMkVWYm9FQXpVWV9EdmhYQmZTa05YNjl2QVJmb052a3IzOVl1WHozZ2lqMmVFNVNha3R0YzJLY0pKbGwtQ1dDdEt1RXVyZmpFZkVqS0FFajF0aGJYYzFxeG9WSTBnMWVVYzZlRTB4eFF5ZWtnX0FXakJrZF9wcUp6VDU5SnJFMV9XbWJWOUwtLUp3OVk5MGZ4XzNTeVRRMTQ5VQ?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Made in Africa: New measles rapid diagnostic tests mark breakthrough for vaccination efforts &nbsp;&nbsp; Gavi, the Vaccine Alliance",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Institut Pasteur Dakar",
+      "published": "2026-09-30T07:00:00+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-10-30T12:10:40.003525+00:00"
+  },
+  {
+    "id": "4ec8c39097ec",
+    "source": "Signal:GIZ",
+    "title": "Trade Ministry launches pharmaceutical policy to double local medicine production - MyJoyOnline",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaEROeUY2VGlaRms2aTZHZ3JUNEtuZTJJX1YwNnFhNjRrTE1QOUZyVVA0eTE0RGtXYzhrT1hITGFnaDk3R1QtYmJFY1N0TmYtcjQxQi15M0tzRENsV1JEckNJRkhnMnhTZDY2V0h1NDR1emhFRTA1emdsVGpxQ1c1N1dWT3F0Y19aOHA2UU9CeXB6MlEwRlZRdk5KM1ZRWDRwemlRa1pscHpib1NCa0I4?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Trade Ministry launches pharmaceutical policy to double local medicine production &nbsp;&nbsp; MyJoyOnline",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "donor": "GIZ",
+      "published": "2026-10-29T21:11:02+00:00",
+      "signal_type": "donor"
+    },
+    "fetched_at": "2026-10-30T12:10:40.003768+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -293,6 +559,44 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-29T12:20:21.741719+00:00"
+    "fetched_at": "2026-10-30T12:10:40.003966+00:00"
+  },
+  {
+    "id": "d2b9d4f66c45",
+    "source": "Signal:AVMA",
+    "title": "Gavi commits $500m to Nigeria’s immunisation programme - Realnews Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUlR4Y3d2Q1MwZ2Nud3FLNXBwNnRfOC0wN3ZaNkFtZk8xY0ttNXB4Rl9BekRhZDJ0RzBma25LYTNiQng1TDhuQmZkdVJsdW1XLWZ4RHBMd2dETC1pX2ZSVklFclZYbTZpQlBoSy1ZcjdnajRid1FfWjRxbmpRclE2LUMtZ2JuOGdnUlE?oc=5",
+    "country": "NG",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Gavi commits $500m to Nigeria’s immunisation programme &nbsp;&nbsp; Realnews Magazine",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "donor": "AVMA",
+      "published": "2026-08-01T07:00:00+00:00",
+      "signal_type": "donor"
+    },
+    "fetched_at": "2026-10-30T12:10:40.004235+00:00"
   }
 ]
