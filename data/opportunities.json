@@ -1,12 +1,50 @@
 [
   {
+    "id": "5da113678d5a",
+    "source": "World Bank",
+    "title": "Preparation of an Environmental and Social Impact Assessment and Associated Environmental and Social Instruments for the Proposed Hazardous Waste Treatment and Landfill Facility in Georgia",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478272",
+    "country": "GE",
+    "deadline": "2026-11-20",
+    "deadline_days": 20,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Georgia Water Supply, Sanitation, Wastewater, and Hazardous Waste GFPP. Country: Georgia. Reference: GFPP/CS/CQS-02.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 4
+    },
+    "fit_total": 4,
+    "fit_top_area": "mel",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P518850",
+      "wb_reference": "GFPP/CS/CQS-02"
+    },
+    "fetched_at": "2026-10-31T11:43:54.139316+00:00"
+  },
+  {
     "id": "8530f5488ffd",
     "source": "TED",
     "title": "Germany – Pharmaceutical products – Abschluss nicht-exklusiver Rabattvereinbarungen nach § 130 a Abs. 8 SGB V mit dem Wirkstoff ab dem 01.10.2026",
     "url": "https://ted.europa.eu/en/notice/599811-2026",
     "country": "DE",
     "deadline": "2028-05-10",
-    "deadline_days": 558,
+    "deadline_days": 557,
     "value_usd": null,
     "description": "GWQ ServicePlus AG. Die GWQ ServicePlus AG beabsichtigt, nicht exklusive Rabattvereinbarungen nach § 130a Abs. 8 SGB V zu dem o. a. Wirkstoff mit Vertragsstart zum 01.10.2026 zu schließen. Diesem Vertrag können zu jeder Zeit der Vertragslaufzeit alle interessierten Unternehmen zu den gleichen Bedingungen beitreten (Zulassungsmodell). Die GWQ geht davon aus, dass dieses Verfahren auf Grund einer fehlenden Auswahlentscheidung und mithin der diskriminierungsfreien Zugangsmöglichkeit aller pharmazeutischen Unternehmen nicht in den Anwendungsbereich des Kartellvergaberechts fällt. Die Vertragsunterlagen, die teilnehmenden Krankenkassen und deren Umsätze sowie die Termine für die Meldung des Vertrags sind auf dem Vergabeportal der GWQ ServicePlus AG unter https://vergabeportal.gwq-serviceplus.de/arzneimittel einzusehen und herunterzuladen. Bis zum Start exklusiver Verträge steht diese Übergangsvereinbarung allen Marktteilnehmern zum Beitritt offen. Bei Eingang der unterzeichneten Verträge / Erklärung und Nachweise zum 10.09.2026 kann eine erstmalige Meldung zum 01.10.2026 realisiert werden. Folgende Unterlagen sind einzureichen: unterzeichneter Vertrag in doppelter Ausfertigung; einen Nachweis über die arzneimittelrechtliche Zulassung mittels Auszug aus dem öffentlichen Teil der AMIceDatenbank; unterzeichnete Eigenerklärung (Anlage 3). Liste der vertragsgegenständlichen PZN (Anlage 4), Eigenerklärung zur EU-Verordnung (Anlage 5). Alle einzureichenden Unterlagen können mit der quali",
     "fit_per_area": {
@@ -33,7 +71,7 @@
     "raw": {
       "ted_publication_number": "599811-2026"
     },
-    "fetched_at": "2026-10-30T12:10:39.998975+00:00"
+    "fetched_at": "2026-10-31T11:43:54.126342+00:00"
   },
   {
     "id": "7957d095f782",
@@ -71,56 +109,18 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-30T12:10:40.004095+00:00"
+    "fetched_at": "2026-10-31T11:43:54.144333+00:00"
   },
   {
-    "id": "3f0e6d092ed2",
+    "id": "4650ab7e5249",
     "source": "World Bank",
-    "title": "Aquisicao de equipamentos de informatica para fortalecimento da infraestrutura da UGP.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478059",
-    "country": "BR",
-    "deadline": "2026-11-06",
-    "deadline_days": 7,
+    "title": "Consulting Services for the Preparation of Functional and Technical Requirements and Procurement-Ready Technical Specification for the RVS Mobile Application and Data Collection Workflow",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478310",
+    "country": "MO",
+    "deadline": "2026-11-16",
+    "deadline_days": 16,
     "value_usd": null,
-    "description": "Invitation for Bids. Request for Quotations. Project: Preparation and Readiness Support for the implementation of the Progestão Projects in selected state. Country: Brazil. Reference: BR-AGEAMAPA-580484-GO-RFQ.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 3,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 3,
-    "fit_top_area": "regulatory",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Invitation for Bids",
-      "wb_project_id": "P181966",
-      "wb_reference": "BR-AGEAMAPA-580484-GO-RFQ"
-    },
-    "fetched_at": "2026-10-30T12:10:40.000678+00:00"
-  },
-  {
-    "id": "36ecf9d1d219",
-    "source": "World Bank",
-    "title": "Review and Updating of Feasibility Studies, Technical Assessments and Detailed Engineering Design for Irrigation Schemes",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478016",
-    "country": "AZ",
-    "deadline": "2026-11-13",
-    "deadline_days": 14,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: GFPP to Support Preparation of Competitive, Resilient Agriculture and Irrigation Services (CRAIS) in. Country: Azerbaijan. Reference: CRAIS-P515925-CS-CQS/1.",
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Strengthening Moldova's Disaster Risk Management and Resilience Project. Country: Moldova. Reference: MD-OEAPM-578959-CS-CQS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -144,48 +144,10 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P515925",
-      "wb_reference": "CRAIS-P515925-CS-CQS/1"
+      "wb_project_id": "P504278",
+      "wb_reference": "MD-OEAPM-578959-CS-CQS"
     },
-    "fetched_at": "2026-10-30T12:10:40.000975+00:00"
-  },
-  {
-    "id": "fb8ccb884453",
-    "source": "World Bank",
-    "title": "Recrutement d’un consultant individuel chargé d’élaborer le manuel opérationnel du programme naatangue 2030",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478010",
-    "country": "SE",
-    "deadline": "2026-11-13",
-    "deadline_days": 14,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation Facility for Senegal Health PforR. Country: Senegal. Reference: CI 01/MAN OPERATIONEL/ NAATANGUE 2030.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182029",
-      "wb_reference": "CI 01/MAN OPERATIONEL/ NAATANGUE 2030"
-    },
-    "fetched_at": "2026-10-30T12:10:40.001579+00:00"
+    "fetched_at": "2026-10-31T11:43:54.138859+00:00"
   },
   {
     "id": "a597883d2a19",
@@ -194,7 +156,7 @@
     "url": "https://ted.europa.eu/en/notice/599917-2026",
     "country": "NL",
     "deadline": "2026-11-02",
-    "deadline_days": 3,
+    "deadline_days": 2,
     "value_usd": null,
     "description": "Gemeente Breda. Arbodienstverlening voor medewerkers met binnen de gemeente CAO",
     "fit_per_area": {
@@ -221,18 +183,18 @@
     "raw": {
       "ted_publication_number": "599917-2026"
     },
-    "fetched_at": "2026-10-30T12:10:39.999306+00:00"
+    "fetched_at": "2026-10-31T11:43:54.126873+00:00"
   },
   {
-    "id": "b3c04e4683ee",
+    "id": "1761e8cff36f",
     "source": "World Bank",
-    "title": "Recrutement d’un cabinet/agent de vérification indépendant du programme naatangue 2030",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478007",
-    "country": "SE",
-    "deadline": "2026-11-13",
-    "deadline_days": 14,
+    "title": "FIRMA CONSULTORA PARA APOYAR LA PREPARACION DE SUBPROYECTOS DE ELECTRIFICACION MEDIANTE EXTENSION DE REDES",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478134",
+    "country": "BO",
+    "deadline": "2026-11-16",
+    "deadline_days": 16,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Preparation Facility for Senegal Health PforR. Country: Senegal. Reference: SFQC/ AVI/ NAATANGUE 2030.",
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Bolivia Improving Sustainable Access to Electricity Project (IDTR III). Country: Bolivia. Reference: PEVD-IDTR III 2026-064.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -256,46 +218,10 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182029",
-      "wb_reference": "SFQC/ AVI/ NAATANGUE 2030"
+      "wb_project_id": "P180027",
+      "wb_reference": "PEVD-IDTR III 2026-064"
     },
-    "fetched_at": "2026-10-30T12:10:40.001434+00:00"
-  },
-  {
-    "id": "aa59c83a0e6c",
-    "source": "TED",
-    "title": "Germany – Health services – Open House Multiplikator*innen zur Gesundheitsförderung in Schulen",
-    "url": "https://ted.europa.eu/en/notice/597463-2026",
-    "country": "DE",
-    "deadline": "2028-08-31",
-    "deadline_days": 671,
-    "value_usd": null,
-    "description": "IKK Südwest. Das Projekt „schmeckt.einfach.gut.“ basiert auf dem gleichnamigen, modular aufgebauten Kochbuch. Dieses wurde vom Adipositas-Netzwerk Saar e. V. und dem MUKMAV entwickelt. Mitfinanziert wurde es vom MUKMAV, sowie dem Ministerium für Gesundheit, Frauen und Familie. Es dient der Förderung des Bewusstseins für eine gesunde Ernährung bei den Schüler*innen. Das Projekt wird von der IKK Südwest gefördert und vom MUKMAV koordiniert und von geschulten Multiplikatorinnen und Multiplikatoren gemeinsam mit Lehrkräften (Teamteaching) an den Schulen durchgeführt. Eine Schulung für die Multipliaktor*innen wurde bereits vom MUKMAV durchgeführt. Über die Anerkennung einer bereits erworbenen vergleichbaren Qualifikation entscheidet die IKK Südwest. Bei Bedarf können noch weitere Schulungen angeboten werden. Die Multiplikator*innen setzen in einem partizipativen Prozess gemeinsam mit den Schulen, den Schülerinnen und Schülern das Projekt um. Die IKK Südwest schließt hierbei die Honorarverträge mit den Multiplikator*innen und zahlt deshalb auch das Honorar der Multiplikator*innen. Das Honorar beträgt gemäß der Anlage 1 zu dem Honorarvertrag 66,66 EUR pro Stunde Es werden der/dem Multiplikator/in maximal 8 Stunden (insgesamt 533,28 EUR) pro Projekt vergütet. (Aufteilung der Stunden s. Honorarvertrag) Die IKK Südwest beteiligt sich an der Finanzierung des Projekts in den Schuljahren 2026/2027 und 2027/2028 nach Maßgabe des Kooperationsvertrages zwischen der IKK Südwest, dem MUKMAV un",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "597463-2026"
-    },
-    "fetched_at": "2026-10-30T12:10:39.993671+00:00"
+    "fetched_at": "2026-10-31T11:43:54.139202+00:00"
   },
   {
     "id": "e66f9dc20871",
@@ -331,7 +257,7 @@
     "raw": {
       "ted_publication_number": "599788-2026"
     },
-    "fetched_at": "2026-10-30T12:10:39.998792+00:00"
+    "fetched_at": "2026-10-31T11:43:54.126076+00:00"
   },
   {
     "id": "fcf26f07c63e",
@@ -369,7 +295,7 @@
       "published": "2026-09-21T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-30T12:10:40.002635+00:00"
+    "fetched_at": "2026-10-31T11:43:54.142206+00:00"
   },
   {
     "id": "50652abc4efc",
@@ -407,83 +333,7 @@
       "published": "2026-09-04T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-10-30T12:10:40.002848+00:00"
-  },
-  {
-    "id": "debba72be073",
-    "source": "Signal:Institut Pasteur Dakar",
-    "title": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed - Institut Pasteur",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0RQQ21CUUpxNlNnU1YydGRXTW01dE1pZ1VHRVZwZnM2TW8xcm5fRlQzdmpyLU9HY3NtZ3FxdXFZUkxHWTZRM2R0LVJUcnNqdV9DbWRMZkdEc2tUalpVUUpaNl90OWVub29GMVZoNEVEY3pOUnpqWFlod3VzYTJ6NVF5Rjl0ejFGcXBBbHBYYXlyWmJTOG0zdUpXV2xVUkg0Y1VIUnotWHUxRTJWRlhMMzBpUkhadkxGUEVBR3N5dUxmUnNPUFFXMW1lMkt5WjJHcnVj?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed &nbsp;&nbsp; Institut Pasteur",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Institut Pasteur Dakar",
-      "published": "2026-08-22T07:55:04+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-10-30T12:10:40.003250+00:00"
-  },
-  {
-    "id": "7f1cd4c71e19",
-    "source": "Signal:Institut Pasteur Dakar",
-    "title": "Made in Africa: New measles rapid diagnostic tests mark breakthrough for vaccination efforts - Gavi, the Vaccine Alliance",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObEc3dWpUZUVyaW15ekxFQTZQMkVWYm9FQXpVWV9EdmhYQmZTa05YNjl2QVJmb052a3IzOVl1WHozZ2lqMmVFNVNha3R0YzJLY0pKbGwtQ1dDdEt1RXVyZmpFZkVqS0FFajF0aGJYYzFxeG9WSTBnMWVVYzZlRTB4eFF5ZWtnX0FXakJrZF9wcUp6VDU5SnJFMV9XbWJWOUwtLUp3OVk5MGZ4XzNTeVRRMTQ5VQ?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Made in Africa: New measles rapid diagnostic tests mark breakthrough for vaccination efforts &nbsp;&nbsp; Gavi, the Vaccine Alliance",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Institut Pasteur Dakar",
-      "published": "2026-09-30T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-10-30T12:10:40.003525+00:00"
+    "fetched_at": "2026-10-31T11:43:54.142947+00:00"
   },
   {
     "id": "4ec8c39097ec",
@@ -521,7 +371,7 @@
       "published": "2026-10-29T21:11:02+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-30T12:10:40.003768+00:00"
+    "fetched_at": "2026-10-31T11:43:54.143795+00:00"
   },
   {
     "id": "b96a3e8af844",
@@ -559,7 +409,7 @@
       "published": "2026-05-11T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-30T12:10:40.003966+00:00"
+    "fetched_at": "2026-10-31T11:43:54.144127+00:00"
   },
   {
     "id": "d2b9d4f66c45",
@@ -597,6 +447,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-10-30T12:10:40.004235+00:00"
+    "fetched_at": "2026-10-31T11:43:54.144564+00:00"
   }
 ]
