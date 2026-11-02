@@ -1,0 +1,443 @@
+{
+  "meta": {
+    "last_run": "2026-11-02T14:49:10.535121+00:00",
+    "duration_seconds": 68.494357,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 42,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 15,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 2,
+        "errors": 0
+      }
+    },
+    "total_kept": 10,
+    "total_excluded": 150,
+    "exclusion_breakdown": {
+      "gate": 134,
+      "expired": 7,
+      "sanctioned": 2,
+      "goods": 6,
+      "bmgf_strict": 1
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "5da113678d5a",
+      "source": "World Bank",
+      "title": "Preparation of an Environmental and Social Impact Assessment and Associated Environmental and Social Instruments for the Proposed Hazardous Waste Treatment and Landfill Facility in Georgia",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478272",
+      "country": null,
+      "deadline": "2026-11-20",
+      "deadline_days": 18,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Georgia Water Supply, Sanitation, Wastewater, and Hazardous Waste GFPP. Country: . Reference: GFPP/CS/CQS-02.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 4
+      },
+      "fit_total": 4,
+      "fit_top_area": "mel",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P518850",
+        "wb_reference": "GFPP/CS/CQS-02"
+      },
+      "fetched_at": "2026-11-02T14:49:10.529750+00:00"
+    },
+    {
+      "id": "7957d095f782",
+      "source": "Signal:AVMA",
+      "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-07-24T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-11-02T14:49:10.535098+00:00"
+    },
+    {
+      "id": "4650ab7e5249",
+      "source": "World Bank",
+      "title": "Consulting Services for the Preparation of Functional and Technical Requirements and Procurement-Ready Technical Specification for the RVS Mobile Application and Data Collection Workflow",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478310",
+      "country": null,
+      "deadline": "2026-11-16",
+      "deadline_days": 14,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Strengthening Moldova's Disaster Risk Management and Resilience Project. Country: . Reference: MD-OEAPM-578959-CS-CQS.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P504278",
+        "wb_reference": "MD-OEAPM-578959-CS-CQS"
+      },
+      "fetched_at": "2026-11-02T14:49:10.529100+00:00"
+    },
+    {
+      "id": "1761e8cff36f",
+      "source": "World Bank",
+      "title": "FIRMA CONSULTORA PARA APOYAR LA PREPARACION DE SUBPROYECTOS DE ELECTRIFICACION MEDIANTE EXTENSION DE REDES",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478134",
+      "country": "BO",
+      "deadline": "2026-11-16",
+      "deadline_days": 14,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Bolivia Improving Sustainable Access to Electricity Project (IDTR III). Country: Bolivia. Reference: PEVD-IDTR III 2026-064.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P180027",
+        "wb_reference": "PEVD-IDTR III 2026-064"
+      },
+      "fetched_at": "2026-11-02T14:49:10.529885+00:00"
+    },
+    {
+      "id": "de7043ffa392",
+      "source": "TED",
+      "title": "Sweden – Health services – Fysioterapi med inriktning mot lymfödembehandling",
+      "url": "https://ted.europa.eu/en/notice/607078-2026",
+      "country": "SE",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Region Västmanland. Fysioterapi med inriktning mot lymfödembehandling",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ted_publication_number": "607078-2026"
+      },
+      "fetched_at": "2026-11-02T14:49:10.519908+00:00"
+    },
+    {
+      "id": "fcf26f07c63e",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Is Aspen betting on the right HIV prevention product? - Spotlight",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEUyZFduZ0s4bEM3dTNITDVOczgtZ2ZnVEhSeS1YZ3BLLUpkUUZLVm1lcmtxYlFIcmo4WXhNVUtNNW5mYlNEdDR3d0tTRjJRSlBUQy1uQllvRWhKLVNnaEg2M1BCODBKVDBiTnVkSEZOWENlR1l5dmxFNE5DSXZvdnJtZWZidGZqeWFaMEwzZUFDYUJTcXdKX09acw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Is Aspen betting on the right HIV prevention product? &nbsp;&nbsp; Spotlight",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-09-21T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-02T14:49:10.532533+00:00"
+    },
+    {
+      "id": "50652abc4efc",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "EXCLUSIVE | Aspen opts not to make HIV prevention jab lenacapavir - Business Day",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFFWQVlsMkI4X0U2ZW5wSFdoU1hBMktyOHIzekwzc0pLRjBSTGlQckNOUmpwRDBENENYend4WDkzcjRwMUF6Nzl3bHdGR1dNbWVoWGc3S0RiMkYxeUxoMW1MYVMtaUtFUmhFNFczTTBJMjdhWmNsY2tOVHc5NUpCYzNVZkw3cnlzYWY5Y1hQcjJicDBkVmlTelg2RHN1YmhPeXVaZlloWW5UeXFkU093cUhuSnlmeWx4T2ppeHFXQQ?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "EXCLUSIVE | Aspen opts not to make HIV prevention jab lenacapavir &nbsp;&nbsp; Business Day",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-09-04T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-02T14:49:10.533381+00:00"
+    },
+    {
+      "id": "7f1cd4c71e19",
+      "source": "Signal:Institut Pasteur Dakar",
+      "title": "Made in Africa: New measles rapid diagnostic tests mark breakthrough for vaccination efforts - Gavi, the Vaccine Alliance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObEc3dWpUZUVyaW15ekxFQTZQMkVWYm9FQXpVWV9EdmhYQmZTa05YNjl2QVJmb052a3IzOVl1WHozZ2lqMmVFNVNha3R0YzJLY0pKbGwtQ1dDdEt1RXVyZmpFZkVqS0FFajF0aGJYYzFxeG9WSTBnMWVVYzZlRTB4eFF5ZWtnX0FXakJrZF9wcUp6VDU5SnJFMV9XbWJWOUwtLUp3OVk5MGZ4XzNTeVRRMTQ5VQ?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Made in Africa: New measles rapid diagnostic tests mark breakthrough for vaccination efforts &nbsp;&nbsp; Gavi, the Vaccine Alliance",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Institut Pasteur Dakar",
+        "published": "2026-09-30T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-02T14:49:10.534098+00:00"
+    },
+    {
+      "id": "debba72be073",
+      "source": "Signal:Institut Pasteur Dakar",
+      "title": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed - Institut Pasteur",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0RQQ21CUUpxNlNnU1YydGRXTW01dE1pZ1VHRVZwZnM2TW8xcm5fRlQzdmpyLU9HY3NtZ3FxdXFZUkxHWTZRM2R0LVJUcnNqdV9DbWRMZkdEc2tUalpVUUpaNl90OWVub29GMVZoNEVEY3pOUnpqWFlod3VzYTJ6NVF5Rjl0ejFGcXBBbHBYYXlyWmJTOG0zdUpXV2xVUkg0Y1VIUnotWHUxRTJWRlhMMzBpUkhadkxGUEVBR3N5dUxmUnNPUFFXMW1lMkt5WjJHcnVj?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Malaria: the importance of the MSP3 candidate vaccine has been confirmed &nbsp;&nbsp; Institut Pasteur",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Institut Pasteur Dakar",
+        "published": "2026-08-22T07:55:04+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-02T14:49:10.534623+00:00"
+    },
+    {
+      "id": "4ec8c39097ec",
+      "source": "Signal:GIZ",
+      "title": "Trade Ministry launches pharmaceutical policy to double local medicine production - MyJoyOnline",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaEROeUY2VGlaRms2aTZHZ3JUNEtuZTJJX1YwNnFhNjRrTE1QOUZyVVA0eTE0RGtXYzhrT1hITGFnaDk3R1QtYmJFY1N0TmYtcjQxQi15M0tzRENsV1JEckNJRkhnMnhTZDY2V0h1NDR1emhFRTA1emdsVGpxQ1c1N1dWT3F0Y19aOHA2UU9CeXB6MlEwRlZRdk5KM1ZRWDRwemlRa1pscHpib1NCa0I4?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Trade Ministry launches pharmaceutical policy to double local medicine production &nbsp;&nbsp; MyJoyOnline",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "GIZ",
+        "published": "2026-10-29T21:11:02+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-11-02T14:49:10.534923+00:00"
+    }
+  ]
+}
