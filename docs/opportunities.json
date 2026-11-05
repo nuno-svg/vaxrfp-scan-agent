@@ -35,18 +35,18 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-04T13:49:09.067189+00:00"
+    "fetched_at": "2026-11-05T14:01:17.774426+00:00"
   },
   {
-    "id": "04781b0cbd45",
+    "id": "576bdc84eec0",
     "source": "World Bank",
-    "title": "Hiring an Occupational Health Specialist for 24 months",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478989",
-    "country": "MO",
-    "deadline": "2026-11-20",
-    "deadline_days": 16,
+    "title": "Sélection d'un consultant individuel chargé d'étudier la cartographie des acteurs gouvernementaux responsables des thèmes B-READY",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479280",
+    "country": "CH",
+    "deadline": "2026-11-18",
+    "deadline_days": 13,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Mozambique Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Progr. Country: Mozambique. Reference: MZ-MISAU-507503-CS-INDV.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Chad MSME Development and Access To Finance Project. Country: Chad. Reference: TD-INSEED_PREP_MSME-538624-CS-INDV.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -70,124 +70,10 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P511558",
-      "wb_reference": "MZ-MISAU-507503-CS-INDV"
+      "wb_project_id": "P182134",
+      "wb_reference": "TD-INSEED_PREP_MSME-538624-CS-INDV"
     },
-    "fetched_at": "2026-11-04T13:49:09.059946+00:00"
-  },
-  {
-    "id": "9a3536ef4c8c",
-    "source": "World Bank",
-    "title": "MHEWS Systems Coordinator [SOFF]",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478810",
-    "country": "SA",
-    "deadline": "2026-11-29",
-    "deadline_days": 25,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Pacific Region Preparedness, Adaptation and Resilience - Samoa Project. Country: Samoa. Reference: WS-MNRE-534287-CS-INDV.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P507749",
-      "wb_reference": "WS-MNRE-534287-CS-INDV"
-    },
-    "fetched_at": "2026-11-04T13:49:09.059502+00:00"
-  },
-  {
-    "id": "3adafa432561",
-    "source": "World Bank",
-    "title": "Renovation of existing laboratory at the Animal Disease Prevention and Control Center in Wenchang（1.4.2）",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478951",
-    "country": "CH",
-    "deadline": "2026-11-04",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "Invitation for Bids. Request for Bids. Project: China Emerging Infectious Diseases Prevention, Preparedness and Response Project. Country: China. Reference: HN-W-4.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Invitation for Bids",
-      "wb_project_id": "P173746",
-      "wb_reference": "HN-W-4"
-    },
-    "fetched_at": "2026-11-04T13:49:09.059246+00:00"
-  },
-  {
-    "id": "52e978ec0886",
-    "source": "World Bank",
-    "title": "Laboratory Renovation Works of Animal Disease Prevention and Control Center in Chengmai County.（1.3.5）",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478925",
-    "country": "CH",
-    "deadline": "2026-11-04",
-    "deadline_days": 0,
-    "value_usd": null,
-    "description": "Invitation for Bids. Request for Bids. Project: China Emerging Infectious Diseases Prevention, Preparedness and Response Project. Country: China. Reference: HN-W-6.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Invitation for Bids",
-      "wb_project_id": "P173746",
-      "wb_reference": "HN-W-6"
-    },
-    "fetched_at": "2026-11-04T13:49:09.060787+00:00"
+    "fetched_at": "2026-11-05T14:01:17.772099+00:00"
   },
   {
     "id": "3ac7b454eeb4",
@@ -196,7 +82,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478532",
     "country": "FI",
     "deadline": "2026-11-18",
-    "deadline_days": 14,
+    "deadline_days": 13,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Fiji Tourism Development Program in Vanua Levu. Country: Fiji. Reference: FJ-MTCA-563794-CS-QCBS.",
     "fit_per_area": {
@@ -225,7 +111,7 @@
       "wb_project_id": "P178694",
       "wb_reference": "FJ-MTCA-563794-CS-QCBS"
     },
-    "fetched_at": "2026-11-04T13:49:09.059354+00:00"
+    "fetched_at": "2026-11-05T14:01:17.772893+00:00"
   },
   {
     "id": "fcf26f07c63e",
@@ -263,82 +149,6 @@
       "published": "2026-09-21T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-11-04T13:49:09.065570+00:00"
-  },
-  {
-    "id": "50652abc4efc",
-    "source": "Signal:Aspen Pharmacare",
-    "title": "EXCLUSIVE | Aspen opts not to make HIV prevention jab lenacapavir - Business Day",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFFWQVlsMkI4X0U2ZW5wSFdoU1hBMktyOHIzekwzc0pLRjBSTGlQckNOUmpwRDBENENYend4WDkzcjRwMUF6Nzl3bHdGR1dNbWVoWGc3S0RiMkYxeUxoMW1MYVMtaUtFUmhFNFczTTBJMjdhWmNsY2tOVHc5NUpCYzNVZkw3cnlzYWY5Y1hQcjJicDBkVmlTelg2RHN1YmhPeXVaZlloWW5UeXFkU093cUhuSnlmeWx4T2ppeHFXQQ?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "EXCLUSIVE | Aspen opts not to make HIV prevention jab lenacapavir &nbsp;&nbsp; Business Day",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Aspen Pharmacare",
-      "published": "2026-09-04T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-11-04T13:49:09.066268+00:00"
-  },
-  {
-    "id": "4ec8c39097ec",
-    "source": "Signal:GIZ",
-    "title": "Trade Ministry launches pharmaceutical policy to double local medicine production - MyJoyOnline",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaEROeUY2VGlaRms2aTZHZ3JUNEtuZTJJX1YwNnFhNjRrTE1QOUZyVVA0eTE0RGtXYzhrT1hITGFnaDk3R1QtYmJFY1N0TmYtcjQxQi15M0tzRENsV1JEckNJRkhnMnhTZDY2V0h1NDR1emhFRTA1emdsVGpxQ1c1N1dWT3F0Y19aOHA2UU9CeXB6MlEwRlZRdk5KM1ZRWDRwemlRa1pscHpib1NCa0I4?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Trade Ministry launches pharmaceutical policy to double local medicine production &nbsp;&nbsp; MyJoyOnline",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "donor": "GIZ",
-      "published": "2026-10-29T21:11:02+00:00",
-      "signal_type": "donor"
-    },
-    "fetched_at": "2026-11-04T13:49:09.066980+00:00"
+    "fetched_at": "2026-11-05T14:01:17.774288+00:00"
   }
 ]

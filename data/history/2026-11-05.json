@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "last_run": "2026-11-05T14:01:17.774440+00:00",
+    "duration_seconds": 76.080825,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 47,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 3,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 1,
+        "errors": 0
+      }
+    },
+    "total_kept": 4,
+    "total_excluded": 148,
+    "exclusion_breakdown": {
+      "gate": 126,
+      "expired": 11,
+      "bmgf_strict": 1,
+      "goods": 9,
+      "sanctioned": 1
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "7957d095f782",
+      "source": "Signal:AVMA",
+      "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-07-24T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-11-05T14:01:17.774426+00:00"
+    },
+    {
+      "id": "576bdc84eec0",
+      "source": "World Bank",
+      "title": "Sélection d'un consultant individuel chargé d'étudier la cartographie des acteurs gouvernementaux responsables des thèmes B-READY",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479280",
+      "country": "CH",
+      "deadline": "2026-11-18",
+      "deadline_days": 13,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Chad MSME Development and Access To Finance Project. Country: Chad. Reference: TD-INSEED_PREP_MSME-538624-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P182134",
+        "wb_reference": "TD-INSEED_PREP_MSME-538624-CS-INDV"
+      },
+      "fetched_at": "2026-11-05T14:01:17.772099+00:00"
+    },
+    {
+      "id": "3ac7b454eeb4",
+      "source": "World Bank",
+      "title": "Tourism Emergency Preparedness and Response",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478532",
+      "country": "FI",
+      "deadline": "2026-11-18",
+      "deadline_days": 13,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Fiji Tourism Development Program in Vanua Levu. Country: Fiji. Reference: FJ-MTCA-563794-CS-QCBS.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P178694",
+        "wb_reference": "FJ-MTCA-563794-CS-QCBS"
+      },
+      "fetched_at": "2026-11-05T14:01:17.772893+00:00"
+    },
+    {
+      "id": "fcf26f07c63e",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Is Aspen betting on the right HIV prevention product? - Spotlight",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEUyZFduZ0s4bEM3dTNITDVOczgtZ2ZnVEhSeS1YZ3BLLUpkUUZLVm1lcmtxYlFIcmo4WXhNVUtNNW5mYlNEdDR3d0tTRjJRSlBUQy1uQllvRWhKLVNnaEg2M1BCODBKVDBiTnVkSEZOWENlR1l5dmxFNE5DSXZvdnJtZWZidGZqeWFaMEwzZUFDYUJTcXdKX09acw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Is Aspen betting on the right HIV prevention product? &nbsp;&nbsp; Spotlight",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-09-21T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-05T14:01:17.774288+00:00"
+    }
+  ]
+}
