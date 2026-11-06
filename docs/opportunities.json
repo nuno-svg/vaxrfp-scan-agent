@@ -35,18 +35,18 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-05T14:01:17.774426+00:00"
+    "fetched_at": "2026-11-06T13:46:24.728522+00:00"
   },
   {
-    "id": "576bdc84eec0",
+    "id": "36ecf9d1d219",
     "source": "World Bank",
-    "title": "Sélection d'un consultant individuel chargé d'étudier la cartographie des acteurs gouvernementaux responsables des thèmes B-READY",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479280",
-    "country": "CH",
-    "deadline": "2026-11-18",
-    "deadline_days": 13,
+    "title": "Review and Updating of Feasibility Studies, Technical Assessments and Detailed Engineering Design for Irrigation Schemes",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478016",
+    "country": "AZ",
+    "deadline": "2026-11-16",
+    "deadline_days": 10,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Chad MSME Development and Access To Finance Project. Country: Chad. Reference: TD-INSEED_PREP_MSME-538624-CS-INDV.",
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: GFPP to Support Preparation of Competitive, Resilient Agriculture and Irrigation Services (CRAIS) in. Country: Azerbaijan. Reference: CRAIS-P515925-CS-CQS/1.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -70,30 +70,30 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182134",
-      "wb_reference": "TD-INSEED_PREP_MSME-538624-CS-INDV"
+      "wb_project_id": "P515925",
+      "wb_reference": "CRAIS-P515925-CS-CQS/1"
     },
-    "fetched_at": "2026-11-05T14:01:17.772099+00:00"
+    "fetched_at": "2026-11-06T13:46:24.726184+00:00"
   },
   {
-    "id": "3ac7b454eeb4",
+    "id": "b89e8b07dfc8",
     "source": "World Bank",
-    "title": "Tourism Emergency Preparedness and Response",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478532",
-    "country": "FI",
-    "deadline": "2026-11-18",
-    "deadline_days": 13,
+    "title": "Consultancy services for the Preparation of the required Environmental and Social Instruments for SPIN Rabbah Irrigation Scheme in line with the disclosed Environmental and Social Management Framework (ESMF) and Resettlement Policy Framework (RPF)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479744",
+    "country": "NI",
+    "deadline": "2026-11-20",
+    "deadline_days": 14,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Fiji Tourism Development Program in Vanua Levu. Country: Fiji. Reference: FJ-MTCA-563794-CS-QCBS.",
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Sustainable Power and Irrigation for Nigeria Project. Country: Nigeria. Reference: NG-NIGER STATE SPIN-580030-CS-CQS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
       "regulatory": 0,
-      "procurement": 0,
+      "procurement": 2,
       "mel": 0
     },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
+    "fit_total": 2,
+    "fit_top_area": "procurement",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
@@ -108,10 +108,86 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P178694",
-      "wb_reference": "FJ-MTCA-563794-CS-QCBS"
+      "wb_project_id": "P179684",
+      "wb_reference": "NG-NIGER STATE SPIN-580030-CS-CQS"
     },
-    "fetched_at": "2026-11-05T14:01:17.772893+00:00"
+    "fetched_at": "2026-11-06T13:46:24.726347+00:00"
+  },
+  {
+    "id": "1439069fd7a0",
+    "source": "World Bank",
+    "title": "Consulting services for the development of the SEMMO Strategic Plan.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479671",
+    "country": "MO",
+    "deadline": "2026-11-20",
+    "deadline_days": 14,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Mozambique Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Progr. Country: Mozambique. Reference: MZ-MISAU-542366-CS-INDV.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P511558",
+      "wb_reference": "MZ-MISAU-542366-CS-INDV"
+    },
+    "fetched_at": "2026-11-06T13:46:24.726778+00:00"
+  },
+  {
+    "id": "9a3536ef4c8c",
+    "source": "World Bank",
+    "title": "MHEWS Systems Coordinator [SOFF]",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478810",
+    "country": "SA",
+    "deadline": "2026-11-30",
+    "deadline_days": 24,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Pacific Region Preparedness, Adaptation and Resilience - Samoa Project. Country: Samoa. Reference: WS-MNRE-534287-CS-INDV.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P507749",
+      "wb_reference": "WS-MNRE-534287-CS-INDV"
+    },
+    "fetched_at": "2026-11-06T13:46:24.725637+00:00"
   },
   {
     "id": "fcf26f07c63e",
@@ -149,6 +225,6 @@
       "published": "2026-09-21T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-11-05T14:01:17.774288+00:00"
+    "fetched_at": "2026-11-06T13:46:24.728379+00:00"
   }
 ]
