@@ -1,0 +1,369 @@
+{
+  "meta": {
+    "last_run": "2026-11-09T15:14:54.743264+00:00",
+    "duration_seconds": 54.193028,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 53,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 2,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 1,
+        "errors": 0
+      }
+    },
+    "total_kept": 8,
+    "total_excluded": 149,
+    "exclusion_breakdown": {
+      "gate": 139,
+      "expired": 4,
+      "sanctioned": 2,
+      "goods": 3,
+      "bmgf_strict": 1
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "7957d095f782",
+      "source": "Signal:AVMA",
+      "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-07-24T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-11-09T15:14:54.743239+00:00"
+    },
+    {
+      "id": "3fde08654497",
+      "source": "World Bank",
+      "title": "Research assistant on international good practice in the financing of tertiary education (TVET and Higher education)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479799",
+      "country": "UZ",
+      "deadline": "2026-11-13",
+      "deadline_days": 4,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Project Preparation Assistance: Enhancing Access to Tertiary Education through Student Loan Mechanis. Country: Uzbekistan. Reference: UZ-MEF-10-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P181956",
+        "wb_reference": "UZ-MEF-10-CS-INDV"
+      },
+      "fetched_at": "2026-11-09T15:14:54.741635+00:00"
+    },
+    {
+      "id": "8a606e1683b2",
+      "source": "World Bank",
+      "title": "International short-term consultant on International good practice in the financing of tertiary education (TVET and Higher education)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479795",
+      "country": "UZ",
+      "deadline": "2026-11-13",
+      "deadline_days": 4,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Project Preparation Assistance: Enhancing Access to Tertiary Education through Student Loan Mechanis. Country: Uzbekistan. Reference: UZ-MEF-09-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P181956",
+        "wb_reference": "UZ-MEF-09-CS-INDV"
+      },
+      "fetched_at": "2026-11-09T15:14:54.741903+00:00"
+    },
+    {
+      "id": "36ecf9d1d219",
+      "source": "World Bank",
+      "title": "Review and Updating of Feasibility Studies, Technical Assessments and Detailed Engineering Design for Irrigation Schemes",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478016",
+      "country": "AZ",
+      "deadline": "2026-11-16",
+      "deadline_days": 7,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: GFPP to Support Preparation of Competitive, Resilient Agriculture and Irrigation Services (CRAIS) in. Country: Azerbaijan. Reference: CRAIS-P515925-CS-CQS/1.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P515925",
+        "wb_reference": "CRAIS-P515925-CS-CQS/1"
+      },
+      "fetched_at": "2026-11-09T15:14:54.741444+00:00"
+    },
+    {
+      "id": "1019407b15fe",
+      "source": "World Bank",
+      "title": "Procurement consultant for NOEPI",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478699",
+      "country": "MO",
+      "deadline": "2026-11-16",
+      "deadline_days": 7,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Restoring Ecosystems for Marine Pollution Prevention (RE-MAP). Country: Moldova. Reference: MD-NOIEP-577164-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P505546",
+        "wb_reference": "MD-NOIEP-577164-CS-INDV"
+      },
+      "fetched_at": "2026-11-09T15:14:54.742107+00:00"
+    },
+    {
+      "id": "1fe971974ecf",
+      "source": "World Bank",
+      "title": "Procurement specialist: hiring of procurement specialist preparation of bid documents for works and consulting services.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479656",
+      "country": "NE",
+      "deadline": "2026-11-25",
+      "deadline_days": 16,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Nepal Safer Schools Project. Country: Nepal. Reference: NP-CLPIU EDU-576638-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P518111",
+        "wb_reference": "NP-CLPIU EDU-576638-CS-INDV"
+      },
+      "fetched_at": "2026-11-09T15:14:54.742182+00:00"
+    },
+    {
+      "id": "9ebf64967cfc",
+      "source": "World Bank",
+      "title": "CONSULTANCY SERVICES FOR THE PREPARATION AND IMPLEMENTATION OF A RESETTLEMENT ACTION PLAN FOR THE CONSTRUCTION OF BANSARA IRRIGATION SCHEME, CROSS RIVER STATE",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480078",
+      "country": "NI",
+      "deadline": "2026-11-30",
+      "deadline_days": 21,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Sustainable Power and Irrigation for Nigeria Project. Country: Nigeria. Reference: NG-CROSS RIVER SPIN-573502-CS-CQS.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P179684",
+        "wb_reference": "NG-CROSS RIVER SPIN-573502-CS-CQS"
+      },
+      "fetched_at": "2026-11-09T15:14:54.741509+00:00"
+    },
+    {
+      "id": "fcf26f07c63e",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Is Aspen betting on the right HIV prevention product? - Spotlight",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEUyZFduZ0s4bEM3dTNITDVOczgtZ2ZnVEhSeS1YZ3BLLUpkUUZLVm1lcmtxYlFIcmo4WXhNVUtNNW5mYlNEdDR3d0tTRjJRSlBUQy1uQllvRWhKLVNnaEg2M1BCODBKVDBiTnVkSEZOWENlR1l5dmxFNE5DSXZvdnJtZWZidGZqeWFaMEwzZUFDYUJTcXdKX09acw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Is Aspen betting on the right HIV prevention product? &nbsp;&nbsp; Spotlight",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-09-21T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-09T15:14:54.743071+00:00"
+    }
+  ]
+}

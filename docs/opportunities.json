@@ -35,7 +35,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-08T12:48:03.354584+00:00"
+    "fetched_at": "2026-11-09T15:14:54.743239+00:00"
   },
   {
     "id": "3fde08654497",
@@ -44,7 +44,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479799",
     "country": "UZ",
     "deadline": "2026-11-13",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Project Preparation Assistance: Enhancing Access to Tertiary Education through Student Loan Mechanis. Country: Uzbekistan. Reference: UZ-MEF-10-CS-INDV.",
     "fit_per_area": {
@@ -73,7 +73,7 @@
       "wb_project_id": "P181956",
       "wb_reference": "UZ-MEF-10-CS-INDV"
     },
-    "fetched_at": "2026-11-08T12:48:03.352220+00:00"
+    "fetched_at": "2026-11-09T15:14:54.741635+00:00"
   },
   {
     "id": "8a606e1683b2",
@@ -82,7 +82,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479795",
     "country": "UZ",
     "deadline": "2026-11-13",
-    "deadline_days": 5,
+    "deadline_days": 4,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Project Preparation Assistance: Enhancing Access to Tertiary Education through Student Loan Mechanis. Country: Uzbekistan. Reference: UZ-MEF-09-CS-INDV.",
     "fit_per_area": {
@@ -111,7 +111,7 @@
       "wb_project_id": "P181956",
       "wb_reference": "UZ-MEF-09-CS-INDV"
     },
-    "fetched_at": "2026-11-08T12:48:03.352552+00:00"
+    "fetched_at": "2026-11-09T15:14:54.741903+00:00"
   },
   {
     "id": "36ecf9d1d219",
@@ -120,7 +120,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478016",
     "country": "AZ",
     "deadline": "2026-11-16",
-    "deadline_days": 8,
+    "deadline_days": 7,
     "value_usd": null,
     "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: GFPP to Support Preparation of Competitive, Resilient Agriculture and Irrigation Services (CRAIS) in. Country: Azerbaijan. Reference: CRAIS-P515925-CS-CQS/1.",
     "fit_per_area": {
@@ -137,7 +137,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": false,
+      "urgent_deadline": true,
       "expired": false
     },
     "flag_notes": {
@@ -149,7 +149,7 @@
       "wb_project_id": "P515925",
       "wb_reference": "CRAIS-P515925-CS-CQS/1"
     },
-    "fetched_at": "2026-11-08T12:48:03.351979+00:00"
+    "fetched_at": "2026-11-09T15:14:54.741444+00:00"
   },
   {
     "id": "1019407b15fe",
@@ -158,7 +158,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478699",
     "country": "MO",
     "deadline": "2026-11-16",
-    "deadline_days": 8,
+    "deadline_days": 7,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Restoring Ecosystems for Marine Pollution Prevention (RE-MAP). Country: Moldova. Reference: MD-NOIEP-577164-CS-INDV.",
     "fit_per_area": {
@@ -175,7 +175,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": false,
+      "urgent_deadline": true,
       "expired": false
     },
     "flag_notes": {
@@ -187,7 +187,7 @@
       "wb_project_id": "P505546",
       "wb_reference": "MD-NOIEP-577164-CS-INDV"
     },
-    "fetched_at": "2026-11-08T12:48:03.352854+00:00"
+    "fetched_at": "2026-11-09T15:14:54.742107+00:00"
   },
   {
     "id": "1fe971974ecf",
@@ -196,7 +196,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479656",
     "country": "NE",
     "deadline": "2026-11-25",
-    "deadline_days": 17,
+    "deadline_days": 16,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Nepal Safer Schools Project. Country: Nepal. Reference: NP-CLPIU EDU-576638-CS-INDV.",
     "fit_per_area": {
@@ -225,7 +225,7 @@
       "wb_project_id": "P518111",
       "wb_reference": "NP-CLPIU EDU-576638-CS-INDV"
     },
-    "fetched_at": "2026-11-08T12:48:03.352922+00:00"
+    "fetched_at": "2026-11-09T15:14:54.742182+00:00"
   },
   {
     "id": "9ebf64967cfc",
@@ -234,7 +234,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480078",
     "country": "NI",
     "deadline": "2026-11-30",
-    "deadline_days": 22,
+    "deadline_days": 21,
     "value_usd": null,
     "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Sustainable Power and Irrigation for Nigeria Project. Country: Nigeria. Reference: NG-CROSS RIVER SPIN-573502-CS-CQS.",
     "fit_per_area": {
@@ -263,7 +263,7 @@
       "wb_project_id": "P179684",
       "wb_reference": "NG-CROSS RIVER SPIN-573502-CS-CQS"
     },
-    "fetched_at": "2026-11-08T12:48:03.352060+00:00"
+    "fetched_at": "2026-11-09T15:14:54.741509+00:00"
   },
   {
     "id": "fcf26f07c63e",
@@ -301,6 +301,6 @@
       "published": "2026-09-21T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-11-08T12:48:03.354359+00:00"
+    "fetched_at": "2026-11-09T15:14:54.743071+00:00"
   }
 ]
