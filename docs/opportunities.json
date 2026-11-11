@@ -1,5 +1,43 @@
 [
   {
+    "id": "f379260d5831",
+    "source": "World Bank",
+    "title": "REHABILITATION AND MODERNIZATION OF IRRIGATION SCHEMES – LOT 1: DOMA (NASARAWA STATE) AND GALALA (BAUCHI STATE); LOT 2: KAMPE OMI (KOGI STATE) AND DUKKU LADE (KWARA STATE); LOT 3: NDIEZE (EBONYI STATE) AND ADANI (ENUGU STATE)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479463",
+    "country": "NI",
+    "deadline": "2026-12-22",
+    "deadline_days": 41,
+    "value_usd": null,
+    "description": "Invitation for Prequalification. Request for Proposals. Project: Sustainable Power and Irrigation for Nigeria Project. Country: Nigeria. Reference: FMWR&S/SPIN/D&B/RFP/2026/31.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 5,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 5,
+    "fit_top_area": "regulatory",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Invitation for Prequalification",
+      "wb_project_id": "P179684",
+      "wb_reference": "FMWR&S/SPIN/D&B/RFP/2026/31"
+    },
+    "fetched_at": "2026-11-11T13:36:29.946424+00:00"
+  },
+  {
     "id": "d431fd4eb7cb",
     "source": "Signal:GIZ",
     "title": "National Vaccine Institute, Africa CDC mobilise African manufacturers for pooled procurement - GhanaWeb",
@@ -35,7 +73,7 @@
       "published": "2026-11-09T19:19:26+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-10T14:22:49.551196+00:00"
+    "fetched_at": "2026-11-11T13:36:29.948695+00:00"
   },
   {
     "id": "7957d095f782",
@@ -73,43 +111,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-10T14:22:49.551325+00:00"
-  },
-  {
-    "id": "3043c615b9e4",
-    "source": "TED",
-    "title": "Germany – Pharmaceutical products – Offene Rahmenvereinbarung über Arzneimittelrabatte gemäß § 130a Abs.8 SGB V mit jederzeitiger Beitrittsmöglichkeit, sog. Zulassungsmodell 2026-11",
-    "url": "https://ted.europa.eu/en/notice/628632-2026",
-    "country": "DE",
-    "deadline": "2028-09-05",
-    "deadline_days": 665,
-    "value_usd": null,
-    "description": "Deutsche Rentenversicherung Knappschaft-Bahn-See. Die vorliegende Bekanntmachung dient dem Abschluss von Vereinbarungen zu dem Wirkstoff „Bosutinib, Darreichungsform: FTA (ATC-Code: L01EA04)“ mit pharmazeutischen Unternehmen im Sinne von § 130a Abs. 8 Satz 1 Sozialgesetzbuch, fünftes Buch (SGB V) (Rabattverträge). Gemäß § 130a Abs. 8 Satz 1 SGB V ist die Aufforderung zur Teilnahme nur an pharmazeutische Unternehmer oder Arbeitnehmergemeinschaften pharmazeutischer Unternehmer im Sinne des § 4 Abs. 18 Arzneimittelgesetz (AMG) gerichtet. Es handelt sich nicht um ein Offenes Verfahren, sondern um eine Veröffentlichung der Aufforderung zum Abschluss/Beitritt von/zu Rabattverträgen mit für alle Teilnehmer festgelegten und nicht verhandelbaren Konditionen einschließlich der Höhe des Rabattes. Die entsprechenden Angaben unter dem Punkt 2.1 \"Verfahrensart\" sowie unter dem Punkt 5.1.12 \"Bedingung für die Auftragsvergabe_hier: Frist, bis zu der das Angebot gültig sein muss\" sind nur der Systematik dieses Vordruckes geschuldet. Vertragspartner können unbegrenzt viele pharmazeutische Unternehmer oder Arbeitnehmergemeinschaften pharmazeutischer Unternehmer im Sinne des § 4 Abs. 18 Arzneimittelgesetz (AMG) werden. Der Vertragsabschluss oder ein Beitritt erfolgt, indem die geforderten ausgefüllten Eigenerklärungen bzw. Nachweise sowie den Vertrag bzw. die Verträge entweder: a) Handschriftlich unterschrieben (Schriftform nach § 126 BGB) per Post oder b) Mit einer qualifizierten elektronischen",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "628632-2026"
-    },
-    "fetched_at": "2026-11-10T14:22:49.545677+00:00"
+    "fetched_at": "2026-11-11T13:36:29.948873+00:00"
   },
   {
     "id": "06d9451dbca8",
@@ -145,7 +147,7 @@
     "raw": {
       "ted_publication_number": "630678-2026"
     },
-    "fetched_at": "2026-11-10T14:22:49.548762+00:00"
+    "fetched_at": "2026-11-11T13:36:29.940274+00:00"
   },
   {
     "id": "fcf26f07c63e",
@@ -183,6 +185,6 @@
       "published": "2026-09-21T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-11-10T14:22:49.550948+00:00"
+    "fetched_at": "2026-11-11T13:36:29.948379+00:00"
   }
 ]
