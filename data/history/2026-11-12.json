@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "last_run": "2026-11-12T14:40:10.592921+00:00",
+    "duration_seconds": 63.574545,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 46,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 2,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 2,
+        "errors": 0
+      }
+    },
+    "total_kept": 6,
+    "total_excluded": 145,
+    "exclusion_breakdown": {
+      "gate": 135,
+      "expired": 5,
+      "bmgf_strict": 1,
+      "sanctioned": 3,
+      "goods": 1
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "d431fd4eb7cb",
+      "source": "Signal:GIZ",
+      "title": "National Vaccine Institute, Africa CDC mobilise African manufacturers for pooled procurement - GhanaWeb",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdTM3eFJndUF2VUdzQ2JidEdCd1FPMWsxNjRocW1rclpPMVJtbWJmQXgzTjRidjNaenJLeHg2UFd4QzVvTk5IU05SeWJUVTJJQkpENjBYQlU5NmtVcnJEd1dhVzl2Z0lLWDVsSkN5TlpnNmRMeG9RalBSckp2Tzk3VU5tZE1sQ2JOTEdwVmYyTXNDd1hrZzlTcThZMUViTjRTWUlnaE4wcTRLY2M2MjVmeXg0aVNlaGs2MGVrdUptRkFTYUdMLWw0R1dqUWIzZjNpNE02WFRNSmtNUkw4bnc?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "National Vaccine Institute, Africa CDC mobilise African manufacturers for pooled procurement &nbsp;&nbsp; GhanaWeb",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 5,
+        "mel": 0
+      },
+      "fit_total": 5,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "GIZ",
+        "published": "2026-11-09T19:19:26+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-11-12T14:40:10.592692+00:00"
+    },
+    {
+      "id": "7957d095f782",
+      "source": "Signal:AVMA",
+      "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-07-24T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-11-12T14:40:10.592900+00:00"
+    },
+    {
+      "id": "990e528ef771",
+      "source": "World Bank",
+      "title": "Consultancy Services to Prepare Site Studies (Geotechnical Investigation Part 1) for Wind Farm Installation In Botswana.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475673",
+      "country": "BO",
+      "deadline": "2026-11-18",
+      "deadline_days": 6,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Botswana Renewable Energy Scale Up Support. Country: Botswana. Reference: BW-MME-574456-CS-CQS.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 3,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P178822",
+        "wb_reference": "BW-MME-574456-CS-CQS"
+      },
+      "fetched_at": "2026-11-12T14:40:10.590151+00:00"
+    },
+    {
+      "id": "8273e632f44f",
+      "source": "World Bank",
+      "title": "Consultancy Services to Prepare Site Studies (Hydrological, Topographic Survey, Route Survey) for Wind Farm Installation in Botswana.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475681",
+      "country": "BO",
+      "deadline": "2026-11-18",
+      "deadline_days": 6,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Botswana Renewable Energy Scale Up Support. Country: Botswana. Reference: BW-MME-568509-CS-CQS.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 3,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 3,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P178822",
+        "wb_reference": "BW-MME-568509-CS-CQS"
+      },
+      "fetched_at": "2026-11-12T14:40:10.591443+00:00"
+    },
+    {
+      "id": "06d9451dbca8",
+      "source": "TED",
+      "title": "Germany – Community health services – Pflegefreundliche Kommune",
+      "url": "https://ted.europa.eu/en/notice/630678-2026",
+      "country": "DE",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Bundesminsiterium für Gesundheit. Ziel ist es, dass Pflegebedürftige und ihre An- und Zugehörigen schnell und zielgerichtet benötigte Leistungen und Unterstützung im Wohnumfeld finden und auch erhalten. Dafür sollen Kommunen systematisch beim Auf- und Ausbau einer pflegefreundlichen Infrastruktur durch das Projekt unterstützt werden",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ted_publication_number": "630678-2026"
+      },
+      "fetched_at": "2026-11-12T14:40:10.583371+00:00"
+    },
+    {
+      "id": "fcf26f07c63e",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Is Aspen betting on the right HIV prevention product? - Spotlight",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEUyZFduZ0s4bEM3dTNITDVOczgtZ2ZnVEhSeS1YZ3BLLUpkUUZLVm1lcmtxYlFIcmo4WXhNVUtNNW5mYlNEdDR3d0tTRjJRSlBUQy1uQllvRWhKLVNnaEg2M1BCODBKVDBiTnVkSEZOWENlR1l5dmxFNE5DSXZvdnJtZWZidGZqeWFaMEwzZUFDYUJTcXdKX09acw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Is Aspen betting on the right HIV prevention product? &nbsp;&nbsp; Spotlight",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-09-21T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-12T14:40:10.592291+00:00"
+    }
+  ]
+}

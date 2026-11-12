@@ -1,43 +1,5 @@
 [
   {
-    "id": "f379260d5831",
-    "source": "World Bank",
-    "title": "REHABILITATION AND MODERNIZATION OF IRRIGATION SCHEMES – LOT 1: DOMA (NASARAWA STATE) AND GALALA (BAUCHI STATE); LOT 2: KAMPE OMI (KOGI STATE) AND DUKKU LADE (KWARA STATE); LOT 3: NDIEZE (EBONYI STATE) AND ADANI (ENUGU STATE)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479463",
-    "country": "NI",
-    "deadline": "2026-12-22",
-    "deadline_days": 41,
-    "value_usd": null,
-    "description": "Invitation for Prequalification. Request for Proposals. Project: Sustainable Power and Irrigation for Nigeria Project. Country: Nigeria. Reference: FMWR&S/SPIN/D&B/RFP/2026/31.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 5,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 5,
-    "fit_top_area": "regulatory",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Invitation for Prequalification",
-      "wb_project_id": "P179684",
-      "wb_reference": "FMWR&S/SPIN/D&B/RFP/2026/31"
-    },
-    "fetched_at": "2026-11-11T13:36:29.946424+00:00"
-  },
-  {
     "id": "d431fd4eb7cb",
     "source": "Signal:GIZ",
     "title": "National Vaccine Institute, Africa CDC mobilise African manufacturers for pooled procurement - GhanaWeb",
@@ -73,7 +35,7 @@
       "published": "2026-11-09T19:19:26+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-11T13:36:29.948695+00:00"
+    "fetched_at": "2026-11-12T14:40:10.592692+00:00"
   },
   {
     "id": "7957d095f782",
@@ -111,7 +73,83 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-11T13:36:29.948873+00:00"
+    "fetched_at": "2026-11-12T14:40:10.592900+00:00"
+  },
+  {
+    "id": "990e528ef771",
+    "source": "World Bank",
+    "title": "Consultancy Services to Prepare Site Studies (Geotechnical Investigation Part 1) for Wind Farm Installation In Botswana.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475673",
+    "country": "BO",
+    "deadline": "2026-11-18",
+    "deadline_days": 6,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Botswana Renewable Energy Scale Up Support. Country: Botswana. Reference: BW-MME-574456-CS-CQS.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 3,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 3,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P178822",
+      "wb_reference": "BW-MME-574456-CS-CQS"
+    },
+    "fetched_at": "2026-11-12T14:40:10.590151+00:00"
+  },
+  {
+    "id": "8273e632f44f",
+    "source": "World Bank",
+    "title": "Consultancy Services to Prepare Site Studies (Hydrological, Topographic Survey, Route Survey) for Wind Farm Installation in Botswana.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475681",
+    "country": "BO",
+    "deadline": "2026-11-18",
+    "deadline_days": 6,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Botswana Renewable Energy Scale Up Support. Country: Botswana. Reference: BW-MME-568509-CS-CQS.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 3,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 3,
+    "fit_top_area": "manufacturing",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P178822",
+      "wb_reference": "BW-MME-568509-CS-CQS"
+    },
+    "fetched_at": "2026-11-12T14:40:10.591443+00:00"
   },
   {
     "id": "06d9451dbca8",
@@ -147,7 +185,7 @@
     "raw": {
       "ted_publication_number": "630678-2026"
     },
-    "fetched_at": "2026-11-11T13:36:29.940274+00:00"
+    "fetched_at": "2026-11-12T14:40:10.583371+00:00"
   },
   {
     "id": "fcf26f07c63e",
@@ -185,6 +223,6 @@
       "published": "2026-09-21T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-11-11T13:36:29.948379+00:00"
+    "fetched_at": "2026-11-12T14:40:10.592291+00:00"
   }
 ]
