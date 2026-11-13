@@ -32,10 +32,10 @@
     },
     "raw": {
       "donor": "GIZ",
-      "published": "2026-11-09T19:19:26+00:00",
+      "published": "2026-11-09T19:19:29+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-12T14:40:10.592692+00:00"
+    "fetched_at": "2026-11-13T13:58:06.193425+00:00"
   },
   {
     "id": "7957d095f782",
@@ -73,33 +73,33 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-12T14:40:10.592900+00:00"
+    "fetched_at": "2026-11-13T13:58:06.193561+00:00"
   },
   {
-    "id": "990e528ef771",
+    "id": "60c74b90c4bb",
     "source": "World Bank",
-    "title": "Consultancy Services to Prepare Site Studies (Geotechnical Investigation Part 1) for Wind Farm Installation In Botswana.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475673",
-    "country": "BO",
-    "deadline": "2026-11-18",
-    "deadline_days": 6,
+    "title": "Procurement of It infrastructure for strengthening DHIS 2 Implementation and data ware house",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481028",
+    "country": "EA",
+    "deadline": "2026-12-29",
+    "deadline_days": 46,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Botswana Renewable Energy Scale Up Support. Country: Botswana. Reference: BW-MME-574456-CS-CQS.",
+    "description": "Invitation for Bids. Request for Proposals. Project: Health Emergency Preparedness, Response and Resilience Program Using the Multiphase Programmatic App. Country: Eastern and Southern Africa. Reference: ET-MOH-480615-GO-RFB.",
     "fit_per_area": {
       "cold_chain": 0,
-      "manufacturing": 3,
+      "manufacturing": 0,
       "regulatory": 0,
-      "procurement": 2,
+      "procurement": 0,
       "mel": 0
     },
-    "fit_total": 3,
-    "fit_top_area": "manufacturing",
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": true,
+      "urgent_deadline": false,
       "expired": false
     },
     "flag_notes": {
@@ -107,49 +107,11 @@
       "eligibility": ""
     },
     "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P178822",
-      "wb_reference": "BW-MME-574456-CS-CQS"
+      "wb_notice_type": "Invitation for Bids",
+      "wb_project_id": "P180127",
+      "wb_reference": "ET-MOH-480615-GO-RFB"
     },
-    "fetched_at": "2026-11-12T14:40:10.590151+00:00"
-  },
-  {
-    "id": "8273e632f44f",
-    "source": "World Bank",
-    "title": "Consultancy Services to Prepare Site Studies (Hydrological, Topographic Survey, Route Survey) for Wind Farm Installation in Botswana.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475681",
-    "country": "BO",
-    "deadline": "2026-11-18",
-    "deadline_days": 6,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Botswana Renewable Energy Scale Up Support. Country: Botswana. Reference: BW-MME-568509-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 3,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 3,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": true,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P178822",
-      "wb_reference": "BW-MME-568509-CS-CQS"
-    },
-    "fetched_at": "2026-11-12T14:40:10.591443+00:00"
+    "fetched_at": "2026-11-13T13:58:06.192139+00:00"
   },
   {
     "id": "06d9451dbca8",
@@ -185,7 +147,7 @@
     "raw": {
       "ted_publication_number": "630678-2026"
     },
-    "fetched_at": "2026-11-12T14:40:10.583371+00:00"
+    "fetched_at": "2026-11-13T13:58:06.185910+00:00"
   },
   {
     "id": "fcf26f07c63e",
@@ -223,6 +185,6 @@
       "published": "2026-09-21T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-11-12T14:40:10.592291+00:00"
+    "fetched_at": "2026-11-13T13:58:06.193161+00:00"
   }
 ]
