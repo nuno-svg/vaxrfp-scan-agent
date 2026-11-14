@@ -35,7 +35,7 @@
       "published": "2026-11-09T19:19:29+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-13T13:58:06.193425+00:00"
+    "fetched_at": "2026-11-14T12:59:40.846105+00:00"
   },
   {
     "id": "7957d095f782",
@@ -73,18 +73,18 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-13T13:58:06.193561+00:00"
+    "fetched_at": "2026-11-14T12:59:40.846244+00:00"
   },
   {
-    "id": "60c74b90c4bb",
+    "id": "1761e8cff36f",
     "source": "World Bank",
-    "title": "Procurement of It infrastructure for strengthening DHIS 2 Implementation and data ware house",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481028",
-    "country": "EA",
-    "deadline": "2026-12-29",
-    "deadline_days": 46,
+    "title": "FIRMA CONSULTORA PARA APOYAR LA PREPARACION DE SUBPROYECTOS DE ELECTRIFICACION MEDIANTE EXTENSION DE REDES",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478134",
+    "country": "BO",
+    "deadline": "2026-11-24",
+    "deadline_days": 10,
     "value_usd": null,
-    "description": "Invitation for Bids. Request for Proposals. Project: Health Emergency Preparedness, Response and Resilience Program Using the Multiphase Programmatic App. Country: Eastern and Southern Africa. Reference: ET-MOH-480615-GO-RFB.",
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Bolivia Improving Sustainable Access to Electricity Project (IDTR III). Country: Bolivia. Reference: PEVD-IDTR III 2026-064.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -107,47 +107,11 @@
       "eligibility": ""
     },
     "raw": {
-      "wb_notice_type": "Invitation for Bids",
-      "wb_project_id": "P180127",
-      "wb_reference": "ET-MOH-480615-GO-RFB"
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P180027",
+      "wb_reference": "PEVD-IDTR III 2026-064"
     },
-    "fetched_at": "2026-11-13T13:58:06.192139+00:00"
-  },
-  {
-    "id": "06d9451dbca8",
-    "source": "TED",
-    "title": "Germany – Community health services – Pflegefreundliche Kommune",
-    "url": "https://ted.europa.eu/en/notice/630678-2026",
-    "country": "DE",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Bundesminsiterium für Gesundheit. Ziel ist es, dass Pflegebedürftige und ihre An- und Zugehörigen schnell und zielgerichtet benötigte Leistungen und Unterstützung im Wohnumfeld finden und auch erhalten. Dafür sollen Kommunen systematisch beim Auf- und Ausbau einer pflegefreundlichen Infrastruktur durch das Projekt unterstützt werden",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "630678-2026"
-    },
-    "fetched_at": "2026-11-13T13:58:06.185910+00:00"
+    "fetched_at": "2026-11-14T12:59:40.844268+00:00"
   },
   {
     "id": "fcf26f07c63e",
@@ -185,6 +149,6 @@
       "published": "2026-09-21T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-11-13T13:58:06.193161+00:00"
+    "fetched_at": "2026-11-14T12:59:40.845841+00:00"
   }
 ]
