@@ -35,7 +35,7 @@
       "published": "2026-11-09T19:19:29+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-14T12:59:40.846105+00:00"
+    "fetched_at": "2026-11-15T13:28:29.064678+00:00"
   },
   {
     "id": "7957d095f782",
@@ -73,7 +73,7 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-14T12:59:40.846244+00:00"
+    "fetched_at": "2026-11-15T13:28:29.064892+00:00"
   },
   {
     "id": "1761e8cff36f",
@@ -82,7 +82,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478134",
     "country": "BO",
     "deadline": "2026-11-24",
-    "deadline_days": 10,
+    "deadline_days": 9,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Bolivia Improving Sustainable Access to Electricity Project (IDTR III). Country: Bolivia. Reference: PEVD-IDTR III 2026-064.",
     "fit_per_area": {
@@ -111,7 +111,43 @@
       "wb_project_id": "P180027",
       "wb_reference": "PEVD-IDTR III 2026-064"
     },
-    "fetched_at": "2026-11-14T12:59:40.844268+00:00"
+    "fetched_at": "2026-11-15T13:28:29.062133+00:00"
+  },
+  {
+    "id": "a49b7cf4ea0f",
+    "source": "TED",
+    "title": "Finland – Health services – Neuropsykologiset tutkimuspalvelut",
+    "url": "https://ted.europa.eu/en/notice/637709-2026",
+    "country": "FI",
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "Varsinais-Suomen hyvinvointialue. Hankinnan kohde on kuvattu tarkemmin osallistumispyynnössä ja sen liitteissä",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "637709-2026"
+    },
+    "fetched_at": "2026-11-15T13:28:29.055931+00:00"
   },
   {
     "id": "fcf26f07c63e",
@@ -149,6 +185,44 @@
       "published": "2026-09-21T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-11-14T12:59:40.845841+00:00"
+    "fetched_at": "2026-11-15T13:28:29.063850+00:00"
+  },
+  {
+    "id": "7261d95f24f1",
+    "source": "Signal:Institut Pasteur Dakar",
+    "title": "How Marie-Angélique Sène is empowering Africa’s vaccine future - Gates Foundation",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UMGx5MnNYZHRBQmFHTGhxNXpQMEZoM3ZDMFIxVVNJbmc1ZlFISkd4eWVyWmZvTW44TUJsRzdncFNlNUZTNkhHLUNvMUdsUFN4UVV6T2hRUk9Oc2VieUwtZDFNWjBWazdDWnNwMFhyaEZVcjVJZm5HUlNlcw?oc=5",
+    "country": null,
+    "deadline": null,
+    "deadline_days": null,
+    "value_usd": null,
+    "description": "How Marie-Angélique Sène is empowering Africa’s vaccine future &nbsp;&nbsp; Gates Foundation",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "manufacturer": "Institut Pasteur Dakar",
+      "published": "2026-11-12T22:28:32+00:00",
+      "signal_type": "manufacturer"
+    },
+    "fetched_at": "2026-11-15T13:28:29.064246+00:00"
   }
 ]
