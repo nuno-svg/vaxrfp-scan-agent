@@ -1,0 +1,324 @@
+{
+  "meta": {
+    "last_run": "2026-11-16T14:50:51.503243+00:00",
+    "duration_seconds": 51.88686,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 36,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 4,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 2,
+        "errors": 0
+      }
+    },
+    "total_kept": 7,
+    "total_excluded": 137,
+    "exclusion_breakdown": {
+      "gate": 125,
+      "expired": 8,
+      "sanctioned": 3,
+      "bmgf_strict": 1
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "d431fd4eb7cb",
+      "source": "Signal:GIZ",
+      "title": "National Vaccine Institute, Africa CDC mobilise African manufacturers for pooled procurement - GhanaWeb",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdTM3eFJndUF2VUdzQ2JidEdCd1FPMWsxNjRocW1rclpPMVJtbWJmQXgzTjRidjNaenJLeHg2UFd4QzVvTk5IU05SeWJUVTJJQkpENjBYQlU5NmtVcnJEd1dhVzl2Z0lLWDVsSkN5TlpnNmRMeG9RalBSckp2Tzk3VU5tZE1sQ2JOTEdwVmYyTXNDd1hrZzlTcThZMUViTjRTWUlnaE4wcTRLY2M2MjVmeXg0aVNlaGs2MGVrdUptRkFTYUdMLWw0R1dqUWIzZjNpNE02WFRNSmtNUkw4bnc?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "National Vaccine Institute, Africa CDC mobilise African manufacturers for pooled procurement &nbsp;&nbsp; GhanaWeb",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 5,
+        "mel": 0
+      },
+      "fit_total": 5,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "GIZ",
+        "published": "2026-11-09T19:19:29+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-11-16T14:50:51.502999+00:00"
+    },
+    {
+      "id": "7957d095f782",
+      "source": "Signal:AVMA",
+      "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-07-24T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-11-16T14:50:51.503221+00:00"
+    },
+    {
+      "id": "c0b78a3adf25",
+      "source": "UNITAID",
+      "title": "Delivering Greater Health Equity and Impact through People-Centered, Integrated TB and Hepatitis C Care in…",
+      "url": "https://unitaid.org/call-for-proposal/?sf_id=119Vj000003n2JuIAI",
+      "country": "_LMIC",
+      "deadline": "2027-03-01",
+      "deadline_days": 105,
+      "value_usd": null,
+      "description": "Learn more about our work and how we help accelerate the global health response. Explore how our investments are shaping disease responses. Financial grants to accelerate innovation in global health. Learn more about the difference our work makes in the lives of people in low- and middle-income countries. External evaluations provide independent assessments of our work. Explore the technologies and interventions we're working on. Explore how innovation and partnerships have transformed access to quality health products – and the work that lies ahead. See where our work is being mentioned in the media world. Resources for journalists and media representatives. Explore upcoming speaking engagements and events. Unitaid announces US$25 million funding opportunity to expand access to integrated TB and hepatitis C care in high-transmission settings Celebrating two decades of leadership and service: A tribute to Dr. Philippe Duneton New Unitaid report charts a path to expand access to lifesaving newborn care Unitaid announces US$25 million funding opportunity to expand access to integrated TB and hepatitis C care in high-transmission settings Celebrating two decades of leadership and service: A tribute to Dr. Philippe Duneton New Unitaid report charts a path to expand access to lifesaving newborn care When extreme heat becomes a pregnancy risk A small device could transform access to testing for multiple diseases A smart investment: The economics of saving mothers Unitaid extends in",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 3
+      },
+      "fit_total": 3,
+      "fit_top_area": "mel",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-11-16T14:50:51.486151+00:00"
+    },
+    {
+      "id": "1761e8cff36f",
+      "source": "World Bank",
+      "title": "FIRMA CONSULTORA PARA APOYAR LA PREPARACION DE SUBPROYECTOS DE ELECTRIFICACION MEDIANTE EXTENSION DE REDES",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478134",
+      "country": "BO",
+      "deadline": "2026-11-24",
+      "deadline_days": 8,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Bolivia Improving Sustainable Access to Electricity Project (IDTR III). Country: Bolivia. Reference: PEVD-IDTR III 2026-064.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P180027",
+        "wb_reference": "PEVD-IDTR III 2026-064"
+      },
+      "fetched_at": "2026-11-16T14:50:51.499279+00:00"
+    },
+    {
+      "id": "d555cb9ed5bd",
+      "source": "TED",
+      "title": "Germany – Miscellaneous health services – Open House \"Teledermatologie - Neufassung 2026\"",
+      "url": "https://ted.europa.eu/en/notice/642080-2026",
+      "country": "DE",
+      "deadline": "2028-10-15",
+      "deadline_days": 699,
+      "value_usd": null,
+      "description": "GWQ ServicePlus AG. Gegenstand dieser Veröffentlichung ist der Abschluss von Verträgen nach § 140a SGB V über die Versorgung von Versicherten mittels Teledermatologie im Rahmen eines sogenannten Open-House Verfahrens. Unter Vorgabe einheitlicher Vertragskonditionen sowie eines einheitlichen Zugangsverfahrens wird allen geeigneten und interessierten Anbietern jederzeit der Abschluss bzw. Beitritt zu dem Vertrag angeboten. Individuelle Vertragsverhandlungen werden nicht geführt, einzelnen Vertragspartnern wird keine Exklusivität zugesichert. Ein Vertragsabschluss erfolgt mit allen Anbietern, die die Voraussetzungen zum Vertrag erfüllen und dies durch ihre Unterschrift auf den auszufüllenden Erklärungen bzw. dem Vertrag bestätigt haben",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "ted_publication_number": "642080-2026"
+      },
+      "fetched_at": "2026-11-16T14:50:51.491189+00:00"
+    },
+    {
+      "id": "fcf26f07c63e",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Is Aspen betting on the right HIV prevention product? - Spotlight",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEUyZFduZ0s4bEM3dTNITDVOczgtZ2ZnVEhSeS1YZ3BLLUpkUUZLVm1lcmtxYlFIcmo4WXhNVUtNNW5mYlNEdDR3d0tTRjJRSlBUQy1uQllvRWhKLVNnaEg2M1BCODBKVDBiTnVkSEZOWENlR1l5dmxFNE5DSXZvdnJtZWZidGZqeWFaMEwzZUFDYUJTcXdKX09acw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Is Aspen betting on the right HIV prevention product? &nbsp;&nbsp; Spotlight",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-09-21T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-16T14:50:51.502213+00:00"
+    },
+    {
+      "id": "7261d95f24f1",
+      "source": "Signal:Institut Pasteur Dakar",
+      "title": "How Marie-Angélique Sène is empowering Africa’s vaccine future - Gates Foundation",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UMGx5MnNYZHRBQmFHTGhxNXpQMEZoM3ZDMFIxVVNJbmc1ZlFISkd4eWVyWmZvTW44TUJsRzdncFNlNUZTNkhHLUNvMUdsUFN4UVV6T2hRUk9Oc2VieUwtZDFNWjBWazdDWnNwMFhyaEZVcjVJZm5HUlNlcw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "How Marie-Angélique Sène is empowering Africa’s vaccine future &nbsp;&nbsp; Gates Foundation",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Institut Pasteur Dakar",
+        "published": "2026-11-12T22:28:32+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-16T14:50:51.502600+00:00"
+    }
+  ]
+}
