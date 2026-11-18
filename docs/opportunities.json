@@ -1,5 +1,39 @@
 [
   {
+    "id": "c0b78a3adf25",
+    "source": "UNITAID",
+    "title": "Delivering Greater Health Equity and Impact through People-Centered, Integrated TB and Hepatitis C Care in…",
+    "url": "https://unitaid.org/call-for-proposal/?sf_id=119Vj000003n2JuIAI",
+    "country": "_LMIC",
+    "deadline": "2027-03-01",
+    "deadline_days": 103,
+    "value_usd": null,
+    "description": "Learn more about our work and how we help accelerate the global health response. Explore how our investments are shaping disease responses. Financial grants to accelerate innovation in global health. Learn more about the difference our work makes in the lives of people in low- and middle-income countries. External evaluations provide independent assessments of our work. Explore the technologies and interventions we're working on. Explore how innovation and partnerships have transformed access to quality health products – and the work that lies ahead. See where our work is being mentioned in the media world. Resources for journalists and media representatives. Explore upcoming speaking engagements and events. New Unitaid-led dashboard aims to accelerate market access for new malaria innovations Access planning for Ebola medicines moves ahead during clinical trials Unitaid launches US$28.6 million investment to integrate diagnostic services and expand access to care New Unitaid-led dashboard aims to accelerate market access for new malaria innovations Unitaid launches US$28.6 million investment to integrate diagnostic services and expand access to care Unitaid announces US$25 million funding opportunity to expand access to integrated TB and hepatitis C care in high-transmission settings When extreme heat becomes a pregnancy risk A small device could transform access to testing for multiple diseases A smart investment: The economics of saving mothers Unitaid extends investment i",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 4,
+      "mel": 3
+    },
+    "fit_total": 5,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 1,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {},
+    "fetched_at": "2026-11-18T15:08:55.040090+00:00"
+  },
+  {
     "id": "d431fd4eb7cb",
     "source": "Signal:GIZ",
     "title": "National Vaccine Institute, Africa CDC mobilise African manufacturers for pooled procurement - GhanaWeb",
@@ -35,7 +69,45 @@
       "published": "2026-11-09T19:19:29+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-17T15:31:25.335965+00:00"
+    "fetched_at": "2026-11-18T15:08:55.052977+00:00"
+  },
+  {
+    "id": "5da113678d5a",
+    "source": "World Bank",
+    "title": "Preparation of an Environmental and Social Impact Assessment and Associated Environmental and Social Instruments for the Proposed Hazardous Waste Treatment and Landfill Facility in Georgia",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478272",
+    "country": "GE",
+    "deadline": "2026-11-27",
+    "deadline_days": 9,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Georgia Water Supply, Sanitation, Wastewater, and Hazardous Waste GFPP. Country: Georgia. Reference: GFPP/CS/CQS-02.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 4
+    },
+    "fit_total": 4,
+    "fit_top_area": "mel",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P518850",
+      "wb_reference": "GFPP/CS/CQS-02"
+    },
+    "fetched_at": "2026-11-18T15:08:55.049471+00:00"
   },
   {
     "id": "7957d095f782",
@@ -73,27 +145,65 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-17T15:31:25.336198+00:00"
+    "fetched_at": "2026-11-18T15:08:55.053145+00:00"
   },
   {
-    "id": "c0b78a3adf25",
-    "source": "UNITAID",
-    "title": "Delivering Greater Health Equity and Impact through People-Centered, Integrated TB and Hepatitis C Care in…",
-    "url": "https://unitaid.org/call-for-proposal/?sf_id=119Vj000003n2JuIAI",
-    "country": "_LMIC",
-    "deadline": "2027-03-01",
-    "deadline_days": 104,
+    "id": "ce385db97bd9",
+    "source": "World Bank",
+    "title": "Preparation of an Energy Sector Investment Program for the Marshall Islands",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00459459",
+    "country": "MA",
+    "deadline": "2026-11-23",
+    "deadline_days": 5,
     "value_usd": null,
-    "description": "Learn more about our work and how we help accelerate the global health response. Explore how our investments are shaping disease responses. Financial grants to accelerate innovation in global health. Learn more about the difference our work makes in the lives of people in low- and middle-income countries. External evaluations provide independent assessments of our work. Explore the technologies and interventions we're working on. Explore how innovation and partnerships have transformed access to quality health products – and the work that lies ahead. See where our work is being mentioned in the media world. Resources for journalists and media representatives. Explore upcoming speaking engagements and events. Unitaid launches US$28.6 million investment to integrate diagnostic services and expand access to care Unitaid announces US$25 million funding opportunity to expand access to integrated TB and hepatitis C care in high-transmission settings Celebrating two decades of leadership and service: A tribute to Dr. Philippe Duneton Unitaid launches US$28.6 million investment to integrate diagnostic services and expand access to care Unitaid announces US$25 million funding opportunity to expand access to integrated TB and hepatitis C care in high-transmission settings Celebrating two decades of leadership and service: A tribute to Dr. Philippe Duneton When extreme heat becomes a pregnancy risk A small device could transform access to testing for multiple diseases A smart investment",
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Renewable Energy Generation and Access Increase Project. Country: Marshall Islands. Reference: MH-MEC-563965-CS-CQS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
       "regulatory": 0,
-      "procurement": 0,
-      "mel": 3
+      "procurement": 2,
+      "mel": 0
     },
-    "fit_total": 3,
-    "fit_top_area": "mel",
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P181250",
+      "wb_reference": "MH-MEC-563965-CS-CQS"
+    },
+    "fetched_at": "2026-11-18T15:08:55.050238+00:00"
+  },
+  {
+    "id": "621d2e1c7f7d",
+    "source": "World Bank",
+    "title": "Recrutement d’un consultant individuel pour une analyse de l’approche multisectorielle de la nutrition et en particulier du point de vue du secteur privé",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482103",
+    "country": "BE",
+    "deadline": "2026-12-02",
+    "deadline_days": 14,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Project Preparation for ALAFIA I: Nourishing Benin's Future Program. Country: Benin. Reference: BJ-ADET-568930-CS-INDV.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
     "breadth_bonus": 0,
     "flags": {
       "sanctioned": false,
@@ -106,19 +216,61 @@
       "sanctions": "",
       "eligibility": ""
     },
-    "raw": {},
-    "fetched_at": "2026-11-17T15:31:25.320195+00:00"
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P182125",
+      "wb_reference": "BJ-ADET-568930-CS-INDV"
+    },
+    "fetched_at": "2026-11-18T15:08:55.050121+00:00"
   },
   {
-    "id": "9c447079d700",
+    "id": "02785bdd1abf",
     "source": "World Bank",
-    "title": "Feasibility Study, Preparation of Preliminary and Detailed Designs, Bidding Documents, Technical Supervision for Irrigation Systems",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480348",
-    "country": "AR",
-    "deadline": "2026-12-15",
-    "deadline_days": 28,
+    "title": "Contratação de uma Firma para efectuar Estudos de Demanda e a Avaliação de Impacto Laboral.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482207",
+    "country": "AN",
+    "deadline": "2026-12-03",
+    "deadline_days": 15,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Armenia Water and Irrigation Services Enhancement Program - Phase 1 Project. Country: Armenia. Reference: AM-WC-CS-03/1.",
+    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Angola Sustainable Urban Mobility Project Preparation Grant. Country: Angola. Reference: AO-ANTT-565666-CS-CQS.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P181978",
+      "wb_reference": "AO-ANTT-565666-CS-CQS"
+    },
+    "fetched_at": "2026-11-18T15:08:55.049369+00:00"
+  },
+  {
+    "id": "1458d7c3ff95",
+    "source": "World Bank",
+    "title": "Equipment for Antibiotics, Antiviral Drugs and Their Metabolites Detection in Wastewater.（2.4）",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481999",
+    "country": "CH",
+    "deadline": "2026-12-29",
+    "deadline_days": 41,
+    "value_usd": null,
+    "description": "Invitation for Bids. Request for Bids. Project: China Emerging Infectious Diseases Prevention, Preparedness and Response Project. Country: China. Reference: HN-G-90.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -141,11 +293,11 @@
       "eligibility": ""
     },
     "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P508124",
-      "wb_reference": "AM-WC-CS-03/1"
+      "wb_notice_type": "Invitation for Bids",
+      "wb_project_id": "P173746",
+      "wb_reference": "HN-G-90"
     },
-    "fetched_at": "2026-11-17T15:31:25.331196+00:00"
+    "fetched_at": "2026-11-18T15:08:55.048931+00:00"
   },
   {
     "id": "fcf26f07c63e",
@@ -183,7 +335,7 @@
       "published": "2026-09-21T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-11-17T15:31:25.335166+00:00"
+    "fetched_at": "2026-11-18T15:08:55.052351+00:00"
   },
   {
     "id": "7261d95f24f1",
@@ -221,6 +373,6 @@
       "published": "2026-11-12T22:28:32+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-11-17T15:31:25.335548+00:00"
+    "fetched_at": "2026-11-18T15:08:55.052654+00:00"
   }
 ]
