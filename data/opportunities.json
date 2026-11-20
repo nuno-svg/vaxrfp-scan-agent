@@ -6,7 +6,7 @@
     "url": "https://unitaid.org/call-for-proposal/?sf_id=119Vj000003n2JuIAI",
     "country": "_LMIC",
     "deadline": "2027-03-01",
-    "deadline_days": 102,
+    "deadline_days": 101,
     "value_usd": null,
     "description": "Learn more about our work and how we help accelerate the global health response. Explore how our investments are shaping disease responses. Financial grants to accelerate innovation in global health. Learn more about the difference our work makes in the lives of people in low- and middle-income countries. External evaluations provide independent assessments of our work. Explore the technologies and interventions we're working on. Explore how innovation and partnerships have transformed access to quality health products – and the work that lies ahead. See where our work is being mentioned in the media world. Resources for journalists and media representatives. Explore upcoming speaking engagements and events. New Unitaid-led dashboard aims to accelerate market access for new malaria innovations Access planning for Ebola medicines moves ahead during clinical trials Unitaid launches US$28.6 million investment to integrate diagnostic services and expand access to care New Unitaid-led dashboard aims to accelerate market access for new malaria innovations Unitaid launches US$28.6 million investment to integrate diagnostic services and expand access to care Unitaid announces US$25 million funding opportunity to expand access to integrated TB and hepatitis C care in high-transmission settings When extreme heat becomes a pregnancy risk A small device could transform access to testing for multiple diseases A smart investment: The economics of saving mothers Unitaid extends investment i",
     "fit_per_area": {
@@ -31,7 +31,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-11-19T15:17:12.280537+00:00"
+    "fetched_at": "2026-11-20T14:55:50.485482+00:00"
   },
   {
     "id": "d431fd4eb7cb",
@@ -69,7 +69,7 @@
       "published": "2026-11-09T19:19:29+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-19T15:17:12.297383+00:00"
+    "fetched_at": "2026-11-20T14:55:50.500046+00:00"
   },
   {
     "id": "7957d095f782",
@@ -107,18 +107,56 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-19T15:17:12.297594+00:00"
+    "fetched_at": "2026-11-20T14:55:50.500237+00:00"
   },
   {
-    "id": "51c8549dad5e",
+    "id": "375294db6b23",
     "source": "World Bank",
-    "title": "Chargé des Opérations de recensement",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482448",
+    "title": "Recrutement d’un Consultant assumant la fonction d'Ingénieur Hydro électricien principal au sein de l'Agence pour le Développement et la Promotion du Projet Grand Inga (ADPI) dans le cadre du Programme de Développement Inga 3 (PDI3)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482511",
     "country": "CO",
-    "deadline": "2026-12-03",
-    "deadline_days": 14,
+    "deadline": "2026-11-27",
+    "deadline_days": 7,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation in relation to DECIDE Project (Development of Statistical Capacity to Improve Decision M. Country: Congo, Democratic Republic of. Reference: ZR-MINPLAN-576298-CS-INDV.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Inga 3  Development Program. Country: Congo, Democratic Republic of. Reference: ZR-ADEPI-570695-CS-INDV.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 2,
+      "mel": 0
+    },
+    "fit_total": 2,
+    "fit_top_area": "procurement",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P506438",
+      "wb_reference": "ZR-ADEPI-570695-CS-INDV"
+    },
+    "fetched_at": "2026-11-20T14:55:50.497267+00:00"
+  },
+  {
+    "id": "a363f5e5912d",
+    "source": "World Bank",
+    "title": "Hiring of Independent Consultant for preparation of Audit and Assessment Reports Group-3 (Çeltek Regulator, Yedikır Dam, Kurtboğazı Dam, Eğrekkaya Barajı, Akyar)",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482640",
+    "country": "TU",
+    "deadline": "2026-12-03",
+    "deadline_days": 13,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Türkiye Second Irrigation Modernization and Water Efficiency Project. Country: Turkiye. Reference: TIMP2-BDAN-3.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -142,21 +180,21 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P516861",
-      "wb_reference": "ZR-MINPLAN-576298-CS-INDV"
+      "wb_project_id": "P506997",
+      "wb_reference": "TIMP2-BDAN-3"
     },
-    "fetched_at": "2026-11-19T15:17:12.293108+00:00"
+    "fetched_at": "2026-11-20T14:55:50.496040+00:00"
   },
   {
-    "id": "0f1a367e800a",
+    "id": "98598f9d89c9",
     "source": "World Bank",
-    "title": "Coordonnateur Adjoint",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482433",
-    "country": "CO",
-    "deadline": "2026-12-03",
-    "deadline_days": 14,
+    "title": "Consultancy Services for Preparation of Regional Development Plans for the Northern and Eastern Provinces.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482290",
+    "country": "SR",
+    "deadline": "2026-12-11",
+    "deadline_days": 21,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation in relation to DECIDE Project (Development of Statistical Capacity to Improve Decision M. Country: Congo, Democratic Republic of. Reference: ZR-MINPLAN-576296-CS-INDV.",
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Sri Lanka Regional Empowerment through Vibrant, Inclusive, and Viable Economies. Country: Sri Lanka. Reference: LK-REVIVE-PMU-573669-CS-QCBS.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -180,124 +218,10 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P516861",
-      "wb_reference": "ZR-MINPLAN-576296-CS-INDV"
+      "wb_project_id": "P511605",
+      "wb_reference": "LK-REVIVE-PMU-573669-CS-QCBS"
     },
-    "fetched_at": "2026-11-19T15:17:12.293256+00:00"
-  },
-  {
-    "id": "02785bdd1abf",
-    "source": "World Bank",
-    "title": "Contratação de uma Firma para efectuar Estudos de Demanda e a Avaliação de Impacto Laboral.",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482207",
-    "country": "AN",
-    "deadline": "2026-12-03",
-    "deadline_days": 14,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Angola Sustainable Urban Mobility Project Preparation Grant. Country: Angola. Reference: AO-ANTT-565666-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P181978",
-      "wb_reference": "AO-ANTT-565666-CS-CQS"
-    },
-    "fetched_at": "2026-11-19T15:17:12.293899+00:00"
-  },
-  {
-    "id": "c07c2ef61651",
-    "source": "World Bank",
-    "title": "WHO STEP-wise approach to NCD risk factor surveillance (STEPS) Survey for NCD (round 1)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482326",
-    "country": "IN",
-    "deadline": "2026-12-18",
-    "deadline_days": 29,
-    "value_usd": null,
-    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: West Bengal Health System Reform Program Operation. Country: India. Reference: IN-DOHFW, WB-485595-CS-QCBS-2.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P506976",
-      "wb_reference": "IN-DOHFW, WB-485595-CS-QCBS-2"
-    },
-    "fetched_at": "2026-11-19T15:17:12.293187+00:00"
-  },
-  {
-    "id": "1458d7c3ff95",
-    "source": "World Bank",
-    "title": "Equipment for Antibiotics, Antiviral Drugs and Their Metabolites Detection in Wastewater.（2.4）",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481999",
-    "country": "CH",
-    "deadline": "2026-12-29",
-    "deadline_days": 40,
-    "value_usd": null,
-    "description": "Invitation for Bids. Request for Bids. Project: China Emerging Infectious Diseases Prevention, Preparedness and Response Project. Country: China. Reference: HN-G-90.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Invitation for Bids",
-      "wb_project_id": "P173746",
-      "wb_reference": "HN-G-90"
-    },
-    "fetched_at": "2026-11-19T15:17:12.293459+00:00"
+    "fetched_at": "2026-11-20T14:55:50.495641+00:00"
   },
   {
     "id": "fcf26f07c63e",
@@ -335,7 +259,7 @@
       "published": "2026-09-21T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-11-19T15:17:12.296561+00:00"
+    "fetched_at": "2026-11-20T14:55:50.499328+00:00"
   },
   {
     "id": "7261d95f24f1",
@@ -373,6 +297,6 @@
       "published": "2026-11-12T22:28:32+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-11-19T15:17:12.296978+00:00"
+    "fetched_at": "2026-11-20T14:55:50.499688+00:00"
   }
 ]
