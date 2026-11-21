@@ -1,12 +1,84 @@
 [
   {
+    "id": "29afadacc4f7",
+    "source": "Africa CDC",
+    "title": "REQUEST FOR EXPRESSIONS OF INTEREST (CONSULTING SERVICES– FIRMS SELECTION)",
+    "url": "https://africacdc.org/opportunity/request-for-expressions-of-interest-consulting-services-firms-selection/",
+    "country": "_AU",
+    "deadline": "2026-12-02",
+    "deadline_days": 11,
+    "value_usd": null,
+    "description": "REQUEST FOR EXPRESSIONS OF INTEREST (CONSULTING SERVICES– FIRMS SELECTION) The African Union has received financing from the World Bank toward the cost of the Africa Centres for Disease Control Support Program to Combat Current and Future Public Health Threats Project. The Project Development Objective is to enhance the capacity of Africa Centres for Disease Control and Prevention (Africa CDC) to support AU Member States in preventing, detecting, and responding to current and future public health threats and intends to apply part of the proceeds for consulting services The Africa Centres for Disease Control and Prevention (Africa CDC), an autonomous institution of the African Union, is mandated to strengthen public health systems across Africa through coordinated disease prevention, preparedness, and response. In line with this mandate, Africa CDC is establishing Five (5) Regional Coordinating Centres (RCCs), including the Eastern Africa RCC. On 27 April 2025, a Memorandum of Understanding (MoU) was signed between the Government of Kenya and Africa CDC, under which the Government of Kenya allocated 10 acres of land for the establishment of the Eastern Africa Regional Coordinating Office and Regional Training Centre. The proposed EARCC Hub will involve ground-clearing, earthworks, civil construction, installation of utilities (water, electricity, sanitation, medical waste systems), and fit-out of specialized laboratory and emergency operations facilities. These activities enta",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 3,
+      "mel": 4
+    },
+    "fit_total": 5,
+    "fit_top_area": "mel",
+    "breadth_bonus": 1,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {},
+    "fetched_at": "2026-11-21T14:15:55.700824+00:00"
+  },
+  {
+    "id": "e8825bce43a1",
+    "source": "World Bank",
+    "title": "Travaux de construction d’une usine de traitement d'eau à Yessoulou IV",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480957",
+    "country": "GU",
+    "deadline": "2027-01-12",
+    "deadline_days": 52,
+    "value_usd": null,
+    "description": "Invitation for Prequalification. Request for Proposals. Project: Guinea Water and Sanitation Project. Country: Guinea. Reference: GN-GWSP-545463-CW-RFP.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 5,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 5,
+    "fit_top_area": "regulatory",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Invitation for Prequalification",
+      "wb_project_id": "P179017",
+      "wb_reference": "GN-GWSP-545463-CW-RFP"
+    },
+    "fetched_at": "2026-11-21T14:15:55.710843+00:00"
+  },
+  {
     "id": "c0b78a3adf25",
     "source": "UNITAID",
     "title": "Delivering Greater Health Equity and Impact through People-Centered, Integrated TB and Hepatitis C Care in…",
     "url": "https://unitaid.org/call-for-proposal/?sf_id=119Vj000003n2JuIAI",
     "country": "_LMIC",
     "deadline": "2027-03-01",
-    "deadline_days": 101,
+    "deadline_days": 100,
     "value_usd": null,
     "description": "Learn more about our work and how we help accelerate the global health response. Explore how our investments are shaping disease responses. Financial grants to accelerate innovation in global health. Learn more about the difference our work makes in the lives of people in low- and middle-income countries. External evaluations provide independent assessments of our work. Explore the technologies and interventions we're working on. Explore how innovation and partnerships have transformed access to quality health products – and the work that lies ahead. See where our work is being mentioned in the media world. Resources for journalists and media representatives. Explore upcoming speaking engagements and events. New Unitaid-led dashboard aims to accelerate market access for new malaria innovations Access planning for Ebola medicines moves ahead during clinical trials Unitaid launches US$28.6 million investment to integrate diagnostic services and expand access to care New Unitaid-led dashboard aims to accelerate market access for new malaria innovations Unitaid launches US$28.6 million investment to integrate diagnostic services and expand access to care Unitaid announces US$25 million funding opportunity to expand access to integrated TB and hepatitis C care in high-transmission settings When extreme heat becomes a pregnancy risk A small device could transform access to testing for multiple diseases A smart investment: The economics of saving mothers Unitaid extends investment i",
     "fit_per_area": {
@@ -31,7 +103,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-11-20T14:55:50.485482+00:00"
+    "fetched_at": "2026-11-21T14:15:55.699757+00:00"
   },
   {
     "id": "d431fd4eb7cb",
@@ -66,10 +138,10 @@
     },
     "raw": {
       "donor": "GIZ",
-      "published": "2026-11-09T19:19:29+00:00",
+      "published": "2026-11-09T08:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-20T14:55:50.500046+00:00"
+    "fetched_at": "2026-11-21T14:15:55.715150+00:00"
   },
   {
     "id": "7957d095f782",
@@ -107,18 +179,18 @@
       "published": "2026-07-24T07:00:00+00:00",
       "signal_type": "donor"
     },
-    "fetched_at": "2026-11-20T14:55:50.500237+00:00"
+    "fetched_at": "2026-11-21T14:15:55.715383+00:00"
   },
   {
-    "id": "375294db6b23",
+    "id": "d5febabb9dde",
     "source": "World Bank",
-    "title": "Recrutement d’un Consultant assumant la fonction d'Ingénieur Hydro électricien principal au sein de l'Agence pour le Développement et la Promotion du Projet Grand Inga (ADPI) dans le cadre du Programme de Développement Inga 3 (PDI3)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482511",
+    "title": "Spécialiste en Suivi-évaluation",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482781",
     "country": "CO",
-    "deadline": "2026-11-27",
-    "deadline_days": 7,
+    "deadline": "2026-12-03",
+    "deadline_days": 12,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Inga 3  Development Program. Country: Congo, Democratic Republic of. Reference: ZR-ADEPI-570695-CS-INDV.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Preparation in relation to DECIDE Project (Development of Statistical Capacity to Improve Decision M. Country: Congo, Democratic Republic of. Reference: ZR-MINPLAN-576304-CS-INDV.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -133,7 +205,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": true,
+      "urgent_deadline": false,
       "expired": false
     },
     "flag_notes": {
@@ -142,10 +214,10 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P506438",
-      "wb_reference": "ZR-ADEPI-570695-CS-INDV"
+      "wb_project_id": "P516861",
+      "wb_reference": "ZR-MINPLAN-576304-CS-INDV"
     },
-    "fetched_at": "2026-11-20T14:55:50.497267+00:00"
+    "fetched_at": "2026-11-21T14:15:55.710315+00:00"
   },
   {
     "id": "a363f5e5912d",
@@ -154,7 +226,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482640",
     "country": "TU",
     "deadline": "2026-12-03",
-    "deadline_days": 13,
+    "deadline_days": 12,
     "value_usd": null,
     "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Türkiye Second Irrigation Modernization and Water Efficiency Project. Country: Turkiye. Reference: TIMP2-BDAN-3.",
     "fit_per_area": {
@@ -183,7 +255,7 @@
       "wb_project_id": "P506997",
       "wb_reference": "TIMP2-BDAN-3"
     },
-    "fetched_at": "2026-11-20T14:55:50.496040+00:00"
+    "fetched_at": "2026-11-21T14:15:55.712072+00:00"
   },
   {
     "id": "98598f9d89c9",
@@ -192,7 +264,7 @@
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482290",
     "country": "SR",
     "deadline": "2026-12-11",
-    "deadline_days": 21,
+    "deadline_days": 20,
     "value_usd": null,
     "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Sri Lanka Regional Empowerment through Vibrant, Inclusive, and Viable Economies. Country: Sri Lanka. Reference: LK-REVIVE-PMU-573669-CS-QCBS.",
     "fit_per_area": {
@@ -221,7 +293,119 @@
       "wb_project_id": "P511605",
       "wb_reference": "LK-REVIVE-PMU-573669-CS-QCBS"
     },
-    "fetched_at": "2026-11-20T14:55:50.495641+00:00"
+    "fetched_at": "2026-11-21T14:15:55.711624+00:00"
+  },
+  {
+    "id": "352f30ed8c53",
+    "source": "TED",
+    "title": "Netherlands – Company health services – Arbodienstverlening",
+    "url": "https://ted.europa.eu/en/notice/652980-2026",
+    "country": "NL",
+    "deadline": "2026-11-23",
+    "deadline_days": 2,
+    "value_usd": null,
+    "description": "AT Scholen VO. Opdrachtgever is binnen onderhavige aanbestedingsprocedure op zoek naar een arbodienstverlener die de organisatie kan ondersteunen bij de uitvoering van arbodienstverlening, verzuimbegeleiding en duurzame inzetbaarheid van haar medewerkers, volledig in lijn met de geldende wet- en regelgeving. De opdracht ziet op het verzorgen van arbodienstverlening ten behoeve van de medewerkers van opdrachtgever. Zie aanbestedingsdocumenten",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": true,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "ted_publication_number": "652980-2026"
+    },
+    "fetched_at": "2026-11-21T14:15:55.706725+00:00"
+  },
+  {
+    "id": "4929931b653b",
+    "source": "World Bank",
+    "title": "Consulting and supervision of rehabilitation works for  ANARME.",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00464431",
+    "country": "MO",
+    "deadline": "2026-12-02",
+    "deadline_days": 11,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Mozambique Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Progr. Country: Mozambique. Reference: MZ-MISAU-542330-NC-RFP.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P511558",
+      "wb_reference": "MZ-MISAU-542330-NC-RFP"
+    },
+    "fetched_at": "2026-11-21T14:15:55.710566+00:00"
+  },
+  {
+    "id": "dd26be7f74b3",
+    "source": "World Bank",
+    "title": "Assessment of the Archaeological Condition and Preparation of a Conservation Plan for Manyikeni and Chibuene",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482861",
+    "country": "MO",
+    "deadline": "2026-12-10",
+    "deadline_days": 19,
+    "value_usd": null,
+    "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Access to Finance & Economic Opportunities Project – Mais Oportunidades. Country: Mozambique. Reference: MZ-MEF-DNT-577811-CS-QCBS.",
+    "fit_per_area": {
+      "cold_chain": 0,
+      "manufacturing": 0,
+      "regulatory": 0,
+      "procurement": 0,
+      "mel": 0
+    },
+    "fit_total": 0,
+    "fit_top_area": "cold_chain",
+    "breadth_bonus": 0,
+    "flags": {
+      "sanctioned": false,
+      "requires_review_sanctions": false,
+      "requires_review_eligibility": false,
+      "urgent_deadline": false,
+      "expired": false
+    },
+    "flag_notes": {
+      "sanctions": "",
+      "eligibility": ""
+    },
+    "raw": {
+      "wb_notice_type": "Request for Expression of Interest",
+      "wb_project_id": "P178658",
+      "wb_reference": "MZ-MEF-DNT-577811-CS-QCBS"
+    },
+    "fetched_at": "2026-11-21T14:15:55.710176+00:00"
   },
   {
     "id": "fcf26f07c63e",
@@ -259,7 +443,7 @@
       "published": "2026-09-21T07:00:00+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-11-20T14:55:50.499328+00:00"
+    "fetched_at": "2026-11-21T14:15:55.714355+00:00"
   },
   {
     "id": "7261d95f24f1",
@@ -297,6 +481,6 @@
       "published": "2026-11-12T22:28:32+00:00",
       "signal_type": "manufacturer"
     },
-    "fetched_at": "2026-11-20T14:55:50.499688+00:00"
+    "fetched_at": "2026-11-21T14:15:55.714734+00:00"
   }
 ]
