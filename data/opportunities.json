@@ -6,7 +6,7 @@
     "url": "https://africacdc.org/opportunity/request-for-expressions-of-interest-consulting-services-firms-selection/",
     "country": "_AU",
     "deadline": "2026-12-02",
-    "deadline_days": 8,
+    "deadline_days": 7,
     "value_usd": null,
     "description": "REQUEST FOR EXPRESSIONS OF INTEREST (CONSULTING SERVICES– FIRMS SELECTION) The African Union has received financing from the World Bank toward the cost of the Africa Centres for Disease Control Support Program to Combat Current and Future Public Health Threats Project. The Project Development Objective is to enhance the capacity of Africa Centres for Disease Control and Prevention (Africa CDC) to support AU Member States in preventing, detecting, and responding to current and future public health threats and intends to apply part of the proceeds for consulting services The Africa Centres for Disease Control and Prevention (Africa CDC), an autonomous institution of the African Union, is mandated to strengthen public health systems across Africa through coordinated disease prevention, preparedness, and response. In line with this mandate, Africa CDC is establishing Five (5) Regional Coordinating Centres (RCCs), including the Eastern Africa RCC. On 27 April 2025, a Memorandum of Understanding (MoU) was signed between the Government of Kenya and Africa CDC, under which the Government of Kenya allocated 10 acres of land for the establishment of the Eastern Africa Regional Coordinating Office and Regional Training Centre. The proposed EARCC Hub will involve ground-clearing, earthworks, civil construction, installation of utilities (water, electricity, sanitation, medical waste systems), and fit-out of specialized laboratory and emergency operations facilities. These activities enta",
     "fit_per_area": {
@@ -23,7 +23,7 @@
       "sanctioned": false,
       "requires_review_sanctions": false,
       "requires_review_eligibility": false,
-      "urgent_deadline": false,
+      "urgent_deadline": true,
       "expired": false
     },
     "flag_notes": {
@@ -31,7 +31,7 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-11-24T16:59:53.228782+00:00"
+    "fetched_at": "2026-11-25T16:54:06.329982+00:00"
   },
   {
     "id": "c0b78a3adf25",
@@ -40,7 +40,7 @@
     "url": "https://unitaid.org/call-for-proposal/?sf_id=119Vj000003n2JuIAI",
     "country": "_LMIC",
     "deadline": "2027-03-01",
-    "deadline_days": 97,
+    "deadline_days": 96,
     "value_usd": null,
     "description": "Learn more about our work and how we help accelerate the global health response. Explore how our investments are shaping disease responses. Financial grants to accelerate innovation in global health. Learn more about the difference our work makes in the lives of people in low- and middle-income countries. External evaluations provide independent assessments of our work. Explore the technologies and interventions we're working on. Explore how innovation and partnerships have transformed access to quality health products – and the work that lies ahead. See where our work is being mentioned in the media world. Resources for journalists and media representatives. Explore upcoming speaking engagements and events. New Unitaid-led dashboard aims to accelerate market access for new malaria innovations Access planning for Ebola medicines moves ahead during clinical trials Unitaid launches US$28.6 million investment to integrate diagnostic services and expand access to care New Unitaid-led dashboard aims to accelerate market access for new malaria innovations Unitaid launches US$28.6 million investment to integrate diagnostic services and expand access to care Unitaid announces US$25 million funding opportunity to expand access to integrated TB and hepatitis C care in high-transmission settings When extreme heat becomes a pregnancy risk A small device could transform access to testing for multiple diseases A smart investment: The economics of saving mothers Unitaid extends investment i",
     "fit_per_area": {
@@ -65,130 +65,18 @@
       "eligibility": ""
     },
     "raw": {},
-    "fetched_at": "2026-11-24T16:59:53.228055+00:00"
+    "fetched_at": "2026-11-25T16:54:06.329184+00:00"
   },
   {
-    "id": "d431fd4eb7cb",
-    "source": "Signal:GIZ",
-    "title": "National Vaccine Institute, Africa CDC mobilise African manufacturers for pooled procurement - GhanaWeb",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdTM3eFJndUF2VUdzQ2JidEdCd1FPMWsxNjRocW1rclpPMVJtbWJmQXgzTjRidjNaenJLeHg2UFd4QzVvTk5IU05SeWJUVTJJQkpENjBYQlU5NmtVcnJEd1dhVzl2Z0lLWDVsSkN5TlpnNmRMeG9RalBSckp2Tzk3VU5tZE1sQ2JOTEdwVmYyTXNDd1hrZzlTcThZMUViTjRTWUlnaE4wcTRLY2M2MjVmeXg0aVNlaGs2MGVrdUptRkFTYUdMLWw0R1dqUWIzZjNpNE02WFRNSmtNUkw4bnc?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "National Vaccine Institute, Africa CDC mobilise African manufacturers for pooled procurement &nbsp;&nbsp; GhanaWeb",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 5,
-      "mel": 0
-    },
-    "fit_total": 5,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "donor": "GIZ",
-      "published": "2026-11-09T08:00:00+00:00",
-      "signal_type": "donor"
-    },
-    "fetched_at": "2026-11-24T16:59:53.240885+00:00"
-  },
-  {
-    "id": "2897d326bb9f",
-    "source": "TED",
-    "title": "Netherlands – Health services – Arbo- en Inzetbaarheidsdienstverlening - PWN",
-    "url": "https://ted.europa.eu/en/notice/660358-2026",
-    "country": "NL",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "PWN. PWN zoekt een opdrachtnemer voor de uitvoering van integrale Arbo- en Inzetbaarheidsdienstverlening. De dienstverlening omvat onder meer bedrijfsartsenzorg, verzuim- en re-integratiebegeleiding, ondersteuning bij duurzame inzetbaarheid, preventieve dienstverlening, PAGO/PMO, arbeidsdeskundige dienstverlening, arbeidshygiënische expertise, RI&E-toetsing en advisering, keuringen en aanvullende specialistische dienstverlening. PWN wil zich ontwikkelen van een voornamelijk medisch gestuurde verzuimaanpak naar een activerende en inzetbaarheidsgerichte benadering waarin eigenaarschap van medewerkers en leidinggevenden centraal staat. Van de opdrachtnemer wordt verwacht dat deze actief bijdraagt aan deze ontwikkeling. PWN is eigenrisicodrager voor de WGA, Ziektewet en Werkloosheidswet. De dienstverlening dient aan te sluiten op relevante UWV-processen, de maatwerkregeling van PWN en de beheersing van re-integratie- en schadelastrisico’s. De aanbesteding betreft een Europese niet-openbare procedure waarbij maximaal vijf gegadigden worden geselecteerd voor deelname aan de gunningsfase",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 4
-    },
-    "fit_total": 4,
-    "fit_top_area": "mel",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "ted_publication_number": "660358-2026"
-    },
-    "fetched_at": "2026-11-24T16:59:53.228950+00:00"
-  },
-  {
-    "id": "7957d095f782",
-    "source": "Signal:AVMA",
-    "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
-    "country": "ZA",
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 4,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 4,
-    "fit_top_area": "manufacturing",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "donor": "AVMA",
-      "published": "2026-07-24T07:00:00+00:00",
-      "signal_type": "donor"
-    },
-    "fetched_at": "2026-11-24T16:59:53.241017+00:00"
-  },
-  {
-    "id": "b0eab1c2f8ae",
+    "id": "86c0e6304a3f",
     "source": "World Bank",
-    "title": "Élaboration du cadre réglementaire sur le financement des MPME, les services financiers numériques (FinTech, financement participatif, y compris celui de la diaspora)",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483182",
-    "country": "CO",
-    "deadline": "2026-12-07",
-    "deadline_days": 13,
+    "title": "Survey Coordinator Consultant for MICS\nActivity Number - 1.3.11.3.2",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483311",
+    "country": "BO",
+    "deadline": "2026-12-23",
+    "deadline_days": 28,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Comoros  Multi Sector Skills for Job and Economic Transformation Preparation Grant. Country: Comoros. Reference: KM-GFPP-MS4JET-580627-CS-CQS.",
+    "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Botswana Health Emergency Preparedness, Response and Resilience Project Using the Multi-Phase Progra. Country: Botswana. Reference: BW-MOH-577376-CS-INDV.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -212,59 +100,21 @@
     },
     "raw": {
       "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182075",
-      "wb_reference": "KM-GFPP-MS4JET-580627-CS-CQS"
+      "wb_project_id": "P510190",
+      "wb_reference": "BW-MOH-577376-CS-INDV"
     },
-    "fetched_at": "2026-11-24T16:59:53.236591+00:00"
+    "fetched_at": "2026-11-25T16:54:06.338530+00:00"
   },
   {
-    "id": "b0f17421459e",
+    "id": "7b1a950ada4b",
     "source": "World Bank",
-    "title": "International Infrastructure Consultant - Early Childhood Infrastructure Study",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483078",
-    "country": "TU",
-    "deadline": "2026-12-07",
-    "deadline_days": 13,
+    "title": "Retrofitting and Strengthening/Upgrading of Public School Buildings in Preparation for “The Big One” under IBRD Loan 9251-PH: Philippines Seismic Risk Reduction and Resilience Project (PSRRRP) – Contract Package 12",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480517",
+    "country": "PH",
+    "deadline": "2026-12-15",
+    "deadline_days": 20,
     "value_usd": null,
-    "description": "Request for Expression of Interest. Consultant Qualification  Selection. Project: Project Preparation for Pacific Island Countries Teacher Upgrading and Resourcing for the Early Year. Country: Tuvalu. Reference: TV-MEYS-560468-CS-CQS.",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 2,
-      "mel": 0
-    },
-    "fit_total": 2,
-    "fit_top_area": "procurement",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "wb_notice_type": "Request for Expression of Interest",
-      "wb_project_id": "P182093",
-      "wb_reference": "TV-MEYS-560468-CS-CQS"
-    },
-    "fetched_at": "2026-11-24T16:59:53.237301+00:00"
-  },
-  {
-    "id": "39bd29020e15",
-    "source": "World Bank",
-    "title": "Supply, Installation, Interfacing, Testing & Commissioning of Hardware In Loop Training Simulators for BESS and STATCOM at NKLP Lahore and Jamshoro",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483119",
-    "country": "PA",
-    "deadline": "2027-01-05",
-    "deadline_days": 42,
-    "value_usd": null,
-    "description": "Invitation for Bids. Request for Bids. Project: Project Preparation for Boosting Energy Security through Transmission in Pakistan. Country: Pakistan. Reference: PK-NGC-576148-CW-RFB.",
+    "description": "Invitation for Bids. Request for Bids. Project: Philippines Seismic Risk Reduction and Resilience Project. Country: Philippines. Reference: PH-DPWH-PSRRRP-CW-CP12.",
     "fit_per_area": {
       "cold_chain": 0,
       "manufacturing": 0,
@@ -288,161 +138,9 @@
     },
     "raw": {
       "wb_notice_type": "Invitation for Bids",
-      "wb_project_id": "P182006",
-      "wb_reference": "PK-NGC-576148-CW-RFB"
+      "wb_project_id": "P171419",
+      "wb_reference": "PH-DPWH-PSRRRP-CW-CP12"
     },
-    "fetched_at": "2026-11-24T16:59:53.237010+00:00"
-  },
-  {
-    "id": "cfde41930592",
-    "source": "Signal:Aspen Pharmacare",
-    "title": "Woman sues health minister and Aspen, alleging Covid vaccine gave her autoimmune disease - News24",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPODh0X1ZPaUpzWGkwbmhFeXZEZ1RwajBqaUs1cnhnMllQUjh4ejhRRWd0WkZETGhJN09IQno2NC1Gejd3MXJHTE0yckp6bDJVRXZOMngwUDluUGJQcmYwTVhFM0p3Wm02eW12d0lJdjhiTl9kVU5WX29oTlNEV1I2UTRqMFVKcVp6alVBWXJwa3pGeEk3X3RfTHdmZWNPckh3d0tlOVozallGWnlxeDFjdUtSMVhkQkZDQ1F6U2J2cmNjTmd6eFllLWxwbjMxQmppQklWTy1vQkVQQ2ROanZ5LVh3?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Woman sues health minister and Aspen, alleging Covid vaccine gave her autoimmune disease &nbsp;&nbsp; News24",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Aspen Pharmacare",
-      "published": "2026-11-22T02:07:24+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-11-24T16:59:53.238981+00:00"
-  },
-  {
-    "id": "fcf26f07c63e",
-    "source": "Signal:Aspen Pharmacare",
-    "title": "Is Aspen betting on the right HIV prevention product? - Spotlight",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEUyZFduZ0s4bEM3dTNITDVOczgtZ2ZnVEhSeS1YZ3BLLUpkUUZLVm1lcmtxYlFIcmo4WXhNVUtNNW5mYlNEdDR3d0tTRjJRSlBUQy1uQllvRWhKLVNnaEg2M1BCODBKVDBiTnVkSEZOWENlR1l5dmxFNE5DSXZvdnJtZWZidGZqeWFaMEwzZUFDYUJTcXdKX09acw?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "Is Aspen betting on the right HIV prevention product? &nbsp;&nbsp; Spotlight",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Aspen Pharmacare",
-      "published": "2026-09-21T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-11-24T16:59:53.239406+00:00"
-  },
-  {
-    "id": "50652abc4efc",
-    "source": "Signal:Aspen Pharmacare",
-    "title": "EXCLUSIVE | Aspen opts not to make HIV prevention jab lenacapavir - Business Day",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFFWQVlsMkI4X0U2ZW5wSFdoU1hBMktyOHIzekwzc0pLRjBSTGlQckNOUmpwRDBENENYend4WDkzcjRwMUF6Nzl3bHdGR1dNbWVoWGc3S0RiMkYxeUxoMW1MYVMtaUtFUmhFNFczTTBJMjdhWmNsY2tOVHc5NUpCYzNVZkw3cnlzYWY5Y1hQcjJicDBkVmlTelg2RHN1YmhPeXVaZlloWW5UeXFkU093cUhuSnlmeWx4T2ppeHFXQQ?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "EXCLUSIVE | Aspen opts not to make HIV prevention jab lenacapavir &nbsp;&nbsp; Business Day",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Aspen Pharmacare",
-      "published": "2026-09-04T07:00:00+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-11-24T16:59:53.240032+00:00"
-  },
-  {
-    "id": "7261d95f24f1",
-    "source": "Signal:Institut Pasteur Dakar",
-    "title": "How Marie-Angélique Sène is empowering Africa’s vaccine future - Gates Foundation",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UMGx5MnNYZHRBQmFHTGhxNXpQMEZoM3ZDMFIxVVNJbmc1ZlFISkd4eWVyWmZvTW44TUJsRzdncFNlNUZTNkhHLUNvMUdsUFN4UVV6T2hRUk9Oc2VieUwtZDFNWjBWazdDWnNwMFhyaEZVcjVJZm5HUlNlcw?oc=5",
-    "country": null,
-    "deadline": null,
-    "deadline_days": null,
-    "value_usd": null,
-    "description": "How Marie-Angélique Sène is empowering Africa’s vaccine future &nbsp;&nbsp; Gates Foundation",
-    "fit_per_area": {
-      "cold_chain": 0,
-      "manufacturing": 0,
-      "regulatory": 0,
-      "procurement": 0,
-      "mel": 0
-    },
-    "fit_total": 0,
-    "fit_top_area": "cold_chain",
-    "breadth_bonus": 0,
-    "flags": {
-      "sanctioned": false,
-      "requires_review_sanctions": false,
-      "requires_review_eligibility": false,
-      "urgent_deadline": false,
-      "expired": false
-    },
-    "flag_notes": {
-      "sanctions": "",
-      "eligibility": ""
-    },
-    "raw": {
-      "manufacturer": "Institut Pasteur Dakar",
-      "published": "2026-11-12T22:28:32+00:00",
-      "signal_type": "manufacturer"
-    },
-    "fetched_at": "2026-11-24T16:59:53.240627+00:00"
+    "fetched_at": "2026-11-25T16:54:06.338718+00:00"
   }
 ]

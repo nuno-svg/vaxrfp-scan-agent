@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "last_run": "2026-11-25T16:54:06.339316+00:00",
+    "duration_seconds": 304.631532,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 48,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 0,
+        "errors": 0
+      }
+    },
+    "total_kept": 4,
+    "total_excluded": 147,
+    "exclusion_breakdown": {
+      "gate": 133,
+      "expired": 6,
+      "goods": 7,
+      "bmgf_strict": 1
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "29afadacc4f7",
+      "source": "Africa CDC",
+      "title": "REQUEST FOR EXPRESSIONS OF INTEREST (CONSULTING SERVICES– FIRMS SELECTION)",
+      "url": "https://africacdc.org/opportunity/request-for-expressions-of-interest-consulting-services-firms-selection/",
+      "country": "_AU",
+      "deadline": "2026-12-02",
+      "deadline_days": 7,
+      "value_usd": null,
+      "description": "REQUEST FOR EXPRESSIONS OF INTEREST (CONSULTING SERVICES– FIRMS SELECTION) The African Union has received financing from the World Bank toward the cost of the Africa Centres for Disease Control Support Program to Combat Current and Future Public Health Threats Project. The Project Development Objective is to enhance the capacity of Africa Centres for Disease Control and Prevention (Africa CDC) to support AU Member States in preventing, detecting, and responding to current and future public health threats and intends to apply part of the proceeds for consulting services The Africa Centres for Disease Control and Prevention (Africa CDC), an autonomous institution of the African Union, is mandated to strengthen public health systems across Africa through coordinated disease prevention, preparedness, and response. In line with this mandate, Africa CDC is establishing Five (5) Regional Coordinating Centres (RCCs), including the Eastern Africa RCC. On 27 April 2025, a Memorandum of Understanding (MoU) was signed between the Government of Kenya and Africa CDC, under which the Government of Kenya allocated 10 acres of land for the establishment of the Eastern Africa Regional Coordinating Office and Regional Training Centre. The proposed EARCC Hub will involve ground-clearing, earthworks, civil construction, installation of utilities (water, electricity, sanitation, medical waste systems), and fit-out of specialized laboratory and emergency operations facilities. These activities enta",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 3,
+        "mel": 4
+      },
+      "fit_total": 5,
+      "fit_top_area": "mel",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-11-25T16:54:06.329982+00:00"
+    },
+    {
+      "id": "c0b78a3adf25",
+      "source": "UNITAID",
+      "title": "Delivering Greater Health Equity and Impact through People-Centered, Integrated TB and Hepatitis C Care in…",
+      "url": "https://unitaid.org/call-for-proposal/?sf_id=119Vj000003n2JuIAI",
+      "country": "_LMIC",
+      "deadline": "2027-03-01",
+      "deadline_days": 96,
+      "value_usd": null,
+      "description": "Learn more about our work and how we help accelerate the global health response. Explore how our investments are shaping disease responses. Financial grants to accelerate innovation in global health. Learn more about the difference our work makes in the lives of people in low- and middle-income countries. External evaluations provide independent assessments of our work. Explore the technologies and interventions we're working on. Explore how innovation and partnerships have transformed access to quality health products – and the work that lies ahead. See where our work is being mentioned in the media world. Resources for journalists and media representatives. Explore upcoming speaking engagements and events. New Unitaid-led dashboard aims to accelerate market access for new malaria innovations Access planning for Ebola medicines moves ahead during clinical trials Unitaid launches US$28.6 million investment to integrate diagnostic services and expand access to care New Unitaid-led dashboard aims to accelerate market access for new malaria innovations Unitaid launches US$28.6 million investment to integrate diagnostic services and expand access to care Unitaid announces US$25 million funding opportunity to expand access to integrated TB and hepatitis C care in high-transmission settings When extreme heat becomes a pregnancy risk A small device could transform access to testing for multiple diseases A smart investment: The economics of saving mothers Unitaid extends investment i",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 4,
+        "mel": 3
+      },
+      "fit_total": 5,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-11-25T16:54:06.329184+00:00"
+    },
+    {
+      "id": "86c0e6304a3f",
+      "source": "World Bank",
+      "title": "Survey Coordinator Consultant for MICS\nActivity Number - 1.3.11.3.2",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483311",
+      "country": "BO",
+      "deadline": "2026-12-23",
+      "deadline_days": 28,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Botswana Health Emergency Preparedness, Response and Resilience Project Using the Multi-Phase Progra. Country: Botswana. Reference: BW-MOH-577376-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P510190",
+        "wb_reference": "BW-MOH-577376-CS-INDV"
+      },
+      "fetched_at": "2026-11-25T16:54:06.338530+00:00"
+    },
+    {
+      "id": "7b1a950ada4b",
+      "source": "World Bank",
+      "title": "Retrofitting and Strengthening/Upgrading of Public School Buildings in Preparation for “The Big One” under IBRD Loan 9251-PH: Philippines Seismic Risk Reduction and Resilience Project (PSRRRP) – Contract Package 12",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480517",
+      "country": "PH",
+      "deadline": "2026-12-15",
+      "deadline_days": 20,
+      "value_usd": null,
+      "description": "Invitation for Bids. Request for Bids. Project: Philippines Seismic Risk Reduction and Resilience Project. Country: Philippines. Reference: PH-DPWH-PSRRRP-CW-CP12.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Invitation for Bids",
+        "wb_project_id": "P171419",
+        "wb_reference": "PH-DPWH-PSRRRP-CW-CP12"
+      },
+      "fetched_at": "2026-11-25T16:54:06.338718+00:00"
+    }
+  ]
+}
