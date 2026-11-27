@@ -1,0 +1,1044 @@
+{
+  "meta": {
+    "last_run": "2026-11-27T16:11:41.006586+00:00",
+    "duration_seconds": 73.654389,
+    "source_stats": {
+      "ReliefWeb": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "GAVI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "UNITAID": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "Africa CDC": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "TED Europa": {
+        "fetched": 100,
+        "errors": 0
+      },
+      "CEPI": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "BMGF": {
+        "fetched": 1,
+        "errors": 0
+      },
+      "World Bank": {
+        "fetched": 45,
+        "errors": 0
+      },
+      "UNGM": {
+        "fetched": 0,
+        "errors": 0
+      },
+      "Manufacturer Signals": {
+        "fetched": 28,
+        "errors": 0
+      },
+      "Donor Signals": {
+        "fetched": 2,
+        "errors": 0
+      }
+    },
+    "total_kept": 26,
+    "total_excluded": 152,
+    "exclusion_breakdown": {
+      "gate": 139,
+      "expired": 6,
+      "goods": 6,
+      "bmgf_strict": 1
+    },
+    "min_value_usd": 50000,
+    "urgent_days_threshold": 7
+  },
+  "opportunities": [
+    {
+      "id": "29afadacc4f7",
+      "source": "Africa CDC",
+      "title": "REQUEST FOR EXPRESSIONS OF INTEREST (CONSULTING SERVICES– FIRMS SELECTION)",
+      "url": "https://africacdc.org/opportunity/request-for-expressions-of-interest-consulting-services-firms-selection/",
+      "country": "_AU",
+      "deadline": "2026-12-02",
+      "deadline_days": 5,
+      "value_usd": null,
+      "description": "REQUEST FOR EXPRESSIONS OF INTEREST (CONSULTING SERVICES– FIRMS SELECTION) The African Union has received financing from the World Bank toward the cost of the Africa Centres for Disease Control Support Program to Combat Current and Future Public Health Threats Project. The Project Development Objective is to enhance the capacity of Africa Centres for Disease Control and Prevention (Africa CDC) to support AU Member States in preventing, detecting, and responding to current and future public health threats and intends to apply part of the proceeds for consulting services The Africa Centres for Disease Control and Prevention (Africa CDC), an autonomous institution of the African Union, is mandated to strengthen public health systems across Africa through coordinated disease prevention, preparedness, and response. In line with this mandate, Africa CDC is establishing Five (5) Regional Coordinating Centres (RCCs), including the Eastern Africa RCC. On 27 April 2025, a Memorandum of Understanding (MoU) was signed between the Government of Kenya and Africa CDC, under which the Government of Kenya allocated 10 acres of land for the establishment of the Eastern Africa Regional Coordinating Office and Regional Training Centre. The proposed EARCC Hub will involve ground-clearing, earthworks, civil construction, installation of utilities (water, electricity, sanitation, medical waste systems), and fit-out of specialized laboratory and emergency operations facilities. These activities enta",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 3,
+        "mel": 4
+      },
+      "fit_total": 5,
+      "fit_top_area": "mel",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-11-27T16:11:40.987217+00:00"
+    },
+    {
+      "id": "c0b78a3adf25",
+      "source": "UNITAID",
+      "title": "Delivering Greater Health Equity and Impact through People-Centered, Integrated TB and Hepatitis C Care in…",
+      "url": "https://unitaid.org/call-for-proposal/?sf_id=119Vj000003n2JuIAI",
+      "country": "_LMIC",
+      "deadline": "2027-03-01",
+      "deadline_days": 94,
+      "value_usd": null,
+      "description": "Learn more about our work and how we help accelerate the global health response. Explore how our investments are shaping disease responses. Financial grants to accelerate innovation in global health. Learn more about the difference our work makes in the lives of people in low- and middle-income countries. External evaluations provide independent assessments of our work. Explore the technologies and interventions we're working on. Explore how innovation and partnerships have transformed access to quality health products – and the work that lies ahead. See where our work is being mentioned in the media world. Resources for journalists and media representatives. Explore upcoming speaking engagements and events. New Unitaid-led dashboard aims to accelerate market access for new malaria innovations Access planning for Ebola medicines moves ahead during clinical trials Unitaid launches US$28.6 million investment to integrate diagnostic services and expand access to care New Unitaid-led dashboard aims to accelerate market access for new malaria innovations Unitaid launches US$28.6 million investment to integrate diagnostic services and expand access to care Unitaid announces US$25 million funding opportunity to expand access to integrated TB and hepatitis C care in high-transmission settings When extreme heat becomes a pregnancy risk A small device could transform access to testing for multiple diseases A smart investment: The economics of saving mothers Unitaid extends investment i",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 4,
+        "mel": 3
+      },
+      "fit_total": 5,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {},
+      "fetched_at": "2026-11-27T16:11:40.986185+00:00"
+    },
+    {
+      "id": "c349f6203455",
+      "source": "Signal:Biovac",
+      "title": "South Africa’s Biovac aims to dramatically increase vaccine production with help from an EU loan - WATE 6 On Your Side",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3M5Qk01QUZ0N0N4VVo3eGp5bGRNYzNHeC0wdEZqTjVHeHVJcDVtakIzZWd0c291R1pZMzNSODZxMWM0bWRmLW9wVm5JYm8wcTVoRU0xTmQ1R3gyS3lMVTZHZE5jQnFpT29JTGV3QmdWY2JSeDU4WElsdEFlQjdYV3lhVVlhMFF2aHh0UGxxcUxNeG0tTGNpbUFCVVVsX1ByUHJyOVRjcTV1VGpYdGotbzdxUXkwWDVreTRPZVRPSHNJNTRDLW1WajQ0cHp6S3VXRk9PY0QxYnjSAdgBQVVfeXFMT2dzOUJNNUFGdDdDeFVaN3hqeWxkTWMzR3gtMHRGak41R3h1SXA1bWpCM2VndHNvdUdaWTMzUjg2cTFjNG1kZi1vcFZuSWJvMHE1aEVNMU5kNUd4Mkt5TFU2R2ROY0JxaU9vSUxld0JnVmNiUng1OFhJbHRBZUI3WFd5YVVZYTBRdmh4dFBscXFMTXhtLUxjaW1BQlVVbF9QclBycjlUY3E1dVRqWHRqLW83cVF5MFg1a3k0T2VUT0hzSTU0Qy1tVmo0NHB6ekt1V0ZPT2NEMWJ4?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa’s Biovac aims to dramatically increase vaccine production with help from an EU loan &nbsp;&nbsp; WATE 6 On Your Side",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 3,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 5,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-25T14:58:20+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:40.999449+00:00"
+    },
+    {
+      "id": "5bf5e2b467ab",
+      "source": "Signal:Biovac",
+      "title": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan - WFMZ.com",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQa0VFSFhfMDBQTHlBQVFmaXVBeWJoMUlyWmpRRlZnVDBhTW9oNk1QM1U0LWdVMFdhOFRaTVNOaUtzcWotWmxpZGhJNUY5WWpCOUdZQkVfV0QtNUxlX3BBU3gyMWQxQzJjc1hoSllPS1pNWXVNSHNvbGpGZl9ENTJySEVIdVFWYkNIUml2czZJS1ZlUk54ZVQwZUloM29mck1sclJLSXpkUkdfUC1wcjlCZm05WVlWTmFjQWZZT05xc3VYb1o3UTF0WjlHejhOSUxnWEVYNWRDNG5WMDBMOHcyZDlCclVzczNHOURXd3BSdlBqRjZBcFEzMmtXYk9sRC1aQV9yb0FzMVYzNXFnb3JSR3Z1YjBaZw?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan &nbsp;&nbsp; WFMZ.com",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 3,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 5,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-25T19:58:20+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:40.999753+00:00"
+    },
+    {
+      "id": "d50e791d4503",
+      "source": "Signal:Biovac",
+      "title": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan - Temple Daily Telegram",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWDEySDJrSmxYajdBWE81QmhwQjRpdGVab1RkVFh3M2E2NGtqeENWYjF4OTg3LUdGU0F0bEN5aGVXcjFYUlAyVWI2QmhleE5qNFZ1M0RzNUJXY2NVOU11MF9uejYyNGdfTEIxMjZ1YldEQ2ppX1cxRGwwVWh1dy0xTW9hZGlBTHVCMzd4RDJQdFhaRDZ5OVE?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan &nbsp;&nbsp; Temple Daily Telegram",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 3,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 5,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-25T19:58:20+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:40.999913+00:00"
+    },
+    {
+      "id": "3dbb901dcdc2",
+      "source": "Signal:Biovac",
+      "title": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan - Herald Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPOTRZaC1TUGhmWFB4UXNheGxpajhYeW5id0lKbG5HcjluOTExU0Z2LUZNbWJLUkl4RUhQMmNpdmNTSnViZ1l6Z2sxTVFNQWdoZ1Y2dDM2SDIwNUNiUGNjeE4tZFNqdWJqcnF1R0s2WXIxdlR2MmswVXVHcDdqLTJkSG5kUnJZSmdLaHJpZ1cyLXEwTHA3TFVYQm5ISmRTWDFOaVpra1M0ZVJMbTdIdURrcjhza2xGVWJZZ0M1SVo2Um9FS0hyb2Ixb2d2ZXppeFJnY3Fya20tMHFhRDZRdUxiZ2Q4WlZudUxMdjJZbk1LemVfUFJNYXYwSC1pMVpDRm9HQlZzRHZnNTlsa2xVd29sWjkxdlhZb2luMk9XRFlqMA?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan &nbsp;&nbsp; Herald Bulletin",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 3,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 5,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-25T19:58:20+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:41.000234+00:00"
+    },
+    {
+      "id": "96de17183154",
+      "source": "Signal:Biovac",
+      "title": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan - The Daily Corinthian",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxON3NFNlFRYlVNWUl2TWFkSlJqSHVQYVRzWG1BMms4ZnUtOGJ5Q3RwMlRqeXk4amp6V0o5WDFIdlJDZW0wQjNYcl9kWktzR0R1WDczQktUUXAxTDVWNnVkd0dGSmswTzJiVTREZUZNdWRzSnhCMkx3ZFdUR3VKMUE2c0JDWTBDa0RoVXZzT2w5TjRBb1FvQXlSWWJDdG1qTVRrV3FCajZuamU3bWFPOGZ5cTJCak9nNkFWWWFvRk1sTzJrWmhPd2VyWXdNQjJaUnVfWlZPbk5nbVJIUGlSY1l5eXVad0daaWdDeHJOelZzMXFkNTV5Umg1XzZUc29JZnBxVDZOUnRsOWRmcUlJMTdQZDVURkZfOUU?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan &nbsp;&nbsp; The Daily Corinthian",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 3,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 5,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-25T19:58:20+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:41.000388+00:00"
+    },
+    {
+      "id": "f1c9900fc902",
+      "source": "Signal:Biovac",
+      "title": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan - ClickOnDetroit | WDIV Local 4",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbG9rXzc0dWJLY2dXNmNYNTlHRzQ4MFd3eDlacXQxa0xSQWxfQi1vWEJ2eDhYSjRDX09wM3VZSDdjUkJvWUpCbjNLcXozT1pxLTVzdG9SRHhXVjlsaWNQWnhDX0p5d0JlWmlfYUkzWnBNNVRlTnE1OHZJeFc1ZktyVkZuS3AwN2lXRnZkeG83dzhRX2c1UlJwanNHNGNqR3VxaTRGcDJpdHBCeWIxWTA3U21ZVU1OVkpJc1dFSXBUV2VuajZVWm5KeEc4U0licllxYnZtWHJCVkt0YnZfTjdWN1FyMTdUb2loN1puMk1Kd05YQlB2?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan &nbsp;&nbsp; ClickOnDetroit | WDIV Local 4",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 3,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 5,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-25T19:54:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:41.000550+00:00"
+    },
+    {
+      "id": "8fe085b4fa84",
+      "source": "Signal:Biovac",
+      "title": "South Africa's Biovac aims to dramatically increase vaccine production with help from EU loan - The Week",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQakR4c2hSdWd2enl3R21kVkJuV3FQSEpKbU1rNHdqRE5va3pESXREUHBMaF94MmpBWjFDeWY3M2IyRFROYzRtb0VhZGsyVWctdXpXbm5tVno2eFlidXFYMGZMb3JrcTJaYjdpNEdxQWhYZlBwRFZ6eDVHTUF5X2ZYWWE2N0NxNloxRHkyYXZhWVBHLWRvbWZBRTEyOUNObTVUSU81eEdLLXo3MU1VR21DZGMwQkM1TGJVd1VlS3VBRk1zQ0JUZjFjZGtiUjV2ZHpscjVFM1psREtUTHZMR3YzZWtzVlJRdS1fSWtMaWl4LWZScTkzVkHSAfYBQVVfeXFMUGpEeHNoUnVndnp5d0dtZFZCbldxUEhKSm1NazR3akROb2t6REl0RFBwTGhfeDJqQVoxQ3lmNzNiMkRUTmM0bW9FYWRrMlVnLXV6V25ubVZ6NnhZYnVxWDBmTG9ya3EyWmI3aTRHcUFoWGZQcERWeng1R01BeV9mWFlhNjdDcTZaMUR5MmF2YVlQRy1kb21mQUUxMjlDTm01VElPNXhHSy16NzFNVUdtQ2RjMEJDNUxiVXdVZUt1QUZNc0NCVGYxY2RrYlI1dmR6bHI1RTNabERLVEx2TEd2M2Vrc1ZSUXUtX0lrTGlpeC1mUnE5M1ZB?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa's Biovac aims to dramatically increase vaccine production with help from EU loan &nbsp;&nbsp; The Week",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 3,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 5,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-25T20:13:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:41.001037+00:00"
+    },
+    {
+      "id": "06b999f11070",
+      "source": "Signal:Biovac",
+      "title": "South Africa's Biovac aims to dramatically increase vaccine production with help from EU loan - thesamaja.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWGdFVEdFVnlSbDZHTG1WX0l6RlNteFYyemd1UGI3QVhQRGxFamtkX3NwUFFzSFJBemZTeWhaenI3TVNEZzlnNk93SXl3dGlZaE0zLTkzUGFvTGhscHRMSjREcHJNb1JGOFE0LWFMd0lvbEgtOUhoSlNkXy1CQk1vaklvUFdlaEtkV0VaaVpmODVtMnRTeWt3YjZzay0xZzZnUU5fSlNLOVZOTGt1dzY4YWtoVEt3ZVE5T3ZkZzg2bldwS1lhZjRtZ2diSFNmR3Nh?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa's Biovac aims to dramatically increase vaccine production with help from EU loan &nbsp;&nbsp; thesamaja.com",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 3,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 5,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-25T21:07:57+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:41.001190+00:00"
+    },
+    {
+      "id": "d4d27add1147",
+      "source": "Signal:Biovac",
+      "title": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan - NewsBreak: Local News & Alerts",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZy15TlZHeXdzWll2YUY4WGN3TmIwcWRIbFEzOWdwbFlfdFJuLTRhSjhHN3VkMWhZcXZENUtIYXo4SjJXdFQzQzhfU2tEZ3ZvVGIzOXNnVk9KenY1eDdYVHNZZjJjdE9RWnU0aTdheVdWNkdDUjRVREk0VjRuYW9URllsUkhiVy1lWW9qaXR6RW1EdHh0cDVraWFjZDhEOG9rci1SYUxaM050LWI5WnlWbXVEVFpDRlVjWk1oWjdZQXRHeUd0WTlTekxBVl9RazVrOHBwMWozRnBKVVJvLVhVdXExUnVYU3NM?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan &nbsp;&nbsp; NewsBreak: Local News & Alerts",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 3,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 5,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-25T19:58:35+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:41.001355+00:00"
+    },
+    {
+      "id": "2992918114c0",
+      "source": "Signal:Biovac",
+      "title": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan - شبكة تواصل الإخبارية",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42NnRMcDBhYWdWWkRCaUJUTDJncHJ0cXg3Ry1zM1ZzREtSYkxZNkpTZDRybHd3R0o0TmlSMEdCYm5EdDFETmNzanhuYnJsU09yRkRZ?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 3,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 5,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 1,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-26T01:45:52+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:41.001846+00:00"
+    },
+    {
+      "id": "d431fd4eb7cb",
+      "source": "Signal:GIZ",
+      "title": "National Vaccine Institute, Africa CDC mobilise African manufacturers for pooled procurement - GhanaWeb",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdTM3eFJndUF2VUdzQ2JidEdCd1FPMWsxNjRocW1rclpPMVJtbWJmQXgzTjRidjNaenJLeHg2UFd4QzVvTk5IU05SeWJUVTJJQkpENjBYQlU5NmtVcnJEd1dhVzl2Z0lLWDVsSkN5TlpnNmRMeG9RalBSckp2Tzk3VU5tZE1sQ2JOTEdwVmYyTXNDd1hrZzlTcThZMUViTjRTWUlnaE4wcTRLY2M2MjVmeXg0aVNlaGs2MGVrdUptRkFTYUdMLWw0R1dqUWIzZjNpNE02WFRNSmtNUkw4bnc?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "National Vaccine Institute, Africa CDC mobilise African manufacturers for pooled procurement &nbsp;&nbsp; GhanaWeb",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 5,
+        "mel": 0
+      },
+      "fit_total": 5,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "GIZ",
+        "published": "2026-11-09T08:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-11-27T16:11:41.006348+00:00"
+    },
+    {
+      "id": "8cdf3c620e08",
+      "source": "Signal:Biovac",
+      "title": "South Africa’s Biovac to boost its vaccine production with EU loan - European Interest",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzE2N2U2ZE12c3U5UVNLR2tvUGVHbDRNbmVWUzZaOENOLUxqd0RwdWxRVWEtSzkzVUkzaklMMkt0dzVpaWFWS3NCUC1Qa29raG1wVTI0VGZsNGJUVTVIWUZ4WTFXcHhlVThiNU1RbGRsb0gzVWdlcVJoeVN5ajY3MEZXak5IYmhyOHBMSGx1TDFpc2d3bkFGXzh3dHM2TGs?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa’s Biovac to boost its vaccine production with EU loan &nbsp;&nbsp; European Interest",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-26T19:07:11+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:40.999257+00:00"
+    },
+    {
+      "id": "a8937d32ea5d",
+      "source": "Signal:Biovac",
+      "title": "Pix of the Day, 26th November 2026: South Africa's Biovac bets on African vaccine production - Africanews",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVm5ubTFIMk1zRnRWdmFsVGtoZWRYNWhvY1NLSkc5X1hlSVBUMEticFBsSXE5OVY5R3Z4dDdGVHVveHpqN21rV2Z0SGh4SDl4Rm9QSzlqYlhoMzJsOVdvM1lvRXRkOGdwZ1d0dlljMHZ0UGNwcERwZ3ltN0pnWjA1S0RZM2lFbURTeFVKOE5OeHhTVHdHZy01LThUZUZFOG5oT2VyQWtkdXN1LURtUVhtbjFxLVJEUnlhakYxSlhENjRjMlVjdU440gHMAUFVX3lxTFBCMEJ6TWRSVkhPaWdRc0RtS3lRcF9vSlplalBKRW1HeWpfSjJjRnR3cWdJOUlDVnFDZlJnZm1LS2h0cTRRQkVYVmFKY1BBZ2RPZFFSbkEtam5kZFhoSW5kOGpFUnNjRUtsa2ZhOUhUTnpaTmVJeTlUbkZtV29fcWRWV2RuRmlDODB4UEhTUGhQbV9TcHkzQnF4akpCRWVQWFloZEdjY1pVVXJJUEJPZEtXZEpSOUZyUE5hYWNVUURCVkMzZnlXX2F4RE5QOA?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Pix of the Day, 26th November 2026: South Africa's Biovac bets on African vaccine production &nbsp;&nbsp; Africanews",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-26T12:11:52+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:41.000081+00:00"
+    },
+    {
+      "id": "3c1e4e10bd09",
+      "source": "Signal:Biovac",
+      "title": "Biovac Plans to Expand African Vaccine Production by 2028 - cwibc.co.id",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fYUJPRUFieldSUHV0VkFQV3ZaNGFTS3huRVZGaElUX0w1UXQ3b1BCdWYyVUlNVWgxSE5XLW1qOHVHUWVhNVRLZjhMTDAtQXhiYnk0T0hZbU11cDR6a0RJdnJSYWVmZEU?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac Plans to Expand African Vaccine Production by 2028 &nbsp;&nbsp; cwibc.co.id",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-25T23:03:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:41.000877+00:00"
+    },
+    {
+      "id": "7957d095f782",
+      "source": "Signal:AVMA",
+      "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production &nbsp;&nbsp; African Development Bank Group",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 4,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 4,
+      "fit_top_area": "manufacturing",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "donor": "AVMA",
+        "published": "2026-07-24T07:00:00+00:00",
+        "signal_type": "donor"
+      },
+      "fetched_at": "2026-11-27T16:11:41.006554+00:00"
+    },
+    {
+      "id": "3ea1bfb6cbba",
+      "source": "World Bank",
+      "title": "Individual Consultant: Coordinating assessment for the implementation of healthy living",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480471",
+      "country": "IN",
+      "deadline": "2026-11-27",
+      "deadline_days": 0,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Individual Consultant Selection. Project: Collaborative Approach for Resilient Surveillance and Pandemic Preparedness in Indonesia Project. Country: Indonesia. Reference: ID-PMK CARE-I PEA-572732-CS-INDV.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 2,
+        "mel": 0
+      },
+      "fit_total": 2,
+      "fit_top_area": "procurement",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": true,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P508811",
+        "wb_reference": "ID-PMK CARE-I PEA-572732-CS-INDV"
+      },
+      "fetched_at": "2026-11-27T16:11:40.998400+00:00"
+    },
+    {
+      "id": "1f984f4fa94c",
+      "source": "World Bank",
+      "title": "Environmental and Social Due Diligence and ESF Instruments for the Bitola CHP Plant and District Heating Network Expansion",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00458565",
+      "country": "NO",
+      "deadline": "2026-12-10",
+      "deadline_days": 13,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Preparation for Bitola Gas-Fired Combined Heat and Power (CHP) Plant and District Heating (DH). Country: North Macedonia. Reference: MK-ESM-563436-CS-QCBS.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P516200",
+        "wb_reference": "MK-ESM-563436-CS-QCBS"
+      },
+      "fetched_at": "2026-11-27T16:11:40.998241+00:00"
+    },
+    {
+      "id": "2cfc2da2c8a7",
+      "source": "World Bank",
+      "title": "PAD preparation for Talimarjan–Muborak water supply project: technical analysis, cost/financial assessment, WSS Master Plan, preliminary design (FIDIC Yellow Book), FS update.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483617",
+      "country": "UZ",
+      "deadline": "2026-12-10",
+      "deadline_days": 13,
+      "value_usd": null,
+      "description": "Request for Expression of Interest. Quality And Cost-Based Selection. Project: Water Services and Institutional Support Project. Country: Uzbekistan. Reference: WASIS-FS-QCBS/RB.",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "wb_notice_type": "Request for Expression of Interest",
+        "wb_project_id": "P162263",
+        "wb_reference": "WASIS-FS-QCBS/RB"
+      },
+      "fetched_at": "2026-11-27T16:11:40.998767+00:00"
+    },
+    {
+      "id": "8949697b96e7",
+      "source": "Signal:Biovac",
+      "title": "EIB lends South Africa's Biovac €75M to build African vaccine plant - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYVI3WVJUaHl5UXZqR2RLa2JodEhkMG9RSXBuc0o5dEpZOTRMRGFRU1NZeFZMeVRlSUE0b3MtVHdJSDJnbWpNdDdybnFuMGNhRzI1cjNqRHlYUFplUkF2MjlhNVdhSjBGMG5zZHQ4dmQ1cGF2VUNBeE1DRGI3S2ZZamtyVXhNYmtZb2VEMHZFLTlnc1dRbUJjWDEwVjNKUXVvdFE?oc=5",
+      "country": "ZA",
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "EIB lends South Africa's Biovac €75M to build African vaccine plant &nbsp;&nbsp; Dealroom",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-25T20:44:14+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:40.999598+00:00"
+    },
+    {
+      "id": "71f8c8af4e4b",
+      "source": "Signal:Biovac",
+      "title": "Biovac Plans Facility to Boost African Vaccine Output - Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWHlOTzlZd0RUZHJ2cC1NZml0WktoNzVWVVhMb3lNb2V2Q282RXppMWlWTUJxelZLVS12VVZDWEhOMHF0eFEzTXZ2NDZWZWplbGcwZzZfdGl3X1dRUDR5MGptdnVHa3NwTUUyMmRYVGhfdGs1YVZPMHBWQnNwa3ZjRno4eE8xMHpvNFlvNVpB?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Biovac Plans Facility to Boost African Vaccine Output &nbsp;&nbsp; Wisevoter",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Biovac",
+        "published": "2026-11-25T22:01:26+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:41.001662+00:00"
+    },
+    {
+      "id": "fcf26f07c63e",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Is Aspen betting on the right HIV prevention product? - Spotlight",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEUyZFduZ0s4bEM3dTNITDVOczgtZ2ZnVEhSeS1YZ3BLLUpkUUZLVm1lcmtxYlFIcmo4WXhNVUtNNW5mYlNEdDR3d0tTRjJRSlBUQy1uQllvRWhKLVNnaEg2M1BCODBKVDBiTnVkSEZOWENlR1l5dmxFNE5DSXZvdnJtZWZidGZqeWFaMEwzZUFDYUJTcXdKX09acw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Is Aspen betting on the right HIV prevention product? &nbsp;&nbsp; Spotlight",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-09-21T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:41.002780+00:00"
+    },
+    {
+      "id": "cfde41930592",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "Woman sues health minister and Aspen, alleging Covid vaccine gave her autoimmune disease - News24",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPODh0X1ZPaUpzWGkwbmhFeXZEZ1RwajBqaUs1cnhnMllQUjh4ejhRRWd0WkZETGhJN09IQno2NC1Gejd3MXJHTE0yckp6bDJVRXZOMngwUDluUGJQcmYwTVhFM0p3Wm02eW12d0lJdjhiTl9kVU5WX29oTlNEV1I2UTRqMFVKcVp6alVBWXJwa3pGeEk3X3RfTHdmZWNPckh3d0tlOVozallGWnlxeDFjdUtSMVhkQkZDQ1F6U2J2cmNjTmd6eFllLWxwbjMxQmppQklWTy1vQkVQQ2ROanZ5LVh3?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "Woman sues health minister and Aspen, alleging Covid vaccine gave her autoimmune disease &nbsp;&nbsp; News24",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-11-22T02:07:24+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:41.003866+00:00"
+    },
+    {
+      "id": "50652abc4efc",
+      "source": "Signal:Aspen Pharmacare",
+      "title": "EXCLUSIVE | Aspen opts not to make HIV prevention jab lenacapavir - Business Day",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFFWQVlsMkI4X0U2ZW5wSFdoU1hBMktyOHIzekwzc0pLRjBSTGlQckNOUmpwRDBENENYend4WDkzcjRwMUF6Nzl3bHdGR1dNbWVoWGc3S0RiMkYxeUxoMW1MYVMtaUtFUmhFNFczTTBJMjdhWmNsY2tOVHc5NUpCYzNVZkw3cnlzYWY5Y1hQcjJicDBkVmlTelg2RHN1YmhPeXVaZlloWW5UeXFkU093cUhuSnlmeWx4T2ppeHFXQQ?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "EXCLUSIVE | Aspen opts not to make HIV prevention jab lenacapavir &nbsp;&nbsp; Business Day",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Aspen Pharmacare",
+        "published": "2026-09-04T07:00:00+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:41.004934+00:00"
+    },
+    {
+      "id": "7261d95f24f1",
+      "source": "Signal:Institut Pasteur Dakar",
+      "title": "How Marie-Angélique Sène is empowering Africa’s vaccine future - Gates Foundation",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UMGx5MnNYZHRBQmFHTGhxNXpQMEZoM3ZDMFIxVVNJbmc1ZlFISkd4eWVyWmZvTW44TUJsRzdncFNlNUZTNkhHLUNvMUdsUFN4UVV6T2hRUk9Oc2VieUwtZDFNWjBWazdDWnNwMFhyaEZVcjVJZm5HUlNlcw?oc=5",
+      "country": null,
+      "deadline": null,
+      "deadline_days": null,
+      "value_usd": null,
+      "description": "How Marie-Angélique Sène is empowering Africa’s vaccine future &nbsp;&nbsp; Gates Foundation",
+      "fit_per_area": {
+        "cold_chain": 0,
+        "manufacturing": 0,
+        "regulatory": 0,
+        "procurement": 0,
+        "mel": 0
+      },
+      "fit_total": 0,
+      "fit_top_area": "cold_chain",
+      "breadth_bonus": 0,
+      "flags": {
+        "sanctioned": false,
+        "requires_review_sanctions": false,
+        "requires_review_eligibility": false,
+        "urgent_deadline": false,
+        "expired": false
+      },
+      "flag_notes": {
+        "sanctions": "",
+        "eligibility": ""
+      },
+      "raw": {
+        "manufacturer": "Institut Pasteur Dakar",
+        "published": "2026-11-12T22:28:32+00:00",
+        "signal_type": "manufacturer"
+      },
+      "fetched_at": "2026-11-27T16:11:41.005949+00:00"
+    }
+  ]
+}
